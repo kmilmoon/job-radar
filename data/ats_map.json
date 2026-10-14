@@ -3,6 +3,10 @@
   "ats": "ashby",
   "slug": "10xteam"
  },
+ "Aufinity Group": {
+  "ats": "ashby",
+  "slug": "aufinity-group"
+ },
  "Bitpanda": {
   "ats": "greenhouse",
   "slug": "bitpanda"
@@ -10,6 +14,10 @@
  "Camunda": {
   "ats": "ashby",
   "slug": "camunda"
+ },
+ "Clarity AI": {
+  "ats": "ashby",
+  "slug": "clarity"
  },
  "Contentsquare": {
   "ats": "lever",
@@ -30,6 +38,10 @@
  "Keyrock": {
   "ats": "ashby",
   "slug": "keyrock"
+ },
+ "Knox Systems": {
+  "ats": "ashby",
+  "slug": "knox-systems"
  },
  "LI.FI": {
   "ats": "ashby",
