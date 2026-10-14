@@ -23,14 +23,24 @@ LEVER = [{"id": "cd786589-b9b8", "text": "GRC Manager", "categories": {"location
           "descriptionPlain": "Lead ISO 27001."}]
 
 
-def fake_get_json(url, timeout=25):
+class _Resp:
+    def __init__(self, body): self.body = json.dumps(body).encode()
+    def read(self): return self.body
+    def __enter__(self): return self
+    def __exit__(self, *a): return False
+
+
+def fake_urlopen(req, timeout=25):
+    url = req.full_url
+    if ".eu." in url:  # regional host that does not resolve: must count as "no board"
+        raise fj.urllib.error.URLError(fj.socket.gaierror(-2, "Name or service not known"))
     if "ashbyhq.com/posting-api/job-board/n8n" in url:
-        return ASHBY
+        return _Resp(ASHBY)
     if "boards-api.greenhouse.io/v1/boards/nametag/" in url:
-        return GH
+        return _Resp(GH)
     if "api.lever.co/v0/postings/acme?" in url:
-        return LEVER
-    return None
+        return _Resp(LEVER)
+    raise fj.urllib.error.HTTPError(url, 404, "Not Found", {}, None)
 
 
 def run():
@@ -39,7 +49,7 @@ def run():
     (tmp / "companies.json").write_text(json.dumps([
         {"name": "n8n"}, {"name": "Nametag"}, {"name": "Acme Security"}, {"name": "Ghost Co"}]))
     fj.ROOT, fj.DATA = tmp, tmp / "data"
-    fj.get_json = fake_get_json
+    fj.urllib.request.urlopen = fake_urlopen
     fj.time.sleep = lambda s: None
     assert fj.main() == 0
     jobs = json.loads((tmp / "data/jobs.json").read_text())

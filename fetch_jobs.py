@@ -14,6 +14,7 @@ Standard library only, so the GitHub Actions runner needs no installs.
 import html
 import json
 import re
+import socket
 import sys
 import time
 import urllib.error
@@ -48,7 +49,12 @@ def get_json(url, timeout=25):
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return json.loads(r.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
-        if e.code in (404, 400):
+        if e.code in (404, 400, 403, 410):
+            return None
+        raise
+    except urllib.error.URLError as e:
+        # A host that does not resolve (e.g. a regional endpoint that does not exist) means "no board here"
+        if isinstance(getattr(e, "reason", None), socket.gaierror):
             return None
         raise
     except json.JSONDecodeError:
