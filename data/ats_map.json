@@ -1,0 +1,122 @@
+{
+ "10x Team": {
+  "ats": "ashby",
+  "slug": "10xteam"
+ },
+ "Bitpanda": {
+  "ats": "greenhouse",
+  "slug": "bitpanda"
+ },
+ "Camunda": {
+  "ats": "ashby",
+  "slug": "camunda"
+ },
+ "Contentsquare": {
+  "ats": "lever",
+  "slug": "contentsquare"
+ },
+ "Hopper": {
+  "ats": "ashby",
+  "slug": "hopper"
+ },
+ "JetBrains": {
+  "ats": "greenhouse",
+  "slug": "jetbrains"
+ },
+ "Kertos": {
+  "ats": "ashby",
+  "slug": "kertos"
+ },
+ "Keyrock": {
+  "ats": "ashby",
+  "slug": "keyrock"
+ },
+ "LI.FI": {
+  "ats": "ashby",
+  "slug": "li.fi"
+ },
+ "Legora": {
+  "ats": "ashby",
+  "slug": "legora"
+ },
+ "LocalStack": {
+  "ats": "ashby",
+  "slug": "localstack"
+ },
+ "Lunar": {
+  "ats": "ashby",
+  "slug": "lunar"
+ },
+ "Masabi": {
+  "ats": "ashby",
+  "slug": "masabi"
+ },
+ "Modulr": {
+  "ats": "greenhouse",
+  "slug": "modulrfinance"
+ },
+ "Morpho": {
+  "ats": "ashby",
+  "slug": "morpho"
+ },
+ "Moss": {
+  "ats": "ashby",
+  "slug": "moss"
+ },
+ "Nelly": {
+  "ats": "ashby",
+  "slug": "nelly"
+ },
+ "Outpost": {
+  "ats": "ashby",
+  "slug": "outpost"
+ },
+ "Parallel": {
+  "ats": "ashby",
+  "slug": "parallel"
+ },
+ "Pave Bank": {
+  "ats": "ashby",
+  "slug": "pavebank"
+ },
+ "Pleo": {
+  "ats": "ashby",
+  "slug": "pleo"
+ },
+ "Pliant": {
+  "ats": "ashby",
+  "slug": "pliant"
+ },
+ "Primer": {
+  "ats": "ashby",
+  "slug": "primer.io"
+ },
+ "Socket": {
+  "ats": "ashby",
+  "slug": "socket"
+ },
+ "Strategic Growth Partners": {
+  "ats": "ashby",
+  "slug": "strategic-growth-partners"
+ },
+ "Taktile": {
+  "ats": "ashby",
+  "slug": "taktile"
+ },
+ "Taxbit": {
+  "ats": "greenhouse",
+  "slug": "taxbit"
+ },
+ "Yuno": {
+  "ats": "lever",
+  "slug": "yuno"
+ },
+ "dLocal": {
+  "ats": "lever",
+  "slug": "dlocal"
+ },
+ "n8n": {
+  "ats": "ashby",
+  "slug": "n8n"
+ }
+}
