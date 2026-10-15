@@ -232,5 +232,141 @@
  },
  {
   "name": "Knox Systems"
+ },
+ {
+  "name": "Island",
+  "slugs": [
+   "island",
+   "islandio",
+   "island-io"
+  ]
+ },
+ {
+  "name": "Cyera",
+  "slugs": [
+   "cyera",
+   "cyeraio"
+  ]
+ },
+ {
+  "name": "Exein",
+  "ats": "greenhouse",
+  "slugs": [
+   "exeinspa"
+  ]
+ },
+ {
+  "name": "Horizon3.ai",
+  "slugs": [
+   "horizon3ai",
+   "horizon3"
+  ]
+ },
+ {
+  "name": "ThreatLocker",
+  "ats": "greenhouse",
+  "slugs": [
+   "threatlocker"
+  ]
+ },
+ {
+  "name": "Glow",
+  "slugs": [
+   "glowsecurity",
+   "glow-security"
+  ]
+ },
+ {
+  "name": "Zenity",
+  "slugs": [
+   "zenity"
+  ]
+ },
+ {
+  "name": "Onyx Security",
+  "slugs": [
+   "onyxsecurity",
+   "onyx-security",
+   "onyx"
+  ]
+ },
+ {
+  "name": "HiddenLayer",
+  "ats": "greenhouse",
+  "slugs": [
+   "hiddenlayer"
+  ]
+ },
+ {
+  "name": "Neo",
+  "slugs": [
+   "neosecurity",
+   "neo-security"
+  ]
+ },
+ {
+  "name": "Obsidian Security",
+  "slugs": [
+   "obsidiansecurity",
+   "obsidian-security",
+   "obsidian"
+  ]
+ },
+ {
+  "name": "MIND",
+  "slugs": [
+   "mindsecurity",
+   "mind-security",
+   "mind-io",
+   "mindio"
+  ]
+ },
+ {
+  "name": "Corma",
+  "slugs": [
+   "corma"
+  ]
+ },
+ {
+  "name": "Oligo",
+  "slugs": [
+   "oligosecurity",
+   "oligo-security",
+   "oligo"
+  ]
+ },
+ {
+  "name": "Oak",
+  "slugs": [
+   "oaksecurity",
+   "oak-security"
+  ]
+ },
+ {
+  "name": "Reco",
+  "slugs": [
+   "recolabs",
+   "reco",
+   "reco-ai"
+  ]
+ },
+ {
+  "name": "AIR Security",
+  "slugs": [
+   "airsecurity",
+   "air-security"
+  ]
+ },
+ {
+  "name": "Valarian",
+  "slugs": [
+   "valarian"
+  ]
+ },
+ {
+  "name": "AIUC",
+  "slugs": [
+   "aiuc"
+  ]
  }
 ]
