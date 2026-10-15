@@ -1,24 +1,52 @@
 [
  {
+  "id": "ashby-masabi-e4b5d5bf",
+  "company": "Masabi",
+  "ats": "ashby",
+  "title": "Security Compliance Analyst",
+  "location": "Colombia",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-10-14",
+  "url": "https://jobs.ashbyhq.com/masabi/e4b5d5bf-f448-4058-9521-d516509ad5db",
+  "compensation": null,
+  "excerpt": "About Us_ // At Masabi, we’re driving the fare payment revolution, powering the journeys of millions all over the world. We build fare collection platforms that allow riders to seamlessly buy and present tickets for public transport either on their mobile phones, from a ticket machine, or even by tapping their bank card to travel. Our Justride platform is used in over 250 locations globally, including some of the largest cities in the world. With our industry-first mobile ticketing SDK, we’ve partnered with large players in the transport space, including Uber, Moovit and Transit. Your own journey is important to us too. Choosing a role here means joining a network of innovators from all walks of life; a group of passionate individuals who consistently deliver. Here, you’ll find the tools you need to build the career you want. Whether you’re taking the direct route or trying a new path, we’ll support you no matter what. The Role_ You will join the Security team at Masabi. Masabi builds Justride, a mobile ticketing and fare collection platform used by public transport authorities and agencies around the world. Our customers trust us with their riders’ data and payments, so security and compliance are central to our business. As a Security Compliance Analyst, you will help us run our security controls consistently and on time. You will own a set of assigned control processes from start to finish, carry out reviews, run day-to-day third-party risk activities and support our commercial teams when customers and prospects ask about our security. You will work with growing autonomy, with guidance from the team on priorities and new areas of work. You will be a point of contact for day-to-day compliance questions and help improve how we maintain evidence, registers and documenta"
+ },
+ {
+  "id": "ashby-kertos-ce1624ab",
+  "company": "Kertos",
+  "ats": "ashby",
+  "title": "Information Security Consultant (all genders)",
+  "location": "Munich; Berlin",
+  "remote": true,
+  "workplace": "Hybrid",
+  "employment": "FullTime",
+  "posted": "2026-10-14",
+  "url": "https://jobs.ashbyhq.com/kertos/ce1624ab-afa3-43dc-89a1-e452b437695d",
+  "compensation": null,
+  "excerpt": "Kertos is the fastest-growing compliance startup in Europe. Following our €14M Series A, backed by leading VCs and business angels, we are building the compliance engine for Europe – faster, smarter, and more automated than ever. With customers like Enpal, Flink, Personio, and Blacklane, leading companies trust our AI-native platform that automates compliance, scales effortlessly, and makes organizations audit-ready in record time. The market is growing by 20% every year, fueled by regulations like GDPR, NIS2, DORA, and the AI Act. We are perfectly positioned to establish Kertos as the European compliance champion. There has never been a better moment to join our team. Come shape the future of compliance in Europe with us. Deine Mission bei Kertos Mit deiner Expertise im Bereich Informationssicherheit wirst du ein essentieller Teil unseres Teams. Du bringst dein Fachwissen bei der Betreuung und Beratung unserer Kunden ein und wirkst intern als Architekt*in unserer Prozesse mit, um sie skalierbar zu machen. Unsere Vision ist es Europas führende Compliance Automatisierungslösung zu werden - dafür brauchen wir deine Unterstützung! Werde Teil unseres Teams in dieser spannenden Wachstumsphase und transformiere die Compliance-Welt mit uns. Dein Aufgabenbereich - Du begleitest Kertos-Kunden ganzheitlich bei der Einführung, Umsetzung und Weiterentwicklung von Informationssicherheits-Frameworks und unterstützt sie dabei, regulatorische und organisatorische Anforderungen nachhaltig umzusetzen. - Mit deiner Expertise in Informationssicherheitsthemen (ISO 27001, SOC2, TISAX, NIS2) bist du nicht nur eine vertrauenswürdige Ansprechperson für unsere Kunden, sondern unterstützt auch unser Produkt- und Sales-Team bei allen Fragen. - Als Bindeglied zwischen unseren Kunden und unserem Pro"
+ },
+ {
   "id": "ashby-n8n-49e569f0",
   "company": "n8n",
   "ats": "ashby",
-  "title": "Sr Product Security Engineer | Remote | Europe",
-  "location": "Berlin Office; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Moldova; Kosovo; Portugal; Poland; Serbia; Germany; Austria; Finland; Montenegro; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
+  "title": "Sr Security Engineer | Remote | Europe",
+  "location": "Berlin Office; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Germany; Austria; Finland; Montenegro; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
   "remote": true,
   "workplace": "Remote",
   "employment": "FullTime",
   "posted": "2026-10-13",
   "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
   "compensation": null,
-  "excerpt": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: - Cultivated a community of more than 650,000 active developers and builders - Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects - Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register http://app.n8n.cloud/register. We’re in a defining moment of an incredible journey. Come and build with us. 🎯 Your main goal will be to identify and reduce security risks across n8n's product and internal systems, using threat modelling, hands-on security expertise, and cross-functional collaboration to help teams design, build, and operate more secure systems. You'll join our growing security team at a pivotal stage, acting as a trusted security partner to teams across the business. You'll help us move from reactive security management to a proactive, scalable security practice. Here's what you'll be driving:"
+  "excerpt": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: - Cultivated a community of more than 650,000 active developers and builders - Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects - Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register http://app.n8n.cloud/register. We’re in a defining moment of an incredible journey. Come and build with us. 🎯 Your main goal will be to identify and reduce security risks across n8n's product and internal systems, using threat modelling, hands-on security expertise, and cross-functional collaboration to help teams design, build, and operate more secure systems. You'll join our growing security team at a pivotal stage, acting as a trusted security partner to teams across the business. You'll help us build a move from reactive security management to a proactive, scalable security practice. Here's what you'll be "
  },
  {
   "id": "ashby-morpho-ed97697e",
   "company": "Morpho",
   "ats": "ashby",
   "title": "Head of Security",
-  "location": "Paris; Paris; New York; New York; (-5h/+2h GMT)",
+  "location": "Paris; Paris; New York; US (EST); US",
   "remote": true,
   "workplace": "Remote",
   "employment": "FullTime",
@@ -31,7 +59,7 @@
   "id": "ashby-legora-3c47c9ac",
   "company": "Legora",
   "ats": "ashby",
-  "title": "Senior Physical Security & Safety Manager ",
+  "title": "Senior Manager, Physical Security & Safety",
   "location": "New York City",
   "remote": false,
   "workplace": "OnSite",
@@ -39,7 +67,7 @@
   "posted": "2026-10-13",
   "url": "https://jobs.ashbyhq.com/legora/3c47c9ac-4bcd-4342-85f9-1af0be729ae7",
   "compensation": "$186,150 – $235,450 • Offers Equity",
-  "excerpt": "ABOUT US Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes. 2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler. We partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law. Joining Legora means three things. - We lean in: ownership over titles, outcomes over intentions. - We fight for excellence: high standards, direct, ego-free feedback. - We grow together: as a team and with our customers. Mission before ego. Everyone contributes. No one coasts. If you’re driven by impact, pace, and raising the bar. This is the place. THE ROLE As Legora's Senior Physical Security and Safety Manager, you'll help protect our people, workplaces, executives, and operations across a fast-growing global footprint. This role exists to build right-sized security programs that scale with Legora, strengthening office security, travel risk, executive protection, and incident readiness without losing the welcoming, open culture we want employees and guests to feel. You'll work across Workpla"
+  "excerpt": "ABOUT US Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes. 2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler. We partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law. Joining Legora means three things. - We lean in: ownership over titles, outcomes over intentions. - We fight for excellence: high standards, direct, ego-free feedback. - We grow together: as a team and with our customers. Mission before ego. Everyone contributes. No one coasts. If you’re driven by impact, pace, and raising the bar. This is the place. THE ROLE As Legora's Senior Manager, Physical Security and Safety, you'll help protect our people, workplaces, executives, and operations across a fast-growing global footprint. This role exists to build right-sized security programs that scale with Legora, strengthening office security, travel risk, executive protection, and incident readiness without losing the welcoming, open culture we want employees and guests to feel. You'll work across Workpl"
  },
  {
   "id": "ashby-legora-2aa01d17",
@@ -322,20 +350,6 @@
   "excerpt": "DAS ERWARTET DICH BEI UNS Du hast keine Lust auf Elfenbeinturm und theoretische Compliance-Wüsten? Wir suchen einen pragmatischen IT-Sicherheitsexperten, der Sicherheit nicht nur verwaltet, sondern aktiv gestaltet und im gesamten Unternehmen verankert. - Ganzheitliche Security-Verantwortung: Bei dir liegt die Absicherung unserer Produkte sowie unserer Cloud-Infrastrukturen und die kontinuierliche Weiterentwicklung unseres ISMS nach aktuellen Standards - Duales Security Management: Infrastructure Security und Product Security (AppSec) greifen durch deine Arbeit nahtlos ineinander, um sowohl die SaaS-Plattform als auch die Cloud-Landschaft zu schützen - Pragmatische Compliance-Umsetzung: Regulatorische Anforderungen werden von dir in machbare, praxisnahe Prozesse übersetzt - Coaching & Awareness: Als Sparringspartner für das C-Level und die Teams vermittelst du Security-Wissen und etablierst eine starke Sicherheitskultur im Unternehmen - Hands-on Projektmanagement: Sicherheitsinitiativen werden von dir eigenständig vorangetrieben und zum Abschluss gebracht DAS BRINGST DU MIT - Mehrjährige Erfahrung & SaaS-Fokus: Mindestens 3 Jahre Praxis in der IT-Security sowie tiefe Vertrautheit mit modernen Cloud-Architekturen und Produktsicherheit (AppSec) - ISMS & ISO 27001: Fundiertes Know-how im Bereich ISMS sowie idealerweise praktische Erfahrung im Aufbau, bei der Umsetzung oder der Zertifizierung nach ISO 27001 - Pragmatismus & Umsetzungsstärke: Ein lösungsorientierter Fokus auf praktikable Wege, die hohe Sicherheit und schnelle Business-Prozesse optimal vereinen - Strukturiertes Projektmanagement: Souveräne Steuerung komplexer Sicherheitsinitiativen von der ersten Risikoanalyse bis zur finalen Implementierung - Kommunikation & Empathie: Du vermittelst Fachwissen adressatengerec"
  },
  {
-  "id": "ashby-masabi-e4b5d5bf",
-  "company": "Masabi",
-  "ats": "ashby",
-  "title": "Security Compliance Analyst",
-  "location": "Colombia",
-  "remote": true,
-  "workplace": "Remote",
-  "employment": "FullTime",
-  "posted": "2026-09-28",
-  "url": "https://jobs.ashbyhq.com/masabi/e4b5d5bf-f448-4058-9521-d516509ad5db",
-  "compensation": null,
-  "excerpt": "About Us_ // At Masabi, we’re driving the fare payment revolution, powering the journeys of millions all over the world. We build fare collection platforms that allow riders to seamlessly buy and present tickets for public transport either on their mobile phones, from a ticket machine, or even by tapping their bank card to travel. Our Justride platform is used in over 250 locations globally, including some of the largest cities in the world. With our industry-first mobile ticketing SDK, we’ve partnered with large players in the transport space, including Uber, Moovit and Transit. Your own journey is important to us too. Choosing a role here means joining a network of innovators from all walks of life; a group of passionate individuals who consistently deliver. Here, you’ll find the tools you need to build the career you want. Whether you’re taking the direct route or trying a new path, we’ll support you no matter what. The Role_ You will join the Security team at Masabi. Masabi builds Justride, a mobile ticketing and fare collection platform used by public transport authorities and agencies around the world. Our customers trust us with their riders' data and payments, so security and compliance are central to our business. As a Security Compliance Analyst, you will help us run our security controls consistently and on time. You will own selected control processes from start to finish, carry out reviews, manage third-party risk and support our commercial teams when customers and prospects ask about our security. This role is a good fit for someone who is careful, organised and enjoys finding ways to make repeatable work simpler and more reliable. Location_ // This role is only available to candidates based in Colombia in a fully remote model. Responsibilities_ - Own assi"
- },
- {
   "id": "ashby-strategic-growth-partners-70f66334",
   "company": "Strategic Growth Partners",
   "ats": "ashby",
@@ -600,20 +614,6 @@
   "url": "https://jobs.ashbyhq.com/knox-systems/f4f2dce1-f89b-4d2e-bf22-4125137f22f0",
   "compensation": null,
   "excerpt": "About Knox Knox runs the largest Federal & DoW managed cloud, building and operating secure cloud and AI environments that support the U.S. government’s most critical missions — from national security and public safety to essential public services. Our customers rely on Knox to deploy production systems that meet the highest standards for security, reliability, and compliance. Work at Knox is high-impact and purpose-driven. The problems we solve are high-stakes, the expectations are high, and the results are visible. Speed, rigor, and trust matter here - because the environments we secure cannot fail. Your contributions are visible, your expertise is relied upon, and the impact of your work is immediate and measurable. We operate at federal scale, securing some of the most sensitive government environments in the country - because the systems we build must perform without fail. HOW WE WORK Most companies run a security team and a network team separately. We don’t. At Knox one team watches everything — performance, availability and security — out of the same queue. You see the whole picture, and a problem never sits with the wrong team while the clock runs. It is a better way to work and a much faster way to learn. HOW WE PRIORITIZE 1. Active intrusion or suspected compromise 2. Service-affecting outage 3. Degradation and early warning signs 4. Customer requests and tickets When the right answer isn’t obvious, you’re the one who decides. That call is part of the role, not a favor we’re asking. WHAT YOU'LL DO • Lead the evening shift as the senior person on the floor from 14:00 to 22:00. • Set the escalation criteria — what wakes a manager, what waits, and what the team handles alone. • Run root cause on anything that reached containment, and update the runbook so it does"
- },
- {
-  "id": "lever-contentsquare-fc030034",
-  "company": "Contentsquare",
-  "ats": "lever",
-  "title": "Application Security Engineer",
-  "location": "Barcelona; Barcelona",
-  "remote": false,
-  "workplace": "hybrid",
-  "employment": "Full-time",
-  "posted": "2026-08-19",
-  "url": "https://jobs.lever.co/contentsquare/fc030034-3050-4b3a-9b79-380dd0f5a0f6",
-  "compensation": null,
-  "excerpt": "Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey. We are a global leader in the experience analytics space, with a growing presence across 15 offices worldwide. We’re here to stay—and we’re looking for team members who are excited to drive impact and help us scale even further. Our aim is to create an inclusive workplace where everyone learns and succeeds. Contentsquare has built a community of individuals who are daring, understanding, and deliberate. We invite you to join us in making the complex simpler—for our customers, their customers, and each other. Important note: Be careful of scammers pretending to be from Contentsquare. We will never ask for money or contact you through random texts. Any communication from our in house Talent Acquisition team will only ever come from our contentsquare.com or @contentsquare-ext.com domain. For more information, visit our careers blog. The Contentsquare Security team is looking for an application security engineer (Appsec) who can work closely with the development team, product managers and diverse third-party groups (including bug bounty hunters). Contentsquare provides a globally leading SaaS service and commits to the highest security standards for its customers. We are ISO 27001 and ISO 27701 certified and maintain robust security initiatives (SOC 2 Type 2 report, private bug bounty program, SIEM, advanced security awareness, etc.). As an Application Security Engineer, you'll help secure Contentsquare's applications throughout their lifecycle, from identifying and validating vulnerabilities to understanding the"
  },
  {
   "id": "lever-dlocal-9990577d",
