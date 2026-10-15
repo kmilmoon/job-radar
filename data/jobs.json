@@ -1,5 +1,19 @@
 [
  {
+  "id": "gh-exeinspa-5007199101",
+  "company": "Exein",
+  "ats": "greenhouse",
+  "title": "Linux Software Engineer - Systems & Security",
+  "location": "emea",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-15",
+  "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5007199101",
+  "compensation": null,
+  "excerpt": "About us: The physical and digital worlds are merging. Vehicles, medical devices, industrial systems, critical infrastructure: security hasn't kept pace. AI is accelerating everything, from the capabilities of the systems we depend on to the sophistication of the threats targeting them. A software vulnerability can now have physical consequences. A physical breach can compromise entire digital ecosystems. Billions of devices operate with little to no protection, and traditional approaches can't keep up. Not at this scale, not at this speed, and not across this diversity of systems. Exein exists to solve this. We build the security layer for a world where physical and digital threats are no longer separate problems, from kernel-level runtime protection on embedded devices to cloud-native platforms that analyze, protect, and prove compliance across entire device fleets. We're not patching the old model. We're building security from the core out. About the role: We’re looking for an experienced software engineer with strong technical foundations, sound architectural judgment, and a desire to develop deeper expertise in Linux systems programming and security. You should already be comfortable building and debugging software, understanding how components interact, and reasoning about design trade-offs. We expect solid foundations in operating systems and computer architecture, together with a basic understanding of the Linux kernel. You’ll join the team developing Exein’s Linux runtime security agent, working on software that observes system behaviour and helps detect and prevent threats. Previous experience with Rust, eBPF, or Linux kernel development is preferred, but not required. We value strong engineering foundations and the motivation to develop expertise in these are"
+ },
+ {
   "id": "ashby-masabi-e4b5d5bf",
   "company": "Masabi",
   "ats": "ashby",
@@ -182,6 +196,20 @@
   "excerpt": "Kertos is the fastest-growing compliance startup in Europe. Following our €14M Series A, backed by leading VCs and business angels, we are building the compliance engine for Europe – faster, smarter, and more automated than ever. With customers like Enpal, Flink, Personio, and Blacklane, leading companies trust our AI-native platform that automates compliance, scales effortlessly, and makes organizations audit-ready in record time. The market is growing by 20% every year, fueled by regulations like GDPR, NIS2, DORA, and the AI Act. We are perfectly positioned to establish Kertos as the European compliance champion. There has never been a better moment to join our team. Come shape the future of compliance in Europe with us. Deine Mission bei Kertos Mit deiner Expertise im Bereich Informationssicherheit wirst du ein essentieller Teil unseres Teams. Du bringst dein Fachwissen bei der Betreuung und Beratung unserer Kunden ein und wirkst intern als Architekt*in unserer Prozesse mit, um sie skalierbar zu machen. Unsere Vision ist es Europas führende Compliance Automatisierungslösung zu werden - dafür brauchen wir deine Unterstützung! Werde Teil unseres Teams in dieser spannenden Wachstumsphase und transformiere die Compliance-Welt mit uns. Dein Aufgabenbereich - Du begleitest Kertos-Kunden ganzheitlich bei der Einführung, Umsetzung und Weiterentwicklung von Informationssicherheits-Frameworks und unterstützt sie dabei, regulatorische und organisatorische Anforderungen nachhaltig umzusetzen. - Mit deiner Expertise in Informationssicherheitsthemen (ISO 27001, SOC2, TISAX, NIS2) bist du nicht nur eine vertrauenswürdige Ansprechperson für unsere Kunden, sondern unterstützt auch unser Produkt- und Sales-Team bei allen Fragen. - Als Bindeglied zwischen unseren Kunden und unserem Pro"
  },
  {
+  "id": "gh-island-4435730009",
+  "company": "Island",
+  "ats": "greenhouse",
+  "title": "Security Operations Engineer",
+  "location": "Dallas",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-07",
+  "url": "https://job-boards.greenhouse.io/island/jobs/4435730009",
+  "compensation": null,
+  "excerpt": "Island is shaping the future of work - creating an enterprise workspace for both knowledge workers and agents - where access, security, and AI-powered productivity are built in. Our enterprise agentic control plane boosts productivity across devices, browsers, applications, networks, and data while protecting sensitive information, simplifying access, and helping enterprises scale AI safely. Behind all of that is a team of people who care deeply about their craft and want to do the biggest and best work of their careers. At Island, character and drive matter more than your resume. Backed by Coatue Management, Insight Partners, Sequoia Capital, Cyberstarts, and other world-class investors, Island is used by millions of people at some of the planet’s largest enterprises. Come build with us. Together, we’re changing how the world works. 2026 - #28 + ONLY DFW Company on the CNBC Disruptor 50 List 2025 - #1 in LinkedIn's Top Startups of 2025 2025 - #6 in the 2025 Dallas 100™ Entrepreneur Awards 2025 - Forbes Cloud 100 About the Role We’re looking for a Security Operations Engineer who will own the day-to-day operation and continuous improvement of our vulnerability and compliance scanning program. This person will play a critical role in strengthening Island’s security posture across both commercial and FedRAMP environments, ensuring we meet the rigorous standards required by government and enterprise customers. You will drive scanning operations across the stack, partner closely with compliance and engineering teams, and help scale our security tooling and processes as we grow. This is a strong entry point into a fast-moving product security team, with clear opportunities for expanded ownership and impact over time. How We Work Note: This position is hybrid four days per we"
+ },
+ {
   "id": "ashby-legora-74536a68",
   "company": "Legora",
   "ats": "ashby",
@@ -194,6 +222,34 @@
   "url": "https://jobs.ashbyhq.com/legora/74536a68-2660-4278-86ac-e476d7caf0b3",
   "compensation": null,
   "excerpt": "ABOUT US Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes. 2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler. We partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law. Joining Legora means three things. - We lean in: ownership over titles, outcomes over intentions. - We fight for excellence: high standards, direct, ego-free feedback. - We grow together: as a team and with our customers. Mission before ego. Everyone contributes. No one coasts. If you’re driven by impact, pace, and raising the bar. This is the place. ABOUT THE ROLE The Statutory Reporting & Compliance Manager sits within the accounting function and owns statutory reporting and regulatory compliance for the group's legal entities. You will be responsible for the local accounts of assigned entities and the full calendar of statutory and regulatory deliverables. As we enter new markets, you will assess and stand up the local reporting, registration, and compliance requirements from scratch. You set"
+ },
+ {
+  "id": "gh-obsidiansecurity-5446068008",
+  "company": "Obsidian Security",
+  "ats": "greenhouse",
+  "title": "Agent Security Research Engineer – Taiwan",
+  "location": "Taipei, Taiwan",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-06",
+  "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5446068008",
+  "compensation": null,
+  "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. Agent Security Research Engineer – Taiwan About the role: You'll own agent security content from idea to production. You'll research how AI agents (coding assistants, desktop agents, workflow automation tools, and MCP-connected tools) "
+ },
+ {
+  "id": "gh-obsidiansecurity-5446033008",
+  "company": "Obsidian Security",
+  "ats": "greenhouse",
+  "title": "Product Security Engineer (AI & Platform Security) – Taiwan",
+  "location": "Taipei, Taiwan",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-06",
+  "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5446033008",
+  "compensation": null,
+  "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. Product Security Engineer (AI & Platform Security) – Taiwan About the Role: Obsidian Security is looking for a Product Security Engineer to strengthen the security of Obsidian's products, software supply chain, development pipelines, a"
  },
  {
   "id": "ashby-pliant-0a237b17",
@@ -250,6 +306,48 @@
   "url": "https://jobs.ashbyhq.com/knox-systems/97d4d7a4-8101-4fc2-b27f-1f6209e827ef",
   "compensation": null,
   "excerpt": "About Knox Knox runs the largest Federal & DoW managed cloud, building and operating secure cloud and AI environments that support the U.S. government’s most critical missions — from national security and public safety to essential public services. Our customers rely on Knox to deploy production systems that meet the highest standards for security, reliability, and compliance. Work at Knox is high-impact and purpose-driven. The problems we solve are high-stakes, the expectations are high, and the results are visible. Speed, rigor, and trust matter here - because the environments we secure cannot fail. Your contributions are visible, your expertise is relied upon, and the impact of your work is immediate and measurable. We operate at federal scale, securing some of the most sensitive government environments in the country - because the systems we build must perform without fail. Knox is seeking a Senior Compliance Analyst with strong technical and regulatory expertise to help ensure Knox and its customers continuously meet federal and commercial compliance requirements. This role is responsible for driving ongoing compliance across FedRAMP, FISMA, NIST 800-53, IL4, IL5, CMMC, SOC 2, StateRamp, and GovRAMP environments while partnering closely with Security, DevOps, Operations, and customer teams. This is not a point-in-time audit support role. This position is expected to operate as a technical compliance lead who can validate controls in cloud environments, track remediation and POA&M performance, enforce compliance SLAs, support audits and assessments, and provide clear risk visibility to internal leadership and customers. KEY RESPONSIBILITIES ● Own continuous compliance oversight for Knox and assigned customer environments across FedRAMP, FISMA, NIST 800-53, IL4, IL5,"
+ },
+ {
+  "id": "gh-island-4409310009",
+  "company": "Island",
+  "ats": "greenhouse",
+  "title": "Senior Product Security Researcher",
+  "location": "Glilot; Tel Aviv",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-05",
+  "url": "https://job-boards.greenhouse.io/island/jobs/4409310009",
+  "compensation": null,
+  "excerpt": "Island is shaping the future of work - creating an enterprise workspace for both knowledge workers and agents - where access, security, and AI-powered productivity are built in. Our enterprise agentic control plane boosts productivity across devices, browsers, applications, networks, and data while protecting sensitive information, simplifying access, and helping enterprises scale AI safely. Behind all of that is a team of people who care deeply about their craft and want to do the biggest and best work of their careers. At Island, character and drive matter more than your resume. Backed by Coatue Management, Insight Partners, Sequoia Capital, Cyberstarts, and other world-class investors, Island is used by millions of people at some of the planet’s largest enterprises. Come build with us. Together, we’re changing how the world works. As a Senior Product Security Researcher at Island, you will attack our product the way a motivated adversary would. You will research how Island’s security controls, browser features, cloud services, and AI capabilities can be bypassed, abused, or turned against our customers, and you will work with R&D to fix the root causes. This role focuses on product logic, trust boundaries, and the application and cloud layers, rather than kernel or memory-level research. Key Responsibilities Product Control Bypass Research: Find ways to bypass or weaken Island’s enforcement features, such as data loss prevention, clipboard, download and screenshot restrictions, data masking, and access policies, and help design controls that hold up under real attacks. Browser & Extension Security: Research the security of Island’s browser features, web platform integrations, and extension ecosystem, including the browser security model, extension permissions, and in"
+ },
+ {
+  "id": "gh-exeinspa-4997546101",
+  "company": "Exein",
+  "ats": "greenhouse",
+  "title": "IT & Security Manager",
+  "location": "Roma ",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-05",
+  "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/4997546101",
+  "compensation": null,
+  "excerpt": "IT & Security Manager About us: The physical and digital worlds are merging. Vehicles, medical devices, industrial systems, critical infrastructure: security hasn't kept pace. AI is accelerating everything, from the capabilities of the systems we depend on to the sophistication of the threats targeting them. A software vulnerability can now have physical consequences. A physical breach can compromise entire digital ecosystems. Billions of devices operate with little to no protection, and traditional approaches can't keep up. Not at this scale, not at this speed, and not across this diversity of systems. Exein exists to solve this. We build the security layer for a world where physical and digital threats are no longer separate problems, from kernel-level runtime protection on embedded devices to cloud-native platforms that analyze, protect, and prove compliance across entire device fleets. We're not patching the old model. We're building security from the core out. About the Role We are looking for an IT & Security Manager to build and manage the technology infrastructure of our growing startup. This is a hands-on role with broad ownership across IT infrastructure, cybersecurity, IT governance, asset management and compliance . The ideal candidate will be comfortable operating in a fast-paced environment, building processes and systems from the ground up, while also ensuring that the company’s technology environment is secure, scalable and well governed. You will work closely with leadership and internal teams to define the company’s IT strategy, establish appropriate security standards and controls, manage IT assets and support internal and external audit activities. Key Responsibilities IT Infrastructure & Operations Design, build and manage the company’s IT infrastru"
+ },
+ {
+  "id": "gh-hiddenlayer-5234511007",
+  "company": "HiddenLayer",
+  "ats": "greenhouse",
+  "title": "Security Operations Specialist ",
+  "location": "Remote",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-05",
+  "url": "https://job-boards.greenhouse.io/hiddenlayer/jobs/5234511007",
+  "compensation": null,
+  "excerpt": "Security Operations Specialist Remote [within the US] WHO WE ARE: HiddenLayer protects the world’s most valuable technologies from adversarial AI attacks. We were founded by AI professionals and security specialists with first-hand experience of how insidious adversarial AI attacks can be to detect and defend against. Determined to prove that these attacks were preventable, the team developed a unique, patent-pending, productized solution to support organizations in accelerating their adoption of AI securely. Our dedication to innovation has been recognized by prestigious awards such as RSA's Innovation Sandbox Winner, CB Insights AI 100, CyberTech 100, and SC's Most Promising Early-Stage Start-up. WHAT YOU’LL DO: Security Operations: Cloud Infrastructure Security Threat hunting Logging/Alerting Management Endpoint Security Management Support IT/platform development security needs and enterprise build-out Internal AI Security Expert Leveraging HL tools to protect HL AI deployments/usage Join customer calls to demonstrate real-world AIDR usage and threat hunting capabilities Prod/service development support Security Management Vulnerability and Risks Management (tooling/processes/workflows/automation,etc) Cloud Hardening (supporting DevEx) Security Tool ownership/management Compliance Frameworks security controls EngSec and ITSec collaboration on prioritized efforts/projects WHY HIDDENLAYER? We just raised $100M in Series B funding led by Delta-v Capital, with backing from Morgan Stanley, Microsoft's venture arm, Booz Allen Hamilton, and others. It's a validation of what we've built: 10x revenue growth, 50+ new enterprise customers, and deployments across defense, finance, and the world's largest AI platforms. This funding goes straight into expanding our platform and GT"
  },
  {
   "id": "lever-dlocal-068eca6c",
@@ -420,6 +518,20 @@
   "excerpt": "ABOUT KEYROCK Since 2017, Keyrock has been a change-maker in digital assets. We're a global, remote-first team of 200+ people across 40+ nationalities, with hubs in Brussels, London, Paris and New York. We provide liquidity across 80+ centralized and decentralized exchanges - a position cemented by our Series C, led by SC Ventures. Today we run a full spectrum of capital markets businesses across centralized and on-chain venues: market making, high-frequency trading, options, OTC, DeFi trading desks, advisory, and asset management. We're building toward the agentic investment banking capabilities for the era of digital finance. A proprietary agentic layer runs the mechanics of the market, so our people can focus on the work code cannot do: the deal, the relationship, and the judgement. We're not just envisioning the future of finance - we're building it. WHAT WE ARE LOOKING FOR We are seeking a Head of Risk to own and develop the Firm’s risk function end-to-end. This is a senior leadership role with direct accountability for the design, implementation and enforcement of a Firm-wide risk framework across all activities. The role requires strong quantitative risk expertise and the ability to apply rigorous methodologies to complex, real-time markets across both traditional finance and digital assets. The successful candidate will co-design the firm’s risk architecture with the COO and CIO, covering data, analytics and real-time risk aggregation. You will have full oversight of risk across trading (spot and derivatives), treasury and investments, including exposures across CeFi and DeFi environments. This includes defining risk appetite, implementing advanced risk metrics and ensuring disciplined risk-taking across the organization. We are looking for a leader who sets the"
  },
  {
+  "id": "gh-island-4412445009",
+  "company": "Island",
+  "ats": "greenhouse",
+  "title": "AI Implementation Specialist - AI Governance, Gateways, Platform Control",
+  "location": "Dallas",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-09-22",
+  "url": "https://job-boards.greenhouse.io/island/jobs/4412445009",
+  "compensation": null,
+  "excerpt": "Island is shaping the future of work - creating an enterprise workspace for both knowledge workers and agents - where access, security, and AI-powered productivity are built in. Our enterprise agentic control plane boosts productivity across devices, browsers, applications, networks, and data while protecting sensitive information, simplifying access, and helping enterprises scale AI safely. Behind all of that is a team of people who care deeply about their craft and want to do the biggest and best work of their careers. At Island, character and drive matter more than your resume. Backed by Coatue Management, Insight Partners, Sequoia Capital, Cyberstarts, and other world-class investors, Island is used by millions of people at some of the planet’s largest enterprises. Come build with us. Together, we’re changing how the world works. 2026 - #28 + ONLY DFW Company on the CNBC Disruptor 50 List 2025 - #1 in LinkedIn's Top Startups of 2025 2025 - #6 in the 2025 Dallas 100™ Entrepreneur Awards 2025 - Forbes Cloud 100 About the Role Island is seeking an AI Implementation Specialist to help enterprise customers design, deploy, and operationalize AI governance and control across their organizations. In this role, you will serve as a trusted advisor on AI strategy, guide large-scale enterprise AI rollouts, and configure critical AI control points, such as MCP Gateways and custom hooks, to protect sensitive data and enforce compliance. You will lead technical discovery, deliver executive- level platform demonstrations, and architect scalable solutions using Island’s Enterprise AI Platform. How We Work Note: This position is full-time five days per week in-office at our Coppell, TX headquarters (Monday through Friday). We believe collaboration and culture thrive face-to-face, and"
+ },
+ {
   "id": "ashby-legora-eac5360d",
   "company": "Legora",
   "ats": "ashby",
@@ -504,6 +616,20 @@
   "excerpt": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’. The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years. Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together. ABOUT THE ROLE We're looking for a Risk & Controls Officer to join our Risk & Control team at Pleo. In this role, you'll operate as a key part of our Second Line of Defence, helping to strengthen the risk management framework that underpins everything we do — from our product to our regulatory relationships. You'll work at the intersection of risk expertise and business partnership, offering thoughtful challenges and practical guidance to our First Line teams as we continue to scale. If you're excited by the prospect of shaping how a fast-growing FinTech approaches risk maturity, and are passionate about building robust, pragmatic c"
  },
  {
+  "id": "ashby-horizon3ai-c99b9bed",
+  "company": "Horizon3.ai",
+  "ats": "ashby",
+  "title": "Product & Privacy Counsel",
+  "location": "US, Remote",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-09-08",
+  "url": "https://jobs.ashbyhq.com/horizon3ai/c99b9bed-505c-4620-918a-eee95148bd41",
+  "compensation": null,
+  "excerpt": "Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs. We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results. What You’ll Do We’re looking for a practical, business-minded Product & Privacy Counsel to join our Legal team and serve as a key legal partner across Horizon3 http://Horizon3.ai. This role will have a balanced focus across product counseling and privacy, with meaningful ownership in both areas. You will partner closely with Product and Engineering throughout the product lifecycle, advising on new products, features, technologies, and regulatory requirements, while also helping operate and scale Horizon3 http://Horizon3.ai’s global privacy program. You will work cross-functionally with Product, Engineer"
+ },
+ {
   "id": "ashby-primer.io-9add7b39",
   "company": "Primer",
   "ats": "ashby",
@@ -518,6 +644,20 @@
   "excerpt": "An Introduction to Primer Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform. Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on. Watch our showcase > https://primer.io/the-primer-showcase Read up on our $100m Series C https://www.primer.io/blog/series-c Learn more about our culture > https://primer.io/careers Primer is looking for a Security Engineer to help us detect, investigate, and respond to threats across our cloud infrastructure. You'll take ownership of a meaningful slice of our detection and response capability — tuning what our SIEM catches, building the automation that speeds up how we react, and being a first responder when something looks wrong. What you'll be doing - Plan and deliver detection and response work end-to-end — from a new detection rule to a fully automated response — within your area of ownership. - Build, tune and maintain detections across our SIEM (Elastic) and AWS environment, closing gaps that existing coverage misses. - Own an investigation queue: triage, investigate, escalate and resolve security incidents, and write up findings clearly enough to stand on their own. - Build runbooks and automations (Python, and no-code tools like Zapier or Tines) to cut manual work out of triage and response. - Make and document risk decisions in your area, and know when to pull in others. - Support our compliance programme by keeping the controls you own audit-ready and contributing evidence for audits (e.g. SOC 2, PCI DSS). - Use Terraform and Python to build and maintain the infrastructure behi"
  },
  {
+  "id": "gh-obsidiansecurity-5417263008",
+  "company": "Obsidian Security",
+  "ats": "greenhouse",
+  "title": "Chief Information Security Officer (CISO)",
+  "location": "Palo Alto, CA",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-09-04",
+  "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008",
+  "compensation": null,
+  "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. The Role The CISO will own Obsidian's internal security program end-to-end while serving as a visible security leader to our customers, partners, and the broader market. This role reports to the Chief Legal and Trust Officer. Responsib"
+ },
+ {
   "id": "gh-bitpanda-4966607101",
   "company": "Bitpanda",
   "ats": "greenhouse",
@@ -530,6 +670,34 @@
   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101",
   "compensation": null,
   "excerpt": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 7 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing. Headquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go! Your mission Millions of customers trust Bitpanda to protect their money, identities and digital assets. As a Senior SOC Analyst, you'll play a critical role in staying ahead of evolving threats by building the capabilities that detect attacks, respond to incidents and continuously strengthen our security posture. You'll combine deep technical expertise with engineering excellence to evolve our security operations, drive automation at scale and partner across the business to embed security into everything we build. Your work will directly shape how Bitpanda protects its customers today; and how it stays resilient tomorrow. What you'll do Detection engineering. "
+ },
+ {
+  "id": "ashby-horizon3ai-760c5875",
+  "company": "Horizon3.ai",
+  "ats": "ashby",
+  "title": "Senior Federal Compliance Analyst",
+  "location": "US, Remote",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-09-02",
+  "url": "https://jobs.ashbyhq.com/horizon3ai/760c5875-066b-44c0-8b34-1b034d90ad3a",
+  "compensation": null,
+  "excerpt": "Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs. We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results. Summary/Overview We are seeking a Senior Federal Compliance Analyst to serve as the focal point for Horizon3’s Federal Compliance Program, focused on the security posture and compliance strategy, build-out, and continuous management of our DoW Impact Level 4 (IL4) and Impact Level 5 (IL5) offerings. In this role, you will bridge the gap between federal regulatory bodies, security teams, and engineering. You will be responsible for ensuring the regulatory compliance of our applications, products, services, and personnel, acting as the subject matter expert on DoW security requirements for our AWS-hosted "
+ },
+ {
+  "id": "gh-obsidiansecurity-5406173008",
+  "company": "Obsidian Security",
+  "ats": "greenhouse",
+  "title": "AI Security Engineer - Taiwan",
+  "location": "Taipei, Taiwan",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-09-02",
+  "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008",
+  "compensation": null,
+  "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. About the Role AI is becoming the fastest-moving attack surface in the enterprise. Copilot, ChatGPT Enterprise, Gemini, Claude, and a growing wave of agentic tools are being connected to corporate SaaS applications faster than many sec"
  },
  {
   "id": "lever-yuno-f26bce6d",
@@ -630,6 +798,20 @@
   "excerpt": "Why Join dLocal?dLocal is the financial infrastructure powering global commerce in the world's fastest-growing markets. The biggest companies in the world trust us to unlock growth in 60+ countries across emerging markets—moving money where others see complexity. We don't just process payments; we are architects of payment ecosystems and partners in our customers' expansion. You'll work alongside 1,300+ teammates from 40+ nationalities and tackle global challenges from day one."
  },
  {
+  "id": "ashby-aiuc-bd80c8a8",
+  "company": "AIUC",
+  "ats": "ashby",
+  "title": "AIUC-1 Security",
+  "location": "San Francisco",
+  "remote": false,
+  "workplace": "OnSite",
+  "employment": "FullTime",
+  "posted": "2026-08-18",
+  "url": "https://jobs.ashbyhq.com/aiuc/bd80c8a8-c060-4eaa-9982-f0527846fd8e",
+  "compensation": "$150K – $300K",
+  "excerpt": "ABOUT AIUC AIUC builds standards and insurance for frontier AI. Our mission is to Underwrite superintelligence https://underwriting-superintelligence.com/. We exist because risk, not capability, is becoming the binding constraint on AI being useful. History offers lessons for how to build confidence in new technology; electricity burned down houses until insurers funded Underwriters Laboratories (UL) to certify products against their standards. Today, the UL mark is a trustmark on every light bulb in America. We’re building that for AI. AIUC-1, our standard for agent security, serves frontier builders like Cursor, Lovable, ElevenLabs, and Harvey. We've raised $55m from Ribbit, First Harmonic and Nat Friedman to audit frontier AI. Our team comes from METR, Anthropic, McKinsey, and OpenAI. Come join us. THE ROLE AIUC certifies AI agents based on security, safety, and reliability. As our founding security lead, you will own security at a business that is built upon trust. Our stakeholders are CISOs at Fortune 500 enterprises and the world's fastest-growing AI companies. They trust us to tell them whether their systems can be trusted and that requires internal credibility, controls, and posture. AIUC-1 as a standard is paving the way for agentic security, your expertise will directly influence what this means across the industry. Our security function will be what other companies will turn to as the playbook. This is once in a life-time opportunity, and in practice you will: - Shape and evolve AIUC-1's security requirements https://www.aiuc-1.com/security as the agentic threat landscape changes, from prompt injection, adversarial attacks, jailbreaks, MCP and A2A risks - Be AIUC's external security voice on what AI agent security means in practice, through client conversatio"
+ },
+ {
   "id": "ashby-pavebank-7e3b6bf1",
   "company": "Pave Bank",
   "ats": "ashby",
@@ -670,6 +852,20 @@
   "url": "https://jobs.lever.co/dlocal/49dc9d7c-b1ae-4d08-b66f-41022570c878",
   "compensation": null,
   "excerpt": "Why Join dLocal?dLocal is the financial infrastructure powering global commerce in the world's fastest-growing markets. The biggest companies in the world trust us to unlock growth in 60+ countries across emerging markets—moving money where others see complexity. We don't just process payments; we are architects of payment ecosystems and partners in our customers' expansion. You'll work alongside 1,300+ teammates from 40+ nationalities and tackle global challenges from day one. What’s the opportunity? We are looking for a Senior Network & Edge Security Engineer to help design, operate, and evolve dLocal’s global cloud and hybrid network perimeter. This role combines deep cloud networking expertise with a strong security mindset: you will own secure connectivity, traffic protection, WAF and firewall controls, and the automation that makes those services reliable at scale. You will work closely with Platform, Information Security, Compliance, and Product teams to keep critical services secure, available, low-latency, and ready for international growth."
+ },
+ {
+  "id": "ashby-horizon3ai-57d96033",
+  "company": "Horizon3.ai",
+  "ats": "ashby",
+  "title": "Senior Backend Engineer, Security Controls",
+  "location": "US, Remote",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-07-28",
+  "url": "https://jobs.ashbyhq.com/horizon3ai/57d96033-2e76-4f73-87e3-b11e0586ae19",
+  "compensation": null,
+  "excerpt": "Get to Know Us Horizon3 http://Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by IT Ops/SecOps teams, consulting pentesters, and MSSPs and MSPs. We are a fusion of former U.S. Special Operations cyber operators, startup engineers & operators, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools and false positives, resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results. What You’ll Do As a Senior Backend Engineer on the Security Controls team, you'll drive the technical vision for EDR telemetry and detection inside NodeZero, with direct influence over how EDR effectiveness and tuning evolves as a core product capability. Modern endpoints are instrumented by CrowdStrike, SentinelOne, Microsoft Defender, Carbon Black, and others. Our customers need to know, with evidence, which of our attack techniques their EDR caught, which ones slipped through, and why. Answering that at scale — across platforms, tenants, and operator objectives — requ"
  },
  {
   "id": "ashby-legora-72615933",
@@ -798,6 +994,20 @@
   "excerpt": "You’re a privacy expert who knows how to navigate global regulations without slowing down innovation. You thrive on translating dense legal frameworks into practical guidance for technical teams. If you want to build scalable data protection strategies that actually make sense, this is for you. About JetBrains We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 companies, and 88 of the Fortune Global Top 100 rely on our products to solve real, complex problems. Our mission is simple: make development teams more productive and AI adoptable at scale. What you’ll do As data privacy and AI regulations rapidly evolve, ensuring our tools and operations remain compliant is more critical than ever. In this role, you’ll take ownership of our privacy-by-design initiatives, shaping how we handle data across our international operations. You will influence how product features are built and how cross-border data transfers are structured, ensuring we meet regulatory standards without adding unnecessary friction. Working closely with engineering, AI, security, and HR teams, you’ll turn legal requirements into actionable advice. As Senior Legal Counsel on our Regulatory and Data Privacy team, you’ll be instrumental in modernizing our compliance frameworks and finding ways to use automation to make our legal processes smarter and more predictable. Day to day, you will: Advise cross-functional groups (including AI, security, HR, and engineering) on data privacy and regulatory compliance. Evaluate product features, global data governance, and cross-border transfer mechanisms (like DPAs and SCCs) for privacy-by-design compliance. Draft, review, and maintain internal and external data protection agreements, privacy policies, a"
  },
  {
+  "id": "gh-obsidiansecurity-5290880008",
+  "company": "Obsidian Security",
+  "ats": "greenhouse",
+  "title": "Software Engineer - AI Security Product",
+  "location": "Palo Alto, California, USA",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-07-03",
+  "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008",
+  "compensation": null,
+  "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. About the Role AI is the fastest-moving attack surface in the enterprise. Copilot, ChatGPT Enterprise, Gemini, Claude, and a wave of agentic tools are being wired into corporate SaaS faster than security teams can keep up — with broad "
+ },
+ {
   "id": "ashby-10xteam-4bd8fef5",
   "company": "10x Team",
   "ats": "ashby",
@@ -824,6 +1034,20 @@
   "url": "https://jobs.lever.co/dlocal/de60c99a-0d30-4029-81ee-be6f0d7a78aa",
   "compensation": null,
   "excerpt": "Why Join dLocal?dLocal is the financial infrastructure powering global commerce in the world's fastest-growing markets. The biggest companies in the world trust us to unlock growth in 60+ countries across emerging markets—moving money where others see complexity. We don't just process payments; we are architects of payment ecosystems and partners in our customers' expansion. You'll work alongside 1,300+ teammates from 40+ nationalities and tackle global challenges from day one. We are looking for a Compliance Officer in Cameroon to join our global team. This role will play a crucial role in banking relationships as well as with internal reports."
+ },
+ {
+  "id": "ashby-horizon3ai-169d3dde",
+  "company": "Horizon3.ai",
+  "ats": "ashby",
+  "title": "WebApp Offensive Security Software Engineer",
+  "location": "US, Remote",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-06-11",
+  "url": "https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101",
+  "compensation": null,
+  "excerpt": "Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs. We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results. Summary We're looking for a Senior/Staff Offensive Security Software Engineer with extensive web application penetration testing experience and a growing interest in AI-enhanced security techniques. You will have a significant impact on how we deliver value to our customers by designing, developing, and integrating web application penetration testing content into the NodeZero platform. This position requires practical expertise in full-scope web application testing, proven software development skills, and enthusiasm for leveraging emerging AI technologies to advance offensive security capabilities. Esse"
  },
  {
   "id": "ashby-pliant-c944d7e9",
@@ -966,6 +1190,20 @@
   "excerpt": "Updated: 07 July 2026 Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced quality assurance professional who instinctively spots gaps in QA reasoning and understands the complex realities of quality management? Do you have 8 to 20 hours per week available alongside your main job or consulting projects? Join us in shaping how AI understands and applies quality assurance expertise at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are looking for skilled Quality Assurance Leads or specialists based in the EU or UK to enhance the accuracy, depth, and real-world relevance of AI-powered quality systems. What You Will Do - Review and refine AI-generated outputs related to quality controls, process validation, risk assessment, and compliance - Evaluate AI responses for technical accuracy, practicality, and compliance with real-world requirements - Draft realistic QA scenarios based on your direct professional experience - Create scenario variations from different perspectives (e.g. quality managers, auditors, operations leads) - Identify gaps, oversights, or weak reasoning in AI-generated QA content In simple terms: You will assess and improve AI-generated content, ensuring it reflects true QA reasoning, best industry practices, and operational procedures. Rather than conducting traditional QA work, you’ll apply your expertise to help AI systems understand and reason about quality assurance processes at scale. Who You Are - An experienced quality assurance lead or specialist with significant professional experience within the EU or UK - Experienced in managing, validating, or improving quality processes and compliance - Skilled at evaluating technical documents, workflows, and standards alignment"
  },
  {
+  "id": "lever-valarian-1df5f9cb",
+  "company": "Valarian",
+  "ats": "lever",
+  "title": "InfoSec Engineer",
+  "location": "London; London",
+  "remote": false,
+  "workplace": "hybrid",
+  "employment": "Full time",
+  "posted": "2026-05-21",
+  "url": "https://jobs.lever.co/valarian/1df5f9cb-7f5a-479f-a09d-bac31b21934f",
+  "compensation": null,
+  "excerpt": "Valarian: Innovating for the new era of digital sovereignty Valarian Technologies is a dual-use technology company building critical tools to safeguard the future in an era of evolving global security challenges. We're rethinking security beyond traditional military domains, addressing asymmetric threats that impact our technological advantage, economic strength, and democratic institutions. We build Acra – the platform foundation for everything we do as a dual-use technology company. The platform’s name, rooted in the Greek word for citadel (or, fortress), reflects the design and purpose of our infrastructure-agnostic secure enclaves: protecting critical data. Some of the government and commercial workflows include: increased operational resiliency for mission-critical systems and functions; enabling organizations to more quickly and widely adopt emerging technologies while ensuring the integrity of their intellectual property; information flow during disaster response scenarios, and zero-trust / least-privilege environments for M&A, attorney-client privileged communications, etc. And we’ve only scratched the surface. At our core, we're driven by a shared mission and a belief in making a tangible impact on our world. Whether you join our London HQ or the wider global organisation, you’ll be a part of collaborative, high-performing teams, creating cutting-edge software, platforms, and infrastructure. The Role As Head of Information Security at Valarian, you will define and lead our security strategy with a strong focus on protecting our digital ecosystem, spanning cloud infrastructure, SaaS platforms, and internal tooling. You’ll be responsible for securing how our organisation operates day-to-day: from identity and access across SaaS tools, to cloud architecture, to da"
+ },
+ {
   "id": "lever-dlocal-21726fe4",
   "company": "dLocal",
   "ats": "lever",
@@ -1020,6 +1258,20 @@
   "url": "https://jobs.lever.co/dlocal/d6cacc92-dc5c-4d76-b064-4502d352fdf6",
   "compensation": null,
   "excerpt": "Why Join dLocal?dLocal is the financial infrastructure powering global commerce in the world's fastest-growing markets. The biggest companies in the world trust us to unlock growth in 60+ countries across emerging markets—moving money where others see complexity. We don't just process payments; we are architects of payment ecosystems and partners in our customers' expansion. You'll work alongside 1,300+ teammates from 40+ nationalities and tackle global challenges from day one. What's the Opportunity? We are looking for a Compliance Officer based in Senegal to join our global team. This role is open to the whole of Senegal and plays a crucial part in our banking relationships, local regulatory compliance, and internal reporting. You will serve as the primary compliance contact for all matters within the WAEMU/BCEAO zone."
+ },
+ {
+  "id": "gh-hiddenlayer-5069486007",
+  "company": "HiddenLayer",
+  "ats": "greenhouse",
+  "title": "Technical Product Manager for AI Security Products",
+  "location": "Remote- US",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-03-04",
+  "url": "https://job-boards.greenhouse.io/hiddenlayer/jobs/5069486007",
+  "compensation": null,
+  "excerpt": "Technical Product Manager for AI Security Products Remote [within the US] ABOUT THE ROLE: HiddenLayer is entering an exciting new chapter in our company history and we are seeking a Technical Product Manager for our AI Security products to drive the development of a groundbreaking cybersecurity platform to secure and protect against adversarial AI attacks. In this role, you'll have the opportunity to work with industry pioneers in data science and artificial intelligence threat research in a fast-paced emerging market. As a Product Manager with a strong background in cybersecurity and AI, you will play a crucial role in the development, enhancement, and delivery of HiddenLayer’s AISec Platform to protect and defend generative AI and agentic systems against cybersecurity threats and attacks. WHO WE ARE: HiddenLayer protects the world’s most valuable technologies from adversarial AI attacks. We were founded by AI professionals and security specialists with first-hand experience of how insidious adversarial AI attacks can be to detect and defend against. Determined to prove that these attacks were preventable, the team developed a unique, patent-pending, productized solution to support organizations in accelerating their adoption of AI securely. Our dedication to innovation has been recognized by prestigious awards such as RSA's Innovation Sandbox Winner, CB Insights AI 100, CyberTech 100, and SC's Most Promising Early-Stage Start-up. WHAT YOU’LL DO: You will be responsible for translating customer needs, technical insights, and the evolving Adversarial AI threat landscape into actionable product capabilities and detection techniques. Your exceptional understanding of both machine learning and cybersecurity will allow you to effectively guide cross-functional teams, bridgi"
  },
  {
   "id": "ashby-legora-ab748e6a",

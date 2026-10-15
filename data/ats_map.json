@@ -3,6 +3,10 @@
   "ats": "ashby",
   "slug": "10xteam"
  },
+ "AIUC": {
+  "ats": "ashby",
+  "slug": "aiuc"
+ },
  "Aufinity Group": {
   "ats": "ashby",
   "slug": "aufinity-group"
@@ -23,9 +27,29 @@
   "ats": "lever",
   "slug": "contentsquare"
  },
+ "Corma": {
+  "ats": "ashby",
+  "slug": "corma"
+ },
+ "Exein": {
+  "ats": "greenhouse",
+  "slug": "exeinspa"
+ },
+ "HiddenLayer": {
+  "ats": "greenhouse",
+  "slug": "hiddenlayer"
+ },
  "Hopper": {
   "ats": "ashby",
   "slug": "hopper"
+ },
+ "Horizon3.ai": {
+  "ats": "ashby",
+  "slug": "horizon3ai"
+ },
+ "Island": {
+  "ats": "greenhouse",
+  "slug": "island"
  },
  "JetBrains": {
   "ats": "greenhouse",
@@ -79,6 +103,18 @@
   "ats": "ashby",
   "slug": "nelly"
  },
+ "Obsidian Security": {
+  "ats": "greenhouse",
+  "slug": "obsidiansecurity"
+ },
+ "Oligo": {
+  "ats": "ashby",
+  "slug": "oligo"
+ },
+ "Onyx Security": {
+  "ats": "ashby",
+  "slug": "onyx"
+ },
  "Outpost": {
   "ats": "ashby",
   "slug": "outpost"
@@ -118,6 +154,14 @@
  "Taxbit": {
   "ats": "greenhouse",
   "slug": "taxbit"
+ },
+ "ThreatLocker": {
+  "ats": "greenhouse",
+  "slug": "threatlocker"
+ },
+ "Valarian": {
+  "ats": "lever",
+  "slug": "valarian"
  },
  "Yuno": {
   "ats": "lever",

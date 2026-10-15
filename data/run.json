@@ -1,8 +1,8 @@
 {
- "ranAt": "2026-10-15T04:06:28+00:00",
- "companies": 58,
- "boardsRead": 33,
- "matchingJobs": 78,
+ "ranAt": "2026-10-15T19:02:30+00:00",
+ "companies": 77,
+ "boardsRead": 44,
+ "matchingJobs": 96,
  "noBoardFound": [
   "MultiSafepay",
   "Tucuvi",
@@ -28,7 +28,15 @@
   "Flatpay",
   "Aiven",
   "Aikido Security",
-  "Noma Security"
+  "Noma Security",
+  "Cyera",
+  "Glow",
+  "Zenity",
+  "Neo",
+  "MIND",
+  "Oak",
+  "Reco",
+  "AIR Security"
  ],
  "errors": []
 }
