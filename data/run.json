@@ -1,7 +1,7 @@
 {
- "ranAt": "2026-10-16T08:32:48+00:00",
- "companies": 77,
- "boardsRead": 44,
+ "ranAt": "2026-10-16T10:54:17+00:00",
+ "companies": 85,
+ "boardsRead": 47,
  "matchingJobs": 96,
  "noBoardFound": [
   "MultiSafepay",
@@ -36,7 +36,12 @@
   "MIND",
   "Oak",
   "Reco",
-  "AIR Security"
+  "AIR Security",
+  "Spiko",
+  "Marble",
+  "ID Finance",
+  "PlannerPal",
+  "Cleavr"
  ],
  "errors": []
 }

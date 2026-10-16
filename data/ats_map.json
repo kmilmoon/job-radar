@@ -103,6 +103,10 @@
   "ats": "ashby",
   "slug": "nelly"
  },
+ "Noah": {
+  "ats": "greenhouse",
+  "slug": "noah"
+ },
  "Obsidian Security": {
   "ats": "greenhouse",
   "slug": "obsidiansecurity"
@@ -139,6 +143,10 @@
   "ats": "ashby",
   "slug": "primer.io"
  },
+ "Scarlet": {
+  "ats": "ashby",
+  "slug": "scarlet"
+ },
  "Socket": {
   "ats": "ashby",
   "slug": "socket"
@@ -158,6 +166,10 @@
  "ThreatLocker": {
   "ats": "greenhouse",
   "slug": "threatlocker"
+ },
+ "TrueLayer": {
+  "ats": "ashby",
+  "slug": "truelayer"
  },
  "Valarian": {
   "ats": "lever",
