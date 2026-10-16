@@ -368,5 +368,60 @@
   "slugs": [
    "aiuc"
   ]
+ },
+ {
+  "name": "Spiko",
+  "slugs": [
+   "spiko"
+  ]
+ },
+ {
+  "name": "TrueLayer",
+  "slugs": [
+   "truelayer"
+  ]
+ },
+ {
+  "name": "Marble",
+  "slugs": [
+   "checkmarble",
+   "marble-aml",
+   "marblecompliance"
+  ]
+ },
+ {
+  "name": "Noah",
+  "slugs": [
+   "noah",
+   "noahhq",
+   "noah-money"
+  ]
+ },
+ {
+  "name": "ID Finance",
+  "slugs": [
+   "idfinance",
+   "id-finance"
+  ]
+ },
+ {
+  "name": "Scarlet",
+  "slugs": [
+   "scarlet",
+   "scarletcomply",
+   "scarlet-medical"
+  ]
+ },
+ {
+  "name": "PlannerPal",
+  "slugs": [
+   "plannerpal"
+  ]
+ },
+ {
+  "name": "Cleavr",
+  "slugs": [
+   "cleavr"
+  ]
  }
 ]
