@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-18T10:27:13+00:00",
+ "ranAt": "2026-10-18T10:33:19+00:00",
  "companies": 85,
  "boardsRead": 47,
  "matchingJobs": 96,
@@ -46,11 +46,18 @@
  "errors": [],
  "aggregators": {
   "jobgether": 10,
-  "himalayas": 0,
-  "workingnomads": 0
+  "himalayas": 1,
+  "workingnomads": 0,
+  "_raw": {
+   "jobgether_raw": 3597,
+   "https://himalayas.app/jobs/api": "HTTP 200, 144766 bytes",
+   "himalayas_raw": 120,
+   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 219481 bytes",
+   "workingnomads_raw": 49
+  }
  },
  "aggregatorJobs": {
-  "core": 4,
+  "core": 5,
   "alt": 6
  },
  "aggregatorErrors": []
