@@ -58,10 +58,10 @@ def fake_raw(url, data=None, timeout=40, accept=None):
 ag.probe_raw = fake_raw
 items, counts, errors = ag.run()
 titles = sorted((i["track"], i["title"]) for i in items)
-assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Gerente de Operaciones"), ("alt", "Head of Operations"),
+assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Head of Operations"),
                   ("core", "Head of Seguridad de la Información"), ("core", "Security Program Manager")], titles
 assert {k: v for k, v in counts.items() if k != "_raw"} == {"jobgether": 1, "himalayas": 2, "workingnomads": 1,
-    "getonboard": 1, "torre": 1}, counts
+    "getonboard": 1}, counts
 assert ag.classify("Vigilante de seguridad") is None and ag.classify("Responsable de Cumplimiento") == "core"
 assert not errors
 wn = [i for i in items if i["source"] == "workingnomads"][0]

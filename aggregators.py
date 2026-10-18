@@ -1,5 +1,5 @@
 """Remote-job aggregators: Jobgether (Lever board), Himalayas, Working Nomads,
-Get on Board and Torre.
+and Get on Board.
 
 Each source is read through its public JSON feed. Postings are tagged:
   track "core" = security / GRC / compliance titles (main tab)
@@ -224,68 +224,8 @@ def getonboard():
     return out
 
 
-TORRE_QUERIES = ["security", "compliance", "risk", "operations", "chief of staff", "program manager"]
-TORRE_VARIANTS = [
-    ("https://search.torre.co/opportunities/_search/?offset=0&size=100&aggregate=false",
-     lambda q: {"and": [{"remote": {"term": True}}, {"skill/role": {"text": q, "experience": "potential-to-develop"}}]}),
-    ("https://search.torre.co/opportunities/_search/?offset=0&size=100&aggregate=false",
-     lambda q: {"and": [{"remote": {"term": True}}, {"keywords": {"term": q, "locale": "en"}}]}),
-    ("https://search.torre.co/opportunities/_search?currency=USD%24&page=0&periodicity=hourly&lang=en&size=100&aggregate=false",
-     lambda q: {"and": [{"keywords": {"term": q, "locale": "en"}}, {"remote": {"term": True}}]}),
-    ("https://search.torre.co/opportunities/_search/?offset=0&size=100&aggregate=false",
-     lambda q: {"skill/role": {"text": q, "experience": "potential-to-develop"}}),
-]
-
-
-_TORRE_OK = []
-
-
-def _torre_search(q):
-    import json as _j
-    for n, (url, body) in enumerate(_TORRE_OK or TORRE_VARIANTS):
-        txt = probe_raw(url, body(q))
-        RAW[f"torre_v{n}"] = RAW.pop(url.split("?")[0], None)
-        try:
-            payload = _j.loads(txt) if txt else None
-        except ValueError:
-            payload = None
-        if isinstance(payload, dict) and isinstance(payload.get("results"), list):
-            if not _TORRE_OK:
-                _TORRE_OK.append((url, body))
-                RAW["torre_variant"] = n
-            return payload["results"]
-    return []
-
-
-def torre():
-    out, seen = [], set()
-    for q in TORRE_QUERIES:
-        res = _torre_search(q)
-        RAW["torre_raw"] = RAW.get("torre_raw", 0) + len(res)
-        for j in res:
-            jid = str(j.get("id", ""))
-            if jid in seen:
-                continue
-            seen.add(jid)
-            if j.get("remote") is False:
-                continue
-            orgs = j.get("organizations") or []
-            company = (orgs[0] or {}).get("name", "") if orgs else ""
-            locs = j.get("locations") or []
-            loc = ", ".join(locs) if locs else "Remote anywhere"
-            comp = None
-            cd = ((j.get("compensation") or {}).get("data") or {})
-            if cd.get("minAmount") or cd.get("maxAmount"):
-                comp = f"{cd.get('currency', '')} {cd.get('minAmount', '')}-{cd.get('maxAmount', '')} {cd.get('periodicity', '')}".strip()
-            it = _item("torre", jid, j.get("objective", ""), company, loc, f"https://torre.ai/post/{jid}",
-                       str(j.get("created") or "")[:10], j.get("type"), comp, j.get("tagline") or "")
-            if it:
-                out.append(it)
-    return out
-
-
 SOURCES = {"jobgether": jobgether, "himalayas": himalayas, "workingnomads": working_nomads,
-           "getonboard": getonboard, "torre": torre}
+           "getonboard": getonboard}
 
 
 def run():
