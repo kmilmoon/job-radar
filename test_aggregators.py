@@ -53,7 +53,7 @@ TORRE = {"results": [{"id": "abc123", "objective": "Gerente de Operaciones", "or
   {"id": "zzz", "objective": "Risk Manager", "organizations": [{"name": "Gamma"}], "locations": ["Colombia"]}]}
 def fake_raw(url, data=None, timeout=40, accept=None):
     if "getonbrd" in url: return _json.dumps(GOB if "query=security" in url else {"data": []})
-    if "torre.co" in url: return _json.dumps(TORRE if data and data["and"][1]["skill/role"]["text"] == "security" else {"results": []})
+    if "torre.co" in url: return _json.dumps(TORRE if "security" in _json.dumps(data) else {"results": []})
     return None
 ag.probe_raw = fake_raw
 items, counts, errors = ag.run()
@@ -61,7 +61,7 @@ titles = sorted((i["track"], i["title"]) for i in items)
 assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Gerente de Operaciones"), ("alt", "Head of Operations"),
                   ("core", "Head of Seguridad de la Información"), ("core", "Security Program Manager")], titles
 assert {k: v for k, v in counts.items() if k != "_raw"} == {"jobgether": 1, "himalayas": 2, "workingnomads": 1,
-    "getonboard": 1, "torre": 1, "weremoto": 0}, counts
+    "getonboard": 1, "torre": 1}, counts
 assert ag.classify("Vigilante de seguridad") is None and ag.classify("Responsable de Cumplimiento") == "core"
 assert not errors
 wn = [i for i in items if i["source"] == "workingnomads"][0]

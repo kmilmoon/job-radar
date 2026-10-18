@@ -1,5 +1,5 @@
 """Remote-job aggregators: Jobgether (Lever board), Himalayas, Working Nomads,
-Get on Board, Torre and WeRemoto.
+Get on Board and Torre.
 
 Each source is read through its public JSON feed. Postings are tagged:
   track "core" = security / GRC / compliance titles (main tab)
@@ -225,25 +225,46 @@ def getonboard():
 
 
 TORRE_QUERIES = ["security", "compliance", "risk", "operations", "chief of staff", "program manager"]
+TORRE_VARIANTS = [
+    ("https://search.torre.co/opportunities/_search/?offset=0&size=100&aggregate=false",
+     lambda q: {"and": [{"remote": {"term": True}}, {"skill/role": {"text": q, "experience": "potential-to-develop"}}]}),
+    ("https://search.torre.co/opportunities/_search/?offset=0&size=100&aggregate=false",
+     lambda q: {"and": [{"remote": {"term": True}}, {"keywords": {"term": q, "locale": "en"}}]}),
+    ("https://search.torre.co/opportunities/_search?currency=USD%24&page=0&periodicity=hourly&lang=en&size=100&aggregate=false",
+     lambda q: {"and": [{"keywords": {"term": q, "locale": "en"}}, {"remote": {"term": True}}]}),
+    ("https://search.torre.co/opportunities/_search/?offset=0&size=100&aggregate=false",
+     lambda q: {"skill/role": {"text": q, "experience": "potential-to-develop"}}),
+]
+
+
+def _torre_search(q):
+    import json as _j
+    for n, (url, body) in enumerate(RAW.get("_torre_ok", []) or TORRE_VARIANTS):
+        txt = probe_raw(url, body(q))
+        RAW[f"torre_v{n}"] = RAW.pop(url.split("?")[0], None)
+        try:
+            payload = _j.loads(txt) if txt else None
+        except ValueError:
+            payload = None
+        if isinstance(payload, dict) and isinstance(payload.get("results"), list):
+            RAW["_torre_ok"] = [(url, body)]
+            RAW["torre_variant"] = n
+            return payload["results"]
+    return []
 
 
 def torre():
-    import json as _j
     out, seen = [], set()
     for q in TORRE_QUERIES:
-        body = {"and": [{"remote": {"term": True}}, {"skill/role": {"text": q, "experience": "potential-to-develop"}}]}
-        txt = probe_raw("https://search.torre.co/opportunities/_search?currency=USD&page=0&periodicity=hourly&lang=en&size=100&aggregate=false", body)
-        try:
-            payload = _j.loads(txt) if txt else {}
-        except ValueError:
-            payload = {}
-        res = payload.get("results") or []
+        res = _torre_search(q)
         RAW["torre_raw"] = RAW.get("torre_raw", 0) + len(res)
         for j in res:
             jid = str(j.get("id", ""))
             if jid in seen:
                 continue
             seen.add(jid)
+            if j.get("remote") is False:
+                continue
             orgs = j.get("organizations") or []
             company = (orgs[0] or {}).get("name", "") if orgs else ""
             locs = j.get("locations") or []
@@ -256,51 +277,12 @@ def torre():
                        str(j.get("created") or "")[:10], j.get("type"), comp, j.get("tagline") or "")
             if it:
                 out.append(it)
-    return out
-
-
-def weremoto():
-    """WordPress site: try the REST API for job listings, then the WP Job Manager RSS feed."""
-    import json as _j
-    import xml.etree.ElementTree as ET
-    out = []
-    txt = probe_raw("https://weremoto.com/wp-json/wp/v2/job-listings?per_page=100")
-    items = []
-    try:
-        data = _j.loads(txt) if txt else None
-        if isinstance(data, list):
-            for j in data:
-                items.append({"id": str(j.get("id")), "title": fj.strip_html((j.get("title") or {}).get("rendered", ""), 200),
-                              "url": j.get("link"), "posted": (j.get("date") or "")[:10],
-                              "excerpt": (j.get("content") or {}).get("rendered", ""),
-                              "company": (j.get("meta") or {}).get("_company_name", "") if isinstance(j.get("meta"), dict) else ""})
-    except ValueError:
-        pass
-    if not items:
-        xml = probe_raw("https://weremoto.com/?feed=job_feed", accept="application/rss+xml, text/xml")
-        try:
-            root = ET.fromstring(xml) if xml else None
-        except ET.ParseError:
-            root = None
-        if root is not None:
-            for i in root.iter("item"):
-                link = i.findtext("link") or ""
-                company = ""
-                for ch in i:
-                    if ch.tag.endswith("company"):
-                        company = ch.text or ""
-                items.append({"id": link.rstrip("/").split("/")[-1][-24:], "title": i.findtext("title") or "", "url": link,
-                              "posted": "", "excerpt": i.findtext("description") or "", "company": company})
-    RAW["weremoto_raw"] = len(items)
-    for j in items:
-        it = _item("weremoto", j["id"], j["title"], j["company"] or "", "", j["url"], j["posted"], None, None, j["excerpt"])
-        if it:
-            out.append(it)
+    RAW.pop("_torre_ok", None)
     return out
 
 
 SOURCES = {"jobgether": jobgether, "himalayas": himalayas, "workingnomads": working_nomads,
-           "getonboard": getonboard, "torre": torre, "weremoto": weremoto}
+           "getonboard": getonboard, "torre": torre}
 
 
 def run():
