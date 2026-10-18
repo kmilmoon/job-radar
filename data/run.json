@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-16T10:54:17+00:00",
+ "ranAt": "2026-10-18T10:27:13+00:00",
  "companies": 85,
  "boardsRead": 47,
  "matchingJobs": 96,
@@ -43,5 +43,15 @@
   "PlannerPal",
   "Cleavr"
  ],
- "errors": []
+ "errors": [],
+ "aggregators": {
+  "jobgether": 10,
+  "himalayas": 0,
+  "workingnomads": 0
+ },
+ "aggregatorJobs": {
+  "core": 4,
+  "alt": 6
+ },
+ "aggregatorErrors": []
 }
