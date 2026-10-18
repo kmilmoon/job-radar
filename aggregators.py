@@ -237,9 +237,12 @@ TORRE_VARIANTS = [
 ]
 
 
+_TORRE_OK = []
+
+
 def _torre_search(q):
     import json as _j
-    for n, (url, body) in enumerate(RAW.get("_torre_ok", []) or TORRE_VARIANTS):
+    for n, (url, body) in enumerate(_TORRE_OK or TORRE_VARIANTS):
         txt = probe_raw(url, body(q))
         RAW[f"torre_v{n}"] = RAW.pop(url.split("?")[0], None)
         try:
@@ -247,8 +250,9 @@ def _torre_search(q):
         except ValueError:
             payload = None
         if isinstance(payload, dict) and isinstance(payload.get("results"), list):
-            RAW["_torre_ok"] = [(url, body)]
-            RAW["torre_variant"] = n
+            if not _TORRE_OK:
+                _TORRE_OK.append((url, body))
+                RAW["torre_variant"] = n
             return payload["results"]
     return []
 
@@ -277,7 +281,6 @@ def torre():
                        str(j.get("created") or "")[:10], j.get("type"), comp, j.get("tagline") or "")
             if it:
                 out.append(it)
-    RAW.pop("_torre_ok", None)
     return out
 
 
