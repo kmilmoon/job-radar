@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-18T13:31:12+00:00",
+ "ranAt": "2026-10-18T13:39:12+00:00",
  "companies": 85,
  "boardsRead": 47,
  "matchingJobs": 96,
@@ -49,7 +49,6 @@
   "himalayas": 1,
   "workingnomads": 0,
   "getonboard": 4,
-  "torre": 0,
   "_raw": {
    "jobgether_raw": 3597,
    "https://himalayas.app/jobs/api": "HTTP 200, 154093 bytes",
@@ -57,12 +56,7 @@
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 219481 bytes",
    "workingnomads_raw": 49,
    "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 775916 bytes",
-   "getonboard_raw": 963,
-   "torre_v0": "HTTPError: HTTP Error 400: Bad Request",
-   "torre_v1": "HTTPError: HTTP Error 400: Bad Request",
-   "torre_v2": "HTTPError: HTTP Error 400: Bad Request",
-   "torre_v3": "HTTPError: HTTP Error 400: Bad Request",
-   "torre_raw": 0
+   "getonboard_raw": 963
   }
  },
  "aggregatorJobs": {
