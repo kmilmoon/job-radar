@@ -33,7 +33,7 @@ EXCLUDE_RE = re.compile(
     r"\b(intern|internship|junior|graduate|entry[- ]level|sdr|bdr|account executive|"
     r"sales (rep|representative|development)|customer support|support agent|call center|"
     r"software engineer|developer|devops|sre|data engineer|machine learning engineer|"
-    r"security guard|warehouse|driver|nurse|physician|therapist)\b", re.I)
+    r"security guard|warehouse|driver|nurse|physician|therapist|language (specialist|expert)|translator)\b", re.I)
 
 GEO_OK_RE = re.compile(
     r"(spain|españa|espana|europe|emea|european union|\beu\b|worldwide|anywhere|global|"
@@ -117,7 +117,7 @@ def jobgether():
     return out
 
 
-def himalayas(pages=6):
+def himalayas(pages=25):
     out = []
     for p in range(pages):
         payload = probe(f"https://himalayas.app/jobs/api?limit=100&offset={p * 100}")
