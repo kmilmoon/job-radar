@@ -43,11 +43,12 @@ def fake(url, timeout=25):
 
 
 fj.get_json = fake
+ag.probe = lambda url, timeout=40: fake(url)
 items, counts, errors = ag.run()
 titles = sorted((i["track"], i["title"]) for i in items)
 assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Head of Operations"),
                   ("core", "Security Program Manager")], titles
-assert counts == {"jobgether": 1, "himalayas": 2, "workingnomads": 1}, counts
+assert {k: v for k, v in counts.items() if k != "_raw"} == {"jobgether": 1, "himalayas": 2, "workingnomads": 1}, counts
 assert not errors
 wn = [i for i in items if i["source"] == "workingnomads"][0]
 assert wn["excerpt"] == "Help the CEO" and wn["tags"] == ["operations", "remote"]

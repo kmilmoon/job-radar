@@ -81,8 +81,27 @@ def _item(source, id_, title, company, location, url, posted, employment=None, c
     }
 
 
+RAW = {}
+
+
+def probe(url, timeout=40):
+    """GET JSON and remember what came back, so run.json shows why a feed is empty."""
+    import json as _j
+    import urllib.request as _r
+    req = _r.Request(url, headers={"User-Agent": "Mozilla/5.0 (job-radar; personal job search)", "Accept": "application/json"})
+    try:
+        with _r.urlopen(req, timeout=timeout) as resp:
+            body = resp.read().decode("utf-8", "replace")
+            RAW[url.split("?")[0]] = f"HTTP {resp.status}, {len(body)} bytes"
+            return _j.loads(body)
+    except Exception as e:  # recorded, not raised: an empty feed must not stop the run
+        RAW[url.split("?")[0]] = f"{type(e).__name__}: {str(e)[:120]}"
+        return None
+
+
 def jobgether():
     payload = fj.get_json("https://api.lever.co/v0/postings/jobgether?mode=json", timeout=60)
+    RAW["jobgether_raw"] = len(payload or [])
     out = []
     for j in payload or []:
         cats = j.get("categories") or {}
@@ -101,8 +120,9 @@ def jobgether():
 def himalayas(pages=6):
     out = []
     for p in range(pages):
-        payload = fj.get_json(f"https://himalayas.app/jobs/api?limit=100&offset={p * 100}", timeout=40)
-        jobs = (payload or {}).get("jobs") or []
+        payload = probe(f"https://himalayas.app/jobs/api?limit=100&offset={p * 100}")
+        jobs = (payload or {}).get("jobs") or [] if isinstance(payload, dict) else []
+        RAW["himalayas_raw"] = RAW.get("himalayas_raw", 0) + len(jobs)
         if not jobs:
             break
         for j in jobs:
@@ -124,7 +144,8 @@ def himalayas(pages=6):
 
 
 def working_nomads():
-    payload = fj.get_json("https://www.workingnomads.com/api/exposed_jobs/", timeout=40)
+    payload = probe("https://www.workingnomads.com/api/exposed_jobs/")
+    RAW["workingnomads_raw"] = len(payload or []) if isinstance(payload, list) else 0
     out = []
     for j in payload or []:
         it = _item("workingnomads", str(j.get("url", ""))[-12:].strip("/"), j.get("title", ""),
@@ -157,4 +178,5 @@ def run():
         seen.add(key)
         uniq.append(it)
     uniq.sort(key=lambda j: j.get("posted") or "", reverse=True)
+    counts["_raw"] = RAW
     return uniq, counts, errors
