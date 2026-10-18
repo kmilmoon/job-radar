@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-18T10:38:39+00:00",
+ "ranAt": "2026-10-18T13:23:16+00:00",
  "companies": 85,
  "boardsRead": 47,
  "matchingJobs": 96,
@@ -46,19 +46,29 @@
  "errors": [],
  "aggregators": {
   "jobgether": 8,
-  "himalayas": 2,
+  "himalayas": 1,
   "workingnomads": 0,
+  "getonboard": 4,
+  "torre": 0,
+  "weremoto": 0,
   "_raw": {
    "jobgether_raw": 3597,
-   "https://himalayas.app/jobs/api": "HTTP 200, 131949 bytes",
+   "https://himalayas.app/jobs/api": "HTTP 200, 154093 bytes",
    "himalayas_raw": 500,
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 219481 bytes",
-   "workingnomads_raw": 49
+   "workingnomads_raw": 49,
+   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 775916 bytes",
+   "getonboard_raw": 963,
+   "https://search.torre.co/opportunities/_search": "HTTPError: HTTP Error 400: Bad Request",
+   "torre_raw": 0,
+   "https://weremoto.com/wp-json/wp/v2/job-listings": "HTTPError: HTTP Error 404: Not Found",
+   "https://weremoto.com/": "HTTP 200, 885499 bytes",
+   "weremoto_raw": 0
   }
  },
  "aggregatorJobs": {
-  "core": 5,
-  "alt": 5
+  "core": 6,
+  "alt": 7
  },
  "aggregatorErrors": []
 }
