@@ -44,11 +44,25 @@ def fake(url, timeout=25):
 
 fj.get_json = fake
 ag.probe = lambda url, timeout=40: fake(url)
+import json as _json
+GOB = {"data": [{"id": "head-of-security-acme-1", "attributes": {"title": "Head of Seguridad de la Información", "remote": True,
+  "remote_modality": "fully_remote", "countries": [], "published_at": 1760000000, "company": {"data": {"attributes": {"name": "Acme LatAm"}}}},
+  "links": {"public_url": "https://www.getonbrd.com/jobs/acme-1"}},
+  {"id": "dev-2", "attributes": {"title": "Senior Software Engineer", "remote": True}}]}
+TORRE = {"results": [{"id": "abc123", "objective": "Gerente de Operaciones", "organizations": [{"name": "Beta Co"}], "locations": [], "created": "2026-10-10T00:00:00Z"},
+  {"id": "zzz", "objective": "Risk Manager", "organizations": [{"name": "Gamma"}], "locations": ["Colombia"]}]}
+def fake_raw(url, data=None, timeout=40, accept=None):
+    if "getonbrd" in url: return _json.dumps(GOB if "query=security" in url else {"data": []})
+    if "torre.co" in url: return _json.dumps(TORRE if data and data["and"][1]["skill/role"]["text"] == "security" else {"results": []})
+    return None
+ag.probe_raw = fake_raw
 items, counts, errors = ag.run()
 titles = sorted((i["track"], i["title"]) for i in items)
-assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Head of Operations"),
-                  ("core", "Security Program Manager")], titles
-assert {k: v for k, v in counts.items() if k != "_raw"} == {"jobgether": 1, "himalayas": 2, "workingnomads": 1}, counts
+assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Gerente de Operaciones"), ("alt", "Head of Operations"),
+                  ("core", "Head of Seguridad de la Información"), ("core", "Security Program Manager")], titles
+assert {k: v for k, v in counts.items() if k != "_raw"} == {"jobgether": 1, "himalayas": 2, "workingnomads": 1,
+    "getonboard": 1, "torre": 1, "weremoto": 0}, counts
+assert ag.classify("Vigilante de seguridad") is None and ag.classify("Responsable de Cumplimiento") == "core"
 assert not errors
 wn = [i for i in items if i["source"] == "workingnomads"][0]
 assert wn["excerpt"] == "Help the CEO" and wn["tags"] == ["operations", "remote"]
