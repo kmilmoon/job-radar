@@ -1,5 +1,7 @@
 """Offline test: fakes the three ATS APIs and checks detection, filtering and output."""
 import json
+import os
+os.environ["COMPANIES_ONLY"] = "1"
 import shutil
 import tempfile
 from pathlib import Path

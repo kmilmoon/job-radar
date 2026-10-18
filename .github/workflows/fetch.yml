@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["companies.json", "fetch_jobs.py", ".github/workflows/fetch.yml"]
+    paths: ["companies.json", "fetch_jobs.py", "aggregators.py", ".github/workflows/fetch.yml"]
 
 permissions:
   contents: write

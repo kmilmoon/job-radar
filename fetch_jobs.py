@@ -217,6 +217,12 @@ def relevant(job):
     return bool(TITLE_RE.search(t)) and not TITLE_EXCLUDE.search(t)
 
 
+def companies_only():
+    """Set COMPANIES_ONLY=1 to skip the aggregators (used by the offline test)."""
+    import os
+    return os.environ.get("COMPANIES_ONLY") == "1"
+
+
 def main():
     companies = json.loads((ROOT / "companies.json").read_text(encoding="utf-8"))
     DATA.mkdir(exist_ok=True)
@@ -241,8 +247,15 @@ def main():
         jobs.extend(found)
 
     jobs.sort(key=lambda j: j.get("posted") or "", reverse=True)
+
+    agg, agg_counts, agg_errors = [], {}, []
+    if not companies_only():
+        import aggregators
+        agg, agg_counts, agg_errors = aggregators.run()
+
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     (DATA / "jobs.json").write_text(json.dumps(jobs, ensure_ascii=False, indent=1), encoding="utf-8")
+    (DATA / "boards.json").write_text(json.dumps(agg, ensure_ascii=False, indent=1), encoding="utf-8")
     cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     (DATA / "run.json").write_text(json.dumps({
         "ranAt": now,
@@ -251,8 +264,13 @@ def main():
         "matchingJobs": len(jobs),
         "noBoardFound": not_found,
         "errors": errors,
+        "aggregators": agg_counts,
+        "aggregatorJobs": {"core": sum(1 for a in agg if a["track"] == "core"),
+                           "alt": sum(1 for a in agg if a["track"] == "alt")},
+        "aggregatorErrors": agg_errors,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{now}: {checked} boards read, {len(jobs)} matching jobs, {len(not_found)} without a public board, {len(errors)} errors")
+    print(f"{now}: {checked} boards read, {len(jobs)} matching jobs, {len(not_found)} without a public board, "
+          f"{len(errors)} errors; aggregators {agg_counts} errors {agg_errors}")
     return 0
 
 
