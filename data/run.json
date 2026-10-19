@@ -1,8 +1,8 @@
 {
- "ranAt": "2026-10-18T13:39:12+00:00",
+ "ranAt": "2026-10-19T09:21:23+00:00",
  "companies": 85,
  "boardsRead": 47,
- "matchingJobs": 96,
+ "matchingJobs": 95,
  "noBoardFound": [
   "MultiSafepay",
   "Tucuvi",
@@ -45,23 +45,23 @@
  ],
  "errors": [],
  "aggregators": {
-  "jobgether": 8,
-  "himalayas": 1,
+  "jobgether": 11,
+  "himalayas": 4,
   "workingnomads": 0,
-  "getonboard": 4,
+  "getonboard": 3,
   "_raw": {
-   "jobgether_raw": 3597,
-   "https://himalayas.app/jobs/api": "HTTP 200, 154093 bytes",
+   "jobgether_raw": 4047,
+   "https://himalayas.app/jobs/api": "HTTP 200, 145400 bytes",
    "himalayas_raw": 500,
-   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 219481 bytes",
-   "workingnomads_raw": 49,
-   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 775916 bytes",
-   "getonboard_raw": 963
+   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 188457 bytes",
+   "workingnomads_raw": 42,
+   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 774345 bytes",
+   "getonboard_raw": 964
   }
  },
  "aggregatorJobs": {
-  "core": 6,
-  "alt": 7
+  "core": 8,
+  "alt": 10
  },
  "aggregatorErrors": []
 }

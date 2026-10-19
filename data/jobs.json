@@ -854,20 +854,6 @@
   "excerpt": "Why Join dLocal?dLocal is the financial infrastructure powering global commerce in the world's fastest-growing markets. The biggest companies in the world trust us to unlock growth in 60+ countries across emerging markets—moving money where others see complexity. We don't just process payments; we are architects of payment ecosystems and partners in our customers' expansion. You'll work alongside 1,300+ teammates from 40+ nationalities and tackle global challenges from day one. What’s the opportunity? We are looking for a Senior Network & Edge Security Engineer to help design, operate, and evolve dLocal’s global cloud and hybrid network perimeter. This role combines deep cloud networking expertise with a strong security mindset: you will own secure connectivity, traffic protection, WAF and firewall controls, and the automation that makes those services reliable at scale. You will work closely with Platform, Information Security, Compliance, and Product teams to keep critical services secure, available, low-latency, and ready for international growth."
  },
  {
-  "id": "ashby-horizon3ai-57d96033",
-  "company": "Horizon3.ai",
-  "ats": "ashby",
-  "title": "Senior Backend Engineer, Security Controls",
-  "location": "US, Remote",
-  "remote": true,
-  "workplace": "Remote",
-  "employment": "FullTime",
-  "posted": "2026-07-28",
-  "url": "https://jobs.ashbyhq.com/horizon3ai/57d96033-2e76-4f73-87e3-b11e0586ae19",
-  "compensation": null,
-  "excerpt": "Get to Know Us Horizon3 http://Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by IT Ops/SecOps teams, consulting pentesters, and MSSPs and MSPs. We are a fusion of former U.S. Special Operations cyber operators, startup engineers & operators, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools and false positives, resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results. What You’ll Do As a Senior Backend Engineer on the Security Controls team, you'll drive the technical vision for EDR telemetry and detection inside NodeZero, with direct influence over how EDR effectiveness and tuning evolves as a core product capability. Modern endpoints are instrumented by CrowdStrike, SentinelOne, Microsoft Defender, Carbon Black, and others. Our customers need to know, with evidence, which of our attack techniques their EDR caught, which ones slipped through, and why. Answering that at scale — across platforms, tenants, and operator objectives — requ"
- },
- {
   "id": "ashby-legora-72615933",
   "company": "Legora",
   "ats": "ashby",
