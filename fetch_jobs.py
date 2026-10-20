@@ -253,6 +253,7 @@ def company_signals(company, ats, slug, payload):
     total = 0
     for title, posted, url, text in iter_postings(ats, payload):
         total += 1
+        title = (title or "").strip()
         ref = {"title": title, "posted": posted, "url": url}
         if SIG_LEADER_RE.search(title):
             leader.append(ref)

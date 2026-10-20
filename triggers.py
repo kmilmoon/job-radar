@@ -88,6 +88,16 @@ def due(state, key, days):
         return True
 
 
+def clean_url(u):
+    """Unescape and drop tracking parameters (utm_*, ref)."""
+    u = html.unescape(u or "").strip()
+    if "?" in u:
+        base, q = u.split("?", 1)
+        keep = [kv for kv in q.split("&") if kv and not re.match(r"(utm_[a-z]+|ref|source)=", kv, re.I)]
+        u = base + ("?" + "&".join(keep) if keep else "")
+    return u
+
+
 def pretty(slug):
     words = re.sub(r"[-_]+", " ", slug).strip().split()
     return " ".join(w.upper() if len(w) <= 2 and w.isalpha() and w not in ("of", "on", "to", "in") else w.capitalize()
@@ -180,7 +190,7 @@ def vanta_partner_cards():
                 re.search(r'class="button-secondary[^"]*"[^>]*href="(https?://[^"]+)"', c)
             cards.append({"name": html.unescape(title.group(1)).strip(), "tags": tags,
                           "description": text_of(desc.group(1)) if desc else "",
-                          "web": link.group(1) if link else "", "partnerOf": "Vanta",
+                          "web": clean_url(link.group(1)) if link else "", "partnerOf": "Vanta",
                           "source": "https://www.vanta.com/partners/find-a-partner"})
         if f"429fc2b6_page={page + 1}" not in body or not chunks:
             break
@@ -251,7 +261,7 @@ def secureframe_partner_cards():
         tags = [c.get("title") or c.get("name") or "" for c in callouts if isinstance(c, dict)]
         cards.append({"name": str(d.get("title") or slug).strip(), "tags": [t for t in tags if t],
                       "description": text_of(" ".join(str(d.get(k) or "") for k in ("headline", "description")), 1500),
-                      "web": d.get("website") or "", "partnerOf": "Secureframe", "availability": d.get("availability"),
+                      "web": clean_url(d.get("website") or ""), "partnerOf": "Secureframe", "availability": d.get("availability"),
                       "source": f"https://secureframe.com/partner-directory/partner/{slug}"})
     if not cards:
         ERRORS.append("Secureframe partners: no entries found in the page payload")
@@ -279,11 +289,13 @@ def enrich(card):
                 out["vciso"] = True
             ats = ATS_RE.search(page)
             if ats:
-                out["ats"] = ats.group(0)
-            car = re.search(r"""href=["']([^"']*(?:careers|jobs|join-us|work-with-us|vacancies|trabaja)[^"']*)["']""", page, re.I)
-            if car:
-                href = car.group(1)
-                out["careers"] = href if href.startswith("http") else web.rstrip("/") + "/" + href.lstrip("/")
+                out["ats"] = clean_url(ats.group(0))
+            for car in re.finditer(r"""href=["']([^"']*(?:careers|jobs|join-us|work-with-us|vacancies|trabaja)[^"']*)["']""", page, re.I):
+                href = clean_url(car.group(1))
+                if re.search(r"linkedin\.com|wp-content|indeed\.|glassdoor\.|\.(css|js|png|jpg|svg)(\?|$)", href, re.I):
+                    continue
+                out["careers"] = href if href.startswith("http") else web.split("?")[0].rstrip("/") + "/" + href.lstrip("/")
+                break
         except Exception as e:
             out["webError"] = f"{type(e).__name__}: {str(e)[:80]}"
     hints = out.get("regionHints") or []
