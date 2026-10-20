@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T09:41:27+00:00",
+ "generatedAt": "2026-10-20T09:47:14+00:00",
  "count": 39,
  "emea": 10,
  "note": "Drata: its partner and auditor directories block automated reads (HTTP 403); the daily web search covers them.",
@@ -147,7 +147,7 @@
   },
   {
    "name": "GRSee Consulting",
-   "web": "https://grsee.com/vanta/?utm_source=partner&amp;utm_medium=organic&amp;utm_campaign=vanta",
+   "web": "https://grsee.com/vanta/",
    "region": "EMEA",
    "regionHints": [
     "austria",
@@ -171,7 +171,7 @@
     "Penetration Testing"
    ],
    "vciso": true,
-   "careers": "https://grsee.com/wp-content/plugins/wp-job-portal/includes/css/jobseekercp.css?ver=1787880526",
+   "careers": "",
    "ats": "",
    "description": "GRSee delivers high-quality audits on fast timelines for SaaS startups and modern tech teams, with a helpful approach that keeps compliance smooth, clear and simple.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -299,7 +299,7 @@
   },
   {
    "name": "A-LIGN",
-   "web": "https://www.a-lign.com/?utm_source=vanta&amp;utm_medium=partner",
+   "web": "https://www.a-lign.com/",
    "region": "Global (sin confirmar EMEA)",
    "regionHints": [
     "international",
@@ -511,7 +511,7 @@
   },
   {
    "name": "ControlCase",
-   "web": "https://www.controlcase.com/?utm_source=vanta_marketplace",
+   "web": "https://www.controlcase.com/",
    "region": "Posible EMEA (europe)",
    "regionHints": [
     "eu",

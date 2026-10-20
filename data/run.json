@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-20T09:41:27+00:00",
+ "ranAt": "2026-10-20T09:47:14+00:00",
  "companies": 85,
  "boardsRead": 46,
  "matchingJobs": 92,
@@ -51,7 +51,7 @@
   "workingnomads": 0,
   "getonboard": 3,
   "_raw": {
-   "jobgether_raw": 4181,
+   "jobgether_raw": 4183,
    "https://himalayas.app/jobs/api": "HTTP 200, 127908 bytes",
    "himalayas_raw": 500,
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 184934 bytes",
@@ -72,34 +72,19 @@
   "leaderHiring": 3
  },
  "triggers": {
-  "ranAt": "2026-10-20T09:41:27+00:00",
+  "ranAt": "2026-10-20T09:47:14+00:00",
   "ran": [
-   "vendorCustomers",
    "partners"
   ],
-  "vendorCustomers": {
-   "counts": {
-    "Vanta": 118,
-    "Secureframe": 32,
-    "Drata": 0
-   },
-   "new": 0,
-   "baseline": [
-    "Vanta",
-    "Secureframe"
-   ]
-  },
   "partners": {
    "count": 121,
-   "emea": 23
+   "emea": 22
   },
   "auditors": {
    "count": 39,
    "emea": 10
   },
   "errors": [
-   "Drata customers: https://drata.com/sitemap.xml: HTTPError: HTTP Error 403: Forbidden",
-   "Drata customers: nothing readable; covered by the daily web search",
    "Drata partners: https://drata.com/service-partners/directory: HTTPError: HTTP Error 403: Forbidden"
   ],
   "webSearchFallback": [

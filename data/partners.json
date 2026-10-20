@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-20T09:41:27+00:00",
+ "generatedAt": "2026-10-20T09:47:14+00:00",
  "count": 121,
- "emea": 23,
+ "emea": 22,
  "note": "Drata: its partner and auditor directories block automated reads (HTTP 403); the daily web search covers them.",
- "maybeEmea": 33,
+ "maybeEmea": 34,
  "partners": [
   {
    "name": "Advantage Partners",
@@ -139,7 +139,7 @@
   },
   {
    "name": "Cognisys",
-   "web": "https://cognisys.co.uk/?utm_source=vanta&amp;utm_medium=website_referral&amp;utm_campaign=partners_webpage&amp;utm_content=learn_more_button",
+   "web": "https://cognisys.co.uk/",
    "region": "EMEA",
    "regionHints": [
     "eu",
@@ -212,7 +212,7 @@
     "Compliance"
    ],
    "vciso": true,
-   "careers": "https://grsee.com/wp-content/plugins/wp-job-portal/includes/css/jobseekercp.css?ver=1787880526",
+   "careers": "",
    "ats": "",
    "description": "We empower your growth through seamless security & compliance",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -221,7 +221,7 @@
   },
   {
    "name": "GRSee Consulting",
-   "web": "https://grsee.com/vanta/?utm_source=partner&amp;utm_medium=organic&amp;utm_campaign=vanta",
+   "web": "https://grsee.com/vanta/",
    "region": "EMEA",
    "regionHints": [
     "austria",
@@ -245,7 +245,7 @@
     "Penetration Testing"
    ],
    "vciso": true,
-   "careers": "https://grsee.com/wp-content/plugins/wp-job-portal/includes/css/jobseekercp.css?ver=1787880526",
+   "careers": "",
    "ats": "",
    "description": "GRSee delivers high-quality audits on fast timelines for SaaS startups and modern tech teams, with a helpful approach that keeps compliance smooth, clear and simple.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -327,33 +327,6 @@
    "maybeEmea": true
   },
   {
-   "name": "Varyence",
-   "web": "https://varyence.com/",
-   "region": "EMEA",
-   "regionHints": [
-    "eu",
-    "europe",
-    "european",
-    "global",
-    "uk",
-    "worldwide"
-   ],
-   "partnerOf": [
-    "Secureframe"
-   ],
-   "tags": [
-    "Pen Testing Partner",
-    "Compliance Advisory"
-   ],
-   "vciso": true,
-   "careers": "https://careers.varyence.com/",
-   "ats": "",
-   "description": "Secure & Compliant Software Development and Cybersecurity Services Varyence has over a decade of experience helping companies stay secure and compliant. Get a free call setup to learn how we can help you with your Cybersecurity and Compliance needs. We provide tailored cybersecurity and compliance services that include penetration testing, secure-by-design development, compliance readiness, mobile device management, cloud security, and application security. As a Secureframe partner, Microsoft partner, and a global team with 100+ experts, we work with startups and growth companies worldwide. We",
-   "source": "https://secureframe.com/partner-directory/partner/varyence",
-   "emea": true,
-   "maybeEmea": true
-  },
-  {
    "name": "Andersen Consulting",
    "web": "https://global.andersen.com/consulting",
    "region": "EMEA",
@@ -371,7 +344,7 @@
     "Service Partner"
    ],
    "vciso": false,
-   "careers": "https://careers.andersen.com/jobs?page=1&amp;categories=Andersen%20Consulting",
+   "careers": "https://careers.andersen.com/jobs?page=1&categories=Andersen%20Consulting",
    "ats": "",
    "description": "Andersen Consulting is the global advisory arm of Andersen, delivering strategy, digital transformation, risk, and compliance services. Backed by a worldwide network and deep industry expertise, it helps organizations navigate complex regulations, drive growth, and strengthen operational resilience.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -515,7 +488,7 @@
   },
   {
    "name": "Pentest-Tools.com",
-   "web": "https://pentest-tools.com/?utm_medium=referral&amp;utm_source=vanta.com&amp;utm_campaign=integrations",
+   "web": "https://pentest-tools.com/",
    "region": "EMEA",
    "regionHints": [
     "emea",
@@ -532,7 +505,7 @@
     "Penetration Testing"
    ],
    "vciso": false,
-   "careers": "https://pentest-tools.com/?utm_medium=referral&amp;utm_source=vanta.com&amp;utm_campaign=integrations/careers",
+   "careers": "https://pentest-tools.com/careers",
    "ats": "",
    "description": "Pentest-Tools.com makes offensive cybersecurity tools and proprietary vulnerability scanner software for penetration testers and other information security pros.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -541,7 +514,7 @@
   },
   {
    "name": "Security Office Online",
-   "web": "http://www.securityoffice.online/?utm_source=vanta_partner_page",
+   "web": "http://www.securityoffice.online/",
    "region": "EMEA",
    "regionHints": [
     "amsterdam",
@@ -549,8 +522,7 @@
     "eu",
     "european",
     "international",
-    "lisbon",
-    "netherlands"
+    "lisbon"
    ],
    "partnerOf": [
     "Vanta"
@@ -559,7 +531,7 @@
     "Service Partner"
    ],
    "vciso": false,
-   "careers": "https://www.linkedin.com/jobs/jobs-in-boydton-va?trk=public_profile_guest_nav_menu_jobs",
+   "careers": "",
    "ats": "",
    "description": "Security Office Online: Trusted European experts in ISO 27001 compliance. Using Vanta, we help businesses certify faster and more efficiently in 3–6 months.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -1097,7 +1069,7 @@
   },
   {
    "name": "ControlCase",
-   "web": "https://www.controlcase.com/?utm_source=vanta_marketplace",
+   "web": "https://www.controlcase.com/",
    "region": "Posible EMEA (europe)",
    "regionHints": [
     "eu",
@@ -1166,7 +1138,7 @@
   },
   {
    "name": "Osano",
-   "web": "https://www.osano.com/?utm_campaign=Vanta%20Partnership&amp;utm_source=vanta&amp;utm_medium=partner-directory",
+   "web": "https://www.osano.com/",
    "region": "Posible EMEA (uk)",
    "regionHints": [
     "global",
@@ -1313,6 +1285,29 @@
    "maybeEmea": true
   },
   {
+   "name": "Varyence",
+   "web": "https://varyence.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Secureframe"
+   ],
+   "tags": [
+    "Pen Testing Partner",
+    "Compliance Advisory"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "Secure & Compliant Software Development and Cybersecurity Services Varyence has over a decade of experience helping companies stay secure and compliant. Get a free call setup to learn how we can help you with your Cybersecurity and Compliance needs. We provide tailored cybersecurity and compliance services that include penetration testing, secure-by-design development, compliance readiness, mobile device management, cloud security, and application security. As a Secureframe partner, Microsoft partner, and a global team with 100+ experts, we work with startups and growth companies worldwide. We",
+   "source": "https://secureframe.com/partner-directory/partner/varyence",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
    "name": "Veremark",
    "web": "https://www.veremark.com/",
    "region": "Posible EMEA (uk)",
@@ -1393,7 +1388,7 @@
   },
   {
    "name": "Axlora",
-   "web": "https://axlora.com/?utm_source=vanta&amp;utm_medium=web&amp;utm_campaign=partner_directory",
+   "web": "https://axlora.com/",
    "region": "",
    "regionHints": [],
    "partnerOf": [
@@ -2131,7 +2126,7 @@
   },
   {
    "name": "Astra Security",
-   "web": "https://www.getastra.com/contact-us?utm_source=vanta&amp;utm_medium=integrations&amp;utm_campaign=learn_more",
+   "web": "https://www.getastra.com/contact-us",
    "region": "",
    "regionHints": [],
    "partnerOf": [
@@ -2169,7 +2164,7 @@
   },
   {
    "name": "Carahsoft",
-   "web": "https://www.carahsoft.com/vanta?utm_source=vanta&amp;utm_medium=referral&amp;utm_campaign=vanta&amp;utm_content=partner-presence",
+   "web": "https://www.carahsoft.com/vanta",
    "region": "",
    "regionHints": [],
    "partnerOf": [
@@ -2179,7 +2174,7 @@
     "Reseller"
    ],
    "vciso": false,
-   "careers": "https://www.carahsoft.com/vanta?utm_source=vanta&amp;utm_medium=referral&amp;utm_campaign=vanta&amp;utm_content=partner-presence/careers",
+   "careers": "https://www.carahsoft.com/vanta/careers",
    "ats": "",
    "description": "Carahsoft is The Trusted IT Solutions Provider®, supporting Federal, State, Local Government, Education, Healthcare, and Private Sector industries.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -2188,7 +2183,7 @@
   },
   {
    "name": "Cobalt",
-   "web": "https://www.cobalt.io/get-started-quote?utm_campaign=Partner-Vanta&amp;utm_source=vanta",
+   "web": "https://www.cobalt.io/get-started-quote",
    "region": "",
    "regionHints": [],
    "partnerOf": [
@@ -2306,7 +2301,7 @@
   },
   {
    "name": "HostedScan",
-   "web": "https://hostedscan.com/?utm_source=integrations&amp;utm_campaign=vanta",
+   "web": "https://hostedscan.com/",
    "region": "",
    "regionHints": [],
    "partnerOf": [
@@ -2317,7 +2312,7 @@
     "Penetration Testing"
    ],
    "vciso": false,
-   "careers": "https://hostedscan.com/?utm_source=integrations&amp;utm_campaign=vanta/careers",
+   "careers": "https://hostedscan.com/careers",
    "ats": "",
    "description": "Vulnerability scanning and compliance reporting made easy.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -2477,7 +2472,7 @@
   },
   {
    "name": "SimpleBackups",
-   "web": "https://simplebackups.com/?utm_source=vanta&amp;utm_medium=partner-page&amp;utm_campaign=partner",
+   "web": "https://simplebackups.com/",
    "region": "",
    "regionHints": [],
    "partnerOf": [

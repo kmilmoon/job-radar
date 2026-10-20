@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T09:41:27+00:00",
+ "generatedAt": "2026-10-20T09:47:14+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -114,7 +114,7 @@
    ],
    "leaderHiring": [
     {
-     "title": " Fractional Chief Information Security Officer (CISO)",
+     "title": "Fractional Chief Information Security Officer (CISO)",
      "posted": "2026-05-28",
      "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
     }
@@ -122,25 +122,25 @@
    "frameworks": [
     {
      "framework": "SOC 2",
-     "title": " Fractional Chief Information Security Officer (CISO)",
+     "title": "Fractional Chief Information Security Officer (CISO)",
      "posted": "2026-05-28",
      "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
     },
     {
      "framework": "ISO 27001",
-     "title": " Fractional Chief Information Security Officer (CISO)",
+     "title": "Fractional Chief Information Security Officer (CISO)",
      "posted": "2026-05-28",
      "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
     },
     {
      "framework": "DORA",
-     "title": " Fractional Chief Information Security Officer (CISO)",
+     "title": "Fractional Chief Information Security Officer (CISO)",
      "posted": "2026-05-28",
      "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
     },
     {
      "framework": "NIS2",
-     "title": " Fractional Chief Information Security Officer (CISO)",
+     "title": "Fractional Chief Information Security Officer (CISO)",
      "posted": "2026-05-28",
      "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
     }
@@ -544,7 +544,7 @@
    "company": "Pave Bank",
    "ats": "ashby",
    "slug": "pavebank",
-   "openPostings": 24,
+   "openPostings": 25,
    "firstHire": [
     {
      "title": "Junior Security Engineer",
@@ -780,7 +780,7 @@
    "openPostings": 16,
    "firstHire": [
     {
-     "title": "Security Operations Analyst - Tier 1 ",
+     "title": "Security Operations Analyst - Tier 1",
      "posted": "2026-08-26",
      "url": "https://jobs.ashbyhq.com/knox-systems/5b9685a2-9cd5-43aa-b41b-7c64540fa7a1"
     },
@@ -800,7 +800,7 @@
      "url": "https://jobs.ashbyhq.com/knox-systems/e4388c70-37e3-461d-9098-5e39ff86e94e"
     },
     {
-     "title": "Senior Compliance Analyst - Cloud Security ",
+     "title": "Senior Compliance Analyst - Cloud Security",
      "posted": "2026-10-05",
      "url": "https://jobs.ashbyhq.com/knox-systems/97d4d7a4-8101-4fc2-b27f-1f6209e827ef"
     }
