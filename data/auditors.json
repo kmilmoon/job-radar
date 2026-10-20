@@ -1,0 +1,923 @@
+{
+ "generatedAt": "2026-10-20T09:41:27+00:00",
+ "count": 39,
+ "emea": 10,
+ "note": "Drata: its partner and auditor directories block automated reads (HTTP 403); the daily web search covers them.",
+ "auditors": [
+  {
+   "name": "Advantage Partners",
+   "web": "https://advantage-partners.com/",
+   "region": "EMEA",
+   "regionHints": [
+    "emea",
+    "europe"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Service Partner",
+    "vCISO",
+    "Penetration Testing"
+   ],
+   "vciso": true,
+   "careers": "",
+   "ats": "",
+   "description": "Advantage Partners provides seamless, efficient SOC2 attestations to small and start-up technology companies. We deliver a frictionless, end-to-end customer experience so businesses receive their SOC2 certification as quickly and easily as possible.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "British Assessment Bureau",
+   "web": "https://www.british-assessment.co.uk/",
+   "region": "EMEA",
+   "regionHints": [
+    "global",
+    "international",
+    "ireland",
+    "italy",
+    "norway",
+    "uk"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://amtivo.com/uk/work-with-us/",
+   "ats": "",
+   "description": "British Assessment Bureau offers a wide range of certification services, backed up by 5-star client experiences and complementary training solutions to help our clients understand how to achieve and maintain their ISO management systems.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "BSI Group",
+   "web": "https://bit.ly/4gB4MjG",
+   "region": "EMEA",
+   "regionHints": [
+    "austria",
+    "belgium",
+    "czech",
+    "france",
+    "germany",
+    "global",
+    "ireland",
+    "israel",
+    "italy",
+    "netherlands",
+    "poland",
+    "south africa"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Compliance",
+    "Security Training Providers"
+   ],
+   "vciso": false,
+   "careers": "https://bit.ly/4gB4MjG/en-GB/about-bsi/careers/",
+   "ats": "",
+   "description": "Trusted global audit and certification partner for ISO 27001, SOC 2, ISO 42001, digital resilience and more.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "Coalfire",
+   "web": "https://coalfire.com/services/assessment",
+   "region": "EMEA",
+   "regionHints": [
+    "austria",
+    "belgium",
+    "cyprus",
+    "czech",
+    "denmark",
+    "estonia",
+    "finland",
+    "france",
+    "germany",
+    "global",
+    "greece",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://coalfire.com/about/careers",
+   "ats": "",
+   "description": "Simplify compliance with expert-led assessments—trusted worldwide for quality, expertise, and timely delivery at scale.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "Frazier & Deeter",
+   "web": "https://www.frazierdeeter.com/",
+   "region": "EMEA",
+   "regionHints": [
+    "global",
+    "international",
+    "london",
+    "uk"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.frazierdeeter.com/careers/",
+   "ats": "",
+   "description": "Founded in 1981, Frazier & Deeter Advisory, LLC (FD) is a Top 50 accounting & advisory firm.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "GRSee Consulting",
+   "web": "https://grsee.com/vanta/?utm_source=partner&amp;utm_medium=organic&amp;utm_campaign=vanta",
+   "region": "EMEA",
+   "regionHints": [
+    "austria",
+    "belgium",
+    "cyprus",
+    "czech",
+    "denmark",
+    "estonia",
+    "eu",
+    "europe",
+    "finland",
+    "france",
+    "germany",
+    "greece"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Penetration Testing"
+   ],
+   "vciso": true,
+   "careers": "https://grsee.com/wp-content/plugins/wp-job-portal/includes/css/jobseekercp.css?ver=1787880526",
+   "ats": "",
+   "description": "GRSee delivers high-quality audits on fast timelines for SaaS startups and modern tech teams, with a helpful approach that keeps compliance smooth, clear and simple.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "MJD Advisors",
+   "web": "https://www.mjd.cpa/",
+   "region": "EMEA",
+   "regionHints": [
+    "austria",
+    "denmark",
+    "europe",
+    "france",
+    "germany",
+    "global",
+    "israel",
+    "netherlands",
+    "norway",
+    "poland",
+    "romania",
+    "switzerland"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "CPA firm simplifying SOC 2 compliance for innovative tech companies worldwide",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "Prescient Security and Assurance",
+   "web": "https://www.prescientsecurity.com",
+   "region": "EMEA",
+   "regionHints": [
+    "emea",
+    "eu",
+    "europe",
+    "european",
+    "global",
+    "international",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": true,
+   "careers": "https://prescientsecurity.com/company/careers",
+   "ats": "",
+   "description": "Exclusive rates and dedicated audit pod for Vanta clients",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "Securance",
+   "web": "https://www.securance.com/",
+   "region": "EMEA",
+   "regionHints": [
+    "berlin",
+    "eu",
+    "europe",
+    "european",
+    "germany",
+    "international",
+    "london",
+    "netherlands",
+    "nordics",
+    "sweden",
+    "united kingdom"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Compliance",
+    "Security Training Providers",
+    "Show All"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "We bring advisory, assurance, and cybersecurity together in one place, so you spend less time on duplicate processes and more time focusing on what matters. You can reach out to us for ISAE 3402, SOC 2, or ISO 27001, and for guidance with regulations like NIS2 and DORA. Our solutions are clear, practical, and cost-effective. We support organizations with audit reports, penetration testing, our ControlReports SaaS platform, and ongoing vulnerability scans, always with the goal of making security and compliance straightforward, and a little less stressful.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "TÜV NORD",
+   "web": "https://www.tuev-nord.de/en/industries/information-technology/",
+   "region": "EMEA",
+   "regionHints": [
+    "eu",
+    "european",
+    "germany",
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Compliance"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "Independent certification body for information security, cybersecurity, privacy and AI, including ISO/IEC 27001 and ISO/IEC 42001 certification.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "A-LIGN",
+   "web": "https://www.a-lign.com/?utm_source=vanta&amp;utm_medium=partner",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "international",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.a-lign.com/careers",
+   "ats": "",
+   "description": "Quality compliance for teams who take cybersecurity seriously.From the top SOC 2 issuer in the world.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Amtivo",
+   "web": "https://amtivo.com/us/soc-2/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://amtivo.com/us/about-us/work-with-us/",
+   "ats": "",
+   "description": "Amtivo is a leading ISO and SOC attestation body for all of your international compliance.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Aprio",
+   "web": "https://www.aprio.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Service Partner",
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://careers.aprio.com/",
+   "ats": "",
+   "description": "Aprio is an independent, third party professional services firm. We are performing this engagement as a third party, independent professional service provider.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Armanino",
+   "web": "https://www.armanino.com/services/audit/soc-reporting-compliance/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "As the 19th largest national firm, we provide extreme high quality and thorough results. We don’t cut corners, no frills, no rushed processes. With automation and industry expertise, we provide compliance your customers can trust.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "AssurancePoint",
+   "web": "https://assurancepoint.cpa/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "AssurancePoint was founded to provide a better compliance experience and to maximize the value of an audit. We are a CPA firm with the sole focus of quality information security assessments. We have issued hundreds of audit reports against popular security frameworks such as SOC examinations, ISO 27001, HIPAA, GDPR, NIST, etc. We don't just check a box. We leverage extensive experience, concrete methodologies, and relationship building to partner with you in telling your unique story. Don't pay for an audit; invest in a partner and advisor who can help you maximize the value of security and co",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "BARR Advisory",
+   "web": "https://www.barradvisory.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Service Partner",
+    "Penetration Testing",
+    "vCISO",
+    "Compliance"
+   ],
+   "vciso": true,
+   "careers": "https://www.barradvisory.com/about/careers/",
+   "ats": "",
+   "description": "BARR simplifies cybersecurity and compliance across all major frameworks within top-regulated industries worldwide.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "BD Emerson CPA",
+   "web": "https://www.bdemerson.cpa",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "eu",
+    "global",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": true,
+   "careers": "https://www.bdemerson.cpa/careers",
+   "ats": "",
+   "description": "BD Emerson CPA is built to audit Vanta Customers.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Boulay",
+   "web": "https://boulaygroup.com/services/risk-advisory/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://boulaygroup.com/careers/",
+   "ats": "https://apply.workable.com/boulay-group/?lng=en",
+   "description": "Premium SOC 2 audit partner and Top 100 CPA firm known for precision, deep expertise, and white-glove service for fast-growing SaaS organizations.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "CBIZ",
+   "web": "https://www.cbiz.com/about",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.cbiz.com/careers",
+   "ats": "",
+   "description": "A top-7 accounting and advisory firm specializing in a wide range of services. Our team can perform combined audits and certifications.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Consilium Labs",
+   "web": "https://consilium-labs.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "ISO 27001, ISO 42001, SOC 2, and CSA STAR audits delivered by trusted auditors using a modern, professional approach built for sustainable growth.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "ControlCase",
+   "web": "https://www.controlcase.com/?utm_source=vanta_marketplace",
+   "region": "Posible EMEA (europe)",
+   "regionHints": [
+    "eu",
+    "europe",
+    "global"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Penetration Testing"
+   ],
+   "vciso": false,
+   "careers": "https://www.controlcase.com/careers/",
+   "ats": "",
+   "description": "ControlCase is the leader in certification & continuous compliance services. 60+ frameworks. 100+ services. 20+ years. 70+ countries. 10,000+ audits.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Dansa D'Arata Soucia",
+   "web": "https://www.darata.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "Dansa D’Arata Soucia LLP is a leading regional public accounting firm, located in the heart of downtown Buffalo, NY. Our firm, consisting of approximately 40 professional staff members, is known for providing exceptional service to our clientele who are diverse in both industry and complexity.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Forvis Mazars",
+   "web": "https://www.forvismazars.us/services/consulting/soc-hitrust-solutions",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.forvismazars.us/services/consulting/soc-hitrust-solutions/careers",
+   "ats": "",
+   "description": "We provide SOC Readiness Assessments; SOC 1 and 2, Type I and II engagements; and SOC 3 engagements to help organizations assess and report on the design and operating effectiveness of their internal controls.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Frank, Rimerman + Co. LLP",
+   "web": "https://www.frankrimerman.com/risk-advisory-and-assurance/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.frankrimerman.com/risk-advisory-and-assurance/careers/",
+   "ats": "",
+   "description": "We are an ANAB-accredited, AICPA-registered firm known for quality and technical excellence. We provide white-glove, year-round partnership to every client we serve.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Geels Norton",
+   "web": "https://geelsnorton.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "At Geels Norton, we exist to help emerging and high-growth cloud technology companies focus their efforts on building amazing products while concurrently demonstrating sound, scalable data security practices. Our unique approach helps you drive the most value possible from your compliance initiatives – an opportunity to take your company to the next level. Our high-touch, high-quality SOC 2 experience delivers value far beyond compliance.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "Global Compliance Certification",
+   "web": "https://gccertification.com/",
+   "region": "Posible EMEA (european)",
+   "regionHints": [
+    "european",
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://gccertification.com/about-us/careers/",
+   "ats": "",
+   "description": "Global Compliance Certification (GCC) is a leading independent certification body for Information Security, Quality, Safety, Environment, Food Safety and other Management Systems accredited by JAS-ANZ (Joint Accreditation System of Australia and New Zealand).",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Insight Assurance",
+   "web": "https://insightassurance.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://insightassurance.com/careers/",
+   "ats": "",
+   "description": "Insight Assurance was founded by former Big-4 professionals (Former EY) looking to simplify the world of IT compliance. With over 20 years of professional experience working with hundreds of organizations from startups to Fortune 500 companies on a variety of engagements; the team at Insight Assurance partners with organizations looking to meet their organizational and compliance goals using technology and compliance automation software.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Johanson Group",
+   "web": "https://www.johansonllp.com/",
+   "region": "Posible EMEA (europe)",
+   "regionHints": [
+    "eu",
+    "europe",
+    "international",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": true,
+   "careers": "https://www.johansonllp.com/careers",
+   "ats": "",
+   "description": "Johanson Group provides high quality audits, with exceptional levels of service focusing on our clients . Johanson Group provides audit and attestation services to businesses of all sizes worldwide!",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Mastermind",
+   "web": "https://mastermindassurance.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "We do accredited ISO 27001, ISO 27701, & ISO 42001 certifications.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "MHM CPA",
+   "web": "https://www.mhmcpa.ca/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.mhmcpa.ca/careers",
+   "ats": "",
+   "description": "Canadian based firm committed to excellence in Security, AI & Privacy audits.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Moss Adams",
+   "web": "https://www.mossadams.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "Moss Adams is a fully integrated professional services firm dedicated to assisting clients with growing, managing, and protecting prosperity. With more than 5,000 professional across more than 30 locations, we work with many of the world's most innovative companies and leaders. We advise clients at all intervals of development-from start-up, to rapid growth and expansion, and transition to the enterprise level. We embrace technology, and excel at helping our clients utilize Vanta’s automation in their compliance efforts.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "Oread Risk and Advisory",
+   "web": "https://oreadrisk.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Compliance",
+    "vCISO"
+   ],
+   "vciso": true,
+   "careers": "https://oreadrisk.com/careers/",
+   "ats": "",
+   "description": "Oread Risk & Advisory provides SOC audits, cybersecurity, compliance, and technology assurance services",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "Pease Bell",
+   "web": "https://www.peasebell.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.peasebell.com/careers/",
+   "ats": "",
+   "description": "Pease Bell, CPAs is a rapidly growing mid-sized accounting firm serving an expanding nationwide client base. Now with multiple offices and over 100 employees, our priority is to provide the same exceptional quality of client support that has built our reputation in a crowded CPA marketplace. Pease is focused on helping to build and grow your business by showcasing their knowledge and technical insight around information security and data privacy.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "RS Assurance & Advisory (RSAA)",
+   "web": "https://rsassure.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "RS Assurance & Advisory is a licensed Cyber CPA firm specializing in SOC audit. We offer SOC 1, SOC 2, and SOC 3 readiness support or can perform independent audits.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "Schellman",
+   "web": "https://www.schellman.com/",
+   "region": "Posible EMEA (spain)",
+   "regionHints": [
+    "eu",
+    "global",
+    "international",
+    "spain"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://www.schellman.com/careers",
+   "ats": "",
+   "description": "Schellman’s depth and breadth of expertise can help you consolidate virtually every cybersecurity assessment under one firm and transform the process from a burden to a strategic advantage.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Schneider Downs",
+   "web": "https://schneiderdowns.com/compliance-additional-services/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner",
+    "Service Partner",
+    "vCISO",
+    "Compliance",
+    "Penetration Testing"
+   ],
+   "vciso": true,
+   "careers": "https://schneiderdowns.com/careers/",
+   "ats": "",
+   "description": "SD delivers independent assurance and advisory that reflect your actual controls, withstand scrutiny, and support growth, led by a senior team using modern audit tools.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Sensiba LLP",
+   "web": "https://ssfllp.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://sensiba.com/careers/",
+   "ats": "",
+   "description": "Sensiba San Filippo LLP is a licensed, award-winning tax, audit, and advisory firm, based in Silicon Valley for over 40 years. We have deep expertise serving the venture capital industry, and the companies that they invest in, which are continually reinventing our technology-driven world. While we are proud to count some of the world’s largest companies as our clients, we are passionate about start-ups because, like you, we are entrepreneurs at heart.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Sentry Assurance",
+   "web": "https://www.sentryassurance.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "Sentry Assurances provides best-in-class cybersecurity and compliance assessment and reporting solutions, empowering clients to confidently compete in even the most regulated industries",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "Tempo",
+   "web": "https://www.tempoaudits.com",
+   "region": "Posible EMEA (europe)",
+   "regionHints": [
+    "europe"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "Tempo is a UKAS-accredited audit body simplifying the ISO27001 and SOC-2 audit process for tech companies across Europe.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  }
+ ]
+}

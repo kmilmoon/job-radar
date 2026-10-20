@@ -1,0 +1,1076 @@
+{
+ "generatedAt": "2026-10-20T09:41:27+00:00",
+ "companies": [
+  {
+   "company": "n8n",
+   "ats": "ashby",
+   "slug": "n8n",
+   "openPostings": 41,
+   "firstHire": [
+    {
+     "title": "Sr Security Engineer | Remote | Europe",
+     "posted": "2026-10-13",
+     "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Sr Security Engineer | Remote | Europe",
+     "posted": "2026-10-13",
+     "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Sr Security Engineer | Remote | Europe",
+     "posted": "2026-10-13",
+     "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3"
+    }
+   ]
+  },
+  {
+   "company": "Hopper",
+   "ats": "ashby",
+   "slug": "hopper",
+   "openPostings": 20,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Morpho",
+   "ats": "ashby",
+   "slug": "morpho",
+   "openPostings": 11,
+   "firstHire": [],
+   "leaderHiring": [
+    {
+     "title": "Head of Security",
+     "posted": "2026-10-13",
+     "url": "https://jobs.ashbyhq.com/morpho/ed97697e-2dd2-4b9e-b8b4-1a3d9c288db9"
+    }
+   ],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Head of Security",
+     "posted": "2026-10-13",
+     "url": "https://jobs.ashbyhq.com/morpho/ed97697e-2dd2-4b9e-b8b4-1a3d9c288db9"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Head of Security",
+     "posted": "2026-10-13",
+     "url": "https://jobs.ashbyhq.com/morpho/ed97697e-2dd2-4b9e-b8b4-1a3d9c288db9"
+    }
+   ]
+  },
+  {
+   "company": "Masabi",
+   "ats": "ashby",
+   "slug": "masabi",
+   "openPostings": 15,
+   "firstHire": [
+    {
+     "title": "Security Compliance Analyst",
+     "posted": "2026-10-14",
+     "url": "https://jobs.ashbyhq.com/masabi/e4b5d5bf-f448-4058-9521-d516509ad5db"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Security Compliance Analyst",
+     "posted": "2026-10-14",
+     "url": "https://jobs.ashbyhq.com/masabi/e4b5d5bf-f448-4058-9521-d516509ad5db"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Security Compliance Analyst",
+     "posted": "2026-10-14",
+     "url": "https://jobs.ashbyhq.com/masabi/e4b5d5bf-f448-4058-9521-d516509ad5db"
+    },
+    {
+     "framework": "PCI DSS",
+     "title": "Security Compliance Analyst",
+     "posted": "2026-10-14",
+     "url": "https://jobs.ashbyhq.com/masabi/e4b5d5bf-f448-4058-9521-d516509ad5db"
+    }
+   ]
+  },
+  {
+   "company": "10x Team",
+   "ats": "ashby",
+   "slug": "10xteam",
+   "openPostings": 133,
+   "firstHire": [
+    {
+     "title": "Compliance Specialist - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+     "posted": "2026-05-28",
+     "url": "https://jobs.ashbyhq.com/10xteam/1f4b3e07-9315-4c44-841a-9a8a67a71264"
+    }
+   ],
+   "leaderHiring": [
+    {
+     "title": " Fractional Chief Information Security Officer (CISO)",
+     "posted": "2026-05-28",
+     "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
+    }
+   ],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": " Fractional Chief Information Security Officer (CISO)",
+     "posted": "2026-05-28",
+     "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": " Fractional Chief Information Security Officer (CISO)",
+     "posted": "2026-05-28",
+     "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
+    },
+    {
+     "framework": "DORA",
+     "title": " Fractional Chief Information Security Officer (CISO)",
+     "posted": "2026-05-28",
+     "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
+    },
+    {
+     "framework": "NIS2",
+     "title": " Fractional Chief Information Security Officer (CISO)",
+     "posted": "2026-05-28",
+     "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
+    }
+   ]
+  },
+  {
+   "company": "Legora",
+   "ats": "ashby",
+   "slug": "legora",
+   "openPostings": 309,
+   "firstHire": [
+    {
+     "title": "GRC Engineer",
+     "posted": "2026-07-23",
+     "url": "https://jobs.ashbyhq.com/legora/5284eb8c-7c33-4c74-bac2-5212a53e0769"
+    },
+    {
+     "title": "Security Engineer",
+     "posted": "2026-10-12",
+     "url": "https://jobs.ashbyhq.com/legora/2aa01d17-a182-46d8-82bc-c28ea99124f9"
+    },
+    {
+     "title": "Statutory Reporting & Compliance Manager",
+     "posted": "2026-10-08",
+     "url": "https://jobs.ashbyhq.com/legora/1671b41c-2ff0-4838-850b-31a4d7022c66"
+    },
+    {
+     "title": "Statutory Reporting & Compliance Manager",
+     "posted": "2026-10-06",
+     "url": "https://jobs.ashbyhq.com/legora/74536a68-2660-4278-86ac-e476d7caf0b3"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Customer Trust Specialist",
+     "posted": "2026-09-15",
+     "url": "https://jobs.ashbyhq.com/legora/e28fdcde-40c3-44f6-87f3-ccbd8d0a2740"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Customer Trust Specialist",
+     "posted": "2026-09-15",
+     "url": "https://jobs.ashbyhq.com/legora/e28fdcde-40c3-44f6-87f3-ccbd8d0a2740"
+    },
+    {
+     "framework": "HIPAA",
+     "title": "Senior Manager, Global Benefits",
+     "posted": "2026-09-29",
+     "url": "https://jobs.ashbyhq.com/legora/d82be900-b72e-4b1c-9e43-91844d5dbb1a"
+    }
+   ]
+  },
+  {
+   "company": "Primer",
+   "ats": "ashby",
+   "slug": "primer.io",
+   "openPostings": 25,
+   "firstHire": [
+    {
+     "title": "Security Engineer III - Security Operations",
+     "posted": "2026-09-07",
+     "url": "https://jobs.ashbyhq.com/primer.io/9add7b39-5fb5-47d2-a87f-8fb256c5b663"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "DORA",
+     "title": "Senior DevEx Engineer - Infrastructure",
+     "posted": "2026-09-30",
+     "url": "https://jobs.ashbyhq.com/primer.io/fff14e2f-8335-461e-8b09-532a5371b579"
+    },
+    {
+     "framework": "SOC 2",
+     "title": "Security Engineer III - Security Operations",
+     "posted": "2026-09-07",
+     "url": "https://jobs.ashbyhq.com/primer.io/9add7b39-5fb5-47d2-a87f-8fb256c5b663"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Security Engineer III - Security Operations",
+     "posted": "2026-09-07",
+     "url": "https://jobs.ashbyhq.com/primer.io/9add7b39-5fb5-47d2-a87f-8fb256c5b663"
+    },
+    {
+     "framework": "PCI DSS",
+     "title": "Security Engineer III - Security Operations",
+     "posted": "2026-09-07",
+     "url": "https://jobs.ashbyhq.com/primer.io/9add7b39-5fb5-47d2-a87f-8fb256c5b663"
+    }
+   ]
+  },
+  {
+   "company": "Camunda",
+   "ats": "ashby",
+   "slug": "camunda",
+   "openPostings": 40,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Strategic Growth Partners",
+   "ats": "ashby",
+   "slug": "strategic-growth-partners",
+   "openPostings": 17,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "dLocal",
+   "ats": "lever",
+   "slug": "dlocal",
+   "openPostings": 52,
+   "firstHire": [
+    {
+     "title": "Cloud  Network & Edge Security Engineer",
+     "posted": "2026-07-31",
+     "url": "https://jobs.lever.co/dlocal/49dc9d7c-b1ae-4d08-b66f-41022570c878"
+    },
+    {
+     "title": "Compliance Officer / MLRO - Cameroon",
+     "posted": "2026-06-11",
+     "url": "https://jobs.lever.co/dlocal/de60c99a-0d30-4029-81ee-be6f0d7a78aa"
+    },
+    {
+     "title": "Compliance Officer / MLRO- Saudi Arabia",
+     "posted": "2026-06-08",
+     "url": "https://jobs.lever.co/dlocal/89142c08-de82-4305-810b-711190e0fdf8"
+    },
+    {
+     "title": "Compliance Officer / MLRO- Senegal",
+     "posted": "2026-04-14",
+     "url": "https://jobs.lever.co/dlocal/d6cacc92-dc5c-4d76-b064-4502d352fdf6"
+    },
+    {
+     "title": "Compliance Specialist & MLRO – Indonesia",
+     "posted": "2023-11-18",
+     "url": "https://jobs.lever.co/dlocal/8812e2ca-62c2-447b-8c7a-28eb58dc2337"
+    },
+    {
+     "title": "Data Specialist for Compliance — Transaction Monitoring & Financial Crime",
+     "posted": "2026-08-18",
+     "url": "https://jobs.lever.co/dlocal/9990577d-904e-4bdb-9190-41347645f79b"
+    },
+    {
+     "title": "Principal Security Engineer – Identity & Access",
+     "posted": "2026-07-22",
+     "url": "https://jobs.lever.co/dlocal/927a5f7c-4dd3-418f-9914-bed5afa9da0a"
+    },
+    {
+     "title": "Regulatory Compliance Assurance Specialist",
+     "posted": "2026-10-04",
+     "url": "https://jobs.lever.co/dlocal/068eca6c-41bd-4497-bf26-9cdd531b45fa"
+    },
+    {
+     "title": "Senior Compliance Officer (PQ'd)",
+     "posted": "2026-10-04",
+     "url": "https://jobs.lever.co/dlocal/d04e69d9-6e67-43c8-8a7e-4bd01f167177"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "PCI DSS",
+     "title": "Cloud  Network & Edge Security Engineer",
+     "posted": "2026-07-31",
+     "url": "https://jobs.lever.co/dlocal/49dc9d7c-b1ae-4d08-b66f-41022570c878"
+    },
+    {
+     "framework": "SOC 2",
+     "title": "Principal Security Engineer – Identity & Access",
+     "posted": "2026-07-22",
+     "url": "https://jobs.lever.co/dlocal/927a5f7c-4dd3-418f-9914-bed5afa9da0a"
+    }
+   ]
+  },
+  {
+   "company": "Yuno",
+   "ats": "lever",
+   "slug": "yuno",
+   "openPostings": 24,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "PCI DSS",
+     "title": "Sales Engineer",
+     "posted": "2026-08-13",
+     "url": "https://jobs.lever.co/yuno/768b0eea-7ad9-4444-b475-3040aff146b7"
+    },
+    {
+     "framework": "SOC 2",
+     "title": "Senior Corporate IT Engineer",
+     "posted": "2026-08-10",
+     "url": "https://jobs.lever.co/yuno/c32ba236-2e8d-4b4c-b850-8849939cb1eb"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Senior Corporate IT Engineer",
+     "posted": "2026-08-10",
+     "url": "https://jobs.lever.co/yuno/c32ba236-2e8d-4b4c-b850-8849939cb1eb"
+    },
+    {
+     "framework": "DORA",
+     "title": "Staff Engineer - Money, Risk & Payment Ancillaries",
+     "posted": "2026-09-01",
+     "url": "https://jobs.lever.co/yuno/f26bce6d-c46f-4c4b-9397-341cebe80986"
+    }
+   ]
+  },
+  {
+   "company": "Contentsquare",
+   "ats": "lever",
+   "slug": "contentsquare",
+   "openPostings": 18,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Modulr",
+   "ats": "greenhouse",
+   "slug": "modulrfinance",
+   "openPostings": 24,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "ISO 27001",
+     "title": "Lead Devops Engineer",
+     "posted": "2026-09-16",
+     "url": "https://boards.greenhouse.io/modulrfinance/jobs/8794586002?gh_jid=8794586002"
+    },
+    {
+     "framework": "PCI DSS",
+     "title": "Lead Devops Engineer",
+     "posted": "2026-09-16",
+     "url": "https://boards.greenhouse.io/modulrfinance/jobs/8794586002?gh_jid=8794586002"
+    }
+   ]
+  },
+  {
+   "company": "Taxbit",
+   "ats": "greenhouse",
+   "slug": "taxbit",
+   "openPostings": 16,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "JetBrains",
+   "ats": "greenhouse",
+   "slug": "jetbrains",
+   "openPostings": 53,
+   "firstHire": [
+    {
+     "title": "Compliance Manager (Export Controls & Sanctions)",
+     "posted": "2025-10-28",
+     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696829101"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "NIS2",
+     "title": "Senior IP Counsel",
+     "posted": "2026-06-15",
+     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4882315101"
+    }
+   ]
+  },
+  {
+   "company": "Keyrock",
+   "ats": "ashby",
+   "slug": "keyrock",
+   "openPostings": 8,
+   "firstHire": [
+    {
+     "title": "Compliance Officer / MLRO Switzerland & Liechtenstein",
+     "posted": "2026-05-12",
+     "url": "https://jobs.ashbyhq.com/keyrock/8866e34a-248b-4ee3-9c5d-2df175463920"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "LocalStack",
+   "ats": "ashby",
+   "slug": "localstack",
+   "openPostings": 14,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Senior DevOps Engineer",
+     "posted": "2026-08-28",
+     "url": "https://jobs.ashbyhq.com/localstack/24c2ece7-95f9-4bb4-ae36-87ae5a84932f"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Senior DevOps Engineer",
+     "posted": "2026-08-28",
+     "url": "https://jobs.ashbyhq.com/localstack/24c2ece7-95f9-4bb4-ae36-87ae5a84932f"
+    }
+   ]
+  },
+  {
+   "company": "Clarity AI",
+   "ats": "ashby",
+   "slug": "clarity",
+   "openPostings": 4,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Web: Full Stack Tech Lead",
+     "posted": "2025-09-17",
+     "url": "https://jobs.ashbyhq.com/clarity/f6467175-bde7-4069-b896-c8282324f9ca"
+    }
+   ]
+  },
+  {
+   "company": "Outpost",
+   "ats": "ashby",
+   "slug": "outpost",
+   "openPostings": 14,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Parallel",
+   "ats": "ashby",
+   "slug": "parallel",
+   "openPostings": 27,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Member of Technical Staff, Infrastructure Security",
+     "posted": "2026-09-16",
+     "url": "https://jobs.ashbyhq.com/parallel/8df69e21-f99c-4867-bdc8-59605259274e"
+    }
+   ]
+  },
+  {
+   "company": "Pliant",
+   "ats": "ashby",
+   "slug": "pliant",
+   "openPostings": 33,
+   "firstHire": [
+    {
+     "title": "Security Engineer *EU/UK remote* (m/f/d)",
+     "posted": "2026-05-11",
+     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+    },
+    {
+     "title": "Compliance Operations Analyst (m/f/d)",
+     "posted": "2026-06-09",
+     "url": "https://jobs.ashbyhq.com/pliant/c944d7e9-3422-4cfb-a908-00ee9aa27fb4"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Security Engineer *EU/UK remote* (m/f/d)",
+     "posted": "2026-05-11",
+     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Security Engineer *EU/UK remote* (m/f/d)",
+     "posted": "2026-05-11",
+     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+    },
+    {
+     "framework": "PCI DSS",
+     "title": "Security Engineer *EU/UK remote* (m/f/d)",
+     "posted": "2026-05-11",
+     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+    },
+    {
+     "framework": "DORA",
+     "title": "Security Engineer *EU/UK remote* (m/f/d)",
+     "posted": "2026-05-11",
+     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+    }
+   ]
+  },
+  {
+   "company": "Pave Bank",
+   "ats": "ashby",
+   "slug": "pavebank",
+   "openPostings": 24,
+   "firstHire": [
+    {
+     "title": "Junior Security Engineer",
+     "posted": "2026-08-17",
+     "url": "https://jobs.ashbyhq.com/pavebank/7e3b6bf1-e719-4a8d-89d5-969d39ac4b09"
+    },
+    {
+     "title": "Senior Security Engineer",
+     "posted": "2026-10-01",
+     "url": "https://jobs.ashbyhq.com/pavebank/defd2466-a58b-4ebd-84f9-f827c2bc6df2"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Kertos",
+   "ats": "ashby",
+   "slug": "kertos",
+   "openPostings": 7,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "DORA",
+     "title": "Account Executive - German Speaking (all genders)",
+     "posted": "2026-09-29",
+     "url": "https://jobs.ashbyhq.com/kertos/0b4bade6-19f9-4708-b6c8-2126f98a842f"
+    },
+    {
+     "framework": "NIS2",
+     "title": "Account Executive - German Speaking (all genders)",
+     "posted": "2026-09-29",
+     "url": "https://jobs.ashbyhq.com/kertos/0b4bade6-19f9-4708-b6c8-2126f98a842f"
+    },
+    {
+     "framework": "SOC 2",
+     "title": "Senior Information Security Expert (all genders)",
+     "posted": "2026-10-07",
+     "url": "https://jobs.ashbyhq.com/kertos/193c5e9c-5c61-4ce2-89a1-607f454f60bb"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Senior Information Security Expert (all genders)",
+     "posted": "2026-10-07",
+     "url": "https://jobs.ashbyhq.com/kertos/193c5e9c-5c61-4ce2-89a1-607f454f60bb"
+    }
+   ]
+  },
+  {
+   "company": "Taktile",
+   "ats": "ashby",
+   "slug": "taktile",
+   "openPostings": 33,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Senior Full-Stack Engineer - Team Platform",
+     "posted": "2026-06-26",
+     "url": "https://jobs.ashbyhq.com/taktile/050f12b4-23ed-400d-bdd1-ddbc8a8d0ac5"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Senior Full-Stack Engineer - Team Platform",
+     "posted": "2026-06-26",
+     "url": "https://jobs.ashbyhq.com/taktile/050f12b4-23ed-400d-bdd1-ddbc8a8d0ac5"
+    }
+   ]
+  },
+  {
+   "company": "Moss",
+   "ats": "ashby",
+   "slug": "moss",
+   "openPostings": 32,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "IT Program Manager (f/m/d)",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/moss/9a6c3c3f-fbbd-41c8-b107-482a680d7ea9"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "IT Program Manager (f/m/d)",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/moss/9a6c3c3f-fbbd-41c8-b107-482a680d7ea9"
+    },
+    {
+     "framework": "DORA",
+     "title": "IT Program Manager (f/m/d)",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/moss/9a6c3c3f-fbbd-41c8-b107-482a680d7ea9"
+    }
+   ]
+  },
+  {
+   "company": "LI.FI",
+   "ats": "ashby",
+   "slug": "li.fi",
+   "openPostings": 2,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Aufinity Group",
+   "ats": "ashby",
+   "slug": "aufinity-group",
+   "openPostings": 9,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "ISO 27001",
+     "title": "(Senior) IT Security Manager (m/w/d)",
+     "posted": "2026-09-29",
+     "url": "https://jobs.ashbyhq.com/aufinity-group/a12f6c12-eaf3-49cd-a45b-e9e146ea3a32"
+    }
+   ]
+  },
+  {
+   "company": "Nelly",
+   "ats": "ashby",
+   "slug": "nelly",
+   "openPostings": 12,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Bitpanda",
+   "ats": "greenhouse",
+   "slug": "bitpanda",
+   "openPostings": 31,
+   "firstHire": [
+    {
+     "title": "Senior Cyber Security Engineer, Elastic (Security Operations)",
+     "posted": "2025-10-28",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4699355101"
+    },
+    {
+     "title": "Senior SOC Analyst, Security Operations",
+     "posted": "2026-09-02",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101"
+    },
+    {
+     "title": "Senior Specialist, Information Security",
+     "posted": "2026-10-12",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5003324101"
+    },
+    {
+     "title": "Specialist, Information Security",
+     "posted": "2026-10-09",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4989603101"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Lead, Information Security",
+     "posted": "2026-10-09",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Lead, Information Security",
+     "posted": "2026-10-09",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+    },
+    {
+     "framework": "DORA",
+     "title": "Lead, Information Security",
+     "posted": "2026-10-09",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+    },
+    {
+     "framework": "PCI DSS",
+     "title": "Senior Cyber Security Engineer, Elastic (Security Operations)",
+     "posted": "2025-10-28",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4699355101"
+    }
+   ]
+  },
+  {
+   "company": "Pleo",
+   "ats": "ashby",
+   "slug": "pleo",
+   "openPostings": 29,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Lunar",
+   "ats": "ashby",
+   "slug": "lunar",
+   "openPostings": 15,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Socket",
+   "ats": "ashby",
+   "slug": "socket",
+   "openPostings": 28,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Compliance Engineering Lead",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Compliance Engineering Lead",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e"
+    }
+   ]
+  },
+  {
+   "company": "Knox Systems",
+   "ats": "ashby",
+   "slug": "knox-systems",
+   "openPostings": 16,
+   "firstHire": [
+    {
+     "title": "Security Operations Analyst - Tier 1 ",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/knox-systems/5b9685a2-9cd5-43aa-b41b-7c64540fa7a1"
+    },
+    {
+     "title": "Security Operations Analyst - Tier 2",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/knox-systems/b8949426-446a-499d-9b53-2ad8bfaa1cfd"
+    },
+    {
+     "title": "Security Operations Analyst - Tier 3",
+     "posted": "2026-08-26",
+     "url": "https://jobs.ashbyhq.com/knox-systems/f4f2dce1-f89b-4d2e-bf22-4125137f22f0"
+    },
+    {
+     "title": "Compliance Analyst - Cloud Security",
+     "posted": "2026-10-05",
+     "url": "https://jobs.ashbyhq.com/knox-systems/e4388c70-37e3-461d-9098-5e39ff86e94e"
+    },
+    {
+     "title": "Senior Compliance Analyst - Cloud Security ",
+     "posted": "2026-10-05",
+     "url": "https://jobs.ashbyhq.com/knox-systems/97d4d7a4-8101-4fc2-b27f-1f6209e827ef"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "ServiceNow Platform Operations Engineer",
+     "posted": "2026-07-09",
+     "url": "https://jobs.ashbyhq.com/knox-systems/e3eec0c4-c225-4370-8e48-28a7469e3cb8"
+    },
+    {
+     "framework": "HIPAA",
+     "title": "ServiceNow Platform Operations Engineer",
+     "posted": "2026-07-09",
+     "url": "https://jobs.ashbyhq.com/knox-systems/e3eec0c4-c225-4370-8e48-28a7469e3cb8"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Technical Implementation Manager (Fed Ramp)",
+     "posted": "2026-09-30",
+     "url": "https://jobs.ashbyhq.com/knox-systems/81cbe281-ced7-497b-b66f-8d5a1dfd258e"
+    }
+   ]
+  },
+  {
+   "company": "Island",
+   "ats": "greenhouse",
+   "slug": "island",
+   "openPostings": 30,
+   "firstHire": [
+    {
+     "title": "Security Operations Engineer",
+     "posted": "2026-10-07",
+     "url": "https://job-boards.greenhouse.io/island/jobs/4435730009"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "AI Implementation Specialist - AI Governance, Gateways, Platform Control",
+     "posted": "2026-09-22",
+     "url": "https://job-boards.greenhouse.io/island/jobs/4412445009"
+    }
+   ]
+  },
+  {
+   "company": "Exein",
+   "ats": "greenhouse",
+   "slug": "exeinspa",
+   "openPostings": 5,
+   "firstHire": [
+    {
+     "title": "Linux Software Engineer - Systems & Security",
+     "posted": "2026-10-15",
+     "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5007199101"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "IT & Security Manager",
+     "posted": "2026-10-05",
+     "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/4997546101"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "IT & Security Manager",
+     "posted": "2026-10-05",
+     "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/4997546101"
+    }
+   ]
+  },
+  {
+   "company": "Horizon3.ai",
+   "ats": "ashby",
+   "slug": "horizon3ai",
+   "openPostings": 134,
+   "firstHire": [
+    {
+     "title": "Senior Federal Compliance Analyst",
+     "posted": "2026-09-02",
+     "url": "https://jobs.ashbyhq.com/horizon3ai/760c5875-066b-44c0-8b34-1b034d90ad3a"
+    },
+    {
+     "title": "WebApp Offensive Security Software Engineer",
+     "posted": "2026-06-11",
+     "url": "https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Staff Technical Support Engineer (Web App)",
+     "posted": "2026-08-06",
+     "url": "https://jobs.ashbyhq.com/horizon3ai/efb7a52e-2884-43f6-ad7e-a03b5998aa19"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Product & Privacy Counsel",
+     "posted": "2026-09-08",
+     "url": "https://jobs.ashbyhq.com/horizon3ai/c99b9bed-505c-4620-918a-eee95148bd41"
+    }
+   ]
+  },
+  {
+   "company": "Onyx Security",
+   "ats": "ashby",
+   "slug": "onyx",
+   "openPostings": 4,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "HiddenLayer",
+   "ats": "greenhouse",
+   "slug": "hiddenlayer",
+   "openPostings": 16,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Obsidian Security",
+   "ats": "greenhouse",
+   "slug": "obsidiansecurity",
+   "openPostings": 14,
+   "firstHire": [
+    {
+     "title": "Agent Security Research Engineer – Taiwan",
+     "posted": "2026-10-06",
+     "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5446068008"
+    },
+    {
+     "title": "AI Security Engineer - Taiwan",
+     "posted": "2026-09-02",
+     "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008"
+    },
+    {
+     "title": "Product Security Engineer (AI & Platform Security) – Taiwan",
+     "posted": "2026-10-06",
+     "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5446033008"
+    },
+    {
+     "title": "Software Engineer - AI Security Product",
+     "posted": "2026-07-03",
+     "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008"
+    }
+   ],
+   "leaderHiring": [
+    {
+     "title": "Chief Information Security Officer (CISO)",
+     "posted": "2026-09-04",
+     "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008"
+    }
+   ],
+   "frameworks": [
+    {
+     "framework": "ISO 27001",
+     "title": "Chief Information Security Officer (CISO)",
+     "posted": "2026-09-04",
+     "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008"
+    },
+    {
+     "framework": "SOC 2",
+     "title": "Lead IT Systems Engineer",
+     "posted": "2026-07-22",
+     "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5367878008"
+    }
+   ]
+  },
+  {
+   "company": "Corma",
+   "ats": "ashby",
+   "slug": "corma",
+   "openPostings": 0,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Oligo",
+   "ats": "ashby",
+   "slug": "oligo",
+   "openPostings": 4,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Valarian",
+   "ats": "lever",
+   "slug": "valarian",
+   "openPostings": 8,
+   "firstHire": [
+    {
+     "title": "InfoSec Engineer",
+     "posted": "2026-05-21",
+     "url": "https://jobs.lever.co/valarian/1df5f9cb-7f5a-479f-a09d-bac31b21934f"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "DevSecOps Engineer",
+     "posted": "2026-01-14",
+     "url": "https://jobs.lever.co/valarian/b84391ed-0476-4022-9f23-262148bbf866"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "DevSecOps Engineer",
+     "posted": "2026-01-14",
+     "url": "https://jobs.lever.co/valarian/b84391ed-0476-4022-9f23-262148bbf866"
+    }
+   ]
+  },
+  {
+   "company": "AIUC",
+   "ats": "ashby",
+   "slug": "aiuc",
+   "openPostings": 13,
+   "firstHire": [
+    {
+     "title": "Founding Security Engineer",
+     "posted": "2026-10-17",
+     "url": "https://jobs.ashbyhq.com/aiuc/83974084-a911-4b6e-90bf-ccb7c9f24faf"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "AIUC-1 Standard",
+     "posted": "2026-08-07",
+     "url": "https://jobs.ashbyhq.com/aiuc/d4d8ccdb-0b23-405b-9e22-d2b221019a0b"
+    }
+   ]
+  },
+  {
+   "company": "TrueLayer",
+   "ats": "ashby",
+   "slug": "truelayer",
+   "openPostings": 0,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Noah",
+   "ats": "greenhouse",
+   "slug": "noah",
+   "openPostings": 4,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  },
+  {
+   "company": "Scarlet",
+   "ats": "ashby",
+   "slug": "scarlet",
+   "openPostings": 14,
+   "firstHire": [],
+   "leaderHiring": [],
+   "frameworks": []
+  }
+ ]
+}

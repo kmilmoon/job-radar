@@ -1,0 +1,1117 @@
+{
+ "generatedAt": "2026-10-20T09:41:27+00:00",
+ "counts": {
+  "Vanta": 118,
+  "Secureframe": 32,
+  "Drata": 0
+ },
+ "baseline": [
+  "Vanta",
+  "Secureframe"
+ ],
+ "new": [],
+ "recentlyUpdated": [
+  {
+   "vendor": "Vanta",
+   "slug": "stamprise",
+   "name": "Stamprise",
+   "url": "https://www.vanta.com/customers/stamprise",
+   "lastmod": "2026-10-13"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "upcover",
+   "name": "Upcover",
+   "url": "https://www.vanta.com/customers/upcover",
+   "lastmod": "2026-10-12"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "codat",
+   "name": "Codat",
+   "url": "https://www.vanta.com/customers/codat",
+   "lastmod": "2026-10-08"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "noventiq",
+   "name": "Noventiq",
+   "url": "https://www.vanta.com/customers/noventiq",
+   "lastmod": "2026-10-08"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "synthesia",
+   "name": "Synthesia",
+   "url": "https://www.vanta.com/customers/synthesia",
+   "lastmod": "2026-10-08"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "pendo",
+   "name": "Pendo",
+   "url": "https://www.vanta.com/customers/pendo",
+   "lastmod": "2026-09-16"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "flaconi",
+   "name": "Flaconi",
+   "url": "https://www.vanta.com/customers/flaconi",
+   "lastmod": "2026-09-14"
+  }
+ ],
+ "note": "new = case studies that appeared since the previous weekly snapshot (empty on the first run of a vendor: that run is the baseline). recentlyUpdated = pages whose sitemap date is in the last 45 days: may be new or just edited, check the page before scoring.",
+ "customers": [
+  {
+   "vendor": "Secureframe",
+   "slug": "abmatic-ai",
+   "name": "Abmatic AI",
+   "url": "https://secureframe.com/customers/abmatic-ai",
+   "lastmod": "2026-04-30"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "adyton",
+   "name": "Adyton",
+   "url": "https://secureframe.com/customers/adyton",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "alpineiq",
+   "name": "Alpineiq",
+   "url": "https://secureframe.com/customers/alpineiq",
+   "lastmod": "2024-08-22"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "base-power",
+   "name": "Base Power",
+   "url": "https://secureframe.com/customers/base-power",
+   "lastmod": "2026-04-20"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "basis-theory",
+   "name": "Basis Theory",
+   "url": "https://secureframe.com/customers/basis-theory",
+   "lastmod": "2024-08-22"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "bento",
+   "name": "Bento",
+   "url": "https://secureframe.com/customers/bento",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "bruin",
+   "name": "Bruin",
+   "url": "https://secureframe.com/customers/bruin",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "camptek",
+   "name": "Camptek",
+   "url": "https://secureframe.com/customers/camptek",
+   "lastmod": "2024-08-22"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "coda",
+   "name": "Coda",
+   "url": "https://secureframe.com/customers/coda",
+   "lastmod": "2024-09-12"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "data-virtuality",
+   "name": "Data Virtuality",
+   "url": "https://secureframe.com/customers/data-virtuality",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "echo-iq",
+   "name": "Echo IQ",
+   "url": "https://secureframe.com/customers/echo-iq",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "electricfish",
+   "name": "Electricfish",
+   "url": "https://secureframe.com/customers/electricfish",
+   "lastmod": "2025-10-29"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "formsort",
+   "name": "Formsort",
+   "url": "https://secureframe.com/customers/formsort",
+   "lastmod": "2024-07-27"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "haystack",
+   "name": "Haystack",
+   "url": "https://secureframe.com/customers/haystack",
+   "lastmod": "2023-11-28"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "headcount365",
+   "name": "Headcount365",
+   "url": "https://secureframe.com/customers/headcount365",
+   "lastmod": "2023-11-28"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "inflectra",
+   "name": "Inflectra",
+   "url": "https://secureframe.com/customers/inflectra",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "kinectify",
+   "name": "Kinectify",
+   "url": "https://secureframe.com/customers/kinectify",
+   "lastmod": "2024-04-01"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "manufacturing-consulting-concepts",
+   "name": "Manufacturing Consulting Concepts",
+   "url": "https://secureframe.com/customers/manufacturing-consulting-concepts",
+   "lastmod": "2025-12-19"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "my-askai",
+   "name": "MY Askai",
+   "url": "https://secureframe.com/customers/my-askai",
+   "lastmod": "2025-10-24"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "open-assessment-technologies",
+   "name": "Open Assessment Technologies",
+   "url": "https://secureframe.com/customers/open-assessment-technologies",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "optify",
+   "name": "Optify",
+   "url": "https://secureframe.com/customers/optify",
+   "lastmod": "2024-12-17"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "osmos",
+   "name": "Osmos",
+   "url": "https://secureframe.com/customers/osmos",
+   "lastmod": "2023-11-28"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "oth-security",
+   "name": "Oth Security",
+   "url": "https://secureframe.com/customers/oth-security",
+   "lastmod": "2026-08-03"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "overflow",
+   "name": "Overflow",
+   "url": "https://secureframe.com/customers/overflow",
+   "lastmod": "2024-08-22"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "perkup",
+   "name": "Perkup",
+   "url": "https://secureframe.com/customers/perkup",
+   "lastmod": "2025-07-28"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "roadie",
+   "name": "Roadie",
+   "url": "https://secureframe.com/customers/roadie",
+   "lastmod": "2023-11-28"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "rootly",
+   "name": "Rootly",
+   "url": "https://secureframe.com/customers/rootly",
+   "lastmod": "2024-08-22"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "rready",
+   "name": "Rready",
+   "url": "https://secureframe.com/customers/rready",
+   "lastmod": "2025-04-25"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "slatewell",
+   "name": "Slatewell",
+   "url": "https://secureframe.com/customers/slatewell",
+   "lastmod": "2024-03-29"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "troops",
+   "name": "Troops",
+   "url": "https://secureframe.com/customers/troops",
+   "lastmod": "2023-11-28"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "unitq",
+   "name": "Unitq",
+   "url": "https://secureframe.com/customers/unitq",
+   "lastmod": "2024-08-22"
+  },
+  {
+   "vendor": "Secureframe",
+   "slug": "wealth",
+   "name": "Wealth",
+   "url": "https://secureframe.com/customers/wealth",
+   "lastmod": "2023-11-28"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "accumulus-technologies",
+   "name": "Accumulus Technologies",
+   "url": "https://www.vanta.com/customers/accumulus-technologies",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "acme-technology",
+   "name": "Acme Technology",
+   "url": "https://www.vanta.com/customers/acme-technology",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "ai-insurance",
+   "name": "AI Insurance",
+   "url": "https://www.vanta.com/customers/ai-insurance",
+   "lastmod": "2026-07-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "ashby",
+   "name": "Ashby",
+   "url": "https://www.vanta.com/customers/ashby",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "atlassian",
+   "name": "Atlassian",
+   "url": "https://www.vanta.com/customers/atlassian",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "audiostack",
+   "name": "Audiostack",
+   "url": "https://www.vanta.com/customers/audiostack",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "belvo",
+   "name": "Belvo",
+   "url": "https://www.vanta.com/customers/belvo",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "black-kite",
+   "name": "Black Kite",
+   "url": "https://www.vanta.com/customers/black-kite",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "blade-labs",
+   "name": "Blade Labs",
+   "url": "https://www.vanta.com/customers/blade-labs",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "bonafi",
+   "name": "Bonafi",
+   "url": "https://www.vanta.com/customers/bonafi",
+   "lastmod": "2026-08-18"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "breachrx",
+   "name": "Breachrx",
+   "url": "https://www.vanta.com/customers/breachrx",
+   "lastmod": "2026-03-21"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "bvnk",
+   "name": "Bvnk",
+   "url": "https://www.vanta.com/customers/bvnk",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "bynder",
+   "name": "Bynder",
+   "url": "https://www.vanta.com/customers/bynder",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "cable",
+   "name": "Cable",
+   "url": "https://www.vanta.com/customers/cable",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "cedar",
+   "name": "Cedar",
+   "url": "https://www.vanta.com/customers/cedar",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "charityvest",
+   "name": "Charityvest",
+   "url": "https://www.vanta.com/customers/charityvest",
+   "lastmod": "2026-03-21"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "chili-piper",
+   "name": "Chili Piper",
+   "url": "https://www.vanta.com/customers/chili-piper",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "cipherstash",
+   "name": "Cipherstash",
+   "url": "https://www.vanta.com/customers/cipherstash",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "clay",
+   "name": "Clay",
+   "url": "https://www.vanta.com/customers/clay",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "clozd",
+   "name": "Clozd",
+   "url": "https://www.vanta.com/customers/clozd",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "coachhub",
+   "name": "Coachhub",
+   "url": "https://www.vanta.com/customers/coachhub",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "codat",
+   "name": "Codat",
+   "url": "https://www.vanta.com/customers/codat",
+   "lastmod": "2026-10-08"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "complycube",
+   "name": "Complycube",
+   "url": "https://www.vanta.com/customers/complycube",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "coviu",
+   "name": "Coviu",
+   "url": "https://www.vanta.com/customers/coviu",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "coxwave",
+   "name": "Coxwave",
+   "url": "https://www.vanta.com/customers/coxwave",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "crypdefi",
+   "name": "Crypdefi",
+   "url": "https://www.vanta.com/customers/crypdefi",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "dagger",
+   "name": "Dagger",
+   "url": "https://www.vanta.com/customers/dagger",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "docgo",
+   "name": "Docgo",
+   "url": "https://www.vanta.com/customers/docgo",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "dovetail",
+   "name": "Dovetail",
+   "url": "https://www.vanta.com/customers/dovetail",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "duolingo",
+   "name": "Duolingo",
+   "url": "https://www.vanta.com/customers/duolingo",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "dust",
+   "name": "Dust",
+   "url": "https://www.vanta.com/customers/dust",
+   "lastmod": "2026-03-22"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "everlab",
+   "name": "Everlab",
+   "url": "https://www.vanta.com/customers/everlab",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "factory",
+   "name": "Factory",
+   "url": "https://www.vanta.com/customers/factory",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "fern",
+   "name": "Fern",
+   "url": "https://www.vanta.com/customers/fern",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "fileai",
+   "name": "Fileai",
+   "url": "https://www.vanta.com/customers/fileai",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "fireant",
+   "name": "Fireant",
+   "url": "https://www.vanta.com/customers/fireant",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "flaconi",
+   "name": "Flaconi",
+   "url": "https://www.vanta.com/customers/flaconi",
+   "lastmod": "2026-09-14"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "flo-health",
+   "name": "Flo Health",
+   "url": "https://www.vanta.com/customers/flo-health",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "flossie",
+   "name": "Flossie",
+   "url": "https://www.vanta.com/customers/flossie",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "fujitsu-launchpad",
+   "name": "Fujitsu Launchpad",
+   "url": "https://www.vanta.com/customers/fujitsu-launchpad",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "github",
+   "name": "Github",
+   "url": "https://www.vanta.com/customers/github",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "granitestack",
+   "name": "Granitestack",
+   "url": "https://www.vanta.com/customers/granitestack",
+   "lastmod": "2026-08-26"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "granola",
+   "name": "Granola",
+   "url": "https://www.vanta.com/customers/granola",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "healthie",
+   "name": "Healthie",
+   "url": "https://www.vanta.com/customers/healthie",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "hummingbird-healthcare",
+   "name": "Hummingbird Healthcare",
+   "url": "https://www.vanta.com/customers/hummingbird-healthcare",
+   "lastmod": "2026-03-21"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "hyperbound",
+   "name": "Hyperbound",
+   "url": "https://www.vanta.com/customers/hyperbound",
+   "lastmod": "2026-05-06"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "incentx",
+   "name": "Incentx",
+   "url": "https://www.vanta.com/customers/incentx",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "incident-io",
+   "name": "Incident IO",
+   "url": "https://www.vanta.com/customers/incident-io",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "ironclad",
+   "name": "Ironclad",
+   "url": "https://www.vanta.com/customers/ironclad",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "jetbrains",
+   "name": "Jetbrains",
+   "url": "https://www.vanta.com/customers/jetbrains",
+   "lastmod": "2026-06-19"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "josef",
+   "name": "Josef",
+   "url": "https://www.vanta.com/customers/josef",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "keeper",
+   "name": "Keeper",
+   "url": "https://www.vanta.com/customers/keeper",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "leantaas",
+   "name": "Leantaas",
+   "url": "https://www.vanta.com/customers/leantaas",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "leapsome",
+   "name": "Leapsome",
+   "url": "https://www.vanta.com/customers/leapsome",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "leela-ai",
+   "name": "Leela AI",
+   "url": "https://www.vanta.com/customers/leela-ai",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "lemba-therapeutics",
+   "name": "Lemba Therapeutics",
+   "url": "https://www.vanta.com/customers/lemba-therapeutics",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "maltego",
+   "name": "Maltego",
+   "url": "https://www.vanta.com/customers/maltego",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "master-electronics",
+   "name": "Master Electronics",
+   "url": "https://www.vanta.com/customers/master-electronics",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "modern-health",
+   "name": "Modern Health",
+   "url": "https://www.vanta.com/customers/modern-health",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "moonpay",
+   "name": "Moonpay",
+   "url": "https://www.vanta.com/customers/moonpay",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "neuralift-ai",
+   "name": "Neuralift AI",
+   "url": "https://www.vanta.com/customers/neuralift-ai",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "newfront",
+   "name": "Newfront",
+   "url": "https://www.vanta.com/customers/newfront",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "noibu",
+   "name": "Noibu",
+   "url": "https://www.vanta.com/customers/noibu",
+   "lastmod": "2026-04-02"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "nominal",
+   "name": "Nominal",
+   "url": "https://www.vanta.com/customers/nominal",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "noventiq",
+   "name": "Noventiq",
+   "url": "https://www.vanta.com/customers/noventiq",
+   "lastmod": "2026-10-08"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "peak",
+   "name": "Peak",
+   "url": "https://www.vanta.com/customers/peak",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "pendo",
+   "name": "Pendo",
+   "url": "https://www.vanta.com/customers/pendo",
+   "lastmod": "2026-09-16"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "perforce",
+   "name": "Perforce",
+   "url": "https://www.vanta.com/customers/perforce",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "perk",
+   "name": "Perk",
+   "url": "https://www.vanta.com/customers/perk",
+   "lastmod": "2026-06-03"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "pigment",
+   "name": "Pigment",
+   "url": "https://www.vanta.com/customers/pigment",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "pigment-french",
+   "name": "Pigment French",
+   "url": "https://www.vanta.com/customers/pigment-french",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "pinpoint",
+   "name": "Pinpoint",
+   "url": "https://www.vanta.com/customers/pinpoint",
+   "lastmod": "2026-04-02"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "rad-ai",
+   "name": "Rad AI",
+   "url": "https://www.vanta.com/customers/rad-ai",
+   "lastmod": "2026-03-23"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "rakkar-digital",
+   "name": "Rakkar Digital",
+   "url": "https://www.vanta.com/customers/rakkar-digital",
+   "lastmod": "2026-07-06"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "ramp",
+   "name": "Ramp",
+   "url": "https://www.vanta.com/customers/ramp",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "reachdesk",
+   "name": "Reachdesk",
+   "url": "https://www.vanta.com/customers/reachdesk",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "recidiviz",
+   "name": "Recidiviz",
+   "url": "https://www.vanta.com/customers/recidiviz",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "registrar-corp",
+   "name": "Registrar Corp",
+   "url": "https://www.vanta.com/customers/registrar-corp",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "roller",
+   "name": "Roller",
+   "url": "https://www.vanta.com/customers/roller",
+   "lastmod": "2026-07-14"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "samsara",
+   "name": "Samsara",
+   "url": "https://www.vanta.com/customers/samsara",
+   "lastmod": "2026-05-14"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "sevaka",
+   "name": "Sevaka",
+   "url": "https://www.vanta.com/customers/sevaka",
+   "lastmod": "2026-09-03"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "shipbob",
+   "name": "Shipbob",
+   "url": "https://www.vanta.com/customers/shipbob",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "shortcut",
+   "name": "Shortcut",
+   "url": "https://www.vanta.com/customers/shortcut",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "sigq",
+   "name": "Sigq",
+   "url": "https://www.vanta.com/customers/sigq",
+   "lastmod": "2026-07-06"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "simetrik",
+   "name": "Simetrik",
+   "url": "https://www.vanta.com/customers/simetrik",
+   "lastmod": "2026-07-06"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "sitoo",
+   "name": "Sitoo",
+   "url": "https://www.vanta.com/customers/sitoo",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "slope-software",
+   "name": "Slope Software",
+   "url": "https://www.vanta.com/customers/slope-software",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "snowfire",
+   "name": "Snowfire",
+   "url": "https://www.vanta.com/customers/snowfire",
+   "lastmod": "2026-08-14"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "snowflake",
+   "name": "Snowflake",
+   "url": "https://www.vanta.com/customers/snowflake",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "solidroad",
+   "name": "Solidroad",
+   "url": "https://www.vanta.com/customers/solidroad",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "specbook-ai",
+   "name": "Specbook AI",
+   "url": "https://www.vanta.com/customers/specbook-ai",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "squadify",
+   "name": "Squadify",
+   "url": "https://www.vanta.com/customers/squadify",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "stamprise",
+   "name": "Stamprise",
+   "url": "https://www.vanta.com/customers/stamprise",
+   "lastmod": "2026-10-13"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "stormboard",
+   "name": "Stormboard",
+   "url": "https://www.vanta.com/customers/stormboard",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "supabase",
+   "name": "Supabase",
+   "url": "https://www.vanta.com/customers/supabase",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "synthesia",
+   "name": "Synthesia",
+   "url": "https://www.vanta.com/customers/synthesia",
+   "lastmod": "2026-10-08"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "tactiq",
+   "name": "Tactiq",
+   "url": "https://www.vanta.com/customers/tactiq",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "tailor",
+   "name": "Tailor",
+   "url": "https://www.vanta.com/customers/tailor",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "taptap-send",
+   "name": "Taptap Send",
+   "url": "https://www.vanta.com/customers/taptap-send",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "the-mj-companies",
+   "name": "The MJ Companies",
+   "url": "https://www.vanta.com/customers/the-mj-companies",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "tikpay",
+   "name": "Tikpay",
+   "url": "https://www.vanta.com/customers/tikpay",
+   "lastmod": "2026-07-06"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "traffyk-ai",
+   "name": "Traffyk AI",
+   "url": "https://www.vanta.com/customers/traffyk-ai",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "typeform",
+   "name": "Typeform",
+   "url": "https://www.vanta.com/customers/typeform",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "unleash",
+   "name": "Unleash",
+   "url": "https://www.vanta.com/customers/unleash",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "upcover",
+   "name": "Upcover",
+   "url": "https://www.vanta.com/customers/upcover",
+   "lastmod": "2026-10-12"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "upflow",
+   "name": "Upflow",
+   "url": "https://www.vanta.com/customers/upflow",
+   "lastmod": "2026-01-20"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "upflow-french",
+   "name": "Upflow French",
+   "url": "https://www.vanta.com/customers/upflow-french",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "us-med-equip",
+   "name": "US Med Equip",
+   "url": "https://www.vanta.com/customers/us-med-equip",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "userevidence",
+   "name": "Userevidence",
+   "url": "https://www.vanta.com/customers/userevidence",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "veriff",
+   "name": "Veriff",
+   "url": "https://www.vanta.com/customers/veriff",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "versa",
+   "name": "Versa",
+   "url": "https://www.vanta.com/customers/versa",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "vibrent-health",
+   "name": "Vibrent Health",
+   "url": "https://www.vanta.com/customers/vibrent-health",
+   "lastmod": "2026-05-19"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "warp",
+   "name": "Warp",
+   "url": "https://www.vanta.com/customers/warp",
+   "lastmod": "2026-01-15"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "weel",
+   "name": "Weel",
+   "url": "https://www.vanta.com/customers/weel",
+   "lastmod": "2026-06-30"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "workjam",
+   "name": "Workjam",
+   "url": "https://www.vanta.com/customers/workjam",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "writer",
+   "name": "Writer",
+   "url": "https://www.vanta.com/customers/writer",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "yellow-canary",
+   "name": "Yellow Canary",
+   "url": "https://www.vanta.com/customers/yellow-canary",
+   "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "zoominfo",
+   "name": "Zoominfo",
+   "url": "https://www.vanta.com/customers/zoominfo",
+   "lastmod": "2026-03-17"
+  }
+ ]
+}
