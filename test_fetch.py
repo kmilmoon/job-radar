@@ -12,7 +12,10 @@ ASHBY = {"jobs": [
     {"id": "3b308afe-aa98", "title": "Head of Security", "location": "Berlin", "secondaryLocations": [{"location": "Spain"}],
      "isRemote": True, "workplaceType": "Remote", "employmentType": "FullTime", "publishedAt": "2026-10-10T10:00:00Z",
      "jobUrl": "https://jobs.ashbyhq.com/n8n/3b308afe-aa98", "isListed": True, "descriptionPlain": "Build the security function."},
-    {"id": "aaaa1111", "title": "Product Designer", "location": "Berlin", "isListed": True, "jobUrl": "x"},
+    {"id": "aaaa1111", "title": "Product Designer", "location": "Berlin", "isListed": True, "jobUrl": "x",
+     "publishedAt": "2026-10-09T00:00:00Z", "descriptionPlain": "Help us pass SOC 2 and DORA audits."},
+    {"id": "bbbb2222", "title": "Security Analyst", "location": "Remote", "isListed": True, "jobUrl": "https://jobs.ashbyhq.com/n8n/bbbb2222",
+     "publishedAt": "2026-10-08T00:00:00Z", "descriptionPlain": "Monitor alerts."},
 ]}
 GH = {"jobs": [
     {"id": 4092090009, "title": "Head of Compliance & GRC", "location": {"name": "Remote - US"},
@@ -56,7 +59,7 @@ def run():
     assert fj.main() == 0
     jobs = json.loads((tmp / "data/jobs.json").read_text())
     titles = sorted(j["title"] for j in jobs)
-    assert titles == ["GRC Manager", "Head of Compliance & GRC", "Head of Security"], titles
+    assert titles == ["GRC Manager", "Head of Compliance & GRC", "Head of Security", "Security Analyst"], titles
     by = {j["title"]: j for j in jobs}
     assert by["Head of Security"]["id"] == "ashby-n8n-3b308afe"
     assert "Spain" in by["Head of Security"]["location"]
@@ -66,6 +69,14 @@ def run():
     assert amap["Acme Security"] == {"ats": "lever", "slug": "acme"}, amap
     run_info = json.loads((tmp / "data/run.json").read_text())
     assert run_info["noBoardFound"] == ["Ghost Co"] and run_info["boardsRead"] == 3
+    sig = {x["company"]: x for x in json.loads((tmp / "data/signals.json").read_text())["companies"]}
+    n = sig["n8n"]
+    assert [x["title"] for x in n["leaderHiring"]] == ["Head of Security"], n
+    assert [x["title"] for x in n["firstHire"]] == ["Security Analyst"], n
+    assert {f["framework"] for f in n["frameworks"]} == {"SOC 2", "DORA"}, n
+    assert {f["framework"] for f in sig["Acme Security"]["frameworks"]} == {"ISO 27001"}
+    assert sig["Nametag"]["frameworks"][0]["url"].startswith("https://job-boards.greenhouse.io/nametag")
+    assert "Product Designer" not in titles and "Security Analyst" in titles
     print("OK", titles)
 
 

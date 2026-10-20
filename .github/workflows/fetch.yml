@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["companies.json", "fetch_jobs.py", "aggregators.py", ".github/workflows/fetch.yml"]
+    paths: ["companies.json", "fetch_jobs.py", "aggregators.py", "triggers.py", ".github/workflows/fetch.yml"]
 
 permissions:
   contents: write
@@ -18,7 +18,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -26,6 +26,9 @@ jobs:
           python-version: "3.12"
       - name: Fetch boards
         run: python fetch_jobs.py
+      - name: Vía B triggers (weekly and monthly parts decide by date)
+        run: python triggers.py
+        continue-on-error: true
       - name: Commit results
         run: |
           git config user.name "job-radar-bot"
@@ -35,5 +38,5 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update job boards $(date -u +%Y-%m-%d)"
-            git push
+            for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
           fi

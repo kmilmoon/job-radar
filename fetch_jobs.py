@@ -8,6 +8,7 @@ matches security / GRC / compliance / risk keywords, and writes:
   data/jobs.json     all matching open postings, newest first
   data/ats_map.json  company -> detected ATS and slug (cache for next run)
   data/run.json      run time, counts and errors
+  data/signals.json  Vía B: per company, first-hire / framework / leader-hiring signals read from ALL postings
 
 Standard library only, so the GitHub Actions runner needs no installs.
 """
@@ -212,6 +213,59 @@ def normalise(company, ats, slug, payload):
     return norm_lever(company, ats, slug, payload)
 
 
+# ---------- Vía B: señales por empresa (leídas de TODAS las ofertas de cada tablón) ----------
+SIG_SEC_RE = re.compile(r"\b(security|cyber\w*|infosec|information security|grc|compliance|seguridad|ciberseguridad|cumplimiento)\b", re.I)
+SIG_LEVEL_RE = re.compile(r"\b(analyst|engineer|specialist|associate|coordinator|compliance manager|officer|administrator|"
+                          r"analista|ingenier[oa]|especialista|t[eé]cnic[oa])\b", re.I)
+SIG_LEADER_RE = re.compile(r"\b(head of (information |cyber ?|product |it )?security|ciso|chief (information )?security officer|"
+                           r"(director|vp|vice president|svp)\b[^,;|]{0,25}\b(security|seguridad)|security director|"
+                           r"head of (security|grc|trust)|director[a]? de seguridad|responsable de seguridad)\b", re.I)
+SIG_SKIP_RE = re.compile(r"\b(sales|solutions?|pre-?sales|customer|support|account|guard|vigilante|physical)\b", re.I)
+FRAMEWORKS = {"SOC 2": re.compile(r"\bSOC ?2\b", re.I), "ISO 27001": re.compile(r"\bISO[ /-]?(IEC )?27001\b", re.I),
+              "PCI DSS": re.compile(r"\bPCI[ -]?DSS\b|\bPCI\b(?= compliance| certification)", re.I),
+              "HIPAA": re.compile(r"\bHIPAA\b"), "DORA": re.compile(r"\bDORA\b"), "NIS2": re.compile(r"\bNIS ?2\b")}
+
+
+def iter_postings(ats, payload):
+    """(title, posted, url, full text) for every posting on a board, whatever its title."""
+    if ats == "ashby":
+        for j in payload.get("jobs", []):
+            if not j.get("isListed", True):
+                continue
+            yield (j.get("title", ""), (j.get("publishedAt") or "")[:10], j.get("jobUrl") or j.get("applyUrl"),
+                   strip_html(j.get("descriptionPlain") or j.get("descriptionHtml"), 60000))
+    elif ats.startswith("greenhouse"):
+        for j in payload.get("jobs", []):
+            yield (j.get("title", ""), (j.get("first_published") or j.get("updated_at") or "")[:10], j.get("absolute_url"),
+                   strip_html(j.get("content"), 60000))
+    else:
+        for j in payload:
+            created = j.get("createdAt")
+            posted = datetime.fromtimestamp(created / 1000, timezone.utc).strftime("%Y-%m-%d") if created else ""
+            lists = " ".join((l.get("content") or "") for l in (j.get("lists") or []) if isinstance(l, dict))
+            yield (j.get("text", ""), posted, j.get("hostedUrl"),
+                   strip_html((j.get("descriptionPlain") or j.get("description") or "") + " " + lists
+                              + " " + (j.get("additionalPlain") or ""), 60000))
+
+
+def company_signals(company, ats, slug, payload):
+    first, leader, fw = [], [], {}
+    total = 0
+    for title, posted, url, text in iter_postings(ats, payload):
+        total += 1
+        ref = {"title": title, "posted": posted, "url": url}
+        if SIG_LEADER_RE.search(title):
+            leader.append(ref)
+        elif SIG_SEC_RE.search(title) and SIG_LEVEL_RE.search(title) and not SIG_SKIP_RE.search(title):
+            first.append(ref)
+        for name, rx in FRAMEWORKS.items():
+            if name not in fw and (rx.search(text) or rx.search(title)):
+                fw[name] = ref
+    return {"company": company["name"], "ats": ats, "slug": slug, "openPostings": total,
+            "firstHire": first, "leaderHiring": leader,
+            "frameworks": [{"framework": k, **v} for k, v in fw.items()]}
+
+
 def relevant(job):
     t = job.get("title") or ""
     return bool(TITLE_RE.search(t)) and not TITLE_EXCLUDE.search(t)
@@ -230,6 +284,7 @@ def main():
     cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
 
     jobs, errors, not_found, checked = [], [], [], 0
+    signals = []
     for c in companies:
         if c.get("skip"):
             continue
@@ -245,6 +300,10 @@ def main():
         cache[c["name"]] = {"ats": ats, "slug": slug}
         found = [j for j in normalise(c, ats, slug, payload) if relevant(j)]
         jobs.extend(found)
+        try:
+            signals.append(company_signals(c, ats, slug, payload))
+        except Exception as e:  # a signal error must never touch jobs.json
+            errors.append(f"signals {c['name']}: {type(e).__name__}: {e}")
 
     jobs.sort(key=lambda j: j.get("posted") or "", reverse=True)
 
@@ -255,6 +314,8 @@ def main():
 
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     (DATA / "jobs.json").write_text(json.dumps(jobs, ensure_ascii=False, indent=1), encoding="utf-8")
+    (DATA / "signals.json").write_text(json.dumps({"generatedAt": now, "companies": signals}, ensure_ascii=False, indent=1),
+                                       encoding="utf-8")
     (DATA / "boards.json").write_text(json.dumps(agg, ensure_ascii=False, indent=1), encoding="utf-8")
     cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     (DATA / "run.json").write_text(json.dumps({
@@ -268,6 +329,10 @@ def main():
         "aggregatorJobs": {"core": sum(1 for a in agg if a["track"] == "core"),
                            "alt": sum(1 for a in agg if a["track"] == "alt")},
         "aggregatorErrors": agg_errors,
+        "signals": {"companies": sum(1 for x in signals if x["firstHire"] or x["frameworks"] or x["leaderHiring"]),
+                    "firstHire": sum(1 for x in signals if x["firstHire"]),
+                    "frameworks": sum(1 for x in signals if x["frameworks"]),
+                    "leaderHiring": sum(1 for x in signals if x["leaderHiring"])},
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{now}: {checked} boards read, {len(jobs)} matching jobs, {len(not_found)} without a public board, "
           f"{len(errors)} errors; aggregators {agg_counts} errors {agg_errors}")
