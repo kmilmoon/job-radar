@@ -15,5 +15,5 @@ jobs:
       - run: python tools/probe.py
       - run: |
           git config user.name "job-radar-bot"; git config user.email "job-radar-bot@users.noreply.github.com"
-          git add data/probe.json; git commit -m "Probe sources" || exit 0
+          git add data/probe.json data/probe; git commit -m "Probe sources" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
