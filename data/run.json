@@ -1,8 +1,8 @@
 {
- "ranAt": "2026-10-19T09:21:23+00:00",
+ "ranAt": "2026-10-20T08:55:28+00:00",
  "companies": 85,
- "boardsRead": 47,
- "matchingJobs": 95,
+ "boardsRead": 46,
+ "matchingJobs": 92,
  "noBoardFound": [
   "MultiSafepay",
   "Tucuvi",
@@ -30,6 +30,7 @@
   "Aikido Security",
   "Noma Security",
   "Cyera",
+  "ThreatLocker",
   "Glow",
   "Zenity",
   "Neo",
@@ -45,22 +46,22 @@
  ],
  "errors": [],
  "aggregators": {
-  "jobgether": 11,
-  "himalayas": 4,
+  "jobgether": 14,
+  "himalayas": 0,
   "workingnomads": 0,
   "getonboard": 3,
   "_raw": {
-   "jobgether_raw": 4047,
-   "https://himalayas.app/jobs/api": "HTTP 200, 145400 bytes",
+   "jobgether_raw": 4138,
+   "https://himalayas.app/jobs/api": "HTTP 200, 88416 bytes",
    "himalayas_raw": 500,
-   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 188457 bytes",
-   "workingnomads_raw": 42,
-   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 774345 bytes",
-   "getonboard_raw": 964
+   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 184934 bytes",
+   "workingnomads_raw": 41,
+   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 778421 bytes",
+   "getonboard_raw": 963
   }
  },
  "aggregatorJobs": {
-  "core": 8,
+  "core": 7,
   "alt": 10
  },
  "aggregatorErrors": []
