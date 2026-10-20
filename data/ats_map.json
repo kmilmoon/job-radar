@@ -19,6 +19,10 @@
   "ats": "ashby",
   "slug": "camunda"
  },
+ "Causa Prima": {
+  "ats": "ashby",
+  "slug": "causaprima"
+ },
  "Clarity AI": {
   "ats": "ashby",
   "slug": "clarity"
@@ -158,6 +162,10 @@
  "Taktile": {
   "ats": "ashby",
   "slug": "taktile"
+ },
+ "Tandem Health": {
+  "ats": "ashby",
+  "slug": "tandem-health"
  },
  "Taxbit": {
   "ats": "greenhouse",

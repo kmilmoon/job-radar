@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T09:47:14+00:00",
+ "generatedAt": "2026-10-20T11:12:18+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -325,7 +325,7 @@
    "company": "Yuno",
    "ats": "lever",
    "slug": "yuno",
-   "openPostings": 24,
+   "openPostings": 17,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -399,7 +399,7 @@
    "company": "JetBrains",
    "ats": "greenhouse",
    "slug": "jetbrains",
-   "openPostings": 53,
+   "openPostings": 54,
    "firstHire": [
     {
      "title": "Compliance Manager (Export Controls & Sanctions)",
@@ -544,7 +544,7 @@
    "company": "Pave Bank",
    "ats": "ashby",
    "slug": "pavebank",
-   "openPostings": 25,
+   "openPostings": 27,
    "firstHire": [
     {
      "title": "Junior Security Engineer",
@@ -999,7 +999,7 @@
    "company": "Valarian",
    "ats": "lever",
    "slug": "valarian",
-   "openPostings": 8,
+   "openPostings": 7,
    "firstHire": [
     {
      "title": "InfoSec Engineer",
@@ -1071,6 +1071,67 @@
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
+  },
+  {
+   "company": "Tandem Health",
+   "ats": "ashby",
+   "slug": "tandem-health",
+   "openPostings": 74,
+   "firstHire": [
+    {
+     "title": "Senior GRC Engineer",
+     "posted": "2026-09-03",
+     "url": "https://jobs.ashbyhq.com/tandem-health/abda453c-bab5-46c4-ae7d-7b07e47a882e"
+    },
+    {
+     "title": "Senior Security Operations Engineer",
+     "posted": "2026-09-03",
+     "url": "https://jobs.ashbyhq.com/tandem-health/a765d1aa-08f6-42ff-8eef-531168454517"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "HIPAA",
+     "title": "Sales Development Representative - Stockholm",
+     "posted": "2026-06-01",
+     "url": "https://jobs.ashbyhq.com/tandem-health/9c9a1c89-a784-4e18-b4f4-c308ff4c4ba8"
+    },
+    {
+     "framework": "SOC 2",
+     "title": "Senior GRC Engineer",
+     "posted": "2026-09-03",
+     "url": "https://jobs.ashbyhq.com/tandem-health/abda453c-bab5-46c4-ae7d-7b07e47a882e"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Senior GRC Engineer",
+     "posted": "2026-09-03",
+     "url": "https://jobs.ashbyhq.com/tandem-health/abda453c-bab5-46c4-ae7d-7b07e47a882e"
+    }
+   ]
+  },
+  {
+   "company": "Causa Prima",
+   "ats": "ashby",
+   "slug": "causaprima",
+   "openPostings": 6,
+   "firstHire": [
+    {
+     "title": "Platform Security Engineer",
+     "posted": "2026-06-29",
+     "url": "https://jobs.ashbyhq.com/causaprima/30ca8d0b-d204-4cd6-8659-14235385119e"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Senior Backend / Platform Engineer",
+     "posted": "2026-05-04",
+     "url": "https://jobs.ashbyhq.com/causaprima/b06399e5-b2df-4cb6-ad78-28a9fac7a6db"
+    }
+   ]
   }
  ]
 }

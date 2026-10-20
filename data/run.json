@@ -1,8 +1,8 @@
 {
- "ranAt": "2026-10-20T09:47:14+00:00",
- "companies": 85,
- "boardsRead": 46,
- "matchingJobs": 92,
+ "ranAt": "2026-10-20T11:12:18+00:00",
+ "companies": 93,
+ "boardsRead": 48,
+ "matchingJobs": 95,
  "noBoardFound": [
   "MultiSafepay",
   "Tucuvi",
@@ -42,7 +42,13 @@
   "Marble",
   "ID Finance",
   "PlannerPal",
-  "Cleavr"
+  "Cleavr",
+  "FintechOS",
+  "Hadrian",
+  "Kord",
+  "MyComplianceOffice",
+  "One Trading",
+  "Wavo"
  ],
  "errors": [],
  "aggregators": {
@@ -51,12 +57,12 @@
   "workingnomads": 0,
   "getonboard": 3,
   "_raw": {
-   "jobgether_raw": 4183,
+   "jobgether_raw": 4268,
    "https://himalayas.app/jobs/api": "HTTP 200, 127908 bytes",
    "himalayas_raw": 500,
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 184934 bytes",
    "workingnomads_raw": 41,
-   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 778421 bytes",
+   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 779112 bytes",
    "getonboard_raw": 963
   }
  },
@@ -66,27 +72,15 @@
  },
  "aggregatorErrors": [],
  "signals": {
-  "companies": 29,
-  "firstHire": 18,
-  "frameworks": 27,
+  "companies": 31,
+  "firstHire": 20,
+  "frameworks": 29,
   "leaderHiring": 3
  },
  "triggers": {
-  "ranAt": "2026-10-20T09:47:14+00:00",
-  "ran": [
-   "partners"
-  ],
-  "partners": {
-   "count": 121,
-   "emea": 22
-  },
-  "auditors": {
-   "count": 39,
-   "emea": 10
-  },
-  "errors": [
-   "Drata partners: https://drata.com/service-partners/directory: HTTPError: HTTP Error 403: Forbidden"
-  ],
+  "ranAt": "2026-10-20T11:12:18+00:00",
+  "ran": [],
+  "errors": [],
   "webSearchFallback": [
    "Drata: clientes, partners y auditores (bloquea la lectura automática)",
    "Secureframe: auditores partner (no publica un listado)"

@@ -630,6 +630,34 @@
   "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. The Role The CISO will own Obsidian's internal security program end-to-end while serving as a visible security leader to our customers, partners, and the broader market. This role reports to the Chief Legal and Trust Officer. Responsib"
  },
  {
+  "id": "ashby-tandem-health-abda453c",
+  "company": "Tandem Health",
+  "ats": "ashby",
+  "title": "Senior GRC Engineer",
+  "location": "Stockholm",
+  "remote": false,
+  "workplace": "OnSite",
+  "employment": "FullTime",
+  "posted": "2026-09-03",
+  "url": "https://jobs.ashbyhq.com/tandem-health/abda453c-bab5-46c4-ae7d-7b07e47a882e",
+  "compensation": null,
+  "excerpt": "BUILD SOMETHING MONUMENTAL FOR HEALTHCARE! At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight into real-world pain points, with intuitive medical notes and workflows that truly support patient care. We’re a fast-scaling health-tech company backed by top investors and expanding globally. We move fast, stay curious, and believe building something that matters starts with an extraordinary team. If you're passionate about impact and innovation, we'd love to meet you! ABOUT THE ROLE You will lead the engineering behind our governance, risk and compliance (GRC) systems. You will turn security requirements into production controls, evidence pipelines and tests that show whether those controls operate as designed. The Senior GRC Engineer works across security, software engineering and compliance. On one day you might build a pipeline that collects cloud configuration evidence or write a test that detects a failed control. On another day, you might trace a system change to the policies and requirements it affects. You will work with the security, compliance, and legal teams to define the most pressing problems and deliver production solutions without detailed technical direction. And, more broadly, you will take initiative to close gaps that you identify in the course of your work. WHAT YOU WILL DO - Build production systems that collect, validate and preserve technical control evidence. - Automate shared security controls when a central implementation is the right solution. - Write tests that show whether controls operate as designed and continue to work over time. - Connect requirements, controls, implementations, tests, evidence, policies and procedures. - Detect missing, "
+ },
+ {
+  "id": "ashby-tandem-health-a765d1aa",
+  "company": "Tandem Health",
+  "ats": "ashby",
+  "title": "Senior Security Operations Engineer",
+  "location": "Stockholm",
+  "remote": false,
+  "workplace": "OnSite",
+  "employment": "FullTime",
+  "posted": "2026-09-03",
+  "url": "https://jobs.ashbyhq.com/tandem-health/a765d1aa-08f6-42ff-8eef-531168454517",
+  "compensation": null,
+  "excerpt": "BUILD SOMETHING MONUMENTAL FOR HEALTHCARE! At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight into real-world pain points, with intuitive medical notes and workflows that truly support patient care. We’re a fast-scaling health-tech company backed by top investors and expanding globally. We move fast, stay curious, and believe building something that matters starts with an extraordinary team. If you're passionate about impact and innovation, we'd love to meet you! ABOUT THE ROLE You will lead the engineering of our security operations programme in Stockholm. The role is hands-on and spans telemetry, detection engineering, incident response and the way we work with our managed detection and response (MDR) provider. The work is varied. You might trace an identity alert across cloud logs or guide a containment decision during an incident. On another day, you might test whether an AI-assisted investigation workflow is safe enough to use. You will have a real say in the tools we choose, the processes we build and the skills we add as the team grows. The decisions you make will shape how Tandem handles security incidents for years to come. This is a senior individual contributor role today. You do not need to want a management role to grow here. If people management interests you later, we can explore that path as the team grows. WHAT YOU WILL DO - Own a risk-prioritised plan for bringing data sources into our security information and event management (SIEM) platform. - Make telemetry dependable. Build checks that show when important data is missing, delayed or incomplete. - Develop a repeatable detection lifecycle that covers creation, testing, tuning, ownership and retire"
+ },
+ {
   "id": "gh-bitpanda-4966607101",
   "company": "Bitpanda",
   "ats": "greenhouse",
@@ -950,6 +978,20 @@
   "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008",
   "compensation": null,
   "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. About the Role AI is the fastest-moving attack surface in the enterprise. Copilot, ChatGPT Enterprise, Gemini, Claude, and a wave of agentic tools are being wired into corporate SaaS faster than security teams can keep up — with broad "
+ },
+ {
+  "id": "ashby-causaprima-30ca8d0b",
+  "company": "Causa Prima",
+  "ats": "ashby",
+  "title": "Platform Security Engineer ",
+  "location": "Madrid; Munich",
+  "remote": false,
+  "workplace": "OnSite",
+  "employment": "FullTime",
+  "posted": "2026-06-29",
+  "url": "https://jobs.ashbyhq.com/causaprima/30ca8d0b-d204-4cd6-8659-14235385119e",
+  "compensation": null,
+  "excerpt": "In this role, you will design and build the System Integrity Layer, establishing the foundational platform primitives that guarantee every agent action is isolated and attributable, every execution is traceable, every state transition is verifiable, and every software release satisfies strict security constraints by construction. This is a hands-on backend security engineering role where security, threat resilience, and compliance are natural outcomes of brilliant system architecture, not separate, bureaucratic processes. We are looking for a builder, not a governance operator—someone who treats trust guarantees as core system properties designed directly into the database and application layers from day one. Architecture or technical-leadership experience is fine, even welcome, as long as it comes with real hands-on depth you can point to—specific systems you designed and built—rather than process, documentation, or audit-standardization work alone. What you'll do: - System Integrity Layer & Threat Modeling — Design the core execution model that governs how autonomous agents run, interact, and modify system state. - Proactive Threat Modeling — Conduct continuous, code-level threat modeling across our distributed networks to identify structural vectors, memory leakage, prompt manipulation, and authorization bypasses before a single line hits staging. - Auditability as a Native Property — Build append-only, tamper-resistant event systems that make every action reconstructable without relying on external logging frameworks or reactive \"audit tooling.\" - Isolation, Trust Boundaries, & Adversarial Testing — Engineer strict execution and data isolation layers between agents, users, and workflows in a multi-tenant infrastructure. - Continuous Offensive Testing — Run active in"
  },
  {
   "id": "ashby-10xteam-4bd8fef5",
