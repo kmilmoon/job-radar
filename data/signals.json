@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T04:47:44+00:00",
+ "generatedAt": "2026-10-21T08:55:52+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -239,7 +239,7 @@
    "company": "Camunda",
    "ats": "ashby",
    "slug": "camunda",
-   "openPostings": 40,
+   "openPostings": 41,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -570,7 +570,7 @@
    "company": "Kertos",
    "ats": "ashby",
    "slug": "kertos",
-   "openPostings": 8,
+   "openPostings": 7,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -688,7 +688,7 @@
    "company": "Bitpanda",
    "ats": "greenhouse",
    "slug": "bitpanda",
-   "openPostings": 32,
+   "openPostings": 33,
    "firstHire": [
     {
      "title": "Senior Cyber Security Engineer, Elastic (Security Operations)",
@@ -743,7 +743,7 @@
    "company": "Pleo",
    "ats": "ashby",
    "slug": "pleo",
-   "openPostings": 29,
+   "openPostings": 30,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -1076,7 +1076,7 @@
    "company": "Tandem Health",
    "ats": "ashby",
    "slug": "tandem-health",
-   "openPostings": 74,
+   "openPostings": 73,
    "firstHire": [
     {
      "title": "Senior GRC Engineer",

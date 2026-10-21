@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-21T04:47:44+00:00",
+ "ranAt": "2026-10-21T08:55:52+00:00",
  "companies": 94,
  "boardsRead": 48,
  "matchingJobs": 96,
@@ -53,13 +53,13 @@
  ],
  "errors": [],
  "aggregators": {
-  "jobgether": 10,
-  "himalayas": 0,
+  "jobgether": 11,
+  "himalayas": 4,
   "workingnomads": 0,
   "getonboard": 2,
   "_raw": {
-   "jobgether_raw": 3842,
-   "https://himalayas.app/jobs/api": "HTTP 200, 118082 bytes",
+   "jobgether_raw": 4186,
+   "https://himalayas.app/jobs/api": "HTTP 200, 111602 bytes",
    "himalayas_raw": 500,
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 202253 bytes",
    "workingnomads_raw": 44,
@@ -68,8 +68,8 @@
   }
  },
  "aggregatorJobs": {
-  "core": 5,
-  "alt": 7
+  "core": 7,
+  "alt": 10
  },
  "aggregatorErrors": [],
  "signals": {
@@ -79,7 +79,7 @@
   "leaderHiring": 3
  },
  "triggers": {
-  "ranAt": "2026-10-21T04:47:44+00:00",
+  "ranAt": "2026-10-21T08:55:52+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [
