@@ -1,19 +1,5 @@
 [
  {
-  "id": "ashby-aiuc-83974084",
-  "company": "AIUC",
-  "ats": "ashby",
-  "title": "Founding Security Engineer",
-  "location": "San Francisco",
-  "remote": false,
-  "workplace": "OnSite",
-  "employment": "FullTime",
-  "posted": "2026-10-17",
-  "url": "https://jobs.ashbyhq.com/aiuc/83974084-a911-4b6e-90bf-ccb7c9f24faf",
-  "compensation": "$200K – $400K",
-  "excerpt": "ABOUT AIUC AIUC builds standards and insurance for frontier AI. Our mission is to Underwrite superintelligence https://underwriting-superintelligence.com/. We exist because risk, not capability, is becoming the binding constraint on AI being useful. History offers lessons for how to build confidence in new technology; electricity burned down houses until insurers funded Underwriters Laboratories (UL) to certify products against their standards. Today, the UL mark is a trustmark on every light bulb in America. We’re building that for AI. AIUC-1, our standard for agent security, serves frontier builders like Cursor, Lovable, ElevenLabs, and Harvey. We've raised $55m from Ribbit, First Harmonic and Nat Friedman to audit frontier AI. Our team comes from METR, Anthropic, McKinsey, and OpenAI. Come join us. THE ROLE AI agents now handle sensitive data and run real infrastructure. Their biggest risks, from prompt injection and credential sprawl to tool misuse and MCP and A2A attacks, still have no established defenses. AIUC-1 is the standard Fortune 500 CISOs use to decide which AI agents they can trust. That only works if we’re the most secure company in the room. You’ll be our first security hire, joining as we open our product to the world, while our own agents test other companies’ agents. You’ll own security end to end across our product, evaluation platform, and internal systems, and work directly with the founders. You’ll take on agent security problems nobody has solved, prove the answers on our own systems, and watch them become the playbook other companies follow. From there, the ceiling is yours: become the security leader who advises our consortium of 300+ CISOs, helps shape AIUC-1’s security requirements, and defines what agent security means in practice. This rol"
- },
- {
   "id": "gh-exeinspa-5007199101",
   "company": "Exein",
   "ats": "greenhouse",
@@ -124,6 +110,20 @@
   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5003324101",
   "compensation": null,
   "excerpt": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 7 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing. Headquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go! Your mission As an Information Security Senior Specialist, you will lead and scale major elements of our security governance in a regulated fintech environment. You’ll own complex, cross-functional GRC domains (e.g., ISMS/ISO 27001 at scale, regulatory readiness, enterprise technology risk, third-party risk for critical vendors, compliance in key partnerships), drive measurable improvement in control effectiveness, and act as a trusted advisor to senior stakeholders. What you’ll do Information Security Operating Model & GRC Ownership: Own and evolve one or more GRC domains end-to-end (e.g., ISMS operations, BCM, risk governance), including strategy, annual plan"
+ },
+ {
+  "id": "lever-yuno-2919c9d5",
+  "company": "Yuno",
+  "ats": "lever",
+  "title": "Security Compliance Engineer",
+  "location": "Spain; Spain; Colombia; Chile; Paraguay; Puerto Rico; Mexico; Bogota; Dominican Republic; Ecuador; Europe; Lima; Montevideo; Argentina",
+  "remote": true,
+  "workplace": "remote",
+  "employment": "Remote",
+  "posted": "2026-10-09",
+  "url": "https://jobs.lever.co/yuno/2919c9d5-3740-4772-9b43-c014732cf257",
+  "compensation": null,
+  "excerpt": "Latam · Remote · Full Time · Individual Contributor Who We Are At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries, our technology provides access to leading payment capabilities, enabling companies to engage customers confidently and maintain global operations through seamless integrations. We empower high-performing teams at brands like InDrive, McDonald’s, Rappi, and Viva Aerobus to integrate over 1,000 payment methods via a single API. By leveraging advanced AI and the latest technologies, we orchestrate smart routing and fraud prevention across 80+ countries. About The Role We are orchestrating the best high-performing team! As a Security Compliance Engineer at Yuno, you will play a key role in ensuring our security and privacy programs meet the highest industry standards. In this role, you will actively contribute to ISOs, SOC 2, and PCI DSS audits from a technical perspective, translating compliance and privacy requirements into auditable technical controls. You will collaborate closely with Engineering and DevOps teams to implement cloud security controls across AWS and GCP, build internal security tooling using Python, and support privacy-focused initiatives that enable Yuno to operate securely and compliantly in the global payments ecosystem. Your Contribution Will Be Actively participate in ISO 27001/27701, ISO 42001, SOC 2 and PCI DSS audit processes, contributing from a technical and implementation perspective as part of the Security team. Translate security, compliance, and privacy requirements into scalable technical controls, ensuring they are enforceable, measurable, and auditable. Develop and maintain internal security tools "
  },
  {
   "id": "gh-bitpanda-4995059101",
@@ -530,6 +530,20 @@
   "url": "https://jobs.ashbyhq.com/legora/957e5960-0766-48ed-92f7-67102a7134fb",
   "compensation": null,
   "excerpt": "ABOUT US Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes. 2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler. We partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law. Joining Legora means three things. - We lean in: ownership over titles, outcomes over intentions. - We fight for excellence: high standards, direct, ego-free feedback. - We grow together: as a team and with our customers. Mission before ego. Everyone contributes. No one coasts. If you’re driven by impact, pace, and raising the bar. This is the place. What you’ll be doing Let's get the tricky part out of the way: this role doesn't fit neatly into a traditional box. It's part legal ops, part product specialist, part solutions architect, and part client whisperer. If you enjoy roles that stay static, this probably isn't it. Your mission is to help our clients, some of the most sophisticated tax and legal advisory teams in the world, get the absolute most out of our platform. We are hiring for two o"
+ },
+ {
+  "id": "gh-modulrfinance-8816358002",
+  "company": "Modulr",
+  "ats": "greenhouse",
+  "title": "Client Risk Analyst",
+  "location": "London",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-09-17",
+  "url": "https://boards.greenhouse.io/modulrfinance/jobs/8816358002?gh_jid=8816358002",
+  "compensation": null,
+  "excerpt": "Client Risk Analyst London Full-time In office 4 days/week Do you enjoy digging deeper when something doesn't quite add up? Do you want to own real portfolios from day one, with your independent thinking trusted by clients and colleagues? Would you like to help build better tooling and AI into how we assess client risk? Who We Are Modulr is the payments automation platform that streamlines money movement with accuracy, control and reliability – built to scale. We process more than 200m transactions and over £180bn in payment value on an annualised basis, and we’re trusted by over 6,000 businesses from fast-growing SMEs to global enterprises. We automate how money moves into and out of a business (payroll, supplier payments, spend management and payment collection) through a single platform, connected to the accounting and payroll systems finance teams already use, and underpinned by principal memberships of Visa and Mastercard and direct access to central bank infrastructure. As a regulated payments provider with over a decade of experience, we’re the platform finance teams trust to run mission-critical operations. Modulr is backed by PayPal, FIS, General Atlantic, Blenheim Chalcot, Frog Capital and Highland Europe, with over 400 employees across London, Edinburgh, Amsterdam and Mumbai. Find out more about us on our website . What You'll Do Assess, monitor and manage risks presented by our clients and partners across distribution channels throughout the client lifecycle, using our six-pillar risk framework (financial crime, business model, financial resilience, operational resilience, conduct, and complaints handling). You'll own a portfolio, form independent views, escalate material risks, and contribute to protecting our customers and regulatory compliance. Conduct ri"
  },
  {
   "id": "ashby-parallel-2560a1fb",

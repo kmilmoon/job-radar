@@ -1,8 +1,8 @@
 {
- "ranAt": "2026-10-20T11:12:18+00:00",
- "companies": 93,
+ "ranAt": "2026-10-21T04:47:44+00:00",
+ "companies": 94,
  "boardsRead": 48,
- "matchingJobs": 95,
+ "matchingJobs": 96,
  "noBoardFound": [
   "MultiSafepay",
   "Tucuvi",
@@ -48,27 +48,28 @@
   "Kord",
   "MyComplianceOffice",
   "One Trading",
-  "Wavo"
+  "Wavo",
+  "Mindgard"
  ],
  "errors": [],
  "aggregators": {
-  "jobgether": 14,
+  "jobgether": 10,
   "himalayas": 0,
   "workingnomads": 0,
-  "getonboard": 3,
+  "getonboard": 2,
   "_raw": {
-   "jobgether_raw": 4268,
-   "https://himalayas.app/jobs/api": "HTTP 200, 127908 bytes",
+   "jobgether_raw": 3842,
+   "https://himalayas.app/jobs/api": "HTTP 200, 118082 bytes",
    "himalayas_raw": 500,
-   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 184934 bytes",
-   "workingnomads_raw": 41,
-   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 779112 bytes",
-   "getonboard_raw": 963
+   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 202253 bytes",
+   "workingnomads_raw": 44,
+   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 791527 bytes",
+   "getonboard_raw": 965
   }
  },
  "aggregatorJobs": {
-  "core": 7,
-  "alt": 10
+  "core": 5,
+  "alt": 7
  },
  "aggregatorErrors": [],
  "signals": {
@@ -78,7 +79,7 @@
   "leaderHiring": 3
  },
  "triggers": {
-  "ranAt": "2026-10-20T11:12:18+00:00",
+  "ranAt": "2026-10-21T04:47:44+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [

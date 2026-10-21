@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-20T11:12:18+00:00",
+ "generatedAt": "2026-10-21T04:47:44+00:00",
  "companies": [
   {
    "company": "n8n",
    "ats": "ashby",
    "slug": "n8n",
-   "openPostings": 41,
+   "openPostings": 40,
    "firstHire": [
     {
      "title": "Sr Security Engineer | Remote | Europe",
@@ -33,7 +33,7 @@
    "company": "Hopper",
    "ats": "ashby",
    "slug": "hopper",
-   "openPostings": 20,
+   "openPostings": 13,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -150,7 +150,7 @@
    "company": "Legora",
    "ats": "ashby",
    "slug": "legora",
-   "openPostings": 309,
+   "openPostings": 310,
    "firstHire": [
     {
      "title": "GRC Engineer",
@@ -325,27 +325,33 @@
    "company": "Yuno",
    "ats": "lever",
    "slug": "yuno",
-   "openPostings": 17,
-   "firstHire": [],
+   "openPostings": 16,
+   "firstHire": [
+    {
+     "title": "Security Compliance Engineer",
+     "posted": "2026-10-09",
+     "url": "https://jobs.lever.co/yuno/2919c9d5-3740-4772-9b43-c014732cf257"
+    }
+   ],
    "leaderHiring": [],
    "frameworks": [
     {
-     "framework": "PCI DSS",
-     "title": "Sales Engineer",
-     "posted": "2026-08-13",
-     "url": "https://jobs.lever.co/yuno/768b0eea-7ad9-4444-b475-3040aff146b7"
-    },
-    {
      "framework": "SOC 2",
-     "title": "Senior Corporate IT Engineer",
-     "posted": "2026-08-10",
-     "url": "https://jobs.lever.co/yuno/c32ba236-2e8d-4b4c-b850-8849939cb1eb"
+     "title": "Corporate IT Manager",
+     "posted": "2026-10-20",
+     "url": "https://jobs.lever.co/yuno/95b3fdf9-a80d-4c1e-b7a1-ec2ca78e7096"
     },
     {
      "framework": "ISO 27001",
-     "title": "Senior Corporate IT Engineer",
-     "posted": "2026-08-10",
-     "url": "https://jobs.lever.co/yuno/c32ba236-2e8d-4b4c-b850-8849939cb1eb"
+     "title": "Corporate IT Manager",
+     "posted": "2026-10-20",
+     "url": "https://jobs.lever.co/yuno/95b3fdf9-a80d-4c1e-b7a1-ec2ca78e7096"
+    },
+    {
+     "framework": "PCI DSS",
+     "title": "Corporate IT Manager",
+     "posted": "2026-10-20",
+     "url": "https://jobs.lever.co/yuno/95b3fdf9-a80d-4c1e-b7a1-ec2ca78e7096"
     },
     {
      "framework": "DORA",
@@ -368,7 +374,7 @@
    "company": "Modulr",
    "ats": "greenhouse",
    "slug": "modulrfinance",
-   "openPostings": 24,
+   "openPostings": 25,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -399,7 +405,7 @@
    "company": "JetBrains",
    "ats": "greenhouse",
    "slug": "jetbrains",
-   "openPostings": 54,
+   "openPostings": 52,
    "firstHire": [
     {
      "title": "Compliance Manager (Export Controls & Sanctions)",
@@ -499,7 +505,7 @@
    "company": "Pliant",
    "ats": "ashby",
    "slug": "pliant",
-   "openPostings": 33,
+   "openPostings": 32,
    "firstHire": [
     {
      "title": "Security Engineer *EU/UK remote* (m/f/d)",
@@ -564,7 +570,7 @@
    "company": "Kertos",
    "ats": "ashby",
    "slug": "kertos",
-   "openPostings": 7,
+   "openPostings": 8,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -673,7 +679,7 @@
    "company": "Nelly",
    "ats": "ashby",
    "slug": "nelly",
-   "openPostings": 12,
+   "openPostings": 13,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -682,7 +688,7 @@
    "company": "Bitpanda",
    "ats": "greenhouse",
    "slug": "bitpanda",
-   "openPostings": 31,
+   "openPostings": 32,
    "firstHire": [
     {
      "title": "Senior Cyber Security Engineer, Elastic (Security Operations)",
@@ -923,7 +929,7 @@
    "company": "HiddenLayer",
    "ats": "greenhouse",
    "slug": "hiddenlayer",
-   "openPostings": 16,
+   "openPostings": 17,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -1027,14 +1033,8 @@
    "company": "AIUC",
    "ats": "ashby",
    "slug": "aiuc",
-   "openPostings": 13,
-   "firstHire": [
-    {
-     "title": "Founding Security Engineer",
-     "posted": "2026-10-17",
-     "url": "https://jobs.ashbyhq.com/aiuc/83974084-a911-4b6e-90bf-ccb7c9f24faf"
-    }
-   ],
+   "openPostings": 14,
+   "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
     {
