@@ -223,6 +223,10 @@
   "ats": "ashby",
   "slug": "sentilink"
  },
+ "Shield AI": {
+  "ats": "lever",
+  "slug": "shieldai"
+ },
  "Skydio": {
   "ats": "ashby",
   "slug": "skydio"

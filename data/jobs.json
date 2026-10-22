@@ -1,5 +1,19 @@
 [
  {
+  "id": "ashby-kertos-54505ad5",
+  "company": "Kertos",
+  "ats": "ashby",
+  "title": "Information Security Consultant (all genders)",
+  "location": "Munich",
+  "remote": true,
+  "workplace": "Hybrid",
+  "employment": "FullTime",
+  "posted": "2026-10-22",
+  "url": "https://jobs.ashbyhq.com/kertos/54505ad5-b679-45f2-9925-cb2c6f75a55f",
+  "compensation": null,
+  "excerpt": "Kertos is the fastest-growing compliance startup in Europe. Following our €14M Series A, backed by leading VCs and business angels, we are building the compliance engine for Europe – faster, smarter, and more automated than ever. With customers like Enpal, Flink, Personio, and Blacklane, leading companies trust our AI-native platform that automates compliance, scales effortlessly, and makes organizations audit-ready in record time. The market is growing by 20% every year, fueled by regulations like GDPR, NIS2, DORA, and the AI Act. We are perfectly positioned to establish Kertos as the European compliance champion. There has never been a better moment to join our team. Come shape the future of compliance in Europe with us. Deine Mission bei Kertos Mit deiner Expertise im Bereich Informationssicherheit wirst du ein essentieller Teil unseres Teams. Du bringst dein Fachwissen bei der Betreuung und Beratung unserer Kunden ein und wirkst intern als Architekt*in unserer Prozesse mit, um sie skalierbar zu machen. Unsere Vision ist es Europas führende Compliance Automatisierungslösung zu werden - dafür brauchen wir deine Unterstützung! Werde Teil unseres Teams in dieser spannenden Wachstumsphase und transformiere die Compliance-Welt mit uns. Dein Aufgabenbereich - Du begleitest Kertos-Kunden ganzheitlich bei der Einführung, Umsetzung und Weiterentwicklung von Informationssicherheits-Frameworks und unterstützt sie dabei, regulatorische und organisatorische Anforderungen nachhaltig umzusetzen. - Mit deiner Expertise in Informationssicherheitsthemen (ISO 27001, SOC2, TISAX, NIS2) bist du nicht nur eine vertrauenswürdige Ansprechperson für unsere Kunden, sondern unterstützt auch unser Produkt- und Sales-Team bei allen Fragen. - Als Bindeglied zwischen unseren Kunden und unserem Pro"
+ },
+ {
   "id": "gh-bitpanda-5012230101",
   "company": "Bitpanda",
   "ats": "greenhouse",
@@ -126,6 +140,20 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Special Access Program Security team is responsible for ensuring the security of classified information for Anduril’s most sensitive programs and contracts. The team has individuals located across the country and works in a collaborative manner to ensure the security of Anduril and government information, and Anduril’s defense products. ABOUT THE JOB We are looking for a Contractor Special Access Program Security Officer (CSSO) to join our growing team in Washington, DC. This is a security position requiring a qualified security professional in support of special access program initiatives. As a CSSO, you will be responsible for the management, direction, administration and development of security programs and procedures for assigned programs that have contractually imposed security requirements beyond 32 CFR Part 117, National Industrial Security Program Operating Manual (NISPOM) Rule requirements to include DoDM 5205.07, Intelligence Community Directives (ICDs 703, 704, 505, and others as applicable), Security Classification Guides (SCGs),"
  },
  {
+  "id": "lever-shieldai-e0aa5107",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Senior Engineer, Application Security (R6290)",
+  "location": "San Diego, California; San Diego, California",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-10-15",
+  "url": "https://jobs.lever.co/shieldai/e0aa5107-7b76-4cb8-8978-6959b0f13d54",
+  "compensation": "USD 120000-190000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: The Hivemind Enterprise Team is seeking a Senior Application Security Engineer for our Hivemind Enterprise product. The Hivemind Enterprise product is a software development kit (SDK) that enables scalable design, deployment, evaluation, and iteration of autonomy architectures for a wide range of robotic platforms. Hivemind Enterprise is a highly technical software product providing tools and user interfaces to support multiple user personae, ranging from AI developers to test engineers."
+ },
+ {
   "id": "ashby-masabi-e4b5d5bf",
   "company": "Masabi",
   "ats": "ashby",
@@ -138,20 +166,6 @@
   "url": "https://jobs.ashbyhq.com/masabi/e4b5d5bf-f448-4058-9521-d516509ad5db",
   "compensation": null,
   "excerpt": "About Us_ // At Masabi, we’re driving the fare payment revolution, powering the journeys of millions all over the world. We build fare collection platforms that allow riders to seamlessly buy and present tickets for public transport either on their mobile phones, from a ticket machine, or even by tapping their bank card to travel. Our Justride platform is used in over 250 locations globally, including some of the largest cities in the world. With our industry-first mobile ticketing SDK, we’ve partnered with large players in the transport space, including Uber, Moovit and Transit. Your own journey is important to us too. Choosing a role here means joining a network of innovators from all walks of life; a group of passionate individuals who consistently deliver. Here, you’ll find the tools you need to build the career you want. Whether you’re taking the direct route or trying a new path, we’ll support you no matter what. The Role_ You will join the Security team at Masabi. Masabi builds Justride, a mobile ticketing and fare collection platform used by public transport authorities and agencies around the world. Our customers trust us with their riders’ data and payments, so security and compliance are central to our business. As a Security Compliance Analyst, you will help us run our security controls consistently and on time. You will own a set of assigned control processes from start to finish, carry out reviews, run day-to-day third-party risk activities and support our commercial teams when customers and prospects ask about our security. You will work with growing autonomy, with guidance from the team on priorities and new areas of work. You will be a point of contact for day-to-day compliance questions and help improve how we maintain evidence, registers and documenta"
- },
- {
-  "id": "ashby-kertos-ce1624ab",
-  "company": "Kertos",
-  "ats": "ashby",
-  "title": "Information Security Consultant (all genders)",
-  "location": "Munich; Berlin",
-  "remote": true,
-  "workplace": "Hybrid",
-  "employment": "FullTime",
-  "posted": "2026-10-14",
-  "url": "https://jobs.ashbyhq.com/kertos/ce1624ab-afa3-43dc-89a1-e452b437695d",
-  "compensation": null,
-  "excerpt": "Kertos is the fastest-growing compliance startup in Europe. Following our €14M Series A, backed by leading VCs and business angels, we are building the compliance engine for Europe – faster, smarter, and more automated than ever. With customers like Enpal, Flink, Personio, and Blacklane, leading companies trust our AI-native platform that automates compliance, scales effortlessly, and makes organizations audit-ready in record time. The market is growing by 20% every year, fueled by regulations like GDPR, NIS2, DORA, and the AI Act. We are perfectly positioned to establish Kertos as the European compliance champion. There has never been a better moment to join our team. Come shape the future of compliance in Europe with us. Deine Mission bei Kertos Mit deiner Expertise im Bereich Informationssicherheit wirst du ein essentieller Teil unseres Teams. Du bringst dein Fachwissen bei der Betreuung und Beratung unserer Kunden ein und wirkst intern als Architekt*in unserer Prozesse mit, um sie skalierbar zu machen. Unsere Vision ist es Europas führende Compliance Automatisierungslösung zu werden - dafür brauchen wir deine Unterstützung! Werde Teil unseres Teams in dieser spannenden Wachstumsphase und transformiere die Compliance-Welt mit uns. Dein Aufgabenbereich - Du begleitest Kertos-Kunden ganzheitlich bei der Einführung, Umsetzung und Weiterentwicklung von Informationssicherheits-Frameworks und unterstützt sie dabei, regulatorische und organisatorische Anforderungen nachhaltig umzusetzen. - Mit deiner Expertise in Informationssicherheitsthemen (ISO 27001, SOC2, TISAX, NIS2) bist du nicht nur eine vertrauenswürdige Ansprechperson für unsere Kunden, sondern unterstützt auch unser Produkt- und Sales-Team bei allen Fragen. - Als Bindeglied zwischen unseren Kunden und unserem Pro"
  },
  {
   "id": "ashby-kong-8fb34850",
@@ -280,6 +294,20 @@
   "excerpt": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 7 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing. Headquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go! Your mission As an Information Security Senior Specialist, you will lead and scale major elements of our security governance in a regulated fintech environment. You’ll own complex, cross-functional GRC domains (e.g., ISMS/ISO 27001 at scale, regulatory readiness, enterprise technology risk, third-party risk for critical vendors, compliance in key partnerships), drive measurable improvement in control effectiveness, and act as a trusted advisor to senior stakeholders. What you’ll do Information Security Operating Model & GRC Ownership: Own and evolve one or more GRC domains end-to-end (e.g., ISMS operations, BCM, risk governance), including strategy, annual plan"
  },
  {
+  "id": "lever-shieldai-1b8bf848",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Senior Trade Compliance Specialist (R6250)",
+  "location": "Dallas, Texas; Dallas, Texas; Seattle, Washington",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-10-10",
+  "url": "https://jobs.lever.co/shieldai/1b8bf848-b6b2-4cb8-a05a-147a40625d5f",
+  "compensation": "USD 81000-140000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: The Shield AI Trade Compliance team plays a critical role in supporting our global operations and ensuring adherence to U.S. export and import regulations. As a part of this team, you’ll collaborate closely with Sales, Program Management, and Engineering to guide the compliant movement of U.S. State Department (ITAR) and U.S. Commerce Department (EAR)–controlled goods and technologies. We’re looking for a proactive professional with experience in ITAR and EAR regulations, with strong project management skills and the ability to balance compliance with business growth. This individual will operate independently, communicate across functions, and help drive Shield AI’s mission while maintaining full alignment with U.S. trade laws and company policies."
+ },
+ {
   "id": "lever-yuno-2919c9d5",
   "company": "Yuno",
   "ats": "lever",
@@ -322,20 +350,6 @@
   "excerpt": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 7 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing. Headquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go! Your mission As an Information Security Specialist, you will own and mature significant parts of our governance, risk, and compliance program in a regulated fintech environment. You’ll be the go-to person for one or more GRC domains (e.g., ISMS and ISO 27001, audit & assurance, third-party risk, risk management, regulatory mapping), driving outcomes end-to-end: control design, operationalization with stakeholders, testing, metrics, and continuous improvement. You’ll operate with high autonomy, influence across teams, and help shape how we scale security governance as the company grows. What you’ll do GRC domain ownership & program maturity : Own one or more GRC"
  },
  {
-  "id": "gh-andurilindustries-5261478007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Facility Security Officer",
-  "location": "Huntsville, Alabama, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-09",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261478007?gh_jid=5261478007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Industrial Security team is a highly specialized security team responsible for managing Anduril’s cleared personnel, classified programs, and secure facilities. We operate at the intersection of cutting-edge defense technology and stringent security requirements, ensuring the integrity and protection of national security. Our team is composed of experts in security management, compliance, risk assessment, and physical security, dedicated to upholding the highest standards of security in support of national and international defense initiatives while providing the best customer service, both within Anduril and externally. ABOUT THE JOB We are looking for a Facility Security Officer to join our rapidly growing team at our Huntsville, AL and offsite locations. The Facility Security Officer (FSO) is responsible for implementing and directing the industrial security program and ensuring company and customer security requirements are met. Candidates will interface with all levels of personnel and government management personnel to ensure contract "
- },
- {
   "id": "gh-andurilindustries-5261472007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -348,6 +362,20 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261472007?gh_jid=5261472007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Industrial Security team is a highly specialized security team responsible for managing Anduril’s cleared personnel, classified programs, and secure facilities. We operate at the intersection of cutting-edge defense technology and stringent security requirements, ensuring the integrity and protection of national security. Our team is composed of experts in security management, compliance, risk assessment, and physical security, dedicated to upholding the highest standards of security in support of national and international defense initiatives while providing the best customer service, both within Anduril and externally. ABOUT THE JOB We are looking for a Facility Security Officer to join our rapidly growing team at our McHenry, MS location. The Facility Security Officer (FSO) is responsible for implementing and directing the industrial security program and ensuring company and customer security requirements are met. Candidates will interface with all levels of personnel and government management personnel to ensure contract security complia"
+ },
+ {
+  "id": "gh-andurilindustries-5261478007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Facility Security Officer",
+  "location": "Huntsville, Alabama, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-09",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261478007?gh_jid=5261478007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Industrial Security team is a highly specialized security team responsible for managing Anduril’s cleared personnel, classified programs, and secure facilities. We operate at the intersection of cutting-edge defense technology and stringent security requirements, ensuring the integrity and protection of national security. Our team is composed of experts in security management, compliance, risk assessment, and physical security, dedicated to upholding the highest standards of security in support of national and international defense initiatives while providing the best customer service, both within Anduril and externally. ABOUT THE JOB We are looking for a Facility Security Officer to join our rapidly growing team at our Huntsville, AL and offsite locations. The Facility Security Officer (FSO) is responsible for implementing and directing the industrial security program and ensuring company and customer security requirements are met. Candidates will interface with all levels of personnel and government management personnel to ensure contract "
  },
  {
   "id": "ashby-legora-1671b41c",
@@ -574,20 +602,6 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov"
  },
  {
-  "id": "gh-andurilindustries-5259071007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Security Engineer, Identity",
-  "location": "Seattle, Washington, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-06",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov"
- },
- {
   "id": "gh-andurilindustries-5259072007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -598,6 +612,20 @@
   "employment": null,
   "posted": "2026-10-06",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov"
+ },
+ {
+  "id": "gh-andurilindustries-5259071007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Security Engineer, Identity",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-06",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov"
  },
@@ -1050,6 +1078,34 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Space team is dedicated to expanding our AI-powered capabilities into the final frontier, enhancing Space Domain Awareness, Space Control, and Command and Control for U.S. military and allied partners. We're developing fully integrated hardware and software systems, including Lattice for Space Missions and modular payloads, to address growing threats in space and ensure our Guardians maintain a decisive advantage in this contested warfighting domain. ABOUT THE JOB We are seeking a Senior Security Network Engineer to serve as the senior technical authority for all classified network infrastructure. In this role, you will own the stability, security compliance, and lifecycle of all network hardware, encrypted connectivity, and cryptographic materials across all classification levels. You will be embedded within the Cyber team, which owns all classified network infrastructure, firewall and segmentation policies, encrypted WAN connectivity, and COMSEC operations, ensuring the seamless integration of cryptographic devices with network-layer"
  },
  {
+  "id": "lever-shieldai-01a2d105",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Engineering Technician 4, Quality Assurance (R5977)",
+  "location": "Remote; Remote",
+  "remote": true,
+  "workplace": "remote",
+  "employment": "Full Time Employee",
+  "posted": "2026-09-24",
+  "url": "https://jobs.lever.co/shieldai/01a2d105-fe26-495e-bd62-c0aeb11cdbdd",
+  "compensation": "USD 35-53 per-hour-wage",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: This Engineering Technician will support XBAT prototype ground testing and flight testing. This hands-on role will work closely with Quality, Manufacturing Engineering, Test Engineering, and Design Engineering to verify hardware quality, identify and investigate issues, and ensure prototype configurations and test articles meet defined requirements."
+ },
+ {
+  "id": "lever-shieldai-d7a24b6e",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Senior Engineer, Quality Assurance (R5985)",
+  "location": "Melbourne; Melbourne",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "International Office Entity",
+  "posted": "2026-09-24",
+  "url": "https://jobs.lever.co/shieldai/d7a24b6e-caac-4bbd-84d3-44d089721f92",
+  "compensation": null,
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: The Quality Assurance team is responsible for ensuring the overall quality of software releases. This team is the gatekeeper that ensures only approved and assured software is released to customers and clients. The Quality Assurance team works closely with the Development and Hardware teams to achieve this goal. Software Test Engineers report to the Quality Assurance lead and then to the Director of Engineering."
+ },
+ {
   "id": "ashby-legora-f07bd8e4",
   "company": "Legora",
   "ats": "ashby",
@@ -1118,6 +1174,20 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246822007?gh_jid=5246822007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Space team is dedicated to expanding our AI-powered capabilities into the final frontier, enhancing Space Domain Awareness, Space Control, and Command and Control for U.S. military and allied partners. We're developing fully integrated hardware and software systems, including Lattice for Space Missions and modular payloads, to address growing threats in space and ensure our Guardians maintain a decisive advantage in this contested warfighting domain. ABOUT THE JOB We are seeking an IT Security Engineer to own and maintain classified infrastructure end-to-end, from operating system hardening and compliance scanning to virtualization management and enterprise service delivery. This role demands more than operational upkeep, it requires deep familiarity with how hardened security controls are applied, validated, and sustained across Windows, Linux, and virtual platforms. You'll work closely with security and engineering teams to ensure environments remain compliant, resilient, and mission-ready. WHAT YOU’LL DO Administer Windows and Linux"
+ },
+ {
+  "id": "lever-shieldai-57461bb3",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Staff Application Security Engineer (R5949)",
+  "location": "Remote; Remote",
+  "remote": true,
+  "workplace": "remote",
+  "employment": "Full Time Employee",
+  "posted": "2026-09-23",
+  "url": "https://jobs.lever.co/shieldai/57461bb3-9853-43d3-b2aa-f4b9e637fd41",
+  "compensation": "USD 143000-214000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. We are seeking a Staff Application Security Engineer to build and advance a scalable, developer-centered application security program. This role will establish company-wide secure software development lifecycle (SDLC) policy and standards, translate them into practical engineering practices, and partner directly with product, platform, and development teams to improve secure development and software supply-chain maturity. The successful candidate combines technical application-security depth with the programmatic leadership to drive enterprise-wide improvement. You will help teams build, test, package, release, and maintain secure software while ensuring security controls are practical, measurable, and integrated into existing engineering workflows. This is a Staff level individual-contributor role with significant influence across engineering, security, product, and technology leadership."
  },
  {
   "id": "ashby-keyrock-dd723380",
@@ -1330,6 +1400,20 @@
   "excerpt": "Client Risk Analyst London Full-time In office 4 days/week Do you enjoy digging deeper when something doesn't quite add up? Do you want to own real portfolios from day one, with your independent thinking trusted by clients and colleagues? Would you like to help build better tooling and AI into how we assess client risk? Who We Are Modulr is the payments automation platform that streamlines money movement with accuracy, control and reliability – built to scale. We process more than 200m transactions and over £180bn in payment value on an annualised basis, and we’re trusted by over 6,000 businesses from fast-growing SMEs to global enterprises. We automate how money moves into and out of a business (payroll, supplier payments, spend management and payment collection) through a single platform, connected to the accounting and payroll systems finance teams already use, and underpinned by principal memberships of Visa and Mastercard and direct access to central bank infrastructure. As a regulated payments provider with over a decade of experience, we’re the platform finance teams trust to run mission-critical operations. Modulr is backed by PayPal, FIS, General Atlantic, Blenheim Chalcot, Frog Capital and Highland Europe, with over 400 employees across London, Edinburgh, Amsterdam and Mumbai. Find out more about us on our website . What You'll Do Assess, monitor and manage risks presented by our clients and partners across distribution channels throughout the client lifecycle, using our six-pillar risk framework (financial crime, business model, financial resilience, operational resilience, conduct, and complaints handling). You'll own a portfolio, form independent views, escalate material risks, and contribute to protecting our customers and regulatory compliance. Conduct ri"
  },
  {
+  "id": "lever-shieldai-2c080f9e",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Mission Assurance Lead (R5896)",
+  "location": "Dallas, Texas; Dallas, Texas",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-09-17",
+  "url": "https://jobs.lever.co/shieldai/2c080f9e-17f0-4417-96d7-48b495722019",
+  "compensation": "USD 112000-168000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Descritpion: Shield AI is seeking a Mission Assurance Lead to provide independent, engineering‑informed oversight of maintenance, configuration, documentation, and field operations across Shield AI aircraft operations. The role ensures Shield AI maintains continuous, objective insight into aircraft readiness, system integrity, and process conformance This position combines maintenance process assurance, operational safety, configuration control, and early risk detection. The Inspector validates requirements, verifies execution, identifies nonconformances early, and drives corrective actions that prevent risks from reaching the aircraft, mission, or customer. The ideal candidate is comfortable working in hangars, test events, field sites, and deployed environments; recognizes disciplined maintenance and operational practices; and converts observations into actionable, scalable assurance data."
+ },
+ {
   "id": "ashby-parallel-2560a1fb",
   "company": "Parallel",
   "ats": "ashby",
@@ -1484,6 +1568,20 @@
   "excerpt": "Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs. We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results. What You’ll Do We’re looking for a practical, business-minded Product & Privacy Counsel to join our Legal team and serve as a key legal partner across Horizon3 http://Horizon3.ai. This role will have a balanced focus across product counseling and privacy, with meaningful ownership in both areas. You will partner closely with Product and Engineering throughout the product lifecycle, advising on new products, features, technologies, and regulatory requirements, while also helping operate and scale Horizon3 http://Horizon3.ai’s global privacy program. You will work cross-functionally with Product, Engineer"
  },
  {
+  "id": "lever-shieldai-5da0e986",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Staff Engineer, Quality Assurance (R5799)",
+  "location": "Melbourne; Melbourne",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "International Office Entity",
+  "posted": "2026-09-08",
+  "url": "https://jobs.lever.co/shieldai/5da0e986-a159-4be9-b58c-b12368c7825a",
+  "compensation": null,
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: The Quality Assurance team is responsible for ensuring the overall quality of software releases. This team is the gatekeeper that ensures only approved and assured software is released to customers and clients. The Quality Assurance team works closely with the Development and Hardware teams to achieve this goal. Software Test Engineers report to the Quality Assurance lead and then to the Director of Engineering."
+ },
+ {
   "id": "ashby-primer.io-9add7b39",
   "company": "Primer",
   "ats": "ashby",
@@ -1624,6 +1722,20 @@
   "excerpt": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, app, and integration across their SaaS estate, detects identity-based and supply chain attacks in real time, and enforces least-privilege access before it's exploited. Trusted by major Fortune 500 companies T-Mobile, Workday, Snowflake, and S&P Global, Obsidian ranked No. 95 on the 2025 Deloitte Technology Fast 500™, growing nearly 1000% from 2021–2024 — helping CISOs turn an unmonitored attack surface into one they can govern with confidence. Obsidian has also been recognized by Forbes as America's Best Startup Employers in 2026. In August 2026, Obsidian raised $85 million in Series D financing led by Crescent Cove Advisors, with participation from existing investors including Greylock Partners, Menlo Ventures, Norwest Venture Partners, IVP, Wing Ventures, and GV — pushing Obsidian's valuation to $1.1 billion, crossing into unicorn status. Obsidian is using the funding to deepen its R&D in agentic AI security and extend its platform as the standard for governing what AI agents can access and do inside third-party applications. With global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and fresh capital from its Series D behind it, Obsidian is scaling rapidly toward long-term growth and IPO readiness. About the Role AI is becoming the fastest-moving attack surface in the enterprise. Copilot, ChatGPT Enterprise, Gemini, Claude, and a growing wave of agentic tools are being connected to corporate SaaS applications faster than many sec"
  },
  {
+  "id": "lever-shieldai-86e8868c",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Staff Information Systems Security Manager (R5789)",
+  "location": "Washington, D.C.; Washington, D.C.",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-09-02",
+  "url": "https://jobs.lever.co/shieldai/86e8868c-10a5-4eb7-8356-f9c18fd3bc42",
+  "compensation": "USD 120000-190000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. We are seeking a detail-oriented and mission-driven Staff Information Systems Security Manager (ISSM) to support our Federal Systems Team and ensure the security, compliance, and integrity of our classified information systems. This is an on-site role within a high-performance classified IT environment. The Staff ISSM will play a critical role in safeguarding systems by implementing and maintaining cybersecurity controls, supporting system accreditation, and ensuring compliance with DoD and Intelligence Community (IC) security requirements. This role is central to enabling secure operations across multiple classification levels, including environments leveraging Cross Domain Solutions (CDS)."
+ },
+ {
   "id": "ashby-headway-62d6f9a1",
   "company": "Headway",
   "ats": "ashby",
@@ -1708,20 +1820,6 @@
   "excerpt": "About Knox Knox runs the largest Federal & DoW managed cloud, building and operating secure cloud and AI environments that support the U.S. government’s most critical missions — from national security and public safety to essential public services. Our customers rely on Knox to deploy production systems that meet the highest standards for security, reliability, and compliance. Work at Knox is high-impact and purpose-driven. The problems we solve are high-stakes, the expectations are high, and the results are visible. Speed, rigor, and trust matter here - because the environments we secure cannot fail. Your contributions are visible, your expertise is relied upon, and the impact of your work is immediate and measurable. We operate at federal scale, securing some of the most sensitive government environments in the country - because the systems we build must perform without fail. HOW WE WORK Most companies run a security team and a network team separately. We don’t. At Knox one team watches everything — performance, availability and security — out of the same queue. You see the whole picture, and a problem never sits with the wrong team while the clock runs. It is a better way to work and a much faster way to learn. HOW WE PRIORITIZE 1. Active intrusion or suspected compromise 2. Service-affecting outage 3. Degradation and early warning signs 4. Customer requests and tickets When the right answer isn’t obvious, you’re the one who decides. That call is part of the role, not a favor we’re asking. WHAT YOU'LL DO • Lead the evening shift as the senior person on the floor from 14:00 to 22:00. • Set the escalation criteria — what wakes a manager, what waits, and what the team handles alone. • Run root cause on anything that reached containment, and update the runbook so it does"
  },
  {
-  "id": "gh-andurilindustries-5222410007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Manufacturing Security Site Lead",
-  "location": "Ashville, Ohio, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-08-26",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5222410007?gh_jid=5222410007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Manufacturing Security Program team is a critical component of Anduril's overall security posture, specifically tailored to the complex demands of our large-scale manufacturing sites. Our approach differs significantly from other security operations, requiring a specialized team of professionals with unique, on-the-ground expertise. Recognizing the distinct security challenges of high-production industrial environments, our specialized team brings unique expertise in areas such as advanced tech integrations, specialized risk mitigation and tailored security strategies needed to safeguard our people, assets & intellectual property, thereby enabling uninterrupted production vital for national security and innovation. ABOUT THE JOB Anduril is seeking a highly motivated and experienced Manufacturing Security Site Lead to support daily execution of our comprehensive security operations across our large-scale manufacturing facility near Columbus, OH. Reporting to the Security Operations Manager of Manufacturing Security, this role is pivotal in en"
- },
- {
   "id": "ashby-skydio-c020cb39",
   "company": "Skydio",
   "ats": "ashby",
@@ -1764,6 +1862,20 @@
   "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW As a Staff Software Engineer on the Product Security team at Harvey, you will have the opportunity to build security directly into the product. Harvey stores and processes our customers’ most sensitive data and our entire business model depends on a foundation At Harvey, you will find that security is paramount at every stage of our product lifecycle. In this role you will drive high-leverage security initiatives that raise the bar for the entire company — balancing hands-on technical work with cross-functional leadership and mentorship. This is a rare opportunity to desig"
  },
  {
+  "id": "gh-andurilindustries-5218589007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Security Operations Analyst",
+  "location": "Washington, District of Columbia, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-08-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
+ },
+ {
   "id": "gh-andurilindustries-5201053007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1788,20 +1900,6 @@
   "employment": null,
   "posted": "2026-08-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
- },
- {
-  "id": "gh-andurilindustries-5218589007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Security Operations Analyst",
-  "location": "Washington, District of Columbia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
  },
@@ -1988,6 +2086,20 @@
   "excerpt": "Why Join dLocal?dLocal is the financial infrastructure powering global commerce in the world's fastest-growing markets. The biggest companies in the world trust us to unlock growth in 60+ countries across emerging markets—moving money where others see complexity. We don't just process payments; we are architects of payment ecosystems and partners in our customers' expansion. You'll work alongside 1,300+ teammates from 40+ nationalities and tackle global challenges from day one. What’s the opportunity? We are looking for a Senior Network & Edge Security Engineer to help design, operate, and evolve dLocal’s global cloud and hybrid network perimeter. This role combines deep cloud networking expertise with a strong security mindset: you will own secure connectivity, traffic protection, WAF and firewall controls, and the automation that makes those services reliable at scale. You will work closely with Platform, Information Security, Compliance, and Product teams to keep critical services secure, available, low-latency, and ready for international growth."
  },
  {
+  "id": "lever-shieldai-7f7e2632",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Staff Engineer, Quality Assurance (R5358)",
+  "location": "Wichita Metro Area; Wichita Metro Area",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-07-30",
+  "url": "https://jobs.lever.co/shieldai/7f7e2632-717e-4684-a7a5-058e94360d81",
+  "compensation": "USD 110000-160000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: Shield AI is seeking a Quality Assurance to support the development and flight test of the X-BAT program. This role is heavily embedded with flight test and engineering operations and is responsible for ensuring test articles are properly configured, inspected, documented, and ready for safe and effective ground and flight testing.You will work closely with flight test, systems, design, manufacturing, test engineering, and program teams to identify and manage quality risks, resolve discrepancies, maintain configuration and traceability, and ensure test activities are executed in accordance with engineering requirements and approved processes."
+ },
+ {
   "id": "gh-andurilindustries-5194601007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2028,6 +2140,20 @@
   "url": "https://jobs.ashbyhq.com/legora/5284eb8c-7c33-4c74-bac2-5212a53e0769",
   "compensation": "$151K – $273K • Offers Equity",
   "excerpt": "ABOUT US Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes. 2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler. We partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law. Joining Legora means three things. - We lean in: ownership over titles, outcomes over intentions. - We fight for excellence: high standards, direct, ego-free feedback. - We grow together: as a team and with our customers. Mission before ego. Everyone contributes. No one coasts. If you’re driven by impact, pace, and raising the bar. This is the place. ABOUT THE ROLE You will build the platform Legora’s assurance program runs on: pipelines that collect evidence continuously, checks that enforce policy in CI/CD, and agents that test controls and draft audit responses. The GRC Lead owns the program and the judgment calls; you own the machinery that turns certifications into an output of normal operations. You will sit in the Security organization and work daily with the GRC Lead, Engineering, and Co"
+ },
+ {
+  "id": "lever-shieldai-1257e13c",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Trade Compliance Manager (R5351)",
+  "location": "London; London",
+  "remote": false,
+  "workplace": "hybrid",
+  "employment": "Full Time Employee",
+  "posted": "2026-07-23",
+  "url": "https://jobs.lever.co/shieldai/1257e13c-29c8-4a1d-b809-938b309c31f4",
+  "compensation": null,
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: Will serves as the regional trade compliance leader for the UK and Europe, providing strategic oversight and execution of the company's international trade compliance program in support of critical defense. This position is responsible for developing and implementing regional trade compliance strategies, ensuring compliance with UK and international export control regulations, sanctions, licensing requirements, and other applicable trade laws throughout the full program lifecycle. The Trade Compliance Manager partners closely with Engineering, Program Management, Legal, Business Development, Supply Chain, and government stakeholders to enable business objectives while mitigating export compliance risk. The role provides leadership across multiple concurrent, high-priority international programs, advises senior leadership on trade compliance matters, and drives consistent compliance processes across the region."
  },
  {
   "id": "lever-dlocal-927a5f7c",
@@ -2156,6 +2282,20 @@
   "excerpt": "ABOUT US Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes. 2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, and Barclays. We’ve scaled to $200M+ in ARR, with teams across Europe, North America and APAC, and continue to expand through acquisitions including Qura, Walter AI, Graceview, Cadastral, and Wexler. We partner with world-class performers: including Aaron Judge and the New York Yankees, Ludvig Åberg (and his caddie), and campaigns featuring Jude Law. Joining Legora means three things. - We lean in: ownership over titles, outcomes over intentions. - We fight for excellence: high standards, direct, ego-free feedback. - We grow together: as a team and with our customers. Mission before ego. Everyone contributes. No one coasts. If you’re driven by impact, pace, and raising the bar. This is the place. THE ROLE We are hiring our first SaaS Enablement & Governance Lead to own the lifecycle of Legora's entire SaaS and AI portfolio, from enterprise platforms down to the tail of team-level and expensed purchases: intake, renewal, decommissioning, and everything between. You'll be based in our New York office, reporting to the Head of IT. Procurement works the strategic head of spend. This role is the oversight layer across all of it: the ~90% of appli"
  },
  {
+  "id": "lever-shieldai-f685f639",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Director, SOX Compliance (R5388)",
+  "location": "United States; United States; San Diego, California; San Mateo, California",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-07-21",
+  "url": "https://jobs.lever.co/shieldai/f685f639-8801-4da5-915c-13a5930326b9",
+  "compensation": "USD 170000-300000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: As the Director of SOX Compliance, you will build, lead, and continuously improve the company's Sarbanes-Oxley (SOX) compliance program in support of a high-growth, public-company environment. Reporting to the Corporate Controller (or Chief Accounting Officer), you will partner closely with Finance, Internal Audit, IT, Engineering, HR, Legal, and business leaders to ensure an effective internal control environment while enabling business growth. This is initially an individual contributor leadership role (Radford P6) with significant cross-functional influence and executive visibility. As the organization grows, this role is expected to evolve into a people management position with responsibility for building and leading a SOX compliance team."
+ },
+ {
   "id": "gh-jetbrains-4923382101",
   "company": "JetBrains",
   "ats": "greenhouse",
@@ -2238,6 +2378,20 @@
   "url": "https://jobs.ashbyhq.com/10xteam/4bd8fef5-086f-417a-bf1f-e6cc89f23580",
   "compensation": "€103 – €159 per hour",
   "excerpt": "Updated: 07 July 2026 Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced security architect who instinctively spots gaps in security reasoning and understands the complex realities of security architecture? Do you have 8 to 20 hours per week available alongside your main job or consulting projects? Join us in shaping how AI understands and applies security architecture expertise at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are looking for knowledgeable security architects based in the EU or UK to enhance the accuracy, depth, and real-world relevance of AI-powered security systems. What You Will Do - Review and refine AI-generated outputs related to security architecture, cyber risk assessments, mitigation strategies, and practical aspects of security design - Evaluate AI responses for accuracy, practicality, and compliance with real-world security requirements - Draft realistic security architecture scenarios based on your direct professional experience - Create scenario variations from different perspectives (e.g. security architect, client, IT leader, or regulator) - Identify gaps, oversights, or weak reasoning in AI-generated security content In simple terms: You will assess and improve AI-generated content, ensuring it reflects true security architecture reasoning, authentic security documentation, and practical procedures. Rather than conducting traditional security architecture projects, you’ll apply your expertise to help AI systems understand and reason about security architecture at scale. Who You Are - A senior-level security architect with significant professional experience within the EU or UK - Experienced in advising on, preparing, and executing security architectures "
+ },
+ {
+  "id": "lever-shieldai-a031c582",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Staff Facility Security Officer (R5220)",
+  "location": "Washington, D.C.; Washington, D.C.",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-06-12",
+  "url": "https://jobs.lever.co/shieldai/a031c582-1b29-4600-a7b3-58cba7adf806",
+  "compensation": "USD 100000-150000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: We are seeking a Facility Security Officer (FSO) to manage and administer the organization’s industrial security program in support of classified government contracts and secure operations. The FSO will serve as the primary point of contact for all facility security matters and ensure compliance with the National Industrial Security Program Operating Manual (NISPOM), DoD regulations, and customer-specific security requirements. The ideal candidate has experience managing classified programs, administering personnel security processes, maintaining compliance with DCSA requirements, and supporting secure facilities operating at the Secret and Top Secret levels."
  },
  {
   "id": "lever-dlocal-de60c99a",
@@ -2506,6 +2660,20 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM ABOUT THE JOB As a Manager of Product Security Foundations, you will be responsible for leading and managing a security engineering team responsible for delivering reusable, foundational security components Anduril’s products. The ideal candidate has a background in electrical or software engineering, with a focus on platform security. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and implement critical features in collaboration with other engineering teams to build resiliency into our products. WHAT YOU’LL DO Own the development and maturation of the security roadmap for Anduril’s products Lead teams within the Product Security org to ensure Anduril products are resilient enough to survive against modern cyber threats Collaborate and build solutions with engineering teams to meet and exceed industry-standard security goals Build a strong partnership with Anduril’s engineering teams in order to develop and execute against a well aligned roadmap that covers Anduri"
  },
  {
+  "id": "lever-valarian-1df5f9cb",
+  "company": "Valarian",
+  "ats": "lever",
+  "title": "InfoSec Engineer",
+  "location": "London; London",
+  "remote": false,
+  "workplace": "hybrid",
+  "employment": "Full time",
+  "posted": "2026-05-21",
+  "url": "https://jobs.lever.co/valarian/1df5f9cb-7f5a-479f-a09d-bac31b21934f",
+  "compensation": null,
+  "excerpt": "Valarian: Innovating for the new era of digital sovereignty Valarian Technologies is a dual-use technology company building critical tools to safeguard the future in an era of evolving global security challenges. We're rethinking security beyond traditional military domains, addressing asymmetric threats that impact our technological advantage, economic strength, and democratic institutions. We build Acra – the platform foundation for everything we do as a dual-use technology company. The platform’s name, rooted in the Greek word for citadel (or, fortress), reflects the design and purpose of our infrastructure-agnostic secure enclaves: protecting critical data. Some of the government and commercial workflows include: increased operational resiliency for mission-critical systems and functions; enabling organizations to more quickly and widely adopt emerging technologies while ensuring the integrity of their intellectual property; information flow during disaster response scenarios, and zero-trust / least-privilege environments for M&A, attorney-client privileged communications, etc. And we’ve only scratched the surface. At our core, we're driven by a shared mission and a belief in making a tangible impact on our world. Whether you join our London HQ or the wider global organisation, you’ll be a part of collaborative, high-performing teams, creating cutting-edge software, platforms, and infrastructure. The Role As Head of Information Security at Valarian, you will define and lead our security strategy with a strong focus on protecting our digital ecosystem, spanning cloud infrastructure, SaaS platforms, and internal tooling. You’ll be responsible for securing how our organisation operates day-to-day: from identity and access across SaaS tools, to cloud architecture, to da"
+ },
+ {
   "id": "lever-dlocal-21726fe4",
   "company": "dLocal",
   "ats": "lever",
@@ -2560,6 +2728,20 @@
   "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce",
   "compensation": null,
   "excerpt": "ABOUT US Pliant is a modular B2B payments platform that combines commercial card issuing, payment accounts, FX, and spend management in one system — adapting to existing setups rather than requiring customers to replace them. Businesses across industries such as travel, e-commerce, and insurance use Pliant to manage complex payment workflows with cards, backed by credit lines Pliant underwrites itself. Fintechs and software platforms embed Pliant's payment infrastructure into their own products, from API-based Cards-as-a-Service to fully white-label solutions. Banks use Pliant's Card & Spend OS, the customer-facing interface, on their own infrastructure to run card programs Founded in 2020 and headquartered in Berlin, Pliant serves 5,000+ businesses and 40+ partners across Europe and the United States. A principal member of Visa and Mastercard, Pliant issues commercial cards in 13 currencies across 32 countries — under its own European e-money license and with licensed partners in the UK and US. Learn more at http://www.getpliant.com/www.getpliant.com http://www.getpliant.com About the Role We’re looking for a hands-on Security Engineer (m/f/d) with deep expertise in DevSecOps, cloud security (AWS), and automation to join our growing security team at Pliant. You'll play a critical role in designing and building secure foundations that scale. You will work closely with engineering, product, and infrastructure teams to embed security into our platform and developer workflows without slowing innovation. This role is ideal for someone who thrives in a fast-moving environment, owns problems end-to-end, and wants to build modern, automation-driven security at scale. What You’ll Do - Integrate security best practices throughout the SDLC to protect products, infrastructure, and"
+ },
+ {
+  "id": "lever-shieldai-b025338a",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Senior Facility Security Officer (R4917)",
+  "location": "Washington, D.C.; Washington, D.C.",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-05-07",
+  "url": "https://jobs.lever.co/shieldai/b025338a-5f82-44b3-9a78-f63b0d06e24e",
+  "compensation": "USD 80000-120000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: The FSO operates as a key contributor within a dynamic, fast-paced defense environment, responsible for executing and scaling security operations in support of classified programs. This role requires a highly adaptable, solutions-oriented professional who can balance compliance with operational speed while maintaining strict adherence to NISPOM and government security requirements. You will partner cross-functionally with engineering, operations, and program teams to enable mission success while safeguarding classified information and controlled technologies."
  },
  {
   "id": "ashby-elevenlabs-f80d0420",
@@ -2702,20 +2884,6 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril we are developing cutting-edge artificial intelligence systems, command and control platforms, and autonomous systems across air, land, maritime, and space domains. We are looking for Systems Security Engineers to lead a mission-focused, threat-informed approach to Anti-Tamper Engineering for the next generation of Anduril’s autonomous systems. In order to be successful at Anduril, a Systems Security Engineer needs to be fluent in areas of technical leadership, requirements analysis, design rigor, customer & stakeholder engagement and have a hands-on contributor mindset. This role will drive system security engineering principles into design and integration with other systems internal and external to Anduril. In short, this individual will own the execution of all security aspects of product development, production, and sustainment through the entire product lifecycle to ensure product resiliency in both export and US customer contracts. WHAT YOU'LL DO Identify Critical Program Information (CPI) for various cutting-edge systems, inclu"
  },
  {
-  "id": "gh-andurilindustries-5042718007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Product Security Engineer, Programs",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-02-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor"
- },
- {
   "id": "gh-andurilindustries-5041620007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2726,6 +2894,20 @@
   "employment": null,
   "posted": "2026-02-04",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor"
+ },
+ {
+  "id": "gh-andurilindustries-5042718007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Product Security Engineer, Programs",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-02-04",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor"
  },

@@ -56,6 +56,33 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Trainer — Machine Learning based in Spain. We are seeking a hands-on machine learning practitioner with a passion for teaching to design and deliver engaging technical courses for engineers. In this remote freelance role, you will help learners progress from core machine learning concepts to training and evaluating their own models through practical, lab-based learning. You will collaborate with curriculum specialists and production teams to develop clear lessons, hands-on exercises, and real-world demonstrations. The focus is on sharing your technical expertise through compelling scripts, video presentations, and lab walkthroughs rather than managing production tasks. The initial paid course project typically lasts around three months and can be completed alongside existing professional commitments. With flexible hours and a delivery plan agreed in advance, the opportunity may lead to further projects or a full-time position."
  },
  {
+  "id": "himalayas-very-manager",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Tech AI Data Delivery Manager",
+  "company": "TransPerfect",
+  "location": "Worldwide",
+  "employment": "Contractor",
+  "posted": "2026-10-22",
+  "url": "https://himalayas.app/companies/transperfect/jobs/tech-ai-data-delivery-manager?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "AI-Delivery-Manager",
+   "Data-Delivery-Manager",
+   "Data-Analytics-Manager",
+   "AI-Project-Manager",
+   "Automation-Engineer",
+   "AI-Data-Operations-Manager",
+   "AI-ML-Delivery-Manager",
+   "AI-Delivery-Lead",
+   "Analytics-Delivery-Manager",
+   "Data-Delivery-Management",
+   "Data-and-AI-Delivery",
+   "Delivery-Manager"
+  ],
+  "excerpt": "Role Summary You'll design and run AI data projects and build the automation behind them, combining deterministic tooling with LLM agents to deliver solutions in quality management, project management, and data analytics."
+ },
+ {
   "id": "himalayas-r-3631740480",
   "source": "himalayas",
   "track": "alt",
@@ -79,6 +106,30 @@
    "CFD-Engineering"
   ],
   "excerpt": "About the role Help train and evaluate AI agents on expert-level fluid simulation tasks."
+ },
+ {
+  "id": "himalayas-e-specialist",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Data Privacy Compliance Specialist",
+  "company": "DeepHealth",
+  "location": "Worldwide",
+  "employment": "Full Time",
+  "posted": "2026-10-22",
+  "url": "https://himalayas.app/companies/deephealth/jobs/data-privacy-compliance-specialist?utm_source=api",
+  "compensation": "EUR 60000-75000",
+  "tags": [
+   "Data-Privacy-Compliance",
+   "Privacy-Compliance-Specialist",
+   "Data-Protection-Specialist",
+   "Privacy-Analyst",
+   "Compliance-Specialist",
+   "Data-Privacy-Specialist",
+   "Privacy-Compliance-Analyst",
+   "Data-Privacy-Analyst",
+   "Privacy-Specialist"
+  ],
+  "excerpt": "The Data Privacy Compliance Specialist supports DeepHealth's global data privacy programs, including HIPAA and GDPR."
  },
  {
   "id": "jobgether-4261b49b",
