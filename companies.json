@@ -450,5 +450,174 @@
  },
  {
   "name": "Mindgard"
+ },
+ {
+  "name": "Mercury",
+  "slugs": [
+   "mercury"
+  ]
+ },
+ {
+  "name": "SentiLink",
+  "slugs": [
+   "sentilink"
+  ]
+ },
+ {
+  "name": "Jeeves",
+  "slugs": [
+   "jeeves",
+   "tryjeeves"
+  ]
+ },
+ {
+  "name": "Sardine",
+  "slugs": [
+   "sardine",
+   "sardineai"
+  ]
+ },
+ {
+  "name": "ADDI",
+  "slugs": [
+   "addi"
+  ]
+ },
+ {
+  "name": "ElevenLabs",
+  "slugs": [
+   "elevenlabs"
+  ]
+ },
+ {
+  "name": "Cresta",
+  "slugs": [
+   "cresta"
+  ]
+ },
+ {
+  "name": "Cursor (Anysphere)",
+  "slugs": [
+   "cursor",
+   "anysphere"
+  ]
+ },
+ {
+  "name": "Kong",
+  "slugs": [
+   "kong",
+   "konginc"
+  ]
+ },
+ {
+  "name": "OpenRouter",
+  "slugs": [
+   "openrouter"
+  ]
+ },
+ {
+  "name": "Runware",
+  "slugs": [
+   "runware"
+  ]
+ },
+ {
+  "name": "Talkiatry",
+  "slugs": [
+   "talkiatry"
+  ]
+ },
+ {
+  "name": "Headway",
+  "slugs": [
+   "headway"
+  ]
+ },
+ {
+  "name": "Thatch",
+  "slugs": [
+   "thatch"
+  ]
+ },
+ {
+  "name": "Turquoise Health",
+  "slugs": [
+   "turquoisehealth",
+   "turquoise-health",
+   "turquoise"
+  ]
+ },
+ {
+  "name": "Flock Safety",
+  "slugs": [
+   "flocksafety",
+   "flock-safety",
+   "flock"
+  ]
+ },
+ {
+  "name": "Tanium",
+  "slugs": [
+   "tanium"
+  ]
+ },
+ {
+  "name": "Pindrop",
+  "slugs": [
+   "pindrop"
+  ]
+ },
+ {
+  "name": "Anchorage Digital",
+  "slugs": [
+   "anchorage",
+   "anchoragedigital"
+  ]
+ },
+ {
+  "name": "Phantom",
+  "slugs": [
+   "phantom",
+   "phantomwallet"
+  ]
+ },
+ {
+  "name": "ClickUp",
+  "slugs": [
+   "clickup"
+  ]
+ },
+ {
+  "name": "Harvey",
+  "slugs": [
+   "harvey"
+  ]
+ },
+ {
+  "name": "Skydio",
+  "slugs": [
+   "skydio"
+  ]
+ },
+ {
+  "name": "Anduril",
+  "slugs": [
+   "andurilindustries",
+   "anduril"
+  ]
+ },
+ {
+  "name": "KoBold Metals",
+  "slugs": [
+   "koboldmetals",
+   "kobold"
+  ]
+ },
+ {
+  "name": "Shield AI",
+  "slugs": [
+   "shieldai",
+   "shield-ai"
+  ]
  }
 ]
