@@ -1,8 +1,8 @@
 {
- "ranAt": "2026-10-22T08:58:39+00:00",
- "companies": 94,
- "boardsRead": 48,
- "matchingJobs": 96,
+ "ranAt": "2026-10-22T14:14:48+00:00",
+ "companies": 120,
+ "boardsRead": 70,
+ "matchingJobs": 208,
  "noBoardFound": [
   "MultiSafepay",
   "Tucuvi",
@@ -49,37 +49,42 @@
   "MyComplianceOffice",
   "One Trading",
   "Wavo",
-  "Mindgard"
+  "Mindgard",
+  "Runware",
+  "Pindrop"
  ],
- "errors": [],
+ "errors": [
+  "Valarian: TimeoutError: The read operation timed out",
+  "Shield AI: TimeoutError: The read operation timed out"
+ ],
  "aggregators": {
-  "jobgether": 12,
-  "himalayas": 2,
+  "jobgether": 13,
+  "himalayas": 1,
   "workingnomads": 0,
   "getonboard": 2,
   "_raw": {
-   "jobgether_raw": 4537,
-   "https://himalayas.app/jobs/api": "HTTP 200, 141157 bytes",
+   "jobgether_raw": 4737,
+   "https://himalayas.app/jobs/api": "HTTP 200, 136221 bytes",
    "himalayas_raw": 500,
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 197157 bytes",
    "workingnomads_raw": 43,
-   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 791191 bytes",
+   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 791158 bytes",
    "getonboard_raw": 968
   }
  },
  "aggregatorJobs": {
-  "core": 9,
-  "alt": 7
+  "core": 7,
+  "alt": 9
  },
  "aggregatorErrors": [],
  "signals": {
-  "companies": 32,
-  "firstHire": 20,
-  "frameworks": 30,
-  "leaderHiring": 3
+  "companies": 50,
+  "firstHire": 32,
+  "frameworks": 47,
+  "leaderHiring": 5
  },
  "triggers": {
-  "ranAt": "2026-10-22T08:58:39+00:00",
+  "ranAt": "2026-10-22T14:14:48+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [

@@ -3,9 +3,21 @@
   "ats": "ashby",
   "slug": "10xteam"
  },
+ "ADDI": {
+  "ats": "ashby",
+  "slug": "addi"
+ },
  "AIUC": {
   "ats": "ashby",
   "slug": "aiuc"
+ },
+ "Anchorage Digital": {
+  "ats": "lever",
+  "slug": "anchorage"
+ },
+ "Anduril": {
+  "ats": "greenhouse",
+  "slug": "andurilindustries"
  },
  "Aufinity Group": {
   "ats": "ashby",
@@ -27,6 +39,10 @@
   "ats": "ashby",
   "slug": "clarity"
  },
+ "ClickUp": {
+  "ats": "ashby",
+  "slug": "clickup"
+ },
  "Contentsquare": {
   "ats": "lever",
   "slug": "contentsquare"
@@ -35,9 +51,33 @@
   "ats": "ashby",
   "slug": "corma"
  },
+ "Cresta": {
+  "ats": "greenhouse",
+  "slug": "cresta"
+ },
+ "Cursor (Anysphere)": {
+  "ats": "ashby",
+  "slug": "cursor"
+ },
+ "ElevenLabs": {
+  "ats": "ashby",
+  "slug": "elevenlabs"
+ },
  "Exein": {
   "ats": "greenhouse",
   "slug": "exeinspa"
+ },
+ "Flock Safety": {
+  "ats": "ashby",
+  "slug": "flock"
+ },
+ "Harvey": {
+  "ats": "ashby",
+  "slug": "harvey"
+ },
+ "Headway": {
+  "ats": "ashby",
+  "slug": "headway"
  },
  "HiddenLayer": {
   "ats": "greenhouse",
@@ -55,6 +95,10 @@
   "ats": "greenhouse",
   "slug": "island"
  },
+ "Jeeves": {
+  "ats": "lever",
+  "slug": "tryjeeves"
+ },
  "JetBrains": {
   "ats": "greenhouse",
   "slug": "jetbrains"
@@ -70,6 +114,14 @@
  "Knox Systems": {
   "ats": "ashby",
   "slug": "knox-systems"
+ },
+ "KoBold Metals": {
+  "ats": "greenhouse",
+  "slug": "koboldmetals"
+ },
+ "Kong": {
+  "ats": "ashby",
+  "slug": "kong"
  },
  "LI.FI": {
   "ats": "ashby",
@@ -90,6 +142,10 @@
  "Masabi": {
   "ats": "ashby",
   "slug": "masabi"
+ },
+ "Mercury": {
+  "ats": "ashby",
+  "slug": "mercury"
  },
  "Modulr": {
   "ats": "greenhouse",
@@ -123,6 +179,10 @@
   "ats": "ashby",
   "slug": "onyx"
  },
+ "OpenRouter": {
+  "ats": "ashby",
+  "slug": "openrouter"
+ },
  "Outpost": {
   "ats": "ashby",
   "slug": "outpost"
@@ -134,6 +194,10 @@
  "Pave Bank": {
   "ats": "ashby",
   "slug": "pavebank"
+ },
+ "Phantom": {
+  "ats": "ashby",
+  "slug": "phantom"
  },
  "Pleo": {
   "ats": "ashby",
@@ -147,9 +211,21 @@
   "ats": "ashby",
   "slug": "primer.io"
  },
+ "Sardine": {
+  "ats": "ashby",
+  "slug": "sardine"
+ },
  "Scarlet": {
   "ats": "ashby",
   "slug": "scarlet"
+ },
+ "SentiLink": {
+  "ats": "ashby",
+  "slug": "sentilink"
+ },
+ "Skydio": {
+  "ats": "ashby",
+  "slug": "skydio"
  },
  "Socket": {
   "ats": "ashby",
@@ -163,13 +239,25 @@
   "ats": "ashby",
   "slug": "taktile"
  },
+ "Talkiatry": {
+  "ats": "ashby",
+  "slug": "talkiatry"
+ },
  "Tandem Health": {
   "ats": "ashby",
   "slug": "tandem-health"
  },
+ "Tanium": {
+  "ats": "greenhouse",
+  "slug": "tanium"
+ },
  "Taxbit": {
   "ats": "greenhouse",
   "slug": "taxbit"
+ },
+ "Thatch": {
+  "ats": "greenhouse",
+  "slug": "thatch"
  },
  "ThreatLocker": {
   "ats": "greenhouse",
@@ -178,6 +266,10 @@
  "TrueLayer": {
   "ats": "ashby",
   "slug": "truelayer"
+ },
+ "Turquoise Health": {
+  "ats": "ashby",
+  "slug": "turquoise-health"
  },
  "Valarian": {
   "ats": "lever",
