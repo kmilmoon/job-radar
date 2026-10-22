@@ -619,5 +619,13 @@
    "shieldai",
    "shield-ai"
   ]
+ },
+ {
+  "name": "Mave",
+  "slugs": [
+   "mave",
+   "mavesecurity",
+   "mave-security"
+  ]
  }
 ]
