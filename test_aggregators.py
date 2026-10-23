@@ -54,7 +54,7 @@ TORRE = {"results": [{"id": "abc123", "objective": "Gerente de Operaciones", "or
 WWR = """<?xml version="1.0"?><rss version="2.0"><channel>
 <item><title>Delta Pay: GRC Lead</title><region>Europe Only</region><pubDate>Wed, 22 Oct 2026 10:00:00 +0000</pubDate>
 <link>https://weworkremotely.com/remote-jobs/delta-grc-lead</link><description>&lt;p&gt;Own SOC 2&lt;/p&gt;</description></item>
-<item><title>Foo: Senior React Developer</title><region>Anywhere</region><link>https://weworkremotely.com/x</link></item>
+<item><title>Foo: Senior React Developer&nbsp;&rsquo;</title><region>Anywhere</region><link>https://weworkremotely.com/x</link></item>
 <item><title>Bar: Head of Security</title><region>USA Only</region><link>https://weworkremotely.com/y</link></item>
 </channel></rss>"""
 def fake_raw(url, data=None, timeout=40, accept=None):

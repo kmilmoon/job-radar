@@ -233,14 +233,22 @@ RSS_FEEDS = [
     ("weworkremotely", "https://weworkremotely.com/categories/remote-customer-support-jobs.rss"),
     ("jobspresso", "https://jobspresso.co/?feed=job_feed"),
     ("nodesk", "https://nodesk.co/remote-jobs/index.xml"),
-    ("remoteco", "https://remote.co/remote-jobs/feed/"),
-    ("dailyremote", "https://dailyremote.com/feed"),
 ]
+# Remote.co and DailyRemote have no public feed (404): the daily radar covers them by web search.
+
+
+def _fix_entities(xml_text):
+    """Some feeds use HTML entities (&nbsp;, &rsquo;) that XML does not define: turn them into numeric refs."""
+    import html
+    def sub(m):
+        ch = html.unescape(m.group(0))
+        return m.group(0) if ch == m.group(0) else "".join(f"&#{ord(c)};" for c in ch)
+    return re.sub(r"&(?!(?:amp|lt|gt|quot|apos);|#)[A-Za-z][A-Za-z0-9]*;", sub, xml_text)
 
 
 def _rss_items(xml_text):
     import xml.etree.ElementTree as ET
-    root = ET.fromstring(xml_text)
+    root = ET.fromstring(_fix_entities(xml_text))
     for item in root.iter("item"):
         d = {}
         for child in item:
