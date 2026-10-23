@@ -1,17 +1,45 @@
 [
  {
-  "id": "jobspresso-d7f461241f",
-  "source": "jobspresso",
-  "track": "alt",
-  "title": "Regional Sales Operations Manager EMEA",
-  "company": "Dropbox",
-  "location": "Europe",
-  "employment": "Sales",
+  "id": "jobgether-a296aecf",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Engineering Tech Lead (Product Security)",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
   "posted": "2026-10-23",
-  "url": "https://jobspresso.co/job/regional-sales-operations-manager-emea/",
+  "url": "https://jobs.lever.co/jobgether/a296aecf-1b54-41b3-bfa5-9e8b4520ad9b",
   "compensation": null,
   "tags": [],
-  "excerpt": "Role description We are looking for a data-driven, systems-thinking Sales Operations Manager to own the operating infrastructure that powers our go-to-market engine. In this highly visible Individual Contributor role, you will serve as the backbone of a regional Sales organization and translate go-to-market strategy into an executable operating model. You will act as the primary"
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Engineering Tech Lead (Product Security) based in Spain. Join a remote-first engineering team building next-generation Kubernetes and AI infrastructure for organizations operating at scale. In this hands-on technical leadership role, you’ll help secure infrastructure software by identifying vulnerabilities, conducting penetration tests, and strengthening security across cloud-native products. You’ll bring deep Kubernetes expertise to threat modeling, security-sensitive design reviews, and vulnerability remediation, helping engineers build secure systems from the ground up. Working closely with engineering teams, you’ll guide technical decisions, improve security practices, and ensure vulnerabilities are addressed through verified fixes and patched releases. You’ll also contribute production-quality Go code while helping protect container isolation and critical infrastructure components. This is an opportunity to shape product security in a fast-growing, open-source-oriented environment where ownership, technical excellence, and measurable impact matter."
+ },
+ {
+  "id": "weworkremotely-59370dbdd0",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Engineering Manager, Platform Security",
+  "company": "Discord",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-10-23",
+  "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote (West Coast) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. More broadly, Discord is about empowering people to find belonging in all kinds of communities, and those people trust us to keep their communications safe. Our Platform Security Engineering team protects the systems we use to create Discord, making the “secure way” the “easy way.” We’re looking for an Engineering Manager to lead a team of software engineers in articulating and pursuing the most leveraged opportunities to reduce security risk across Engineering. This team will design and build lovable “paved paths” for managing identities and access, shipping code, configuring cloud infrastructure, and operating services. If you’re an Engineering Manager who’s deeply curious, eager to own technically and socially complex projects, and excited to improve security and privacy at Discord,"
+ },
+ {
+  "id": "jobspresso-87795001a6",
+  "source": "jobspresso",
+  "track": "core",
+  "title": "Security Engineer",
+  "company": "Metabase",
+  "location": "Worldwide",
+  "employment": "Engineer",
+  "posted": "2026-10-23",
+  "url": "https://jobspresso.co/job/security-engineer/",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That’s why people love us. We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business"
  },
  {
   "id": "nodesk-6cf9b767b0",
@@ -82,27 +110,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Trainer — Machine Learning based in Spain. We are seeking a hands-on machine learning practitioner with a passion for teaching to design and deliver engaging technical courses for engineers. In this remote freelance role, you will help learners progress from core machine learning concepts to training and evaluating their own models through practical, lab-based learning. You will collaborate with curriculum specialists and production teams to develop clear lessons, hands-on exercises, and real-world demonstrations. The focus is on sharing your technical expertise through compelling scripts, video presentations, and lab walkthroughs rather than managing production tasks. The initial paid course project typically lasts around three months and can be completed alongside existing professional commitments. With flexible hours and a delivery plan agreed in advance, the opportunity may lead to further projects or a full-time position."
- },
- {
-  "id": "himalayas-r-8600360064",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "CAD Engineer - AI Trainer",
-  "company": "Mindrift",
-  "location": "Spain",
-  "employment": "Contractor",
-  "posted": "2026-10-22",
-  "url": "https://himalayas.app/companies/mindrift/jobs/cad-engineer-ai-trainer-8600360064?utm_source=api",
-  "compensation": "USD 31-31",
-  "tags": [
-   "Cad-Engineer",
-   "Mechanical-Engineer",
-   "Simulation-Engineer",
-   "AI-Trainer",
-   "Freelance-CAD-and-Simulation-Engineering-AI-Trainer",
-   "Freelance-Mechanical-CAD-and-Simulation-AI-Trainer"
-  ],
-  "excerpt": "About the role Help train and evaluate AI agents that work inside a real CAD environment on long engineering tasks, work that would take an expert 10–15 hours."
  },
  {
   "id": "getonboard-analyst-interfell-remote",

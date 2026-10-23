@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-23T04:56:42+00:00",
+ "ranAt": "2026-10-23T08:54:10+00:00",
  "companies": 124,
  "boardsRead": 72,
  "matchingJobs": 217,
@@ -59,33 +59,33 @@
  ],
  "errors": [],
  "aggregators": {
-  "jobgether": 13,
-  "himalayas": 1,
+  "jobgether": 14,
+  "himalayas": 0,
   "workingnomads": 0,
   "getonboard": 3,
-  "rss": 19,
+  "rss": 20,
   "_raw": {
-   "jobgether_raw": 4267,
+   "jobgether_raw": 4293,
    "https://himalayas.app/jobs/api": "HTTP 200, 140512 bytes",
    "himalayas_raw": 500,
-   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 197157 bytes",
-   "workingnomads_raw": 43,
+   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 191999 bytes",
+   "workingnomads_raw": 42,
    "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 790385 bytes",
    "getonboard_raw": 969,
-   "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss": "HTTP 200, 210025 bytes",
-   "weworkremotely_raw": 195,
-   "https://weworkremotely.com/categories/all-other-remote-jobs.rss": "HTTP 200, 674062 bytes",
-   "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss": "HTTP 200, 197467 bytes",
-   "https://weworkremotely.com/categories/remote-customer-support-jobs.rss": "HTTP 200, 658479 bytes",
-   "https://jobspresso.co/": "HTTP 200, 78845 bytes",
+   "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss": "HTTP 200, 216833 bytes",
+   "weworkremotely_raw": 200,
+   "https://weworkremotely.com/categories/all-other-remote-jobs.rss": "HTTP 200, 709021 bytes",
+   "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss": "HTTP 200, 223105 bytes",
+   "https://weworkremotely.com/categories/remote-customer-support-jobs.rss": "HTTP 200, 651432 bytes",
+   "https://jobspresso.co/": "HTTP 200, 88088 bytes",
    "jobspresso_raw": 10,
    "https://nodesk.co/remote-jobs/index.xml": "HTTP 200, 10662 bytes",
    "nodesk_raw": 10
   }
  },
  "aggregatorJobs": {
-  "core": 17,
-  "alt": 19
+  "core": 20,
+  "alt": 17
  },
  "aggregatorErrors": [],
  "signals": {
@@ -95,7 +95,7 @@
   "leaderHiring": 5
  },
  "triggers": {
-  "ranAt": "2026-10-23T04:56:42+00:00",
+  "ranAt": "2026-10-23T08:54:10+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [
