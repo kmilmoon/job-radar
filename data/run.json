@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-23T04:38:25+00:00",
+ "ranAt": "2026-10-23T04:46:04+00:00",
  "companies": 123,
  "boardsRead": 72,
  "matchingJobs": 217,
@@ -62,6 +62,7 @@
   "himalayas": 0,
   "workingnomads": 0,
   "getonboard": 3,
+  "rss": 17,
   "_raw": {
    "jobgether_raw": 4267,
    "https://himalayas.app/jobs/api": "HTTP 200, 140512 bytes",
@@ -69,12 +70,22 @@
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 197157 bytes",
    "workingnomads_raw": 43,
    "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 790385 bytes",
-   "getonboard_raw": 969
+   "getonboard_raw": 969,
+   "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss": "HTTP 200, 210025 bytes",
+   "weworkremotely_raw": 195,
+   "https://weworkremotely.com/categories/all-other-remote-jobs.rss": "HTTP 200, 674062 bytes",
+   "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss": "HTTP 200, 197467 bytes",
+   "https://weworkremotely.com/categories/remote-customer-support-jobs.rss": "HTTP 200, 658479 bytes",
+   "https://jobspresso.co/": "HTTP 200, 94202 bytes",
+   "jobspresso_raw": 10,
+   "https://nodesk.co/remote-jobs/index.xml": "XML error: undefined entity: line 18, column 116",
+   "https://remote.co/remote-jobs/feed/": "HTTPError: HTTP Error 404: Not Found",
+   "https://dailyremote.com/feed": "HTTPError: HTTP Error 404: Not Found"
   }
  },
  "aggregatorJobs": {
-  "core": 8,
-  "alt": 8
+  "core": 17,
+  "alt": 16
  },
  "aggregatorErrors": [],
  "signals": {
@@ -84,7 +95,7 @@
   "leaderHiring": 5
  },
  "triggers": {
-  "ranAt": "2026-10-23T04:38:25+00:00",
+  "ranAt": "2026-10-23T04:46:05+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [

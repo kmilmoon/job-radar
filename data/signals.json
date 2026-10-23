@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T04:38:25+00:00",
+ "generatedAt": "2026-10-23T04:46:04+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -1265,7 +1265,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "openPostings": 156,
+   "openPostings": 157,
    "firstHire": [
     {
      "title": "Compliance Engineer",
