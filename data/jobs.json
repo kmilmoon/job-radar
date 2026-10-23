@@ -462,20 +462,6 @@
   "excerpt": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national-security/tactical-isr, and beyond https://www.skydio.com/solutions. About the role: As a Strategic Account Manager, you’ll own a named set of the largest enterprises in the US. You’re responsible for the whole relationship: you lead with security, then expand into inspection and other operational use cases with specialist support. This isn’t a volume-hunting role. You’ll go deep: map every buying center, build executive relationships, and take each account from first trial to multi-site deployment. Landing large enterprise logos and then expanding into additional teams, departments, business units and locations is a large part of the job. The first deployment is the start of the relationship, not the goal. You’ll lead a dedicated pod of Business Development, Solutions Engineering and Program Management, and you’re accountable for customers who deploy at scale and become public references. How you’ll make an impact: - Own a named book of strategic accounts, with a multi-year account plan for each covering stakeholders, business units, sites and expansion path. - Build relationships with CSOs, VPs of Global Security, GSOC leaders and their operations, facilities and risk counterpart"
  },
  {
-  "id": "gh-andurilindustries-5261480007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Offensive Security Engineer",
-  "location": "Washington, District of Columbia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-08",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, and people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across the entirety of Anduril, spanning: hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero-days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight-critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a b"
- },
- {
   "id": "gh-andurilindustries-5243855007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -486,6 +472,20 @@
   "employment": null,
   "posted": "2026-10-08",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, and people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across the entirety of Anduril, spanning: hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero-days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight-critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a b"
+ },
+ {
+  "id": "gh-andurilindustries-5261480007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Offensive Security Engineer",
+  "location": "Washington, District of Columbia, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-08",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, and people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across the entirety of Anduril, spanning: hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero-days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight-critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a b"
  },
@@ -1571,7 +1571,7 @@
   "id": "lever-shieldai-5da0e986",
   "company": "Shield AI",
   "ats": "lever",
-  "title": "Staff Engineer, Quality Assurance (R5799)",
+  "title": "Senior Engineer, Quality Assurance (R5799)",
   "location": "Melbourne; Melbourne",
   "remote": false,
   "workplace": "onsite",
@@ -1862,16 +1862,16 @@
   "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW As a Staff Software Engineer on the Product Security team at Harvey, you will have the opportunity to build security directly into the product. Harvey stores and processes our customers’ most sensitive data and our entire business model depends on a foundation At Harvey, you will find that security is paramount at every stage of our product lifecycle. In this role you will drive high-leverage security initiatives that raise the bar for the entire company — balancing hands-on technical work with cross-functional leadership and mentorship. This is a rare opportunity to desig"
  },
  {
-  "id": "gh-andurilindustries-5218589007",
+  "id": "gh-andurilindustries-5218594007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Security Operations Analyst",
-  "location": "Washington, District of Columbia, United States",
+  "location": "Boston, Massachusetts, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
  },
@@ -1904,16 +1904,16 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
  },
  {
-  "id": "gh-andurilindustries-5218594007",
+  "id": "gh-andurilindustries-5218589007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Security Operations Analyst",
-  "location": "Boston, Massachusetts, United States",
+  "location": "Washington, District of Columbia, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
  },
@@ -2224,48 +2224,6 @@
   "url": "https://jobs.ashbyhq.com/pliant/090236c8-7e10-47de-af43-696b76bbb2e2",
   "compensation": null,
   "excerpt": "ABOUT US Pliant is a modular B2B payments platform that combines commercial card issuing, payment accounts, FX, and spend management in one system — adapting to existing setups rather than requiring customers to replace them. Businesses across industries such as travel, e-commerce, and insurance use Pliant to manage complex payment workflows with cards, backed by credit lines Pliant underwrites itself. Fintechs and software platforms embed Pliant's payment infrastructure into their own products, from API-based Cards-as-a-Service to fully white-label solutions. Banks use Pliant's Card & Spend OS, the customer-facing interface, on their own infrastructure to run card programs. Founded in 2020 and headquartered in Berlin, Pliant serves 5,000+ businesses and 40+ partners across Europe and the United States. A principal member of Visa and Mastercard, Pliant issues commercial cards in 13 currencies across 32 countries — under its own European e-money license and with licensed partners in the UK and US. Learn more at http://www.getpliant.com/www.getpliant.com http://www.getpliant.com ABOUT THE ROLE As Senior Credit Risk Manager you are responsible for credit risk assessment of our US SME and corporate clients. You will own a book or significant credit exposures. In addition to case processing, you will be involved in continuously improving our standards, documentation and tech stack. WHAT YOU’LL DO Your daily tasks include: - Due diligence: Assess who our customers are, how and with whom they operate their business model, what their public and financial profiles are. - Underwriting: Analyze business and financial information of our customers (e.g., credit agency reports, financial statements, bank account statements), write up the key risks and mitigants and conclude. - Credit"
- },
- {
-  "id": "ashby-harvey-284a0861",
-  "company": "Harvey",
-  "ats": "ashby",
-  "title": "Analyst, Customer Trust",
-  "location": "San Francisco",
-  "remote": true,
-  "workplace": "Hybrid",
-  "employment": "FullTime",
-  "posted": "2026-07-22",
-  "url": "https://jobs.ashbyhq.com/harvey/284a0861-026b-45ff-a4ad-c2d187d7184d",
-  "compensation": "$94.5K – $141.7K • Offers Equity • Offers Bonus",
-  "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW Some of the world's largest companies and their law firms use Harvey’s AI capabilities to deliver world-class client services at unprecedented scale and efficiency. Harvey allows high-performing professionals to gain deep domain knowledge faster, understand the big picture, and tackle more complex challenges in less time. Our customers depend on us to deliver a secure, trustworthy, and compliant platform. Earning the trust of our customers is a business enabler and we value it more than anything else. In this role, you will report to the Customer Trust lead. You will drive"
- },
- {
-  "id": "ashby-harvey-1cf585c3",
-  "company": "Harvey",
-  "ats": "ashby",
-  "title": "Analyst, Customer Trust",
-  "location": "New York",
-  "remote": true,
-  "workplace": "Hybrid",
-  "employment": "FullTime",
-  "posted": "2026-07-22",
-  "url": "https://jobs.ashbyhq.com/harvey/1cf585c3-27e2-4813-ade9-dc8c53c2d5b0",
-  "compensation": "$94.5K – $141.7K • Offers Equity • Offers Bonus",
-  "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW Some of the world's largest companies and their law firms use Harvey’s AI capabilities to deliver world-class client services at unprecedented scale and efficiency. Harvey allows high-performing professionals to gain deep domain knowledge faster, understand the big picture, and tackle more complex challenges in less time. Our customers depend on us to deliver a secure, trustworthy, and compliant platform. Earning the trust of our customers is a business enabler and we value it more than anything else. In this role, you will report to the Customer Trust lead. You will drive"
- },
- {
-  "id": "ashby-harvey-8caa7beb",
-  "company": "Harvey",
-  "ats": "ashby",
-  "title": "Analyst, Customer Trust",
-  "location": "London",
-  "remote": true,
-  "workplace": "Hybrid",
-  "employment": "FullTime",
-  "posted": "2026-07-22",
-  "url": "https://jobs.ashbyhq.com/harvey/8caa7beb-d41c-4802-a23d-4e72b6838f13",
-  "compensation": null,
-  "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW Some of the world's largest companies and their law firms use Harvey’s AI capabilities to deliver world-class client services at unprecedented scale and efficiency. Harvey allows high-performing professionals to gain deep domain knowledge faster, understand the big picture, and tackle more complex challenges in less time. Our customers depend on us to deliver a secure, trustworthy, and compliant platform. Earning the trust of our customers is a business enabler and we value it more than anything else. In this role, you will report to the Customer Trust lead. You will drive"
  },
  {
   "id": "ashby-legora-5a51c919",
@@ -2842,20 +2800,6 @@
   "excerpt": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national-security/tactical-isr, and beyond https://www.skydio.com/solutions. ABOUT THE ROLE Skydio’s mission is to make the world more productive, creative, and safe through autonomous flight. We are seeking an Aviation Compliance Lead to join our Global Aviation Regulatory team. This role will serve as the responsible compliance lead for Skydio-held aviation authorizations and approvals. You will partner closely with regulatory, flight operations, training, and program stakeholders to standardize processes and ensure operational compliance at scale. This is the opportunity of a lifetime. Skydio is the largest American drone company whose products are used by thousands of organizations across critical infrastructure, public safety, energy utilities and many sectors. If you want to enable life-saving missions and join a rocket-ship company that is transforming drone technology, this is the job for you. HOW YOU’LL MAKE AN IMPACT This is a hands-on, high-ownership role at the core of Skydio’s aviation safety and compliance culture, where you will: - Serve as the responsible lead for Skydio-held aviation authorizations and operational approvals. - Manage FAA drone registrations, product compli"
  },
  {
-  "id": "gh-hiddenlayer-5069486007",
-  "company": "HiddenLayer",
-  "ats": "greenhouse",
-  "title": "Technical Product Manager for AI Security Products",
-  "location": "Remote- US",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-03-04",
-  "url": "https://job-boards.greenhouse.io/hiddenlayer/jobs/5069486007",
-  "compensation": null,
-  "excerpt": "Technical Product Manager for AI Security Products Remote [within the US] ABOUT THE ROLE: HiddenLayer is entering an exciting new chapter in our company history and we are seeking a Technical Product Manager for our AI Security products to drive the development of a groundbreaking cybersecurity platform to secure and protect against adversarial AI attacks. In this role, you'll have the opportunity to work with industry pioneers in data science and artificial intelligence threat research in a fast-paced emerging market. As a Product Manager with a strong background in cybersecurity and AI, you will play a crucial role in the development, enhancement, and delivery of HiddenLayer’s AISec Platform to protect and defend generative AI and agentic systems against cybersecurity threats and attacks. WHO WE ARE: HiddenLayer protects the world’s most valuable technologies from adversarial AI attacks. We were founded by AI professionals and security specialists with first-hand experience of how insidious adversarial AI attacks can be to detect and defend against. Determined to prove that these attacks were preventable, the team developed a unique, patent-pending, productized solution to support organizations in accelerating their adoption of AI securely. Our dedication to innovation has been recognized by prestigious awards such as RSA's Innovation Sandbox Winner, CB Insights AI 100, CyberTech 100, and SC's Most Promising Early-Stage Start-up. WHAT YOU’LL DO: You will be responsible for translating customer needs, technical insights, and the evolving Adversarial AI threat landscape into actionable product capabilities and detection techniques. Your exceptional understanding of both machine learning and cybersecurity will allow you to effectively guide cross-functional teams, bridgi"
- },
- {
   "id": "gh-andurilindustries-5048775007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2884,20 +2828,6 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril we are developing cutting-edge artificial intelligence systems, command and control platforms, and autonomous systems across air, land, maritime, and space domains. We are looking for Systems Security Engineers to lead a mission-focused, threat-informed approach to Anti-Tamper Engineering for the next generation of Anduril’s autonomous systems. In order to be successful at Anduril, a Systems Security Engineer needs to be fluent in areas of technical leadership, requirements analysis, design rigor, customer & stakeholder engagement and have a hands-on contributor mindset. This role will drive system security engineering principles into design and integration with other systems internal and external to Anduril. In short, this individual will own the execution of all security aspects of product development, production, and sustainment through the entire product lifecycle to ensure product resiliency in both export and US customer contracts. WHAT YOU'LL DO Identify Critical Program Information (CPI) for various cutting-edge systems, inclu"
  },
  {
-  "id": "gh-andurilindustries-5041620007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Product Security Engineer, Programs",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-02-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor"
- },
- {
   "id": "gh-andurilindustries-5042718007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2908,6 +2838,20 @@
   "employment": null,
   "posted": "2026-02-04",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor"
+ },
+ {
+  "id": "gh-andurilindustries-5041620007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Product Security Engineer, Programs",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-02-04",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor"
  },

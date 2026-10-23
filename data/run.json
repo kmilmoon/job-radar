@@ -1,8 +1,8 @@
 {
- "ranAt": "2026-10-22T16:42:03+00:00",
- "companies": 121,
+ "ranAt": "2026-10-23T04:38:25+00:00",
+ "companies": 123,
  "boardsRead": 72,
- "matchingJobs": 221,
+ "matchingJobs": 217,
  "noBoardFound": [
   "MultiSafepay",
   "Tucuvi",
@@ -52,27 +52,29 @@
   "Mindgard",
   "Runware",
   "Pindrop",
-  "Mave"
+  "Mave",
+  "Hyperlayer",
+  "Indurex"
  ],
  "errors": [],
  "aggregators": {
   "jobgether": 13,
-  "himalayas": 3,
+  "himalayas": 0,
   "workingnomads": 0,
-  "getonboard": 2,
+  "getonboard": 3,
   "_raw": {
-   "jobgether_raw": 4737,
-   "https://himalayas.app/jobs/api": "HTTP 200, 136221 bytes",
+   "jobgether_raw": 4267,
+   "https://himalayas.app/jobs/api": "HTTP 200, 140512 bytes",
    "himalayas_raw": 500,
    "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 197157 bytes",
    "workingnomads_raw": 43,
-   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 792686 bytes",
-   "getonboard_raw": 970
+   "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 790385 bytes",
+   "getonboard_raw": 969
   }
  },
  "aggregatorJobs": {
   "core": 8,
-  "alt": 10
+  "alt": 8
  },
  "aggregatorErrors": [],
  "signals": {
@@ -82,7 +84,7 @@
   "leaderHiring": 5
  },
  "triggers": {
-  "ranAt": "2026-10-22T16:42:03+00:00",
+  "ranAt": "2026-10-23T04:38:25+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [
