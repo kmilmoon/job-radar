@@ -633,5 +633,11 @@
  },
  {
   "name": "Indurex"
+ },
+ {
+  "name": "Rebill",
+  "slugs": [
+   "rebill"
+  ]
  }
 ]
