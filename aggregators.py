@@ -224,8 +224,68 @@ def getonboard():
     return out
 
 
+# RSS feeds of remote job boards. Each entry: (source, url). A feed that fails or changes
+# format is recorded in RAW and skipped; it never stops the run.
+RSS_FEEDS = [
+    ("weworkremotely", "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss"),
+    ("weworkremotely", "https://weworkremotely.com/categories/all-other-remote-jobs.rss"),
+    ("weworkremotely", "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss"),
+    ("weworkremotely", "https://weworkremotely.com/categories/remote-customer-support-jobs.rss"),
+    ("jobspresso", "https://jobspresso.co/?feed=job_feed"),
+    ("nodesk", "https://nodesk.co/remote-jobs/index.xml"),
+    ("remoteco", "https://remote.co/remote-jobs/feed/"),
+    ("dailyremote", "https://dailyremote.com/feed"),
+]
+
+
+def _rss_items(xml_text):
+    import xml.etree.ElementTree as ET
+    root = ET.fromstring(xml_text)
+    for item in root.iter("item"):
+        d = {}
+        for child in item:
+            tag = child.tag.split("}")[-1].lower()
+            d.setdefault(tag, (child.text or "").strip())
+        yield d
+
+
+def _rss_date(s):
+    from email.utils import parsedate_to_datetime
+    try:
+        return parsedate_to_datetime(s).strftime("%Y-%m-%d")
+    except Exception:
+        return (s or "")[:10]
+
+
+def rss_boards():
+    import hashlib
+    out = []
+    for source, url in RSS_FEEDS:
+        txt = probe_raw(url, accept="application/rss+xml, application/xml, text/xml")
+        if not txt:
+            continue
+        try:
+            entries = list(_rss_items(txt))
+        except Exception as e:
+            RAW[url] = f"XML error: {str(e)[:100]}"
+            continue
+        RAW[source + "_raw"] = RAW.get(source + "_raw", 0) + len(entries)
+        for e in entries:
+            title, company = e.get("title", ""), e.get("company", "")
+            if source == "weworkremotely" and ": " in title and not company:
+                company, title = title.split(": ", 1)
+            loc = e.get("region") or e.get("location") or e.get("job_listing:location") or ""
+            link = e.get("link") or e.get("guid") or ""
+            jid = hashlib.sha1(link.encode()).hexdigest()[:10]
+            it = _item(source, jid, title, company, loc, link, _rss_date(e.get("pubdate", "")),
+                       e.get("type") or e.get("job_type"), None, e.get("description", ""))
+            if it:
+                out.append(it)
+    return out
+
+
 SOURCES = {"jobgether": jobgether, "himalayas": himalayas, "workingnomads": working_nomads,
-           "getonboard": getonboard}
+           "getonboard": getonboard, "rss": rss_boards}
 
 
 def run():

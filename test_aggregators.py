@@ -51,7 +51,14 @@ GOB = {"data": [{"id": "head-of-security-acme-1", "attributes": {"title": "Head 
   {"id": "dev-2", "attributes": {"title": "Senior Software Engineer", "remote": True}}]}
 TORRE = {"results": [{"id": "abc123", "objective": "Gerente de Operaciones", "organizations": [{"name": "Beta Co"}], "locations": [], "created": "2026-10-10T00:00:00Z"},
   {"id": "zzz", "objective": "Risk Manager", "organizations": [{"name": "Gamma"}], "locations": ["Colombia"]}]}
+WWR = """<?xml version="1.0"?><rss version="2.0"><channel>
+<item><title>Delta Pay: GRC Lead</title><region>Europe Only</region><pubDate>Wed, 22 Oct 2026 10:00:00 +0000</pubDate>
+<link>https://weworkremotely.com/remote-jobs/delta-grc-lead</link><description>&lt;p&gt;Own SOC 2&lt;/p&gt;</description></item>
+<item><title>Foo: Senior React Developer</title><region>Anywhere</region><link>https://weworkremotely.com/x</link></item>
+<item><title>Bar: Head of Security</title><region>USA Only</region><link>https://weworkremotely.com/y</link></item>
+</channel></rss>"""
 def fake_raw(url, data=None, timeout=40, accept=None):
+    if "weworkremotely.com/categories/remote-management" in url: return WWR
     if "getonbrd" in url: return _json.dumps(GOB if "query=security" in url else {"data": []})
     if "torre.co" in url: return _json.dumps(TORRE if "security" in _json.dumps(data) else {"results": []})
     return None
@@ -59,11 +66,13 @@ ag.probe_raw = fake_raw
 items, counts, errors = ag.run()
 titles = sorted((i["track"], i["title"]) for i in items)
 assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Head of Operations"),
-                  ("core", "Head of Seguridad de la Información"), ("core", "Security Program Manager")], titles
+                  ("core", "GRC Lead"), ("core", "Head of Seguridad de la Información"), ("core", "Security Program Manager")], titles
 assert {k: v for k, v in counts.items() if k != "_raw"} == {"jobgether": 1, "himalayas": 2, "workingnomads": 1,
-    "getonboard": 1}, counts
+    "getonboard": 1, "rss": 1}, counts
 assert ag.classify("Vigilante de seguridad") is None and ag.classify("Responsable de Cumplimiento") == "core"
 assert not errors
 wn = [i for i in items if i["source"] == "workingnomads"][0]
 assert wn["excerpt"] == "Help the CEO" and wn["tags"] == ["operations", "remote"]
+w = [i for i in items if i["source"] == "weworkremotely"][0]
+assert w["company"] == "Delta Pay" and w["posted"] == "2026-10-22" and w["excerpt"] == "Own SOC 2", w
 print("OK", titles)
