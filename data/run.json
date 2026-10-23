@@ -1,6 +1,6 @@
 {
- "ranAt": "2026-10-23T04:46:04+00:00",
- "companies": 123,
+ "ranAt": "2026-10-23T04:56:42+00:00",
+ "companies": 124,
  "boardsRead": 72,
  "matchingJobs": 217,
  "noBoardFound": [
@@ -54,15 +54,16 @@
   "Pindrop",
   "Mave",
   "Hyperlayer",
-  "Indurex"
+  "Indurex",
+  "Rebill"
  ],
  "errors": [],
  "aggregators": {
   "jobgether": 13,
-  "himalayas": 0,
+  "himalayas": 1,
   "workingnomads": 0,
   "getonboard": 3,
-  "rss": 17,
+  "rss": 19,
   "_raw": {
    "jobgether_raw": 4267,
    "https://himalayas.app/jobs/api": "HTTP 200, 140512 bytes",
@@ -76,16 +77,15 @@
    "https://weworkremotely.com/categories/all-other-remote-jobs.rss": "HTTP 200, 674062 bytes",
    "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss": "HTTP 200, 197467 bytes",
    "https://weworkremotely.com/categories/remote-customer-support-jobs.rss": "HTTP 200, 658479 bytes",
-   "https://jobspresso.co/": "HTTP 200, 94202 bytes",
+   "https://jobspresso.co/": "HTTP 200, 78845 bytes",
    "jobspresso_raw": 10,
-   "https://nodesk.co/remote-jobs/index.xml": "XML error: undefined entity: line 18, column 116",
-   "https://remote.co/remote-jobs/feed/": "HTTPError: HTTP Error 404: Not Found",
-   "https://dailyremote.com/feed": "HTTPError: HTTP Error 404: Not Found"
+   "https://nodesk.co/remote-jobs/index.xml": "HTTP 200, 10662 bytes",
+   "nodesk_raw": 10
   }
  },
  "aggregatorJobs": {
   "core": 17,
-  "alt": 16
+  "alt": 19
  },
  "aggregatorErrors": [],
  "signals": {
@@ -95,7 +95,7 @@
   "leaderHiring": 5
  },
  "triggers": {
-  "ranAt": "2026-10-23T04:46:05+00:00",
+  "ranAt": "2026-10-23T04:56:42+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [
