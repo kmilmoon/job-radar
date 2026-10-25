@@ -23,6 +23,10 @@
   "ats": "ashby",
   "slug": "aufinity-group"
  },
+ "Bayesian Health": {
+  "ats": "ashby",
+  "slug": "bayesianhealth"
+ },
  "Bitpanda": {
   "ats": "greenhouse",
   "slug": "bitpanda"
@@ -43,6 +47,10 @@
   "ats": "ashby",
   "slug": "clickup"
  },
+ "Clutch": {
+  "ats": "greenhouse",
+  "slug": "clutch"
+ },
  "Contentsquare": {
   "ats": "lever",
   "slug": "contentsquare"
@@ -55,13 +63,25 @@
   "ats": "greenhouse",
   "slug": "cresta"
  },
+ "Crux": {
+  "ats": "ashby",
+  "slug": "crux"
+ },
  "Cursor (Anysphere)": {
   "ats": "ashby",
   "slug": "cursor"
  },
+ "Descript": {
+  "ats": "greenhouse",
+  "slug": "descript"
+ },
  "ElevenLabs": {
   "ats": "ashby",
   "slug": "elevenlabs"
+ },
+ "EngFlow": {
+  "ats": "ashby",
+  "slug": "engflow"
  },
  "Exein": {
   "ats": "greenhouse",
@@ -175,6 +195,10 @@
   "ats": "ashby",
   "slug": "oligo"
  },
+ "Omada Health": {
+  "ats": "greenhouse",
+  "slug": "omadahealth"
+ },
  "Onyx Security": {
   "ats": "ashby",
   "slug": "onyx"
@@ -211,6 +235,14 @@
   "ats": "ashby",
   "slug": "primer.io"
  },
+ "Protege": {
+  "ats": "ashby",
+  "slug": "protege"
+ },
+ "Resend": {
+  "ats": "ashby",
+  "slug": "resend"
+ },
  "Sardine": {
   "ats": "ashby",
   "slug": "sardine"
@@ -234,6 +266,10 @@
  "Socket": {
   "ats": "ashby",
   "slug": "socket"
+ },
+ "Sourcegraph": {
+  "ats": "greenhouse",
+  "slug": "sourcegraph91"
  },
  "Strategic Growth Partners": {
   "ats": "ashby",
@@ -278,6 +314,14 @@
  "Valarian": {
   "ats": "lever",
   "slug": "valarian"
+ },
+ "Vesta": {
+  "ats": "ashby",
+  "slug": "vesta"
+ },
+ "Wrapbook": {
+  "ats": "ashby",
+  "slug": "wrapbook"
  },
  "Yuno": {
   "ats": "lever",

@@ -1,5 +1,75 @@
 [
  {
+  "id": "ashby-pliant-c17d9608",
+  "company": "Pliant",
+  "ats": "ashby",
+  "title": "Working Student – Compliance Automation & AI (m/f/d)",
+  "location": "Berlin, Germany (Hybrid)",
+  "remote": true,
+  "workplace": "Hybrid",
+  "employment": "FullTime",
+  "posted": "2026-10-23",
+  "url": "https://jobs.ashbyhq.com/pliant/c17d9608-4f0f-4136-bf53-8e84d3b7a84a",
+  "compensation": null,
+  "excerpt": "ABOUT US Pliant is a modular B2B payments platform that combines commercial card issuing, payment accounts, FX, and spend management in one system — adapting to existing setups rather than requiring customers to replace them. Businesses across industries such as travel, e-commerce, and insurance use Pliant to manage complex payment workflows with cards, backed by credit lines Pliant underwrites itself. Fintechs and software platforms embed Pliant's payment infrastructure into their own products, from API-based Cards-as-a-Service to fully white-label solutions. Banks use Pliant's Card & Spend OS, the customer-facing interface, on their own infrastructure to run card programs. Founded in 2020 and headquartered in Berlin, Pliant serves 5,000+ businesses and 40+ partners across Europe and the United States. A principal member of Visa and Mastercard, Pliant issues commercial cards in 13 currencies across 32 countries — under its own European e-money license and with licensed partners in the UK and US. Learn more at http://www.getpliant.com/www.getpliant.com http://www.getpliant.com ABOUT THE ROLE We are looking for an exceptional working student to join our team — someone who wants to build expertise in fintech and banking, sharpen their analytical skills, and work alongside senior specialists on critical operational risk topics. As a Working Student – Compliance Automation & AI (m/f/d), you’ll sit at the intersection of fintech, data, and operational risk management. You’ll work on high-impact tasks in client onboarding, risk profiling, and transaction surveillance — while leveraging data-driven applications, Python, and AI tools to enhance efficiency and insight. You’ll collaborate closely with our Compliance, Risk, Product, and Engineering teams, gaining hands-on experien"
+ },
+ {
+  "id": "gh-exeinspa-5014715101",
+  "company": "Exein",
+  "ats": "greenhouse",
+  "title": "IT & Security Manager",
+  "location": "Roma, Lazio, Italy",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-23",
+  "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5014715101",
+  "compensation": null,
+  "excerpt": "IT & Security Manager About us: The physical and digital worlds are merging. Vehicles, medical devices, industrial systems, critical infrastructure: security hasn't kept pace. AI is accelerating everything, from the capabilities of the systems we depend on to the sophistication of the threats targeting them. A software vulnerability can now have physical consequences. A physical breach can compromise entire digital ecosystems. Billions of devices operate with little to no protection, and traditional approaches can't keep up. Not at this scale, not at this speed, and not across this diversity of systems. Exein exists to solve this. We build the security layer for a world where physical and digital threats are no longer separate problems, from kernel-level runtime protection on embedded devices to cloud-native platforms that analyze, protect, and prove compliance across entire device fleets. We're not patching the old model. We're building security from the core out. About the Role We are looking for an IT & Security Manager to own our IT environment and help us build strong security and compliance foundations. This is a hands-on, mid-level role at the intersection of IT operations and cybersecurity. Day to day, you will run and improve our Linux systems , manage our Google Workspace environment and our devices through MDM , and put in place the security controls, policies and processes that keep the company protected and audit-ready. Compliance is a key part of the job. You will support audits and certification activities such as ISO 27001 and SOC 2 , maintaining evidence, documentation and remediation plans, and handling security questionnaires from customers, partners and investors. A background in cybersecurity is strongly valued. You will have real ownership from day"
+ },
+ {
+  "id": "ashby-horizon3ai-1dc00e9e",
+  "company": "Horizon3.ai",
+  "ats": "ashby",
+  "title": "Staff Product Manager, Compliance, Reporting, Insights",
+  "location": "New York City, NY; San Francisco, California",
+  "remote": true,
+  "workplace": "Hybrid",
+  "employment": "FullTime",
+  "posted": "2026-10-23",
+  "url": "https://jobs.ashbyhq.com/horizon3ai/1dc00e9e-6c83-4351-b217-c557e341f55b",
+  "compensation": null,
+  "excerpt": "Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs. We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results. Horizon3 http://Horizon3.ai is in search of a dynamic Product Manager (PM) to own and accelerate NodeZero's compliance and reporting capabilities — the layer that turns autonomous penetration testing results into audit-ready evidence and executive-ready narrative. As enterprises adopt NodeZero to satisfy SOC 2, ISO 27001, PCI-DSS, HIPAA, NIST CSF/800-53, and FedRAMP/CMMC obligations, this PM owns the product surface where attack results become compliance proof — for security practitioners, auditors, and the C-suite. As a PM focused on Compliance & Reporting, you'll use your GRC fluency and product craft"
+ },
+ {
+  "id": "ashby-harvey-694441dc",
+  "company": "Harvey",
+  "ats": "ashby",
+  "title": "Staff Infrastructure Security Engineer",
+  "location": "San Francisco",
+  "remote": true,
+  "workplace": "Hybrid",
+  "employment": "FullTime",
+  "posted": "2026-10-23",
+  "url": "https://jobs.ashbyhq.com/harvey/694441dc-7637-43bb-81de-c3ac69fd8af0",
+  "compensation": "$231K – $340K • Offers Equity • Offers Bonus",
+  "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW Some of the world's largest companies and their law firms use Harvey’s AI capabilities to deliver world-class client services at unprecedented scale and efficiency. Harvey allows high-performing professionals to gain deep domain knowledge faster, understand the big picture, and tackle more complex challenges in less time. Security is at the heart of what we do. Our customers trust us with their most sensitive data, and we take that responsibility seriously. As part of our team, you’ll help us maintain a secure, trustworthy, and compliant platform—an essential foundation fo"
+ },
+ {
+  "id": "ashby-harvey-90421e4b",
+  "company": "Harvey",
+  "ats": "ashby",
+  "title": "Staff Infrastructure Security Engineer",
+  "location": "New York",
+  "remote": true,
+  "workplace": "Hybrid",
+  "employment": "FullTime",
+  "posted": "2026-10-23",
+  "url": "https://jobs.ashbyhq.com/harvey/90421e4b-77d2-40a4-bb7f-80d2a0a9b5b3",
+  "compensation": "$231K – $340K • Offers Equity • Offers Bonus",
+  "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW Some of the world's largest companies and their law firms use Harvey’s AI capabilities to deliver world-class client services at unprecedented scale and efficiency. Harvey allows high-performing professionals to gain deep domain knowledge faster, understand the big picture, and tackle more complex challenges in less time. Security is at the heart of what we do. Our customers trust us with their most sensitive data, and we take that responsibility seriously. As part of our team, you’ll help us maintain a secure, trustworthy, and compliant platform—an essential foundation fo"
+ },
+ {
   "id": "ashby-kertos-54505ad5",
   "company": "Kertos",
   "ats": "ashby",
@@ -350,20 +420,6 @@
   "excerpt": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 7 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing. Headquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go! Your mission As an Information Security Specialist, you will own and mature significant parts of our governance, risk, and compliance program in a regulated fintech environment. You’ll be the go-to person for one or more GRC domains (e.g., ISMS and ISO 27001, audit & assurance, third-party risk, risk management, regulatory mapping), driving outcomes end-to-end: control design, operationalization with stakeholders, testing, metrics, and continuous improvement. You’ll operate with high autonomy, influence across teams, and help shape how we scale security governance as the company grows. What you’ll do GRC domain ownership & program maturity : Own one or more GRC"
  },
  {
-  "id": "gh-andurilindustries-5261472007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Facility Security Officer",
-  "location": "McHenry, Mississippi, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-09",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261472007?gh_jid=5261472007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Industrial Security team is a highly specialized security team responsible for managing Anduril’s cleared personnel, classified programs, and secure facilities. We operate at the intersection of cutting-edge defense technology and stringent security requirements, ensuring the integrity and protection of national security. Our team is composed of experts in security management, compliance, risk assessment, and physical security, dedicated to upholding the highest standards of security in support of national and international defense initiatives while providing the best customer service, both within Anduril and externally. ABOUT THE JOB We are looking for a Facility Security Officer to join our rapidly growing team at our McHenry, MS location. The Facility Security Officer (FSO) is responsible for implementing and directing the industrial security program and ensuring company and customer security requirements are met. Candidates will interface with all levels of personnel and government management personnel to ensure contract security complia"
- },
- {
   "id": "gh-andurilindustries-5261478007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -376,6 +432,20 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261478007?gh_jid=5261478007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Industrial Security team is a highly specialized security team responsible for managing Anduril’s cleared personnel, classified programs, and secure facilities. We operate at the intersection of cutting-edge defense technology and stringent security requirements, ensuring the integrity and protection of national security. Our team is composed of experts in security management, compliance, risk assessment, and physical security, dedicated to upholding the highest standards of security in support of national and international defense initiatives while providing the best customer service, both within Anduril and externally. ABOUT THE JOB We are looking for a Facility Security Officer to join our rapidly growing team at our Huntsville, AL and offsite locations. The Facility Security Officer (FSO) is responsible for implementing and directing the industrial security program and ensuring company and customer security requirements are met. Candidates will interface with all levels of personnel and government management personnel to ensure contract "
+ },
+ {
+  "id": "gh-andurilindustries-5261472007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Facility Security Officer",
+  "location": "McHenry, Mississippi, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-09",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261472007?gh_jid=5261472007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Industrial Security team is a highly specialized security team responsible for managing Anduril’s cleared personnel, classified programs, and secure facilities. We operate at the intersection of cutting-edge defense technology and stringent security requirements, ensuring the integrity and protection of national security. Our team is composed of experts in security management, compliance, risk assessment, and physical security, dedicated to upholding the highest standards of security in support of national and international defense initiatives while providing the best customer service, both within Anduril and externally. ABOUT THE JOB We are looking for a Facility Security Officer to join our rapidly growing team at our McHenry, MS location. The Facility Security Officer (FSO) is responsible for implementing and directing the industrial security program and ensuring company and customer security requirements are met. Candidates will interface with all levels of personnel and government management personnel to ensure contract security complia"
  },
  {
   "id": "ashby-legora-1671b41c",
@@ -490,6 +560,34 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, and people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across the entirety of Anduril, spanning: hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero-days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight-critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a b"
  },
  {
+  "id": "ashby-resend-73a37f4c",
+  "company": "Resend",
+  "ats": "ashby",
+  "title": "Software Engineer, Trust & Safety ",
+  "location": "Europe",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-10-08",
+  "url": "https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9",
+  "compensation": null,
+  "excerpt": "Resend is growing fast, and there are now over 4 million developers using it. We’re building tools that make email better for developers. We care about dependable infrastructure, thoughtful design, and the experience of everyone building with our products. In this role you'll build the anti-abuse systems that keep Resend open for good senders and closed to bad actors: real-time enforcement on every email, detection pipelines that scale with the platform, and automations that go from detection to action without waiting on a human. This role is fully remote based in Americas or European timezones, with some expected travel for team offsites, conferences, meetups, and more. Read more about how we work, how we hire, and what we value here https://resend.com/handbook. IN THIS ROLE, YOU WILL… - Build and run the real-time enforcement layer within a latency budget of milliseconds - Design pipelines that move from signal to decision to action, across sending, receiving and account activity - Build the detection rules and policies that decide when we act, and make them safe to change - Detect and contain account takeover and leaked API keys: notice when a trusted account stops acting like itself, and stop the damage without locking out the real owner - Close the feedback loop: every block and every reversal carries a reason, so we can measure each detection's precision and retire the ones that hurt good senders - Automate manual work such as investigations, appeals and bulk actions, so the team keeps up as volume grows - Build and evaluate ML classifiers for spam and phishing, and prove their precision before they enforce anything - Implement safeguards and make every action traceable through logs, metrics and audit trails - Ensure all enforcement actions are traceable with logs"
+ },
+ {
+  "id": "ashby-resend-729ad3fa",
+  "company": "Resend",
+  "ats": "ashby",
+  "title": "Software Engineer, Trust & Safety ",
+  "location": "Americas",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-10-08",
+  "url": "https://jobs.ashbyhq.com/resend/729ad3fa-10a2-4a07-ba9c-13b6eec6adb1",
+  "compensation": null,
+  "excerpt": "Resend is growing fast, and there are now over 4 million developers using it. We’re building tools that make email better for developers. We care about dependable infrastructure, thoughtful design, and the experience of everyone building with our products. In this role you'll build the anti-abuse systems that keep Resend open for good senders and closed to bad actors: real-time enforcement on every email, detection pipelines that scale with the platform, and automations that go from detection to action without waiting on a human. This role is fully remote based in Americas or European timezones, with some expected travel for team offsites, conferences, meetups, and more. Read more about how we work, how we hire, and what we value here https://resend.com/handbook. IN THIS ROLE, YOU WILL… - Build and run the real-time enforcement layer within a latency budget of milliseconds - Design pipelines that move from signal to decision to action, across sending, receiving and account activity - Build the detection rules and policies that decide when we act, and make them safe to change - Detect and contain account takeover and leaked API keys: notice when a trusted account stops acting like itself, and stop the damage without locking out the real owner - Close the feedback loop: every block and every reversal carries a reason, so we can measure each detection's precision and retire the ones that hurt good senders - Automate manual work such as investigations, appeals and bulk actions, so the team keeps up as volume grows - Build and evaluate ML classifiers for spam and phishing, and prove their precision before they enforce anything - Implement safeguards and make every action traceable through logs, metrics and audit trails - Ensure all enforcement actions are traceable with logs"
+ },
+ {
   "id": "ashby-kertos-193c5e9c",
   "company": "Kertos",
   "ats": "ashby",
@@ -544,6 +642,20 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Air Dominance & Strike (AD&S) is responsible for autonomous robotics systems like the Fury unmanned fighter jet and the Barracuda family of advanced effects. The AD&S Mission Systems Cyber Security team builds security into the mission software stack from the ground up, rather than treating it as a separate concern bolted on at the end. Our engineers design the architecture that keeps mission-critical systems resilient against compromise while hardening the software and systems that run on our vehicles, building the monitoring and detection capabilities that identify and respond to security events in the field, and ensuring that only trusted, verified software ever makes it onto a vehicle. This work sits at the intersection of software engineering and security so we're looking for strong software engineers who can write code and design systems with security built in. REQUIRED QUALIFICATIONS BS, MS, or PhD in Computer Science, Software Engineering, Mathematics, Physics, or related field. 2-3+ years of production-grade C++, Rust or equivalent expe"
+ },
+ {
+  "id": "gh-sourcegraph91-6209697004",
+  "company": "Sourcegraph",
+  "ats": "greenhouse",
+  "title": "Compliance Manager [IC3]",
+  "location": "Remote",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-07",
+  "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6209697004",
+  "compensation": null,
+  "excerpt": "Who we are Our mission is to bring clarity and control to the world's most complex codebases. AI is accelerating code creation, but the infrastructure to understand, oversee, and evolve that code hasn't kept pace. Sourcegraph gives engineering organizations full visibility across their systems, precise context for their agents, and the ability to execute coordinated code changes at scale. As agentic development becomes the dominant engineering paradigm, we provide the context layer teams need to take control of their codebase. With Code Search, Deep Search, MCP, and Agentic Batch Changes, we deliver on that mission today - giving engineering teams and their AI tools the cross-repo context to navigate massive codebases with confidence, and the ability to make changes across hundreds of repositories at once. Companies like Stripe, Reddit, and Leidos rely on Sourcegraph to ship faster and with higher quality. We're backed by a16z, Sequoia, and Redpoint, and proud to operate as a globally distributed team that values high agency, direct communication, and customer love. If you want to build the infrastructure that lets every engineering team - and every agent they deploy - operate on their codebase with confidence, join us. Hours & location 🌎 While we hire almost anywhere in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with GMT-3 for at least 20 hours/week. Preferred locations: USA Why this job is exciting As our Compliance Manager, you will own and drive Sourcegraph’s governance, risk, and compliance program, with a primary focus on compliance. This is a highly cross-functional role that works closely "
  },
  {
   "id": "ashby-legora-74536a68",
@@ -712,20 +824,6 @@
   "url": "https://job-boards.greenhouse.io/island/jobs/4409310009",
   "compensation": null,
   "excerpt": "Island is shaping the future of work - creating an enterprise workspace for both knowledge workers and agents - where access, security, and AI-powered productivity are built in. Our enterprise agentic control plane boosts productivity across devices, browsers, applications, networks, and data while protecting sensitive information, simplifying access, and helping enterprises scale AI safely. Behind all of that is a team of people who care deeply about their craft and want to do the biggest and best work of their careers. At Island, character and drive matter more than your resume. Backed by Coatue Management, Insight Partners, Sequoia Capital, Cyberstarts, and other world-class investors, Island is used by millions of people at some of the planet’s largest enterprises. Come build with us. Together, we’re changing how the world works. As a Senior Product Security Researcher at Island, you will attack our product the way a motivated adversary would. You will research how Island’s security controls, browser features, cloud services, and AI capabilities can be bypassed, abused, or turned against our customers, and you will work with R&D to fix the root causes. This role focuses on product logic, trust boundaries, and the application and cloud layers, rather than kernel or memory-level research. Key Responsibilities Product Control Bypass Research: Find ways to bypass or weaken Island’s enforcement features, such as data loss prevention, clipboard, download and screenshot restrictions, data masking, and access policies, and help design controls that hold up under real attacks. Browser & Extension Security: Research the security of Island’s browser features, web platform integrations, and extension ecosystem, including the browser security model, extension permissions, and in"
- },
- {
-  "id": "gh-exeinspa-4997546101",
-  "company": "Exein",
-  "ats": "greenhouse",
-  "title": "IT & Security Manager",
-  "location": "Roma ",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-05",
-  "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/4997546101",
-  "compensation": null,
-  "excerpt": "IT & Security Manager About us: The physical and digital worlds are merging. Vehicles, medical devices, industrial systems, critical infrastructure: security hasn't kept pace. AI is accelerating everything, from the capabilities of the systems we depend on to the sophistication of the threats targeting them. A software vulnerability can now have physical consequences. A physical breach can compromise entire digital ecosystems. Billions of devices operate with little to no protection, and traditional approaches can't keep up. Not at this scale, not at this speed, and not across this diversity of systems. Exein exists to solve this. We build the security layer for a world where physical and digital threats are no longer separate problems, from kernel-level runtime protection on embedded devices to cloud-native platforms that analyze, protect, and prove compliance across entire device fleets. We're not patching the old model. We're building security from the core out. About the Role We are looking for an IT & Security Manager to build and manage the technology infrastructure of our growing startup. This is a hands-on role with broad ownership across IT infrastructure, cybersecurity, IT governance, asset management and compliance . The ideal candidate will be comfortable operating in a fast-paced environment, building processes and systems from the ground up, while also ensuring that the company’s technology environment is secure, scalable and well governed. You will work closely with leadership and internal teams to define the company’s IT strategy, establish appropriate security standards and controls, manage IT assets and support internal and external audit activities. Key Responsibilities IT Infrastructure & Operations Design, build and manage the company’s IT infrastru"
  },
  {
   "id": "ashby-harvey-e196283b",
@@ -1750,6 +1848,20 @@
   "excerpt": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 90,000 providers across all 50 states run their practice on our software, serving over 2.6 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale, and building much of it with AI. We aren't just a billing layer; we are becoming the platform where care actually happens. We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. The Privacy Manager is a hands-on member of Headway’s Privacy team, reporting to the Director of Privacy/Privacy Officer. You will partner closely with Legal, Security, Clinical, Product, and Operations to strengthen the privacy practices that support Headway’s growth and earn the trust of patients and providers. You will own core privacy operations across HIPAA, state privacy laws, behavioral health confidentiality, individual rights, vendor governance, and the responsible use of AI. Success in this role means building processes that work in practice: assessments are completed, incidents are investigated, rights requests meet statutory"
  },
  {
+  "id": "ashby-wrapbook-ffc622a3",
+  "company": "Wrapbook",
+  "ats": "ashby",
+  "title": "GRC Principal - Data Privacy and Security",
+  "location": "Remote - US & Canada",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-09-01",
+  "url": "https://jobs.ashbyhq.com/wrapbook/ffc622a3-acac-4519-99b7-0551776f30bf",
+  "compensation": "$143K – $232K • Multiple Ranges",
+  "excerpt": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less. The Opportunity – GRC Principal - Data Privacy and Security (Remote - USA / CANADA): We're hiring a Principal GRC Manager (Individual Contributor) to serve as a subject matter expert and technical authority leading Wrapbook's privacy and security GRC programs. This is a high-ambiguity, high-autonomy role for someone who has built and matured GRC programs at a fintech or SaaS company from the ground up. This person will not just maintain grc activities, but bring a strong point of view to set the multi-year direction for how Wrapbook manages GRC investment on the security and privacy front as our AI capabilities expand. This person is both excited to drive the strategic direction and own the ground-level execution across their areas, leveraging AI to amplify their output. You understand the difference between checking boxes and high judgment decisions, you focus on outcomes over activity. You cleanly separate the must-dos and the nice-to-haves informed by a business’ risk appetite, industry context, and overall company objectives. You have a proven track record of building AI-first solutions for traditional GRC problems; you have the expertise and experience to validate AI outputs. You thrive on systems-thinking and delivering measurable results with rig"
+ },
+ {
   "id": "gh-andurilindustries-5223373007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1862,16 +1974,16 @@
   "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW As a Staff Software Engineer on the Product Security team at Harvey, you will have the opportunity to build security directly into the product. Harvey stores and processes our customers’ most sensitive data and our entire business model depends on a foundation At Harvey, you will find that security is paramount at every stage of our product lifecycle. In this role you will drive high-leverage security initiatives that raise the bar for the entire company — balancing hands-on technical work with cross-functional leadership and mentorship. This is a rare opportunity to desig"
  },
  {
-  "id": "gh-andurilindustries-5218586007",
+  "id": "gh-andurilindustries-5218594007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Security Operations Analyst",
-  "location": "Seattle, Washington, United States",
+  "location": "Boston, Massachusetts, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
  },
@@ -1890,16 +2002,16 @@
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
  },
  {
-  "id": "gh-andurilindustries-5218594007",
+  "id": "gh-andurilindustries-5218586007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Security Operations Analyst",
-  "location": "Boston, Massachusetts, United States",
+  "location": "Seattle, Washington, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac"
  },
@@ -1974,20 +2086,6 @@
   "excerpt": "ABOUT PAVE BANK Pave Bank is the world’s first programmable business bank. Built by the founders behind Monzo and BigPay, we’re redefining global business banking by combining programmable financial infrastructure with world-class client experiences. ABOUT THE ROLE We’re looking for a Junior Security Engineer who is independent, curious, and has an adversary first mindset - someone who thinks like an attacker to keep our platform secure. You'll be a critical guardian of Pave Bank: identifying weaknesses, closing loopholes, and empowering our Product and Engineering teams to ship quickly without compromising security. You'll get hands-on exposure across the full security lifecycle - from code review to penetration testing - with mentorship from experienced engineers. WHAT YOU'LL DO - Review platform and product code to identify security issues and guide engineers toward secure solutions - Build internal tools, libraries, and automation to improve security testing and enforcement - Continuously test internal and external applications for vulnerabilities - Support third-party application security reviews and penetration tests - Help educate engineering and product teams on secure coding and design practices - Stay current on emerging threats and attack techniques, and assess how they apply to our systems WHAT WE'RE LOOKING FOR MUST HAVE - An adversary-first mindset - you instinctively ask \"how would I break this?\" - Familiarity with common attacker tools and techniques, and how insecure development practices get exploited (e.g. OWASP Top 10) - Programming experience in at least one modern language (Go, Python, or TypeScript). - Clear communication skills - you can explain security concepts to technical and non-technical audiences alike. - Self-motivation and a genuine driv"
  },
  {
-  "id": "ashby-sentilink-9dede4eb",
-  "company": "SentiLink",
-  "ats": "ashby",
-  "title": "Head of Risk Operations",
-  "location": "United States",
-  "remote": true,
-  "workplace": "Remote",
-  "employment": "FullTime",
-  "posted": "2026-08-12",
-  "url": "https://jobs.ashbyhq.com/sentilink/9dede4eb-548a-4937-9994-3a88661b61b9",
-  "compensation": null,
-  "excerpt": "SentiLink https://www.sentilink.com/ helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process. The problems we work on are challenging, and solving them takes deep domain expertise, rigorous analysis, and a willingness to dig into the details. At SentiLink, you'll work alongside smart, highly collaborative colleagues who respect each other's time and judgment, take ownership, and follow through on their commitments. Together, we do truly meaningful work protecting the identities of innocent consumers and flagging the fraudsters attempting to exploit them. We're well capitalized and growing quickly. We already serve 13 of the top 15 U.S. banks, we're expanding into new markets, and we're backed by Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. We've been named to the Forbes Fintech 50 https://www.forbes.com/companies/sentilink/?list=fintech50 and as a 2026 FICO Industry Vanguard Decision Award Winner https://www.businesswire.com/news/home/20260330439998/en/SentiLink-Named-a-2026-FICO-Industry-Vanguard-Decision-Award-Winner-for-Leadership-in-Identity-Theft-Detection. We were also the first company to go live https://resources.sentilink.com/blog/sentilink-makes-history-as-first-ecbsv-provider with the electronic Consent Based Social Security Number Verification (eCBSV) service, and we've testified before the U.S. Congress https://resources.sentilink.com/media/dr.-david-maimons-congressional-testimony-on-emerging-fraud-threats-and-the-evolving-fraud-landscape on the future of identity. We want SentiLink to be the best place you've ever worked. We offer generous benefits and support a range of working arrangements, from fu"
- },
- {
   "id": "ashby-sentilink-a20d1144",
   "company": "SentiLink",
   "ats": "ashby",
@@ -2014,20 +2112,6 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203210007?gh_jid=5203210007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. We're seeking a Senior Product Security engineer to develop novel security tooling, discover vulnerabilities, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. Responsibilities: Owns the development and maturation of security features for Anduril’s products Authors and maintains security documentation including System Security Plans, Threat Analysis and Risk Assessments, and compliance evidence Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collaborates with manufacturing and operations teams to develop secu"
- },
- {
-  "id": "gh-andurilindustries-5200936007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Reverse Engineer, Cyber",
-  "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-08-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200936007?gh_jid=5200936007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Cyber is hiring a Reverse Engineer to analyze complex hardware and software systems, recover how they work from first principles, and turn that understanding into actionable security research. The role is centered on deep technical investigation across firmware, embedded Linux, applications, protocols, device interfaces, and hardware-adjacent systems. ABOUT THE JOB Reverse engineer firmware, binaries, embedded software, protocols, hardware interfaces, and system integrations to understand behavior, trust boundaries, and attack surface. Build repeatable analysis workflows using static analysis, dynamic instrumentation, emulation, fuzzing harnesses, hardware debug interfaces, and custom tooling. Recover undocumented formats, control flows, communication protocols, update mechanisms, boot chains, and security-relevant implementation details. Identify weaknesses in software, firmware, and hardware/software boundaries, then document findings clearly enough to drive follow-on vulnerability research, mitigation, or exploitation work. Work with "
  },
  {
   "id": "ashby-pliant-a3c1c316",
@@ -2254,6 +2338,20 @@
   "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: As the Director of SOX Compliance, you will build, lead, and continuously improve the company's Sarbanes-Oxley (SOX) compliance program in support of a high-growth, public-company environment. Reporting to the Corporate Controller (or Chief Accounting Officer), you will partner closely with Finance, Internal Audit, IT, Engineering, HR, Legal, and business leaders to ensure an effective internal control environment while enabling business growth. This is initially an individual contributor leadership role (Radford P6) with significant cross-functional influence and executive visibility. As the organization grows, this role is expected to evolve into a people management position with responsibility for building and leading a SOX compliance team."
  },
  {
+  "id": "gh-omadahealth-8060223",
+  "company": "Omada Health",
+  "ats": "greenhouse",
+  "title": "Director, Privacy Counsel",
+  "location": "Remote, USA",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-07-15",
+  "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8060223",
+  "compensation": null,
+  "excerpt": "Omada Health is on a mission to bend the curve of chronic disease. Job overview: Omada Health is seeking a Director, Privacy Counsel to manage and mature our enterprise-wide privacy program across a complex and rapidly evolving regulatory landscape. This individual contributor role will operate at the intersection of healthcare regulatory law, consumer technology, and clinical operations, providing practical, business-oriented guidance that enables innovation while protecting our members’ data and trust. Reporting to the VP, Privacy and Healthcare Regulatory, you will serve as Omada’s primary operational privacy leader, partnering across Product, Engineering, Clinical, Commercial, and other key functions to design, implement, and continuously improve policies, processes, and controls that keep us compliant and ahead of emerging risks. Your impact: Manage Omada’s HIPAA privacy program, including policy and procedure development, incident investigations, and breach determination and response, ensuring compliance with HIPAA Privacy, Security, and Breach Notification Rules. Drive privacy-by-design across digital products and services by embedding privacy requirements into product development, engineering workflows, clinical operations, and other business processes. Execute Omada’s privacy risk assessment program, including data governance, vendor due diligence, and privacy review for commercial deals with employers, health plans, and PBMs, ensuring our contractual and regulatory obligations are met. Provide expert guidance on consumer privacy compliance, including state consumer health data and general consumer privacy laws, digital advertising, and tracking technologies. Serve as a key advisor on AI and emerging technologies, including AI privacy guidance and governance co"
+ },
+ {
   "id": "gh-jetbrains-4923382101",
   "company": "JetBrains",
   "ats": "greenhouse",
@@ -2478,6 +2576,34 @@
   "excerpt": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national-security/tactical-isr, and beyond https://www.skydio.com/solutions. About the Role: As a Staff Software Engineer - Security at Skydio, you will partner closely with security engineers and cross-functional teams to design, review, and build systems that secure our multi-tenant cloud and corporate environments. You will split your time roughly evenly between architecture and hands-on engineering. On one side, you will review RFCs, shape system design, and advise on initiatives with meaningful security implications. On the other, you will build and harden internal security tooling end to end. You will play a key role in maturing the systems that protect Skydio’s commercial, government, and DoD customers. How you’ll make an impact: - Review RFCs and partner with engineering teams on architectural decisions that have security implications - Design and build internal security systems end to end, including roadmap areas such as web application firewalls and vulnerability risk management tooling - Harden and improve security-related production software components as opportunities for better resilience and protection are identified - Partner with Compliance to translate FedRAMP, SOC 2, Tex"
  },
  {
+  "id": "ashby-resend-cde17f7c",
+  "company": "Resend",
+  "ats": "ashby",
+  "title": "Security Engineer, Platform",
+  "location": "Americas",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-06-03",
+  "url": "https://jobs.ashbyhq.com/resend/cde17f7c-4c70-435f-be38-ef5abe94ff22",
+  "compensation": null,
+  "excerpt": "Resend is growing fast, and there are now over 4 million developers using it. As the Platform Squad, we are responsible for the internal platform and reliability foundations that let Resend teams build, deploy, observe, and operate services safely. This role is fully remote based in Americas or European timezones, with some expected travel for team offsites, conferences, meetups, and more. Read more about how we work, how we hire, and what we value here https://resend.com/handbook. IN THIS ROLE, YOU WILL… - Build and improve the security foundations of Resend’s platform, including API keys, service permissions, secrets management, tenant isolation, audit logs, and internal access controls - Help design secure defaults for new services, workers, queues, databases, internal tools, and deployment pipelines - Improve detection and response for suspicious access, leaked credentials, abnormal sending behavior, privilege changes, and sensitive system events - Review and update our processes/pipelines so that security is “built-in”, not “bolt-on” - Raise the security bar YOU WILL BE A GREAT FIT IF YOU... - Have experience securing production infrastructure, cloud environments, APIs, developer platforms, or multi-tenant SaaS products - Can write code and are comfortable reading application, infrastructure, and deployment code - Understand authentication, authorization, secrets, IAM, logging, audit trails, incident response, and secure deployment pipelines - Independently prioritize and drive your day-to-day as the first dedicated security hire - Prefer practical improvements over heavy processes - Are low-ego, direct, curious, and willing to learn from others - Care about developer experience and believe security should be easy to adopt YOU WILL BE AN EXCEPTIONAL FIT IF YOU ALSO"
+ },
+ {
+  "id": "ashby-resend-8c290ac4",
+  "company": "Resend",
+  "ats": "ashby",
+  "title": "Security Engineer, Platform",
+  "location": "Europe",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-06-03",
+  "url": "https://jobs.ashbyhq.com/resend/8c290ac4-22b4-4072-86e0-b6f5a97213d6",
+  "compensation": null,
+  "excerpt": "Resend is growing fast, and there are now over 4 million developers using it. As the Platform Squad, we are responsible for the internal platform and reliability foundations that let Resend teams build, deploy, observe, and operate services safely. This role is fully remote based in Americas or European timezones, with some expected travel for team offsites, conferences, meetups, and more. Read more about how we work, how we hire, and what we value here https://resend.com/handbook. IN THIS ROLE, YOU WILL… - Build and improve the security foundations of Resend’s platform, including API keys, service permissions, secrets management, tenant isolation, audit logs, and internal access controls - Help design secure defaults for new services, workers, queues, databases, internal tools, and deployment pipelines - Improve detection and response for suspicious access, leaked credentials, abnormal sending behavior, privilege changes, and sensitive system events - Review and update our processes/pipelines so that security is “built-in”, not “bolt-on” - Raise the security bar YOU WILL BE A GREAT FIT IF YOU... - Have experience securing production infrastructure, cloud environments, APIs, developer platforms, or multi-tenant SaaS products - Can write code and are comfortable reading application, infrastructure, and deployment code - Understand authentication, authorization, secrets, IAM, logging, audit trails, incident response, and secure deployment pipelines - Independently prioritize and drive your day-to-day as the first dedicated security hire - Prefer practical improvements over heavy processes - Are low-ego, direct, curious, and willing to learn from others - Care about developer experience and believe security should be easy to adopt YOU WILL BE AN EXCEPTIONAL FIT IF YOU ALSO"
+ },
+ {
   "id": "ashby-harvey-2afeecc1",
   "company": "Harvey",
   "ats": "ashby",
@@ -2629,7 +2755,7 @@
   "posted": "2026-05-21",
   "url": "https://jobs.lever.co/valarian/1df5f9cb-7f5a-479f-a09d-bac31b21934f",
   "compensation": null,
-  "excerpt": "Valarian: Innovating for the new era of digital sovereignty Valarian Technologies is a dual-use technology company building critical tools to safeguard the future in an era of evolving global security challenges. We're rethinking security beyond traditional military domains, addressing asymmetric threats that impact our technological advantage, economic strength, and democratic institutions. We build Acra – the platform foundation for everything we do as a dual-use technology company. The platform’s name, rooted in the Greek word for citadel (or, fortress), reflects the design and purpose of our infrastructure-agnostic secure enclaves: protecting critical data. Some of the government and commercial workflows include: increased operational resiliency for mission-critical systems and functions; enabling organizations to more quickly and widely adopt emerging technologies while ensuring the integrity of their intellectual property; information flow during disaster response scenarios, and zero-trust / least-privilege environments for M&A, attorney-client privileged communications, etc. And we’ve only scratched the surface. At our core, we're driven by a shared mission and a belief in making a tangible impact on our world. Whether you join our London HQ or the wider global organisation, you’ll be a part of collaborative, high-performing teams, creating cutting-edge software, platforms, and infrastructure. The Role As Head of Information Security at Valarian, you will define and lead our security strategy with a strong focus on protecting our digital ecosystem, spanning cloud infrastructure, SaaS platforms, and internal tooling. You’ll be responsible for securing how our organisation operates day-to-day: from identity and access across SaaS tools, to cloud architecture, to da"
+  "excerpt": "Valarian: A New Era of Sovereign Intelligence Valarian is a dual use technology company building critical tools to safeguard the future in an era of evolving global security challenges. Backed by a Series A funding round of $50m led by NEA, we are rethinking security beyond traditional military domains to address asymmetric threats that impact our technological advantage, economic strength, and democratic institutions. We provide the control infrastructure that allows government and regulated enterprise to put frontier-class AI to work safely. We are bringing a frontier AI experience inside secure boundaries for the first time. Our technology supports mission critical workflows across government, healthcare, and enterprise, including: Scaling open-weight models without external inference endpoints. Putting frontier class AI to work across organisations through partnerships with other leading AI startups such as Perplexity. Increasing operational resiliency for air gapped, on prem, and cloud based systems. Securing intellectual property and maintaining auditability for high stakes enterprise environments. Facilitating secure information flow during disaster response, M&A due diligence, and privileged legal communications. We’ve only scratched the surface. Built in Britain by veterans of the Ministry of Defence, British Forces, Darktrace, and elite engineering backgrounds, we are driven by a shared mission to safeguard western democracy . Whether you join our London HQ or our wider global organisation, you’ll be part of a collaborative, high performing team creating the cutting edge software and infrastructure that defines the frontier of enterprise AI. The Role As Head of Information Security at Valarian, you will define and lead our security strategy with a strong focus"
  },
  {
   "id": "lever-dlocal-21726fe4",
@@ -2812,6 +2938,20 @@
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5048775007?gh_jid=5048775007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril employs a variety of networks and networking infrastructures to support global operations. Information Systems Security Managers are in charge of directly supporting business lines that wish to deploy Anduril products in classified environments. Information Systems Security Managers lead lean teams of Information Systems Security Officers to enable the program personnel to create contract deliverables. Well versed in Information Technology and the Risk Management Framework, Information Systems Security Managers are the driving force of Anduril's classified deployments. Forward thinkers capable of managing Business Line needs as well as critical thinking skills in order to drive customer requirements are the best candidates for a Information Systems Security Manager. ABOUT THE JOB WHAT YOU’LL DO Provide expertise in documenting security controls to reduce the administrative cost of deploying Anduril’s products into operational environments. Partner with program and security teams to coordinate security artifacts in support of classified d"
+ },
+ {
+  "id": "gh-clutch-5799573004",
+  "company": "Clutch",
+  "ats": "greenhouse",
+  "title": "Senior Manager, Credit & Risk, Consumer Financing",
+  "location": "Toronto, Ontario, Canada",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-02-10",
+  "url": "https://job-boards.greenhouse.io/clutch/jobs/5799573004",
+  "compensation": null,
+  "excerpt": "About Clutch We’re on a mission to reinvent how people buy, sell, and own cars. Are you game? Clutch is Canada’s largest buyer and seller of cars, offering a digital-first, hassle-free experience. Customers can browse thousands of cars online, have their chosen vehicle delivered right to their door, and enjoy peace of mind with our 10-Day Money-Back Guarantee. Looking to sell? We buy over $3 million worth of cars every day, providing a firm, AI-generated offer every 15 seconds—and when you sell to us, you get paid instantly, now that’s Clutch. Recognized four years running on The Globe & Mail’s list of Canada’s Top Growing Companies—and with back-to-back spots on Deloitte’s Technology Fast 50™ and Fast 500™ —we’re seeking curious, hard-working, and driven individuals to join our growing team. Founded in 2017 and headquartered in Toronto, Clutch currently operates in Ontario, New Brunswick, Nova Scotia, and Prince Edward Island. Our world-class investors include Altos Ventures, Canaan, FJ Labs, BrandProject, and Upper90. To learn more, visit clutch.ca . Consumer Financing at Clutch: Clutch is on a journey to create a truly seamless car buying and ownership experience—and financing is a critical part of delivering that end-to-end journey. We’re building consumer financing capability from the ground up to offer customers a simpler, more transparent way to finance their vehicle, while supporting Clutch’s growth with a scalable, disciplined lending platform. In this role, you’ll help shape our lending strategy, risk framework, and operations as we bring this business to life. About the role: We’re hiring a Senior Manager, Credit & Risk to build and lead the credit strategy and risk framework for Clutch’s consumer financing program. You’ll own how we assess risk, make credit "
  },
  {
   "id": "gh-andurilindustries-5044386007",

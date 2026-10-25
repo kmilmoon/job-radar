@@ -1,5 +1,33 @@
 [
  {
+  "id": "jobspresso-e0f58f57ca",
+  "source": "jobspresso",
+  "track": "core",
+  "title": "GRC Analyst",
+  "company": "Supabase",
+  "location": "Worldwide",
+  "employment": "Others",
+  "posted": "2026-10-24",
+  "url": "https://jobspresso.co/job/grc-analyst/",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "About the role Supabase is hiring a GRC Analyst to join the Compliance and Security team (Security team, Engineering department). You will help run the risk and compliance programs that keep a globally distributed, open source platform trustworthy for millions of developers. What you will do Run risk assessments and maintain the risk register. Support"
+ },
+ {
+  "id": "jobgether-e88ed1cb",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Chief of Staff & Executive Operations",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-23",
+  "url": "https://jobs.lever.co/jobgether/e88ed1cb-4cad-4b63-a83e-f2ea100a4680",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Chief of Staff & Executive Operations based in Spain. Support a senior executive overseeing multiple businesses and initiatives by bringing structure, accountability, and efficiency to a fast-paced working environment. This multifaceted role combines strategic project coordination, operational management, and high-level executive support, offering significant ownership and autonomy. You will manage priorities across multiple initiatives, ensure critical deliverables stay on track, and anticipate what needs attention before being asked. From building effective project management systems and leveraging AI-powered tools to coordinating investor relations, complex schedules, and international travel, you will help the executive operate at their best. The position is ideal for a proactive, tech-savvy professional who thrives on solving problems independently and turning ambiguity into clear action. You will work directly with senior leadership in a remote, international environment that values initiative, adaptability, and measurable results."
+ },
+ {
   "id": "jobgether-a296aecf",
   "source": "jobgether",
   "track": "core",
@@ -14,6 +42,62 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Engineering Tech Lead (Product Security) based in Spain. Join a remote-first engineering team building next-generation Kubernetes and AI infrastructure for organizations operating at scale. In this hands-on technical leadership role, you’ll help secure infrastructure software by identifying vulnerabilities, conducting penetration tests, and strengthening security across cloud-native products. You’ll bring deep Kubernetes expertise to threat modeling, security-sensitive design reviews, and vulnerability remediation, helping engineers build secure systems from the ground up. Working closely with engineering teams, you’ll guide technical decisions, improve security practices, and ensure vulnerabilities are addressed through verified fixes and patched releases. You’ll also contribute production-quality Go code while helping protect container isolation and critical infrastructure components. This is an opportunity to shape product security in a fast-growing, open-source-oriented environment where ownership, technical excellence, and measurable impact matter."
  },
  {
+  "id": "jobgether-cf64757d",
+  "source": "jobgether",
+  "track": "core",
+  "title": "IT Operations & Cybersecurity Specialist",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Contract",
+  "posted": "2026-10-23",
+  "url": "https://jobs.lever.co/jobgether/cf64757d-fd39-46a6-9adb-c942b0688369",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an IT Operations & Cybersecurity Specialist based in Spain. Join a distributed technology team dedicated to delivering reliable IT operations and strengthening cybersecurity for organisations that handle sensitive data. In this remote, hands-on role, you will manage day-to-day IT administration, support users, and maintain secure digital environments for multiple clients. You will work with modern cloud productivity platforms, endpoint management tools, and automation technologies to ensure systems remain secure, compliant, and operational. Beyond routine IT support, you will contribute to security initiatives involving vulnerability research, device hardening, and incident response documentation. This position offers an opportunity to develop your cybersecurity expertise while taking ownership of operational responsibilities. You will thrive in an autonomous, asynchronous working environment that values reliability, continuous learning, and practical problem-solving."
+ },
+ {
+  "id": "jobgether-18f2cd27",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Product Manager Privacy",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-23",
+  "url": "https://jobs.lever.co/jobgether/18f2cd27-a192-4265-a587-a2fdffa97cd9",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Product Manager Privacy based in Spain. Take ownership of privacy and consent management across a suite of digital advertising products spanning web, mobile apps, and connected TV (CTV). In this strategic product role, you will lead the Privacy squad and report directly to the VP of Product, shaping how consent signals are collected, interpreted, and transmitted across multiple advertising channels. Your mission is to maximize publisher revenue while ensuring compliance with applicable privacy regulations and industry standards. You will translate complex legal frameworks into practical product specifications, balancing regulatory obligations with commercial opportunities. Working closely with engineering, analytics, UX, engagement teams, and privacy experts, you will drive measurable improvements in consent management and monetization. Join a fast-growing, international, AI-driven environment where analytical thinking, ownership, and pragmatic decision-making are central to success."
+ },
+ {
+  "id": "jobgether-f7a347f4",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Risk & Compliance Specialist - Paiement",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-23",
+  "url": "https://jobs.lever.co/jobgether/f7a347f4-a9bc-4538-a95f-a5964dd6a96a",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Risk & Compliance Specialist – Payment based in Spain. In this role, you will take ownership of payment risk and compliance across a growing portfolio of subscription-based SaaS products and international markets. You will design and implement a consistent risk framework covering Europe, the United States, and future expansion markets. Working at the intersection of payments, data, legal, and product teams, you will help prevent fraud, manage disputes, and maintain compliance with card network and payment service provider requirements. Your decisions will directly influence transaction security, customer conversion, and business revenue. This is an opportunity to build a risk function from the ground up in a fast-growing, technology-driven environment. You will enjoy significant autonomy, an international scope, and the opportunity to use AI-powered tools to improve monitoring and operational efficiency. The position offers full-time permanent or freelance options, with fully remote work across Europe or a hybrid arrangement in Lausanne."
+ },
+ {
+  "id": "jobgether-62e3523f",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Technical Chief of Staff",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-23",
+  "url": "https://jobs.lever.co/jobgether/62e3523f-7abb-4d5e-ac4c-bcc33a8dab2b",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Chief of Staff based in Spain. Support the CTO of a fast-growing cybersecurity and web infrastructure business by turning technical priorities into coordinated execution and measurable results. In this high-trust role, you will work closely with senior technical leadership and engineering teams to ensure decisions translate into clear plans, responsibilities, and outcomes. You will bring structure to complex discussions, coordinate cross-functional initiatives, and improve visibility across engineering projects without adding unnecessary bureaucracy. Combining technical understanding with exceptional organizational and communication skills, you will help identify blockers, manage dependencies, and maintain momentum across teams. This is an opportunity to contribute directly to the effectiveness of a global technology organization operating at the intersection of cybersecurity, internet infrastructure, and AI. You will enjoy meaningful autonomy, broad exposure to strategic decisions, and the opportunity to make a tangible impact during an import"
+ },
+ {
   "id": "weworkremotely-59370dbdd0",
   "source": "weworkremotely",
   "track": "core",
@@ -26,20 +110,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Remote (West Coast) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. More broadly, Discord is about empowering people to find belonging in all kinds of communities, and those people trust us to keep their communications safe. Our Platform Security Engineering team protects the systems we use to create Discord, making the “secure way” the “easy way.” We’re looking for an Engineering Manager to lead a team of software engineers in articulating and pursuing the most leveraged opportunities to reduce security risk across Engineering. This team will design and build lovable “paved paths” for managing identities and access, shipping code, configuring cloud infrastructure, and operating services. If you’re an Engineering Manager who’s deeply curious, eager to own technically and socially complex projects, and excited to improve security and privacy at Discord,"
- },
- {
-  "id": "jobspresso-87795001a6",
-  "source": "jobspresso",
-  "track": "core",
-  "title": "Security Engineer",
-  "company": "Metabase",
-  "location": "Worldwide",
-  "employment": "Engineer",
-  "posted": "2026-10-23",
-  "url": "https://jobspresso.co/job/security-engineer/",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That’s why people love us. We bring data tools with the elegance and simplicity of consumer products to the crufty world of enterprise business"
  },
  {
   "id": "nodesk-6cf9b767b0",
@@ -283,20 +353,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Program Manager based in Spain. This contract opportunity is ideal for a technically experienced professional who excels at coordinating complex engineering initiatives and improving delivery processes. You will support engineering leadership by overseeing work across central services, DevOps, and data teams in a real-money gaming environment. Your mission will be to bring clarity, structure, and accountability to engineering operations while ensuring priorities and releases remain aligned. You will combine software engineering expertise with program management, automation, and data-driven reporting to improve how teams collaborate. You will also lead a small team of contract engineers and help establish scalable workflows. By leveraging APIs, dashboards, and AI-powered tools, you will reduce manual coordination and increase visibility across the engineering landscape."
- },
- {
-  "id": "jobgether-bbe5a642",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Staff Application Security Engineer",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-10-19",
-  "url": "https://jobs.lever.co/jobgether/bbe5a642-8736-4065-ac58-3cc6c8a8e198",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Staff Application Security Engineer based in Spain. Help establish and scale a dedicated application security function within a high-growth technology environment where protecting customers against fraud and abuse is a core priority. As a senior individual contributor, you will combine deep security expertise with hands-on software engineering to identify vulnerabilities, strengthen development workflows, and build practical security tooling. You will design secure software development practices, lead threat modeling and security reviews, and drive vulnerability remediation across complex APIs, SDKs, and cloud-based systems. Working closely with engineering teams and security leadership, you will integrate AI-powered tools into security testing and remediation while maintaining rigorous quality standards. This role offers substantial technical autonomy, opportunities to influence engineering practices across the organization, and the chance to solve challenging security problems at scale. You will help make security an integral part of product developmen"
  },
  {
   "id": "jobgether-cc27a1c9",
