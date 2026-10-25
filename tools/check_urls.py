@@ -39,7 +39,7 @@ def fetch(url, timeout=30, accept_json=False):
     req = urllib.request.Request(url, headers=dict(UA, **({"Accept": "application/json"} if accept_json else {})))
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            return r.status, r.geturl(), r.read(600_000).decode("utf-8", "replace")
+            return r.status, r.geturl(), r.read(8_000_000).decode("utf-8", "replace")
     except urllib.error.HTTPError as e:
         return e.code, url, ""
     except Exception as e:  # network trouble is "unknown", never "closed"
