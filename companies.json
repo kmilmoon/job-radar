@@ -639,5 +639,85 @@
   "slugs": [
    "rebill"
   ]
+ },
+ {
+  "name": "Wrapbook",
+  "slugs": [
+   "wrapbook"
+  ]
+ },
+ {
+  "name": "Vesta",
+  "slugs": [
+   "vesta",
+   "vestafi",
+   "vesta-financial",
+   "vestahealthcare"
+  ]
+ },
+ {
+  "name": "Protege",
+  "slugs": [
+   "protege",
+   "withprotege",
+   "protege-ai"
+  ]
+ },
+ {
+  "name": "Resend",
+  "slugs": [
+   "resend"
+  ]
+ },
+ {
+  "name": "Sourcegraph",
+  "slugs": [
+   "sourcegraph",
+   "sourcegraph91"
+  ]
+ },
+ {
+  "name": "EngFlow",
+  "slugs": [
+   "engflow"
+  ]
+ },
+ {
+  "name": "Omada Health",
+  "slugs": [
+   "omadahealth",
+   "omada",
+   "omada-health"
+  ]
+ },
+ {
+  "name": "Bayesian Health",
+  "slugs": [
+   "bayesianhealth",
+   "bayesian-health",
+   "bayesian"
+  ]
+ },
+ {
+  "name": "Descript",
+  "slugs": [
+   "descript"
+  ]
+ },
+ {
+  "name": "Clutch",
+  "slugs": [
+   "clutch",
+   "clutchcanada",
+   "clutch-technologies"
+  ]
+ },
+ {
+  "name": "Crux",
+  "slugs": [
+   "crux",
+   "cruxclimate",
+   "crux-climate"
+  ]
  }
 ]
