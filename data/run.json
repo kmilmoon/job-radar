@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-25T05:36:58+00:00",
+ "ranAt": "2026-10-25T12:13:07+00:00",
  "companies": 135,
  "boardsRead": 83,
  "matchingJobs": 227,
@@ -60,32 +60,32 @@
  "errors": [],
  "aggregators": {
   "jobgether": 18,
-  "himalayas": 0,
+  "himalayas": 1,
   "workingnomads": 0,
   "getonboard": 3,
-  "rss": 20,
+  "rss": 22,
   "_raw": {
    "jobgether_raw": 3955,
    "https://himalayas.app/jobs/api": "HTTP 200, 121230 bytes",
    "himalayas_raw": 500,
-   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 185424 bytes",
-   "workingnomads_raw": 40,
+   "https://www.workingnomads.com/api/exposed_jobs/": "HTTP 200, 180840 bytes",
+   "workingnomads_raw": 39,
    "https://www.getonbrd.com/api/v0/search/jobs": "HTTP 200, 768813 bytes",
    "getonboard_raw": 972,
-   "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss": "HTTP 200, 215210 bytes",
-   "weworkremotely_raw": 198,
-   "https://weworkremotely.com/categories/all-other-remote-jobs.rss": "HTTP 200, 717064 bytes",
-   "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss": "HTTP 200, 223708 bytes",
+   "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss": "HTTP 200, 228327 bytes",
+   "weworkremotely_raw": 202,
+   "https://weworkremotely.com/categories/all-other-remote-jobs.rss": "HTTP 200, 732580 bytes",
+   "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss": "HTTP 200, 254273 bytes",
    "https://weworkremotely.com/categories/remote-customer-support-jobs.rss": "HTTP 200, 640685 bytes",
-   "https://jobspresso.co/": "HTTP 200, 60616 bytes",
+   "https://jobspresso.co/": "HTTP 200, 63888 bytes",
    "jobspresso_raw": 10,
    "https://nodesk.co/remote-jobs/index.xml": "HTTP 200, 10352 bytes",
    "nodesk_raw": 10
   }
  },
  "aggregatorJobs": {
-  "core": 22,
-  "alt": 19
+  "core": 23,
+  "alt": 21
  },
  "aggregatorErrors": [],
  "signals": {
@@ -95,7 +95,7 @@
   "leaderHiring": 5
  },
  "triggers": {
-  "ranAt": "2026-10-25T05:36:58+00:00",
+  "ranAt": "2026-10-25T12:13:07+00:00",
   "ran": [],
   "errors": [],
   "webSearchFallback": [
