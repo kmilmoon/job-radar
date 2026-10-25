@@ -292,8 +292,73 @@ def rss_boards():
     return out
 
 
+# GoFractional: public listing pages by category; each job page carries schema.org JobPosting JSON-LD.
+GOFRACTIONAL_PAGES = ["fractional-ciso", "fractional-coo", "operations", "legal", "executive", "interim", "remote", "contract-to-hire"]
+
+
+def _ld_jobposting(html):
+    import json as _j
+    for m in re.finditer(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', html, re.S | re.I):
+        try:
+            data = _j.loads(m.group(1).strip())
+        except ValueError:
+            continue
+        for d in (data if isinstance(data, list) else data.get("@graph", [data]) if isinstance(data, dict) else []):
+            if isinstance(d, dict) and d.get("@type") in ("JobPosting", ["JobPosting"]):
+                return d
+    return None
+
+
+def _ld_location(d):
+    parts = []
+    for loc in (d.get("jobLocation") if isinstance(d.get("jobLocation"), list) else [d.get("jobLocation")]):
+        a = (loc or {}).get("address") or {}
+        if isinstance(a, dict):
+            parts.append(", ".join(x for x in [a.get("addressLocality"), a.get("addressRegion"), a.get("addressCountry") if isinstance(a.get("addressCountry"), str) else (a.get("addressCountry") or {}).get("name")] if x))
+    req = d.get("applicantLocationRequirements")
+    for r in (req if isinstance(req, list) else [req] if req else []):
+        if isinstance(r, dict) and r.get("name"):
+            parts.append(r["name"])
+    if d.get("jobLocationType") == "TELECOMMUTE":
+        parts.insert(0, "Remote")
+    return "; ".join(x for x in parts if x)
+
+
+def gofractional(max_jobs=140):
+    seen, slugs = set(), []
+    for cat in GOFRACTIONAL_PAGES:
+        html = probe_raw("https://www.gofractional.com/jobs/" + cat, accept="text/html") or ""
+        for s in re.findall(r'href="/job/([a-z0-9-]+)"', html):
+            if s not in seen:
+                seen.add(s)
+                slugs.append(s)
+    RAW["gofractional_raw"] = len(slugs)
+    out = []
+    for s in slugs[:max_jobs]:
+        url = "https://www.gofractional.com/job/" + s
+        html = probe_raw(url, accept="text/html") or ""
+        if not html or re.search(r"no longer accepting applications|was closed", html, re.I):
+            continue
+        d = _ld_jobposting(html) or {}
+        title = d.get("title") or (re.search(r"<title>(.*?)</title>", html, re.S) or [None, ""])[1].split("|")[0].strip()
+        org = (d.get("hiringOrganization") or {}).get("name") if isinstance(d.get("hiringOrganization"), dict) else ""
+        loc = _ld_location(d)
+        sal = d.get("baseSalary") or {}
+        comp = None
+        if isinstance(sal, dict) and isinstance(sal.get("value"), dict):
+            v = sal["value"]
+            comp = f"{sal.get('currency', '')} {v.get('minValue', '')}-{v.get('maxValue', '')}/{(v.get('unitText') or '').lower()}".strip()
+        exclusive = bool(re.search(r"\bExclusive\b", html))
+        it = _item("gofractional", s[-40:], title, org or "", loc, url, d.get("datePosted", ""),
+                   d.get("employmentType") if isinstance(d.get("employmentType"), str) else None, comp,
+                   d.get("description", ""), tags=["exclusive"] if exclusive else [])
+        if it:
+            out.append(it)
+    return out
+
+
 SOURCES = {"jobgether": jobgether, "himalayas": himalayas, "workingnomads": working_nomads,
-           "getonboard": getonboard, "rss": rss_boards}
+           "getonboard": getonboard, "rss": rss_boards, "gofractional": gofractional}
 
 
 def run():

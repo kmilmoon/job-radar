@@ -57,7 +57,13 @@ WWR = """<?xml version="1.0"?><rss version="2.0"><channel>
 <item><title>Foo: Senior React Developer&nbsp;&rsquo;</title><region>Anywhere</region><link>https://weworkremotely.com/x</link></item>
 <item><title>Bar: Head of Security</title><region>USA Only</region><link>https://weworkremotely.com/y</link></item>
 </channel></rss>"""
+GF_LIST = '<a href="/job/acme-fractional-ciso">x</a><a href="/job/old-closed-role">y</a>'
+GF_JOB = """<html><title>Fractional CISO | GoFractional</title><script type="application/ld+json">{"@context":"https://schema.org","@type":"JobPosting","title":"Fractional CISO","datePosted":"2026-10-20","hiringOrganization":{"@type":"Organization","name":"Acme"},"jobLocationType":"TELECOMMUTE","applicantLocationRequirements":{"@type":"Country","name":"Europe"},"description":"<p>Own SOC 2</p>"}</script></html>"""
 def fake_raw(url, data=None, timeout=40, accept=None):
+    if "gofractional.com/jobs/fractional-ciso" in url: return GF_LIST
+    if "gofractional.com/jobs/" in url: return ""
+    if url.endswith("/job/acme-fractional-ciso"): return GF_JOB
+    if url.endswith("/job/old-closed-role"): return "This job was closed Jul 22 and is no longer accepting applications"
     if "weworkremotely.com/categories/remote-management" in url: return WWR
     if "getonbrd" in url: return _json.dumps(GOB if "query=security" in url else {"data": []})
     if "torre.co" in url: return _json.dumps(TORRE if "security" in _json.dumps(data) else {"results": []})
@@ -66,9 +72,9 @@ ag.probe_raw = fake_raw
 items, counts, errors = ag.run()
 titles = sorted((i["track"], i["title"]) for i in items)
 assert titles == [("alt", "Chief of Staff"), ("alt", "Fractional COO"), ("alt", "Head of Operations"),
-                  ("core", "GRC Lead"), ("core", "Head of Seguridad de la Información"), ("core", "Security Program Manager")], titles
+                  ("core", "Fractional CISO"), ("core", "GRC Lead"), ("core", "Head of Seguridad de la Información"), ("core", "Security Program Manager")], titles
 assert {k: v for k, v in counts.items() if k != "_raw"} == {"jobgether": 1, "himalayas": 2, "workingnomads": 1,
-    "getonboard": 1, "rss": 1}, counts
+    "getonboard": 1, "rss": 1, "gofractional": 1}, counts
 assert ag.classify("Vigilante de seguridad") is None and ag.classify("Responsable de Cumplimiento") == "core"
 assert not errors
 wn = [i for i in items if i["source"] == "workingnomads"][0]
