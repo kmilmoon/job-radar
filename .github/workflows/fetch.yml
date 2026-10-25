@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["companies.json", "fetch_jobs.py", "aggregators.py", "triggers.py", ".github/workflows/fetch.yml"]
+    paths: ["companies.json", "fetch_jobs.py", "aggregators.py", "triggers.py", "tools/check_urls.py", "data/to_check.json", ".github/workflows/fetch.yml"]
 
 permissions:
   contents: write
@@ -28,6 +28,9 @@ jobs:
         run: python fetch_jobs.py
       - name: Vía B triggers (weekly and monthly parts decide by date)
         run: python triggers.py
+        continue-on-error: true
+      - name: Check that offers are still open
+        run: python tools/check_urls.py
         continue-on-error: true
       - name: Commit results
         run: |
