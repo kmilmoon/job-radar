@@ -1,15 +1,15 @@
 {
- "checked": "2026-10-25T12:13:19+00:00",
+ "checked": "2026-10-25T12:22:33+00:00",
  "items": {
   "jobs/ashby-10xteam-4bd8fef5": {
-   "status": "unknown",
-   "reason": "API de Ashby ilegible",
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/10xteam/4bd8fef5-086f-417a-bf1f-e6cc89f23580"
   },
   "jobs/ashby-10xteam-86074cbd": {
-   "status": "unknown",
-   "reason": "API de Ashby ilegible",
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
   },
@@ -32,8 +32,8 @@
    "url": "https://jobs.ashbyhq.com/keyrock/dd723380-0e06-401f-8c7c-c7ecb33f0cbf"
   },
   "jobs/ashby-legora-72615933": {
-   "status": "unknown",
-   "reason": "API de Ashby ilegible",
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/legora/72615933-e6bc-4899-bdf2-26b8f33c5a72"
   },
@@ -236,8 +236,8 @@
    "url": "https://jobs.ashbyhq.com/10xteam"
   },
   "alt/ashby-10xteam-7154c900": {
-   "status": "unknown",
-   "reason": "API de Ashby ilegible",
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/10xteam/7154c900-5838-42dc-bd6c-2884a4acbd7f"
   },
