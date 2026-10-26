@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T05:40:33+00:00",
+ "generatedAt": "2026-10-26T09:27:14+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -486,7 +486,7 @@
    "company": "Pliant",
    "ats": "ashby",
    "slug": "pliant",
-   "openPostings": 32,
+   "openPostings": 33,
    "firstHire": [
     {
      "title": "Security Engineer *EU/UK remote* (m/f/d)",
@@ -531,7 +531,7 @@
    "company": "Pave Bank",
    "ats": "ashby",
    "slug": "pavebank",
-   "openPostings": 27,
+   "openPostings": 26,
    "firstHire": [
     {
      "title": "Junior Security Engineer",
@@ -823,7 +823,7 @@
    "company": "Island",
    "ats": "greenhouse",
    "slug": "island",
-   "openPostings": 34,
+   "openPostings": 35,
    "firstHire": [
     {
      "title": "Security Operations Engineer",
@@ -873,7 +873,7 @@
    "company": "Horizon3.ai",
    "ats": "ashby",
    "slug": "horizon3ai",
-   "openPostings": 152,
+   "openPostings": 151,
    "firstHire": [
     {
      "title": "Senior Federal Compliance Analyst",
@@ -1594,7 +1594,7 @@
    "company": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "openPostings": 359,
+   "openPostings": 360,
    "firstHire": [
     {
      "title": "Senior Product Security Engineer",

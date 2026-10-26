@@ -1,5 +1,19 @@
 [
  {
+  "id": "jobgether-297e968c",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Corporate Security Manager",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-26",
+  "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Corporate Security Manager based in Spain. As Corporate Security Manager, you will lead the development and execution of a comprehensive security strategy across international operations. You will oversee internal investigations, fraud prevention, employee-related security risks, background screening, and physical security. In this leadership role, you will manage a team of specialists, strengthen investigation standards, and ensure effective risk mitigation across sensitive business functions. Working closely with Legal, HR, Finance, Risk, Cyber Defense, and operational leaders, you will turn investigation findings into practical control improvements. You will also contribute to crisis preparedness, executive safety, and business continuity initiatives. This is an opportunity to shape a mature corporate security function in a dynamic, international environment where sound judgment, accountability, and operational resilience are essential."
+ },
+ {
   "id": "jobgether-baca80c7",
   "source": "jobgether",
   "track": "alt",
@@ -28,6 +42,58 @@
   "excerpt": "his position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior HR Operations Lead based in Spain. The Senior HR Operations Lead will design and lead the HR operational infrastructure that enables a high-performing, globally distributed workforce. This strategic individual contributor role focuses on building scalable people processes, optimizing employee experiences, and transforming workforce data into actionable business insights. You will shape key HR lifecycle experiences, from onboarding and performance management to development and offboarding, while ensuring that people operations support organizational growth. Working closely with HR business partners and senior leadership, you will develop effective systems, manage external vendor relationships, and strengthen operational efficiency across multiple countries. This opportunity is ideal for an experienced HR operations professional who combines commercial awareness, analytical thinking, and a builder's mindset to create impactful, business-focused HR solutions."
  },
  {
+  "id": "jobgether-502b1482",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Senior Platform Security Engineer - AI Resilience & Security Enhancements (Contract)",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Contract",
+  "posted": "2026-10-26",
+  "url": "https://jobs.lever.co/jobgether/502b1482-b2da-4fc6-8bdb-330cac89705b",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Platform Security Engineer – AI Resilience & Security Enhancements (Contract) based in Spain. In this hands-on contract role, you will strengthen the security and resilience of a modern engineering platform, with a particular focus on AI-enabled workflows and secure software delivery. You will work closely with platform, engineering, and security teams to design, prototype, and implement practical security controls. Your work will span secure autonomous agent execution, CI/CD security, production access management, container security, and software supply chain integrity. You will turn security requirements into reliable, maintainable tooling and workflows that developers can use in their day-to-day work. The role combines technical problem-solving, automation, and close collaboration with engineers to deliver measurable improvements to production systems. You will help improve security without compromising service availability or engineering productivity."
+ },
+ {
+  "id": "jobspresso-5c99bdccd2",
+  "source": "jobspresso",
+  "track": "core",
+  "title": "GRC Analyst",
+  "company": "Supabase",
+  "location": "Worldwide",
+  "employment": "Others",
+  "posted": "2026-10-26",
+  "url": "https://jobspresso.co/job/grc-analyst-2/",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "We’re looking for a GRC Analyst to join our Compliance & Security team and help make risk management, audit and compliance a continuous part of how Supabase runs. You’ll work closely with engineering, security, IT, and legal to help us define our risk tolerance, keep our compliance programs (including SOC 2 and ISO/IEC 27001:2022) current,"
+ },
+ {
+  "id": "himalayas-gram-manager",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "TECHNICAL PROGRAM MANAGER",
+  "company": "Toolbox OTT",
+  "location": "Worldwide",
+  "employment": "Full Time",
+  "posted": "2026-10-25",
+  "url": "https://himalayas.app/companies/toolbox-ott/jobs/technical-program-manager?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Technical-Program-Manager",
+   "Technical-Project-Manager",
+   "Program-Manager",
+   "Project-Manager",
+   "Engineering-Program-Manager",
+   "Manager-Of-Technical-Programs",
+   "Technical-Program-Manager-Jobs",
+   "Technical-Program-Management",
+   "Technical-Program-Management-Jobs"
+  ],
+  "excerpt": "About ToolboxToolbox is a Technology company founded in 2013."
+ },
+ {
   "id": "weworkremotely-ab5021af4e",
   "source": "weworkremotely",
   "track": "core",
@@ -54,20 +120,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. The Department: Compliance Compliance at Gemini is a team dedicated to managing the next generation of financial crime prevention in a complex and evolving regulatory environment. We are a diverse group of technology, legal, and operational professionals who develop new approaches to solving classic problems using cutting edge tools and processes. The Role: Head of Consu"
- },
- {
-  "id": "jobspresso-e782fd8e10",
-  "source": "jobspresso",
-  "track": "alt",
-  "title": "Lead Data Governance Engineer",
-  "company": "Canonical",
-  "location": "Europe",
-  "employment": "AI &amp; Data",
-  "posted": "2026-10-25",
-  "url": "https://jobspresso.co/job/lead-data-governance-engineer/",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world’s leading public cloud and silicon providers, and industry leaders in many"
  },
  {
   "id": "jobgether-e88ed1cb",
