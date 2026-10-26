@@ -1,107 +1,11 @@
 {
- "checked": "2026-10-25T12:22:33+00:00",
+ "checked": "2026-10-26T05:40:37+00:00",
  "items": {
-  "jobs/ashby-10xteam-4bd8fef5": {
+  "jobs/web-secfix-infoseclead": {
    "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
+   "reason": "La página sigue mostrando la opción de aplicar",
    "http": 200,
-   "url": "https://jobs.ashbyhq.com/10xteam/4bd8fef5-086f-417a-bf1f-e6cc89f23580"
-  },
-  "jobs/ashby-10xteam-86074cbd": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/10xteam/86074cbd-3abf-4afa-95f2-c40ae6ea8c2c"
-  },
-  "jobs/ashby-aufinity-group-a12f6c12": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/aufinity-group/a12f6c12-eaf3-49cd-a45b-e9e146ea3a32"
-  },
-  "jobs/ashby-dave-7c16a3d1": {
-   "status": "closed",
-   "reason": "Ya no está en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/dave/7c16a3d1-cb1c-4b2f-9662-eb31c6b8b65b"
-  },
-  "jobs/ashby-keyrock-dd723380": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/keyrock/dd723380-0e06-401f-8c7c-c7ecb33f0cbf"
-  },
-  "jobs/ashby-legora-72615933": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/legora/72615933-e6bc-4899-bdf2-26b8f33c5a72"
-  },
-  "jobs/ashby-morpho-ed97697e": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/morpho/ed97697e-2dd2-4b9e-b8b4-1a3d9c288db9"
-  },
-  "jobs/ashby-openrouter-a098411d": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/openrouter/a098411d-50ea-4650-8ff3-5c45ecb33871"
-  },
-  "jobs/ashby-pliant-a3c1c316": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/pliant/a3c1c316-6f7b-4e24-9a45-a6c6adb65b97"
-  },
-  "jobs/ashby-socket-983b52ce": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e"
-  },
-  "jobs/ashby-wrapbook-ffc622a3": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/wrapbook/ffc622a3-acac-4519-99b7-0551776f30bf"
-  },
-  "jobs/gh-bitpanda-4995059101": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
-   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
-  },
-  "jobs/gh-exeinspa-4997546101": {
-   "status": "closed",
-   "reason": "Greenhouse ya no la tiene",
-   "http": 404,
-   "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/4997546101"
-  },
-  "jobs/gh-justmarkets-4945545101": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
-   "url": "https://job-boards.eu.greenhouse.io/justmarkets/jobs/4945545101"
-  },
-  "jobs/gh-nametag-4092090009": {
-   "status": "closed",
-   "reason": "Greenhouse ya no la tiene",
-   "http": 404,
-   "url": "https://job-boards.greenhouse.io/nametag/jobs/4092090009"
-  },
-  "jobs/gh-obsidiansecurity-5417263008": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
-   "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008"
-  },
-  "jobs/gh-sourcegraph91-6209697004": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
-   "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6209697004"
+   "url": "https://wellfound.com/jobs/4572810-information-security-lead"
   },
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
@@ -109,101 +13,11 @@
    "http": 200,
    "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
   },
-  "jobs/himalayas-e-specialist": {
-   "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://himalayas.app/companies/deephealth/jobs/data-privacy-compliance-specialist?utm_source=api"
-  },
-  "jobs/jobgether-32393fae": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/32393fae-6965-40e6-9e33-714bcf1ef3cb"
-  },
-  "jobs/lever-unlimit-8306bdfd": {
-   "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
-   "url": "https://jobs.lever.co/unlimit/8306bdfd-a6a1-4970-b236-df87edd8a80b"
-  },
-  "jobs/lever-yuno-2919c9d5": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/yuno/2919c9d5-3740-4772-9b43-c014732cf257"
-  },
-  "jobs/li-4477072074": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4477072074/"
-  },
   "jobs/li-4478251825": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4478251825/"
-  },
-  "jobs/li-4478497304": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4478497304/"
-  },
-  "jobs/li-4479560890": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4479560890/"
-  },
-  "jobs/li-4480268795": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4480268795/"
-  },
-  "jobs/li-4480399479": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4480399479/"
-  },
-  "jobs/li-4480466137": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4480466137/"
-  },
-  "jobs/li-4480537489": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4480537489/"
-  },
-  "jobs/li-4480973307": {
-   "status": "closed",
-   "reason": "La página dice que la oferta está cerrada",
-   "http": 200,
-   "url": "https://careers.qima.com/job/47fc5d23-c68b-4840-b01c-7bf5dffd28d5"
-  },
-  "jobs/rec-meliora-4vd8cb": {
-   "status": "closed",
-   "reason": "La página da error 404",
-   "http": 404,
-   "url": "https://www.itjobswatch.co.uk/jv/Meliora/Head-of-Security-Global-Crypto-Exchange-fully-remote-new-headcount-Job-London-UK-4vd8cb"
-  },
-  "jobs/teamtailor-approvalmax-7239280": {
-   "status": "closed",
-   "reason": "La página da error 410",
-   "http": 410,
-   "url": "https://approvalmax.teamtailor.com/jobs/7239280-fractional-chief-information-security-officer-ciso"
-  },
-  "jobs/upwork-cliente-02207168": {
-   "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://www.upwork.com/freelance-jobs/apply/Acting-CISO-Compliance-Program-Manager_~022071681161589480623/"
   },
   "jobs/web-aidigital-headofsecurity": {
    "status": "closed",
@@ -211,23 +25,29 @@
    "http": 404,
    "url": "https://www.aidigital.com/vacancies/head-of-security"
   },
-  "jobs/web-interopio-seccomplead": {
+  "jobs/li-4480268795": {
    "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://dev.bg/company/jobads/interop-io-security-compliance-lead/"
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4480268795/"
   },
-  "jobs/web-jobandtalent-4734422": {
-   "status": "closed",
-   "reason": "La página da error 410",
-   "http": 410,
-   "url": "https://remotive.com/remote/jobs/compliance/grc-lead-4734422"
-  },
-  "jobs/web-secfix-infoseclead": {
+  "jobs/ashby-aufinity-group-a12f6c12": {
    "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
+   "reason": "Sigue en el tablón de Ashby",
    "http": 200,
-   "url": "https://wellfound.com/jobs/4572810-information-security-lead"
+   "url": "https://jobs.ashbyhq.com/aufinity-group/a12f6c12-eaf3-49cd-a45b-e9e146ea3a32"
+  },
+  "jobs/gh-sourcegraph91-6209697004": {
+   "status": "open",
+   "reason": "Sigue publicada en Greenhouse",
+   "http": 200,
+   "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6209697004"
+  },
+  "jobs/gh-bitpanda-4995059101": {
+   "status": "open",
+   "reason": "Sigue publicada en Greenhouse",
+   "http": 200,
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
   },
   "alt/10xteam-compliance-ai-trainer": {
    "status": "unknown",
@@ -235,29 +55,11 @@
    "http": 200,
    "url": "https://jobs.ashbyhq.com/10xteam"
   },
-  "alt/ashby-10xteam-7154c900": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/10xteam/7154c900-5838-42dc-bd6c-2884a4acbd7f"
-  },
-  "alt/jobgether-a80049aa": {
+  "alt/workable-townweb-interim-integrator": {
    "status": "closed",
-   "reason": "Lever ya no la tiene",
+   "reason": "Workable ya no la tiene",
    "http": 404,
-   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
-  },
-  "alt/remotive-onhires-headofrisk": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
-   "http": 200,
-   "url": "https://remotive.com/remote/jobs/all-others/head-of-risk-6215378"
-  },
-  "alt/shiny-fractional-coo": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
+   "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
   },
   "alt/teamtailor-roverpass-eos-integrator-coo": {
    "status": "closed",
@@ -265,11 +67,53 @@
    "http": 410,
    "url": "https://parikhholdings.na.teamtailor.com/en/jobs/85986-eos-integrator-chief-operating-officer-coo-remote-tech-travel-company"
   },
-  "alt/workable-townweb-interim-integrator": {
+  "alt/ashby-10xteam-7154c900": {
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
+   "http": 200,
+   "url": "https://jobs.ashbyhq.com/10xteam/7154c900-5838-42dc-bd6c-2884a4acbd7f"
+  },
+  "alt/remotive-onhires-headofrisk": {
+   "status": "open",
+   "reason": "La página sigue mostrando la opción de aplicar",
+   "http": 200,
+   "url": "https://remotive.com/remote/jobs/all-others/head-of-risk-6215378"
+  },
+  "alt/jobgether-a80049aa": {
    "status": "closed",
-   "reason": "Workable ya no la tiene",
+   "reason": "Lever ya no la tiene",
    "http": 404,
-   "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
+   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
+  },
+  "jobs/weworkremotely-c68001cc34": {
+   "status": "open",
+   "reason": "La página sigue mostrando la opción de aplicar",
+   "http": 200,
+   "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
+  },
+  "jobs/li-4482317639": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4482317639/"
+  },
+  "alt/jobgether-62e3523f": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/62e3523f-7abb-4d5e-ac4c-bcc33a8dab2b"
+  },
+  "alt/jobgether-f7a347f4": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/f7a347f4-a9bc-4538-a95f-a5964dd6a96a"
+  },
+  "alt/himalayas-tions-expert": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api"
   }
  }
 }

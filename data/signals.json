@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-25T12:22:21+00:00",
+ "generatedAt": "2026-10-26T05:40:33+00:00",
  "companies": [
   {
    "company": "n8n",
    "ats": "ashby",
    "slug": "n8n",
-   "openPostings": 41,
+   "openPostings": 39,
    "firstHire": [
     {
      "title": "Sr Security Engineer | Remote | Europe",
@@ -150,7 +150,7 @@
    "company": "Legora",
    "ats": "ashby",
    "slug": "legora",
-   "openPostings": 310,
+   "openPostings": 309,
    "firstHire": [
     {
      "title": "GRC Engineer",
@@ -873,7 +873,7 @@
    "company": "Horizon3.ai",
    "ats": "ashby",
    "slug": "horizon3ai",
-   "openPostings": 151,
+   "openPostings": 152,
    "firstHire": [
     {
      "title": "Senior Federal Compliance Analyst",
@@ -1264,7 +1264,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "openPostings": 159,
+   "openPostings": 158,
    "firstHire": [
     {
      "title": "Compliance Engineer",
@@ -1423,7 +1423,7 @@
    "company": "Headway",
    "ats": "ashby",
    "slug": "headway",
-   "openPostings": 91,
+   "openPostings": 92,
    "firstHire": [
     {
      "title": "Senior Security Engineer (Infrastructure)",
@@ -1594,7 +1594,7 @@
    "company": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "openPostings": 358,
+   "openPostings": 359,
    "firstHire": [
     {
      "title": "Senior Product Security Engineer",
@@ -1679,7 +1679,7 @@
    "company": "Skydio",
    "ats": "ashby",
    "slug": "skydio",
-   "openPostings": 167,
+   "openPostings": 170,
    "firstHire": [
     {
      "title": "Senior Software Engineer - Security",
@@ -1723,7 +1723,7 @@
    "company": "Anduril",
    "ats": "greenhouse",
    "slug": "andurilindustries",
-   "openPostings": 2510,
+   "openPostings": 2511,
    "firstHire": [
     {
      "title": "Assistant Contractor Special Security Officer",
@@ -1732,13 +1732,13 @@
     },
     {
      "title": "Contractor Special Security Officer",
-     "posted": "2026-10-15",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5130540007?gh_jid=5130540007"
+     "posted": "2026-10-14",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007"
     },
     {
      "title": "Contractor Special Security Officer",
-     "posted": "2026-10-14",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007"
+     "posted": "2026-10-15",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5130540007?gh_jid=5130540007"
     },
     {
      "title": "Corporate Facility Security Officer",
@@ -1753,12 +1753,12 @@
     {
      "title": "Facility Security Officer",
      "posted": "2026-10-09",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261478007?gh_jid=5261478007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261472007?gh_jid=5261472007"
     },
     {
      "title": "Facility Security Officer",
      "posted": "2026-10-09",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261472007?gh_jid=5261472007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261478007?gh_jid=5261478007"
     },
     {
      "title": "Hardware Test Engineer - Cyber",
@@ -1793,12 +1793,12 @@
     {
      "title": "Product Security Engineer, Programs",
      "posted": "2026-02-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007"
     },
     {
      "title": "Product Security Engineer, Programs",
      "posted": "2026-02-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007"
     },
     {
      "title": "Product Security Engineer, Programs",
@@ -1813,7 +1813,7 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
     },
     {
      "title": "Security Operations Analyst",
@@ -1823,7 +1823,7 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007"
     },
     {
      "title": "Security Operations Analyst, UK",
@@ -1872,13 +1872,13 @@
     },
     {
      "title": "Senior Security Engineer, Identity",
-     "posted": "2026-06-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
+     "posted": "2026-10-06",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
     },
     {
      "title": "Senior Security Engineer, Identity",
-     "posted": "2026-10-06",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
+     "posted": "2026-06-04",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
     },
     {
      "title": "Senior Security Engineer OT",
@@ -1907,13 +1907,13 @@
     },
     {
      "title": "Staff Software Engineer, Security",
-     "posted": "2025-06-18",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4753186007?gh_jid=4753186007"
+     "posted": "2025-09-30",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4925157007?gh_jid=4925157007"
     },
     {
      "title": "Staff Software Engineer, Security",
-     "posted": "2025-09-30",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4925157007?gh_jid=4925157007"
+     "posted": "2025-06-18",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4753186007?gh_jid=4753186007"
     },
     {
      "title": "Staff Systems Security Engineer, Programs",
@@ -1976,7 +1976,7 @@
    "company": "Shield AI",
    "ats": "lever",
    "slug": "shieldai",
-   "openPostings": 668,
+   "openPostings": 670,
    "firstHire": [
     {
      "title": "Cybersecurity Platform Engineer (R5531)",
@@ -2087,7 +2087,7 @@
    "company": "Protege",
    "ats": "ashby",
    "slug": "protege",
-   "openPostings": 11,
+   "openPostings": 12,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
