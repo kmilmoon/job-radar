@@ -1,8 +1,8 @@
 [
  {
-  "id": "web-secfix-infoseclead",
+  "id": "weworkremotely-c68001cc34",
   "coll": "jobs",
-  "url": "https://wellfound.com/jobs/4572810-information-security-lead"
+  "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
  },
  {
   "id": "gofractional-cambridgespark-fciso",
@@ -40,6 +40,16 @@
   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
  },
  {
+  "id": "ashby-supabase-13478d3f",
+  "coll": "jobs",
+  "url": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f"
+ },
+ {
+  "id": "li-4482317639",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4482317639/"
+ },
+ {
   "id": "10xteam-compliance-ai-trainer",
   "coll": "alt",
   "url": "https://jobs.ashbyhq.com/10xteam"
@@ -55,14 +65,9 @@
   "url": "https://parikhholdings.na.teamtailor.com/en/jobs/85986-eos-integrator-chief-operating-officer-coo-remote-tech-travel-company"
  },
  {
-  "id": "ashby-10xteam-7154c900",
+  "id": "himalayas-tions-expert",
   "coll": "alt",
-  "url": "https://jobs.ashbyhq.com/10xteam/7154c900-5838-42dc-bd6c-2884a4acbd7f"
- },
- {
-  "id": "remotive-onhires-headofrisk",
-  "coll": "alt",
-  "url": "https://remotive.com/remote/jobs/all-others/head-of-risk-6215378"
+  "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api"
  },
  {
   "id": "jobgether-a80049aa",
@@ -70,28 +75,18 @@
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  },
  {
-  "id": "weworkremotely-c68001cc34",
+  "id": "gofractional--ciso-remote-workforce-security-cmviuik6",
   "coll": "jobs",
-  "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
+  "url": "https://www.gofractional.com/job/fractional-ciso-remote-workforce-security-cmviuik6"
  },
  {
-  "id": "li-4482317639",
+  "id": "jobgether-297e968c",
   "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4482317639/"
+  "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61"
  },
  {
-  "id": "jobgether-62e3523f",
-  "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/62e3523f-7abb-4d5e-ac4c-bcc33a8dab2b"
- },
- {
-  "id": "jobgether-f7a347f4",
-  "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/f7a347f4-a9bc-4538-a95f-a5964dd6a96a"
- },
- {
-  "id": "himalayas-tions-expert",
-  "coll": "alt",
-  "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api"
+  "id": "li-4473393070",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4473393070/"
  }
 ]
