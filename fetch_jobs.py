@@ -28,7 +28,7 @@ DATA = ROOT / "data"
 UA = {"User-Agent": "job-radar/1.0 (personal job search; contact via GitHub)"}
 
 TITLE_RE = re.compile(
-    r"\b(security|cyber|ciso|cso|grc|compliance|risk|privacy|trust|governance|"
+    r"\b(security|cyber\w*|ciberseguridad|seguridad de la informaci[oó]n|ciso|cso|grc|compliance|cumplimiento|risk|privacy|trust|governance|"
     r"infosec|information security|soc ?2|iso ?27001|audit|assurance)\b",
     re.I,
 )
