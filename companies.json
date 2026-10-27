@@ -728,5 +728,105 @@
  },
  {
   "name": "Cognitive Credit"
+ },
+ {
+  "name": "GitLab",
+  "slugs": [
+   "gitlab"
+  ]
+ },
+ {
+  "name": "Supabase",
+  "slugs": [
+   "supabase"
+  ]
+ },
+ {
+  "name": "Vultr",
+  "slugs": [
+   "vultr"
+  ]
+ },
+ {
+  "name": "Honeycomb",
+  "slugs": [
+   "honeycomb",
+   "honeycombio"
+  ]
+ },
+ {
+  "name": "Customer.io",
+  "slugs": [
+   "customerio",
+   "customer-io",
+   "customer.io"
+  ]
+ },
+ {
+  "name": "Metabase",
+  "slugs": [
+   "metabase"
+  ]
+ },
+ {
+  "name": "Close",
+  "slugs": [
+   "close",
+   "closeio",
+   "close.io"
+  ]
+ },
+ {
+  "name": "Coinbase",
+  "slugs": [
+   "coinbase"
+  ]
+ },
+ {
+  "name": "Alpaca",
+  "slugs": [
+   "alpaca"
+  ]
+ },
+ {
+  "name": "Fingerprint",
+  "slugs": [
+   "fingerprint",
+   "fingerprintjs",
+   "fingerprint-com"
+  ]
+ },
+ {
+  "name": "Censys",
+  "slugs": [
+   "censys"
+  ]
+ },
+ {
+  "name": "Dropzone AI",
+  "slugs": [
+   "dropzone",
+   "dropzone-ai",
+   "dropzoneai"
+  ]
+ },
+ {
+  "name": "BeyondTrust",
+  "slugs": [
+   "beyondtrust"
+  ]
+ },
+ {
+  "name": "GuidePoint Security",
+  "slugs": [
+   "guidepointsecurity",
+   "guidepoint"
+  ]
+ },
+ {
+  "name": "Databento",
+  "slugs": [
+   "databento"
+  ]
  }
 ]
