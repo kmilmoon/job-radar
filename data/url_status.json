@@ -1,11 +1,11 @@
 {
- "checked": "2026-10-27T03:20:50+00:00",
+ "checked": "2026-10-27T04:55:17+00:00",
  "items": {
-  "jobs/web-secfix-infoseclead": {
+  "jobs/weworkremotely-c68001cc34": {
    "status": "open",
    "reason": "La página sigue mostrando la opción de aplicar",
    "http": 200,
-   "url": "https://wellfound.com/jobs/4572810-information-security-lead"
+   "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
   },
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
@@ -49,6 +49,18 @@
    "http": 200,
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
   },
+  "jobs/ashby-supabase-13478d3f": {
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
+   "http": 200,
+   "url": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f"
+  },
+  "jobs/li-4482317639": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4482317639/"
+  },
   "alt/10xteam-compliance-ai-trainer": {
    "status": "unknown",
    "reason": "La página carga, pero no está claro si admite candidaturas",
@@ -67,17 +79,11 @@
    "http": 410,
    "url": "https://parikhholdings.na.teamtailor.com/en/jobs/85986-eos-integrator-chief-operating-officer-coo-remote-tech-travel-company"
   },
-  "alt/ashby-10xteam-7154c900": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/10xteam/7154c900-5838-42dc-bd6c-2884a4acbd7f"
-  },
-  "alt/remotive-onhires-headofrisk": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
-   "http": 200,
-   "url": "https://remotive.com/remote/jobs/all-others/head-of-risk-6215378"
+  "alt/himalayas-tions-expert": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api"
   },
   "alt/jobgether-a80049aa": {
    "status": "closed",
@@ -85,35 +91,23 @@
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   },
-  "jobs/weworkremotely-c68001cc34": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
+  "jobs/gofractional--ciso-remote-workforce-security-cmviuik6": {
+   "status": "closed",
+   "reason": "La página dice que la oferta está cerrada",
    "http": 200,
-   "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
+   "url": "https://www.gofractional.com/job/fractional-ciso-remote-workforce-security-cmviuik6"
   },
-  "jobs/li-4482317639": {
+  "jobs/jobgether-297e968c": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61"
+  },
+  "jobs/li-4473393070": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4482317639/"
-  },
-  "alt/jobgether-62e3523f": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/62e3523f-7abb-4d5e-ac4c-bcc33a8dab2b"
-  },
-  "alt/jobgether-f7a347f4": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/f7a347f4-a9bc-4538-a95f-a5964dd6a96a"
-  },
-  "alt/himalayas-tions-expert": {
-   "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api"
+   "url": "https://www.linkedin.com/jobs/view/4473393070/"
   }
  }
 }

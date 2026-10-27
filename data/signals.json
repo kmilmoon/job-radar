@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T03:20:45+00:00",
+ "generatedAt": "2026-10-27T04:55:11+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -1381,7 +1381,7 @@
    "company": "OpenRouter",
    "ats": "ashby",
    "slug": "openrouter",
-   "openPostings": 27,
+   "openPostings": 29,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -1602,7 +1602,7 @@
    "company": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "openPostings": 366,
+   "openPostings": 364,
    "firstHire": [
     {
      "title": "Senior Product Security Engineer",
@@ -1731,7 +1731,7 @@
    "company": "Anduril",
    "ats": "greenhouse",
    "slug": "andurilindustries",
-   "openPostings": 2505,
+   "openPostings": 2504,
    "firstHire": [
     {
      "title": "Assistant Contractor Special Security Officer",
@@ -1790,18 +1790,13 @@
     },
     {
      "title": "Personnel Security Specialist",
-     "posted": "2026-10-16",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266842007?gh_jid=5266842007"
-    },
-    {
-     "title": "Personnel Security Specialist",
      "posted": "2026-09-25",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249801007?gh_jid=5249801007"
     },
     {
-     "title": "Product Security Engineer, Programs",
-     "posted": "2026-02-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007"
+     "title": "Personnel Security Specialist",
+     "posted": "2026-10-16",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266842007?gh_jid=5266842007"
     },
     {
      "title": "Product Security Engineer, Programs",
@@ -1811,12 +1806,17 @@
     {
      "title": "Product Security Engineer, Programs",
      "posted": "2026-02-04",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007"
+    },
+    {
+     "title": "Product Security Engineer, Programs",
+     "posted": "2026-02-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007"
     },
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
     },
     {
      "title": "Security Operations Analyst",
@@ -1831,7 +1831,7 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
     },
     {
      "title": "Security Operations Analyst, UK",
@@ -1846,12 +1846,12 @@
     {
      "title": "Senior Offensive Security Engineer",
      "posted": "2026-10-08",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007"
     },
     {
      "title": "Senior Offensive Security Engineer",
      "posted": "2026-10-08",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007"
     },
     {
      "title": "Senior Product Security Engineer",
@@ -1876,17 +1876,17 @@
     {
      "title": "Senior Security Engineer, Identity",
      "posted": "2026-10-06",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
-    },
-    {
-     "title": "Senior Security Engineer, Identity",
-     "posted": "2026-10-06",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007"
     },
     {
      "title": "Senior Security Engineer, Identity",
      "posted": "2026-06-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
+    },
+    {
+     "title": "Senior Security Engineer, Identity",
+     "posted": "2026-10-06",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
     },
     {
      "title": "Senior Security Engineer OT",
@@ -1989,7 +1989,7 @@
    "company": "Shield AI",
    "ats": "lever",
    "slug": "shieldai",
-   "openPostings": 663,
+   "openPostings": 664,
    "firstHire": [
     {
      "title": "Cybersecurity Platform Engineer (R5531)",
@@ -2838,6 +2838,50 @@
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
+  },
+  {
+   "company": "Hoxhunt",
+   "ats": "ashby",
+   "slug": "hoxhunt",
+   "openPostings": 16,
+   "firstHire": [
+    {
+     "title": "Software Engineer, Security",
+     "posted": "2026-09-02",
+     "url": "https://jobs.ashbyhq.com/hoxhunt/0a9e1186-b890-4564-8a2a-275a5a9dec25"
+    },
+    {
+     "title": "Senior Software Engineer, Security",
+     "posted": "2026-09-02",
+     "url": "https://jobs.ashbyhq.com/hoxhunt/f41ac394-307d-4a29-ab7a-4d0d79c0ba58"
+    },
+    {
+     "title": "Junior Security Engineer, GRC",
+     "posted": "2026-09-02",
+     "url": "https://jobs.ashbyhq.com/hoxhunt/a12aaff1-1696-44f0-a9ff-e2268f8584b2"
+    }
+   ],
+   "leaderHiring": [],
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Junior Security Engineer, GRC",
+     "posted": "2026-09-02",
+     "url": "https://jobs.ashbyhq.com/hoxhunt/a12aaff1-1696-44f0-a9ff-e2268f8584b2"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Junior Security Engineer, GRC",
+     "posted": "2026-09-02",
+     "url": "https://jobs.ashbyhq.com/hoxhunt/a12aaff1-1696-44f0-a9ff-e2268f8584b2"
+    },
+    {
+     "framework": "HIPAA",
+     "title": "Junior Security Engineer, GRC",
+     "posted": "2026-09-02",
+     "url": "https://jobs.ashbyhq.com/hoxhunt/a12aaff1-1696-44f0-a9ff-e2268f8584b2"
+    }
+   ]
   }
  ]
 }
