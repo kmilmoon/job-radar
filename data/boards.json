@@ -1,5 +1,19 @@
 [
  {
+  "id": "weworkremotely-4d31f69fc8",
+  "source": "weworkremotely",
+  "track": "alt",
+  "title": "Policy Anaylst - Government & Regulatory Affairs",
+  "company": "ZoomInfo Technologies LLC",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-10-27",
+  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-policy-anaylst-government-regulatory-affairs",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. ZoomInfo is seeking a highly motivated Policy Analyst to join our Government & Regulatory Affairs team. In this role, you will track, analyze, and report on key legislation and regulations impacting ZoomInfo’s core business model—with a specialized focus on ad tech, alongside our foundational priorities in privacy, artificial intelligence, and data brokering. You will work closely with internal leadership and external coalitions to evaluate legislative proposals, draft advocacy materials, and help shape our public policy positions in a rapidly evolving regulatory landscape. What You'll Do: Regulatory Monitoring: Monitor federal, state, and international legislative and regulatory developments relevant to ZoomInfo, with particular emphasis on ad tech, privacy, AI, and data brokerage. Ad Tech Policy Expertise: Analyze policy "
+ },
+ {
   "id": "jobgether-297e968c",
   "source": "jobgether",
   "track": "core",
@@ -98,27 +112,52 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Platform Security Engineer – AI Resilience & Security Enhancements (Contract) based in Spain. In this hands-on contract role, you will strengthen the security and resilience of a modern engineering platform, with a particular focus on AI-enabled workflows and secure software delivery. You will work closely with platform, engineering, and security teams to design, prototype, and implement practical security controls. Your work will span secure autonomous agent execution, CI/CD security, production access management, container security, and software supply chain integrity. You will turn security requirements into reliable, maintainable tooling and workflows that developers can use in their day-to-day work. The role combines technical problem-solving, automation, and close collaboration with engineers to deliver measurable improvements to production systems. You will help improve security without compromising service availability or engineering productivity."
  },
  {
-  "id": "himalayas-te-341293098",
+  "id": "himalayas-pam-cyberark",
   "source": "himalayas",
-  "track": "alt",
-  "title": "Freelance Norwegian Teacher - Remote",
-  "company": "Busuu",
-  "location": "Romania, Spain",
-  "employment": "Contractor",
+  "track": "core",
+  "title": "Técnico/a de Seguridad PAM (CyberArk)",
+  "company": "Logicalis Spain",
+  "location": "Spain",
+  "employment": "Full Time",
   "posted": "2026-10-26",
-  "url": "https://himalayas.app/companies/busuu/jobs/freelance-norwegian-teacher-remote-341293098?utm_source=api",
+  "url": "https://himalayas.app/companies/logicalis-com/jobs/tecnico-a-de-seguridad-pam-cyberark?utm_source=api",
   "compensation": null,
   "tags": [
-   "Online-Teacher",
-   "Language-Teacher",
-   "Norwegian-Teacher",
-   "TEFL-Teacher",
-   "Freelance-Teacher",
-   "Norwegian-Tutor",
-   "Freelance-Online-Teacher",
-   "Freelance-Language-Teacher"
+   "PAM-Administration",
+   "Privileged-Access-Management",
+   "IAM",
+   "Cybersecurity",
+   "Technical-Support",
+   "Especialista-CyberArk",
+   "CyberArk-Engineer",
+   "PAM-Security-Engineer",
+   "CyberArk-Administrator",
+   "Especialista-En-Seguridad-Cibernética",
+   "Técnico-De-Segurança-Da-Informação",
+   "CyberArk-Engineering"
   ],
-  "excerpt": "About usJoining Busuu means being part of one of the top EdTech companies in the world, a multiple award-winner recognised for its innovation and impact in language learning."
+  "excerpt": "En Logicalis Spain estamos buscando dos Técnicos/as CyberArk PAM para incorporarse a un servicio gestionado de ciberseguridad en un cliente estratégico del sector telecomunicaciones."
+ },
+ {
+  "id": "himalayas-remote-spain",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Job Description: Senior Security Engineer - Fully Remote (Spain)",
+  "company": "team.blue",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-10-26",
+  "url": "https://himalayas.app/companies/team-blue/jobs/job-description-senior-security-engineer-fully-remote-spain?utm_source=api",
+  "compensation": "EUR 55000-65000",
+  "tags": [
+   "Security-Engineer",
+   "Application-Security-Engineer",
+   "Cloud-Security-Engineer",
+   "Product-Security-Engineer",
+   "Senior-Cybersecurity-Engineer",
+   "Senior-Information-Security-Engineer"
+  ],
+  "excerpt": "If you love getting hands-on with web security, cloud infrastructure and the emerging risks of AI and LLM integrations, you’ll feel right at home with us."
  },
  {
   "id": "gofractional--ciso-remote-workforce-security-cmviuik6",
@@ -380,20 +419,6 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Counsel, Data Privacy & AI based in Spain. This is an opportunity to shape how data privacy, governance, and responsible artificial intelligence are embedded into a global employment technology platform. As Senior Counsel, you will provide strategic legal guidance across privacy, data protection, and AI governance, helping teams innovate while maintaining customer trust and regulatory compliance. You will work closely with Product, Engineering, Security, IT, and business stakeholders to integrate privacy-by-design principles and responsible AI practices throughout the product lifecycle. The role combines sophisticated legal analysis, commercial negotiations, and practical risk management in a fast-growing, internationally distributed business. You will translate evolving global regulations into clear policies, scalable frameworks, and actionable guidance that enables teams to make confident decisions. Your expertise will support products and services spanning global employment, payroll, contractor management, and workforce mobility, where sensitiv"
  },
  {
-  "id": "weworkremotely-f3f84ed2bf",
-  "source": "weworkremotely",
-  "track": "alt",
-  "title": "Chief of Staff, CCO",
-  "company": "Ping Identity",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-21",
-  "url": "https://weworkremotely.com/remote-jobs/ping-identity-chief-of-staff-cco",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: USA - Remote About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it. Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear. While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture. We champion every identity. One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work. We're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management. We are see"
- },
- {
   "id": "weworkremotely-34bef6dd7d",
   "source": "weworkremotely",
   "track": "alt",
@@ -564,20 +589,6 @@
   "excerpt": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers Evangelize Datadog’s security story to security leaders (CISO, Security Architects, SecOps) Work cross-functionally with Datadog's pa"
  },
  {
-  "id": "weworkremotely-fe9f527029",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "Cyber Defense Engineer",
-  "company": "BeyondTrust",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-10",
-  "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: Remote Manchester, UK BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is a global leader in privileged access management. Our products provide remote access and privileged control capabilities that are deployed across thousands of enterprise environments worldwide. That makes us a high-value target. Nation-state actors, ransomware operators, and sophisticated threat groups actively target companies like ours—not just to compromise our corporate environment, but to reach the customers who trust our software to protect their most sensitive systems. A compromise of BeyondTrust is a compromise of the privileged access layer inside our customers’ networks. We take that responsibility seriously. As a Cyber Defense Engineer on our Cyber Defense Operations team, you will serve as a front-line d"
- },
- {
   "id": "gofractional-ucayan-technology-solutions-llc-rippling",
   "source": "gofractional",
   "track": "core",
@@ -590,20 +601,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Job Summary We are looking for an experienced Cybersecurity Lead to direct the Risk Management Framework (RMF) and Authority to Operate (ATO) effort for a new Department of Defense emergency mass notification system. You will own the authorization package from boundary definition through AO decision support, working alongside the engineering and installation team on an accelerated schedule. Location: This is a US-based remote position, with approved on-site work at a U.S. military installation in Germany as needed. On-site travel is scheduled in advance and approved travel costs are covered. Employment Type: Part-Time Contract Security Clearance: Must be eligible for a DoD Common Access Card (CAC) and military base access Key Responsibilities ● Lead the full RMF lifecycle: boundary definition, categorization, control selection, implementation, assessment, and authorization ● Author the SSP, control narratives, network and data-flow diagrams, and interconnection security agreements (ISAs) ● Apply STIGs/SRGs, run SCAP, Evaluate-STIG, and ACAS/Nessus scans, and maintain hardened baselines ● Manage findings, POA&Ms, patching, and IAVM records, and direct field staff on remediation ● Se"
- },
- {
-  "id": "weworkremotely-d6ad8569e5",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "AML Compliance Analyst",
-  "company": "Sezzle",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-06",
-  "url": "https://weworkremotely.com/remote-jobs/sezzle-aml-compliance-analyst",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: Mexico, Remote The salary range for this role is $1,800 - $2,300 per month (Gross in USD) About Sezzle With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. We’re not just transforming payments; we’re redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of fintech and retail, we’re building an innovative, dynamic team passionate about creating more than just a transaction but a truly unique shopping journey. If you’re excited about pushing boundaries in tech and delivering a game-changing experience for consumers and merchants alike, come join us at Sezzle and help create the future of shopping! About the role: We are seeking a detail-oriented and proactive AML Compliance Analyst to support Sezzle’s Compliance Team. This role provides second-line oversight and day-to-day advisory support across a wide range of business"
  },
  {
   "id": "weworkremotely-9f8e03dfff",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T04:55:11+00:00",
+ "generatedAt": "2026-10-27T09:25:58+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -150,7 +150,7 @@
    "company": "Legora",
    "ats": "ashby",
    "slug": "legora",
-   "openPostings": 305,
+   "openPostings": 304,
    "firstHire": [
     {
      "title": "GRC Engineer",
@@ -348,7 +348,7 @@
    "company": "Contentsquare",
    "ats": "lever",
    "slug": "contentsquare",
-   "openPostings": 17,
+   "openPostings": 18,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -388,7 +388,7 @@
    "company": "JetBrains",
    "ats": "greenhouse",
    "slug": "jetbrains",
-   "openPostings": 48,
+   "openPostings": 47,
    "firstHire": [
     {
      "title": "Compliance Manager (Export Controls & Sanctions)",
@@ -609,7 +609,7 @@
    "company": "Moss",
    "ats": "ashby",
    "slug": "moss",
-   "openPostings": 31,
+   "openPostings": 32,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -671,7 +671,7 @@
    "company": "Bitpanda",
    "ats": "greenhouse",
    "slug": "bitpanda",
-   "openPostings": 35,
+   "openPostings": 34,
    "firstHire": [
     {
      "title": "Associate, AFC Compliance",
@@ -1602,7 +1602,7 @@
    "company": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "openPostings": 364,
+   "openPostings": 365,
    "firstHire": [
     {
      "title": "Senior Product Security Engineer",
@@ -1731,7 +1731,7 @@
    "company": "Anduril",
    "ats": "greenhouse",
    "slug": "andurilindustries",
-   "openPostings": 2504,
+   "openPostings": 2505,
    "firstHire": [
     {
      "title": "Assistant Contractor Special Security Officer",
@@ -1816,7 +1816,7 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
     },
     {
      "title": "Security Operations Analyst",
@@ -1831,7 +1831,7 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
     },
     {
      "title": "Security Operations Analyst, UK",
@@ -1875,11 +1875,6 @@
     },
     {
      "title": "Senior Security Engineer, Identity",
-     "posted": "2026-10-06",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007"
-    },
-    {
-     "title": "Senior Security Engineer, Identity",
      "posted": "2026-06-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
     },
@@ -1887,6 +1882,11 @@
      "title": "Senior Security Engineer, Identity",
      "posted": "2026-10-06",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
+    },
+    {
+     "title": "Senior Security Engineer, Identity",
+     "posted": "2026-10-06",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007"
     },
     {
      "title": "Senior Security Engineer OT",
@@ -1915,13 +1915,13 @@
     },
     {
      "title": "Staff Software Engineer, Security",
-     "posted": "2025-09-30",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4925157007?gh_jid=4925157007"
+     "posted": "2025-06-18",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4753186007?gh_jid=4753186007"
     },
     {
      "title": "Staff Software Engineer, Security",
-     "posted": "2025-06-18",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4753186007?gh_jid=4753186007"
+     "posted": "2025-09-30",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4925157007?gh_jid=4925157007"
     },
     {
      "title": "Staff Systems Security Engineer, Programs",
@@ -2562,7 +2562,7 @@
    "company": "Alpaca",
    "ats": "greenhouse",
    "slug": "alpaca",
-   "openPostings": 70,
+   "openPostings": 69,
    "firstHire": [
     {
      "title": "Staff Software Engineer - Corporate Actions & Security Master",
