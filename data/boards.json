@@ -14,6 +14,20 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Corporate Security Manager based in Spain. As Corporate Security Manager, you will lead the development and execution of a comprehensive security strategy across international operations. You will oversee internal investigations, fraud prevention, employee-related security risks, background screening, and physical security. In this leadership role, you will manage a team of specialists, strengthen investigation standards, and ensure effective risk mitigation across sensitive business functions. Working closely with Legal, HR, Finance, Risk, Cyber Defense, and operational leaders, you will turn investigation findings into practical control improvements. You will also contribute to crisis preparedness, executive safety, and business continuity initiatives. This is an opportunity to shape a mature corporate security function in a dynamic, international environment where sound judgment, accountability, and operational resilience are essential."
  },
  {
+  "id": "jobgether-a05aa4c2",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Lead Security Engineer - Vulnerability Response (Imunify360)",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-26",
+  "url": "https://jobs.lever.co/jobgether/a05aa4c2-bd61-43ec-b605-d2d3cd76814b",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Lead Security Engineer – Vulnerability Response (Imunify360) based in Spain. We are seeking a security engineering leader to build and own an AI-assisted vulnerability response pipeline that protects websites against critical threats before attackers can widely exploit them. In this role, you will combine deep web application security expertise with automation, threat analysis, and practical product thinking to accelerate vulnerability detection, validation, and protection. You will extend existing WordPress security automation to ModSecurity and Coraza Web Application Firewall (WAF) rules, ensuring new defenses are accurate, tested, and production-ready. You will also lead a small team of security analysts and collaborate with automation, QA, and marketing to streamline the journey from vulnerability disclosure to protection and public advisory. Success will be measured by faster time-to-protection, broader coverage of critical vulnerabilities, and consistently low false-positive rates. This is an opportunity to shape an AI-driven security capability "
+ },
+ {
   "id": "jobgether-baca80c7",
   "source": "jobgether",
   "track": "alt",
@@ -42,6 +56,34 @@
   "excerpt": "his position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior HR Operations Lead based in Spain. The Senior HR Operations Lead will design and lead the HR operational infrastructure that enables a high-performing, globally distributed workforce. This strategic individual contributor role focuses on building scalable people processes, optimizing employee experiences, and transforming workforce data into actionable business insights. You will shape key HR lifecycle experiences, from onboarding and performance management to development and offboarding, while ensuring that people operations support organizational growth. Working closely with HR business partners and senior leadership, you will develop effective systems, manage external vendor relationships, and strengthen operational efficiency across multiple countries. This opportunity is ideal for an experienced HR operations professional who combines commercial awareness, analytical thinking, and a builder's mindset to create impactful, business-focused HR solutions."
  },
  {
+  "id": "jobgether-9ba21191",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Senior Manager of Technical Strategy & Operations",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-26",
+  "url": "https://jobs.lever.co/jobgether/9ba21191-3956-430a-8f2d-607d000d4a7e",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Manager of Technical Strategy & Operations based remotely in Spain. The Senior Manager of Technical Strategy & Operations will help shape and execute technical strategies that accelerate decarbonization across textile manufacturing. This role combines industrial engineering expertise, climate technology research, strategic planning, and operational coordination. You will translate complex technical findings into actionable insights, structured methodologies, and practical resources that support decision-making and implementation. Working closely with technical leadership and cross-functional teams, you will strengthen knowledge management, improve collaboration, and help advance high-impact climate initiatives. The position offers the opportunity to influence industrial transformation by connecting research, technical solutions, and real-world manufacturing challenges. It is well suited to a proactive, analytical professional who thrives in a global, collaborative, and evolving environment."
+ },
+ {
+  "id": "jobgether-19633443",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Senior ML Engineer - Email Security",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-10-26",
+  "url": "https://jobs.lever.co/jobgether/19633443-5812-4cc7-a79e-69623396f57e",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior ML Engineer - Email Security based remotely in Spain. The Senior ML Engineer will help develop and deploy advanced machine learning technology to protect email infrastructure against spam, phishing, and other evolving cyber threats. You will work on a production-scale security solution that already filters email across approximately 5,000 hosting servers. The role combines hands-on transformer model training with systems engineering to build lightweight, efficient inference technology that runs on customer CPUs with minimal resource consumption. You will take ownership of the complete detection lifecycle, from dataset preparation and model evaluation to production releases and ongoing quality improvements. Working closely with an experienced engineering partner, you will help modernize the existing filtering pipeline and make releases more reliable and scalable. This remote-first opportunity is ideal for an engineer who enjoys solving challenging security problems and delivering measurable improvements in real-world environments."
+ },
+ {
   "id": "jobgether-502b1482",
   "source": "jobgether",
   "track": "core",
@@ -56,42 +98,45 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Platform Security Engineer – AI Resilience & Security Enhancements (Contract) based in Spain. In this hands-on contract role, you will strengthen the security and resilience of a modern engineering platform, with a particular focus on AI-enabled workflows and secure software delivery. You will work closely with platform, engineering, and security teams to design, prototype, and implement practical security controls. Your work will span secure autonomous agent execution, CI/CD security, production access management, container security, and software supply chain integrity. You will turn security requirements into reliable, maintainable tooling and workflows that developers can use in their day-to-day work. The role combines technical problem-solving, automation, and close collaboration with engineers to deliver measurable improvements to production systems. You will help improve security without compromising service availability or engineering productivity."
  },
  {
-  "id": "jobspresso-5c99bdccd2",
-  "source": "jobspresso",
-  "track": "core",
-  "title": "GRC Analyst",
-  "company": "Supabase",
-  "location": "Worldwide",
-  "employment": "Others",
-  "posted": "2026-10-26",
-  "url": "https://jobspresso.co/job/grc-analyst-2/",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "We’re looking for a GRC Analyst to join our Compliance & Security team and help make risk management, audit and compliance a continuous part of how Supabase runs. You’ll work closely with engineering, security, IT, and legal to help us define our risk tolerance, keep our compliance programs (including SOC 2 and ISO/IEC 27001:2022) current,"
- },
- {
-  "id": "himalayas-gram-manager",
+  "id": "himalayas-very-manager",
   "source": "himalayas",
   "track": "alt",
-  "title": "TECHNICAL PROGRAM MANAGER",
-  "company": "Toolbox OTT",
+  "title": "Engineering Delivery Manager",
+  "company": "Metasys",
   "location": "Worldwide",
   "employment": "Full Time",
-  "posted": "2026-10-25",
-  "url": "https://himalayas.app/companies/toolbox-ott/jobs/technical-program-manager?utm_source=api",
+  "posted": "2026-10-26",
+  "url": "https://himalayas.app/companies/metasys/jobs/engineering-delivery-manager?utm_source=api",
+  "compensation": "INR 300000-300000",
+  "tags": [
+   "Engineering-Delivery-Manager",
+   "Delivery-Manager",
+   "Technical-Project-Manager",
+   "Project-Manager",
+   "Program-Manager",
+   "Engineering-Delivery-Lead",
+   "Engineering-Delivery-Management",
+   "Software-Delivery-Manager",
+   "Technology-Delivery-Manager",
+   "Engineering-Manager"
+  ],
+  "excerpt": "🚀 We’re Hiring: Engineering Delivery Manager About Company:Metasys is an international technology and consulting company with operations in the USA, Canada, India, and Australia."
+ },
+ {
+  "id": "gofractional--ciso-remote-workforce-security-cmviuik6",
+  "source": "gofractional",
+  "track": "core",
+  "title": "Fractional CISO – Remote Workforce Security",
+  "company": "",
+  "location": "Remote; Remote, US; US",
+  "employment": null,
+  "posted": "2026-10-26",
+  "url": "https://www.gofractional.com/job/fractional-ciso-remote-workforce-security-cmviuik6",
   "compensation": null,
   "tags": [
-   "Technical-Program-Manager",
-   "Technical-Project-Manager",
-   "Program-Manager",
-   "Project-Manager",
-   "Engineering-Program-Manager",
-   "Manager-Of-Technical-Programs",
-   "Technical-Program-Manager-Jobs",
-   "Technical-Program-Management",
-   "Technical-Program-Management-Jobs"
+   "exclusive"
   ],
-  "excerpt": "About ToolboxToolbox is a Technology company founded in 2013."
+  "excerpt": "Overview The company is transitioning to a fully remote model with employees working across multiple locations. Existing workforce security practices have been handled informally, and the organization needs a dedicated leader to establish a comprehensive internal security program. The security leader will take ownership of building and running the program, covering devices, access, network and email protections, policies, vendors, and training. The role will document existing practices, partner with HR on employee onboarding and offboarding, and work with department leaders across business and technical teams to improve how employees are onboarded, protected, and supported. Responsibilities Capture security knowledge from company leadership and document existing practices. Audit device, access, network, and email security across departments. Conduct reviews with department leaders and, where needed, individual employees. Design and document remote-work security policies covering device use, access, network protections, email, and travel. Define a standard network access model and implement role-based access separation between departments. Protect sensitive information for employees"
  },
  {
   "id": "weworkremotely-ab5021af4e",
@@ -435,62 +480,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at get-carrot.com . The Opportunity Carrot is looking for a Director, Information Security to lead the sec"
- },
- {
-  "id": "jobgether-459b47db",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "3PL Operations Manager",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-10-19",
-  "url": "https://jobs.lever.co/jobgether/459b47db-9387-4231-93d8-8c2d256356aa",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a 3PL Operations Manager based in Spain. As a 3PL Operations Manager, you will oversee a network of third-party logistics providers and external warehouses, ensuring the safe, efficient, and reliable handling of high-value data center hardware across international markets. You will take full ownership of partner performance, operational standards, inventory accuracy, and logistics costs, playing a critical role in maintaining hardware availability and supporting large-scale infrastructure growth. Working across logistics, procurement, transport, security, and data center operations, you will coordinate complex supply chain activities and drive continuous improvement across external sites. You will establish performance expectations, monitor service levels, lead audits, and resolve operational issues to ensure consistent execution. The role combines strategic network development with hands-on operational management in a fast-moving, international environment. You will also have the opportunity to build and develop a growing team while influencing processes,"
- },
- {
-  "id": "jobgether-32393fae",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Senior Manager, Application Security",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-10-19",
-  "url": "https://jobs.lever.co/jobgether/32393fae-6965-40e6-9e33-714bcf1ef3cb",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Manager, Application Security based in Spain. Lead the development of a dedicated application security function within a fast-growing, fully remote technology environment. In this senior leadership role, you will combine hands-on application security expertise with people management, strategic planning, and cross-functional collaboration. You will establish security standards, strengthen vulnerability management, and embed secure development practices across engineering teams. Alongside application security, you will guide experienced IT and compliance professionals, aligning their work with broader business priorities and enterprise security expectations. You will also represent security and compliance to senior leadership, customers, and external stakeholders. This opportunity offers significant autonomy to shape an AI-first security program while helping the organization scale securely and maintain customer trust."
- },
- {
-  "id": "jobgether-80913f25",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Senior Technical Program Manager",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Contract",
-  "posted": "2026-10-19",
-  "url": "https://jobs.lever.co/jobgether/80913f25-eb47-4285-980b-2122f02bfb42",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Program Manager based in Spain. This contract opportunity is ideal for a technically experienced professional who excels at coordinating complex engineering initiatives and improving delivery processes. You will support engineering leadership by overseeing work across central services, DevOps, and data teams in a real-money gaming environment. Your mission will be to bring clarity, structure, and accountability to engineering operations while ensuring priorities and releases remain aligned. You will combine software engineering expertise with program management, automation, and data-driven reporting to improve how teams collaborate. You will also lead a small team of contract engineers and help establish scalable workflows. By leveraging APIs, dashboards, and AI-powered tools, you will reduce manual coordination and increase visibility across the engineering landscape."
- },
- {
-  "id": "jobgether-cc27a1c9",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Staff Solutions Architect, AI Subject Matter Expert",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-10-19",
-  "url": "https://jobs.lever.co/jobgether/cc27a1c9-006e-418a-87dd-15b1cda3ab57",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Staff Solutions Architect, AI Subject Matter Expert based in Spain. Join a globally distributed Solutions Architecture team as a senior technical expert shaping how enterprise customers adopt AI-powered development and DevSecOps technologies. In this role, you will guide complex, high-value opportunities by translating advanced product capabilities into practical architectures and measurable business outcomes. You will specialize in one product domain, partnering with account teams, Product Management, and Engineering to influence technical decisions and customer success. Through technical workshops, proof-of-value evaluations, and competitive positioning, you will help organizations solve critical challenges and accelerate adoption. You will also build reusable resources, mentor fellow architects, and bring customer insights directly into product development. This fully remote opportunity combines technical leadership, customer engagement, and strategic influence in an AI-driven environment."
  },
  {
   "id": "weworkremotely-c085d11e63",

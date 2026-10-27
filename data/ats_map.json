@@ -11,6 +11,10 @@
   "ats": "ashby",
   "slug": "aiuc"
  },
+ "Alpaca": {
+  "ats": "greenhouse",
+  "slug": "alpaca"
+ },
  "Anchorage Digital": {
   "ats": "lever",
   "slug": "anchorage"
@@ -27,6 +31,10 @@
   "ats": "ashby",
   "slug": "bayesianhealth"
  },
+ "BeyondTrust": {
+  "ats": "greenhouse",
+  "slug": "beyondtrust"
+ },
  "Bitpanda": {
   "ats": "greenhouse",
   "slug": "bitpanda"
@@ -39,6 +47,10 @@
   "ats": "ashby",
   "slug": "causaprima"
  },
+ "Censys": {
+  "ats": "greenhouse",
+  "slug": "censys"
+ },
  "Clarity AI": {
   "ats": "ashby",
   "slug": "clarity"
@@ -47,9 +59,17 @@
   "ats": "ashby",
   "slug": "clickup"
  },
+ "Close": {
+  "ats": "ashby",
+  "slug": "close"
+ },
  "Clutch": {
   "ats": "greenhouse",
   "slug": "clutch"
+ },
+ "Coinbase": {
+  "ats": "greenhouse",
+  "slug": "coinbase"
  },
  "Contentsquare": {
   "ats": "lever",
@@ -71,9 +91,21 @@
   "ats": "ashby",
   "slug": "cursor"
  },
+ "Customer.io": {
+  "ats": "greenhouse",
+  "slug": "customerio"
+ },
+ "Databento": {
+  "ats": "greenhouse",
+  "slug": "databento"
+ },
  "Descript": {
   "ats": "greenhouse",
   "slug": "descript"
+ },
+ "Dropzone AI": {
+  "ats": "greenhouse",
+  "slug": "dropzoneai"
  },
  "ElevenLabs": {
   "ats": "ashby",
@@ -87,9 +119,21 @@
   "ats": "greenhouse",
   "slug": "exeinspa"
  },
+ "Fingerprint": {
+  "ats": "greenhouse",
+  "slug": "fingerprint"
+ },
  "Flock Safety": {
   "ats": "ashby",
   "slug": "flock"
+ },
+ "GitLab": {
+  "ats": "greenhouse",
+  "slug": "gitlab"
+ },
+ "GuidePoint Security": {
+  "ats": "greenhouse",
+  "slug": "guidepointsecurity"
  },
  "Harvey": {
   "ats": "ashby",
@@ -102,6 +146,10 @@
  "HiddenLayer": {
   "ats": "greenhouse",
   "slug": "hiddenlayer"
+ },
+ "Honeycomb": {
+  "ats": "greenhouse",
+  "slug": "honeycomb"
  },
  "Hopper": {
   "ats": "ashby",
@@ -166,6 +214,10 @@
  "Mercury": {
   "ats": "ashby",
   "slug": "mercury"
+ },
+ "Metabase": {
+  "ats": "lever",
+  "slug": "metabase"
  },
  "Modulr": {
   "ats": "greenhouse",
@@ -275,6 +327,10 @@
   "ats": "ashby",
   "slug": "strategic-growth-partners"
  },
+ "Supabase": {
+  "ats": "ashby",
+  "slug": "supabase"
+ },
  "Taktile": {
   "ats": "ashby",
   "slug": "taktile"
@@ -318,6 +374,10 @@
  "Vesta": {
   "ats": "ashby",
   "slug": "vesta"
+ },
+ "Vultr": {
+  "ats": "ashby",
+  "slug": "vultr"
  },
  "Wrapbook": {
   "ats": "ashby",
