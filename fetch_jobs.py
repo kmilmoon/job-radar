@@ -267,9 +267,30 @@ def company_signals(company, ats, slug, payload):
             "frameworks": [{"framework": k, **v} for k, v in fw.items()]}
 
 
+# "Otras vías": operations and leadership roles outside security that Lara also applies to
+ALT_RE = re.compile(
+    r"\b(chief of staff|chief operating officer|coo|integrator|head of (business )?op(eration)?s|"
+    r"(director|vp|vice president|head|lead)[ ,]+(of )?(business |strategy (and|&) )?operations|"
+    r"operations (director|lead)|business operations|bizops|strategy (and|&) operations|"
+    r"(senior |principal |staff )?(technical )?program(me)? manager|(senior |principal )?program(me)? lead|"
+    r"head of programs?|pmo)\b",
+    re.I,
+)
+ALT_EXCLUDE = re.compile(r"\b(intern|internship|junior|graduate|sales operations|revenue operations|revops|"
+                         r"warehouse|fulfil+ment|logistics|clinical|nurse)\b", re.I)
+
+
 def relevant(job):
     t = job.get("title") or ""
-    return bool(TITLE_RE.search(t)) and not TITLE_EXCLUDE.search(t)
+    if TITLE_EXCLUDE.search(t):
+        return False
+    if TITLE_RE.search(t):
+        job["track"] = "core"
+        return True
+    if ALT_RE.search(t) and not ALT_EXCLUDE.search(t):
+        job["track"] = "alt"
+        return True
+    return False
 
 
 def companies_only():
