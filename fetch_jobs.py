@@ -282,10 +282,20 @@ ALT_EXCLUDE = re.compile(r"\b(intern|internship|junior|graduate|associate|analys
                          r"manufacturing|supply chain|construction|engineering program|hardware|clearance)\b", re.I)
 
 
+# Teaching computing or cybersecurity (track "alt", category "Docencia y formación")
+TEACH_RE = re.compile(r"\b(instructor|teacher|lecturer|professor|tutor|trainer|curriculum|course author|"
+                      r"profesora?|docente|formador(a)?|tutora?)\b", re.I)
+
+
 def relevant(job):
     t = job.get("title") or ""
     if TITLE_EXCLUDE.search(t):
         return False
+    if TEACH_RE.search(t) and re.search(r"\b(security|cyber\w*|ciberseguridad|seguridad|it|inform[aá]tica|computer|computing|"
+                                       r"comput\w*|software|cloud|network\w*|redes|sistemas|data|tech\w*|tecnolog\w*|grc|compliance)\b",
+                                       t, re.I):
+        job["track"] = "alt"
+        return True
     if TITLE_RE.search(t):
         job["track"] = "core"
         return True
