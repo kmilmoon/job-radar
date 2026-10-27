@@ -90,6 +90,21 @@
   "track": "core"
  },
  {
+  "id": "lever-shieldai-2eaf030f",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Senior Engineer, Cybersecurity (R6438)",
+  "location": "Seattle, Washington; Seattle, Washington",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-10-24",
+  "url": "https://jobs.lever.co/shieldai/2eaf030f-e574-4989-b85a-b43258df928b",
+  "compensation": "USD 142000-213000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. We are seeking a Senior Cybersecurity Engineer to lead cybersecurity activities for an airborne aerospace and defense platform. This role will integrate cybersecurity across avionics, mission systems, aircraft networks, communications, embedded software, and ground-support systems.",
+  "track": "core"
+ },
+ {
   "id": "ashby-pliant-c17d9608",
   "company": "Pliant",
   "ats": "ashby",
@@ -163,6 +178,21 @@
   "compensation": "$231K – $340K • Offers Equity • Offers Bonus",
   "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW Some of the world's largest companies and their law firms use Harvey’s AI capabilities to deliver world-class client services at unprecedented scale and efficiency. Harvey allows high-performing professionals to gain deep domain knowledge faster, understand the big picture, and tackle more complex challenges in less time. Security is at the heart of what we do. Our customers trust us with their most sensitive data, and we take that responsibility seriously. As part of our team, you’ll help us maintain a secure, trustworthy, and compliant platform—an essential foundation fo",
   "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5272843007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Technical Trainer  - Composites Production",
+  "location": "Morrisville, North Carolina, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-23",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272843007?gh_jid=5272843007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Anduril Technical Training team is responsible for orientation and training of new hires, ongoing training of existing techs and developing and refining training programs so we can continue to produce industry leading products to help our warfighters defend our country. ABOUT THE JOB We are looking for a technical trainer to join our rapidly growing team in Morrisville, NC. In this role, you will be responsible for the orientation and training of new hires as well as ongoing technical training for our composite techs. You will assist with developing new training and refining our existing courses on our digital platform. You will also work closely with our manufacturing team to make sure changes in SOP are passed on to our composite teams. This position may require occasional travel to our headquarters in Costa Mesa or other facilities around the country. This will require composite layup, bonding and assembly experience as well as excellent communication skills. If you are someone who excels at communication, teamwork, adaptability, problem-",
+  "track": "alt"
  },
  {
   "id": "gh-coinbase-8318599",
@@ -300,21 +330,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270947007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Program Manager, Maritime",
-  "location": "Quincy, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5269746007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -325,6 +340,21 @@
   "employment": null,
   "posted": "2026-10-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269746007?gh_jid=5269746007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5270947007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Program Manager, Maritime",
+  "location": "Quincy, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
   "track": "alt"
@@ -375,16 +405,16 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5257493007",
+  "id": "gh-andurilindustries-5270613007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Global Mobility Program Manager, Tax",
-  "location": "Costa Mesa, California, United States",
+  "location": "Washington, District of Columbia, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-10-20",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257493007?gh_jid=5257493007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270613007?gh_jid=5270613007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
   "track": "alt"
@@ -405,16 +435,16 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270613007",
+  "id": "gh-andurilindustries-5257493007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Global Mobility Program Manager, Tax",
-  "location": "Washington, District of Columbia, United States",
+  "location": "Costa Mesa, California, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-10-20",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270613007?gh_jid=5270613007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257493007?gh_jid=5257493007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
   "track": "alt"
@@ -840,21 +870,6 @@
   "track": "core"
  },
  {
-  "id": "gh-honeycomb-5449333008",
-  "company": "Honeycomb",
-  "ats": "greenhouse",
-  "title": "Staff AI Operations Lead",
-  "location": "Remote - Canada",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-13",
-  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5449333008",
-  "compensation": null,
-  "excerpt": "What We’re Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! We’re working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, we’ve closed Series D funding, scaled past the 200-person mark, and were named to Forbes’ America’s Best Startups of 2022 and 2023! If you want to see what we’ve been up to, please check out these blog posts and Honeycomb.io press releases . Who We Are We come for the impact, and stay for the culture! We’re a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote About the problem space AI has changed what's possible in go-to-market, support, and business operations. The constraint is no longer \"can we build it\" — it's \"can we deploy it into a real workflow, prove it made things better, and keep it working.\" Most companies are stuck at the demo stage: a lot of clever prompting, very little that runs reliably on Tuesday morning without someone watching it. This role exists to get us past that, everywhere outside of engineering. Little more about the team: You'll sit on the Data team, which is where this work belongs. Our team already operates at the ",
-  "track": "alt"
- },
- {
   "id": "gh-honeycomb-5449331008",
   "company": "Honeycomb",
   "ats": "greenhouse",
@@ -865,6 +880,21 @@
   "employment": null,
   "posted": "2026-10-13",
   "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5449331008",
+  "compensation": null,
+  "excerpt": "What We’re Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! We’re working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, we’ve closed Series D funding, scaled past the 200-person mark, and were named to Forbes’ America’s Best Startups of 2022 and 2023! If you want to see what we’ve been up to, please check out these blog posts and Honeycomb.io press releases . Who We Are We come for the impact, and stay for the culture! We’re a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote About the problem space AI has changed what's possible in go-to-market, support, and business operations. The constraint is no longer \"can we build it\" — it's \"can we deploy it into a real workflow, prove it made things better, and keep it working.\" Most companies are stuck at the demo stage: a lot of clever prompting, very little that runs reliably on Tuesday morning without someone watching it. This role exists to get us past that, everywhere outside of engineering. Little more about the team: You'll sit on the Data team, which is where this work belongs. Our team already operates at the ",
+  "track": "alt"
+ },
+ {
+  "id": "gh-honeycomb-5449333008",
+  "company": "Honeycomb",
+  "ats": "greenhouse",
+  "title": "Staff AI Operations Lead",
+  "location": "Remote - Canada",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-13",
+  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5449333008",
   "compensation": null,
   "excerpt": "What We’re Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! We’re working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, we’ve closed Series D funding, scaled past the 200-person mark, and were named to Forbes’ America’s Best Startups of 2022 and 2023! If you want to see what we’ve been up to, please check out these blog posts and Honeycomb.io press releases . Who We Are We come for the impact, and stay for the culture! We’re a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote About the problem space AI has changed what's possible in go-to-market, support, and business operations. The constraint is no longer \"can we build it\" — it's \"can we deploy it into a real workflow, prove it made things better, and keep it working.\" Most companies are stuck at the demo stage: a lot of clever prompting, very little that runs reliably on Tuesday morning without someone watching it. This role exists to get us past that, everywhere outside of engineering. Little more about the team: You'll sit on the Data team, which is where this work belongs. Our team already operates at the ",
   "track": "alt"
@@ -1260,21 +1290,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5261480007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Offensive Security Engineer",
-  "location": "Washington, District of Columbia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-08",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, and people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across the entirety of Anduril, spanning: hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero-days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight-critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a b",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5243855007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1285,6 +1300,21 @@
   "employment": null,
   "posted": "2026-10-08",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, and people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across the entirety of Anduril, spanning: hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero-days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight-critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a b",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5261480007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Offensive Security Engineer",
+  "location": "Washington, District of Columbia, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-08",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, and people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across the entirety of Anduril, spanning: hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero-days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight-critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a b",
   "track": "core"
@@ -1530,21 +1560,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5259072007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Security Engineer, Identity",
-  "location": "Boston, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-06",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5259071007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1555,6 +1570,21 @@
   "employment": null,
   "posted": "2026-10-06",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5259072007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Security Engineer, Identity",
+  "location": "Boston, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-06",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
   "track": "core"
@@ -2175,6 +2205,21 @@
   "track": "core"
  },
  {
+  "id": "lever-shieldai-056da995",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Senior Manager, Cybersecurity (R6149)",
+  "location": "Washington, D.C.; Washington, D.C.",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-09-29",
+  "url": "https://jobs.lever.co/shieldai/056da995-f30b-4b1c-9ebf-3e6c24c6321c",
+  "compensation": "USD 170000-250000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube.",
+  "track": "core"
+ },
+ {
   "id": "gh-gitlab-8846304002",
   "company": "GitLab",
   "ats": "greenhouse",
@@ -2367,6 +2412,21 @@
   "url": "https://jobs.ashbyhq.com/addi/92b68b7e-ae93-4313-aa53-7bd0f814d407",
   "compensation": null,
   "excerpt": "ABOUT ADDI We are a leading financial platform, building the future of payments, shopping, and banking—a world where consumers and merchants can transact effortlessly and grow together. Today, we serve over 3.6 million customers and partner with more than 55,000 merchants, making Addi Colombia’s fastest-growing marketplace. With a state-of-the-art, technology-first approach, we provide banking solutions (deposits, payments, unsecured credit) and commerce services (e-commerce, marketing), bridging the financial gap for millions and redefining how people experience financial freedom. As the country’s leading Buy Now, Pay Later provider, we have secured regulatory approval to operate as a bank, unlocking even greater opportunities for our customers. In the past year, we have also achieved profitability, reinforcing the strength of our business model and our ability to scale sustainably. Our mission has earned the trust of world-class investors, including Andreessen Horowitz, Architect Capital, GIC, Goldman Sachs, Greycroft, Monashees, Notable Capital, Quona Capital, Union Square Ventures, Victory Park Capital, and more, who back our vision for the future. With their support, we are not just growing—we are transforming Latin America’s financial ecosystem and shaping the next generation to shop, pay, and bank in Colombia. But what truly sets us apart is how we build. We are a conscious company, driven by deep experience in scaling technology, services and products, and we live by our values https://co.addi.com/trabaja-con-nosotros#:~:text=%E2%80%A2%20We%20are%20owners,dentro%20del%20equipo. every day. ABOUT THE ROLE This is where you come in. Below, you’ll find what this role is all about—the impact you’ll drive, the challenges you’ll tackle, and what it takes to thrive at A",
+  "track": "alt"
+ },
+ {
+  "id": "ashby-kong-ec3cc260",
+  "company": "Kong",
+  "ats": "ashby",
+  "title": "Senior Technical Instructor",
+  "location": "Bangalore, India",
+  "remote": false,
+  "workplace": "OnSite",
+  "employment": "FullTime",
+  "posted": "2026-09-24",
+  "url": "https://jobs.ashbyhq.com/kong/ec3cc260-7894-4613-9b05-0fe3626b159d",
+  "compensation": null,
+  "excerpt": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: The technical instructor will be responsible for classroom and virtual delivery of Kong technical training. You will be working at a hectic and fast-paced startup as a member of the education team. This team is responsible for creating and delivering both online and instructor-led training to Kong customers and partners. Above all, you’ll be acting as a stellar teammate for the rest of Kong. What You’ll Do: - Working with a diverse team of people from all over the world - Deliver in-person and virtual instructor-led training offerings to diverse audiences including engineers, solutions architects, managers and operations personnel - Managing training sessions, addressing any issues that arise and keeping learners on track - Developing and optimizing curricula and associated training materials to support our internal and external training needs - Analyzing customer training requirements - Maintaining current knowledge of relevant technology as assigned What You'll Bring: - Show passion and determination about technology - Enjoy working with others and collaborating - Self-awareness and strong communication skills are a must - Thrive in an agile work environment that requires flexibility and self-direction - Excellent organization, time management, and attention to detail - Proven ability to meet deadlines and prioritize multiple projects and deliverables - Prior experience in API management preferred - Proficient in Linux environments including Cloud and Development ",
   "track": "alt"
  },
  {
@@ -2835,6 +2895,21 @@
   "track": "alt"
  },
  {
+  "id": "lever-shieldai-afdc8f40",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Senior Engineer, Cybersecurity (R5972)",
+  "location": "Washington, D.C.; Washington, D.C.",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-09-22",
+  "url": "https://jobs.lever.co/shieldai/afdc8f40-1594-4ac6-ac1e-12178515dd66",
+  "compensation": "USD 110000-170000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: We are seeking a Senior Cybersecurity Engineer to lead cybersecurity activities for an airborne aerospace and defense platform. This role will integrate cybersecurity across avionics, mission systems, aircraft networks, communications, embedded software, and ground-support systems.",
+  "track": "core"
+ },
+ {
   "id": "gh-coinbase-8212923",
   "company": "Coinbase",
   "ats": "greenhouse",
@@ -3150,21 +3225,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5241160007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "People Program Manager",
-  "location": "Seattle, Washington, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-09-17",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241160007?gh_jid=5241160007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5240064007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -3175,6 +3235,21 @@
   "employment": null,
   "posted": "2026-09-17",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240064007?gh_jid=5240064007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5241160007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "People Program Manager",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-09-17",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241160007?gh_jid=5241160007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
   "track": "alt"
@@ -3990,6 +4065,21 @@
   "track": "core"
  },
  {
+  "id": "gh-guidepointsecurity-6148707004",
+  "company": "GuidePoint Security",
+  "ats": "greenhouse",
+  "title": "GPSU Cybersecurity Spring Internship",
+  "location": "Remote",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-08-28",
+  "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
+  "compensation": null,
+  "excerpt": "GuidePoint Security provides trusted cybersecurity expertise, solutions and services that help organizations make better decisions and minimize risk. By taking a three-tiered, holistic approach for evaluating security posture and ecosystems, GuidePoint enables some of the nation’s top organizations, such as Fortune 500 companies and U.S. government agencies, to identify threats, optimize resources and integrate best-fit solutions that mitigate risk. As an intern at GuidePoint Security, you will work closely with industry-leading subject matter experts to provide first-class cyber security services. Interns will complete in-house training programs, while working on projects to enhance their security knowledge and skills. Interns will gain experience through: Hands-On Technical Development Real-World Security Response Collaborative Project Work Team and Position Shadowing Partner-led Vendor Training and Certifications Are you a good fit for the role? We are looking for candidates eager to continue their journey within the security industry. Qualified candidates will: Be physically located within the United States during the entire duration of the internship Be available for full-time hire no later than September 2027 Be able to attend the mandatory in-person onboarding hosted in Tampa, FL (all expenses paid) Have a basic understanding of information technology, networking, operating systems and security - resume and application must clearly reflect this knowledge in order to be considered Have a genuine passion for information security Be motivated and eager to learn new skills Demonstrate a willingness to learn and use AI-enabled tools Have demonstrated efforts toward entering cybersecurity, which may include: Obtaining certifications Attending trainings Pursuing a forma",
+  "track": "core"
+ },
+ {
   "id": "gh-andurilindustries-5201899007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -4245,36 +4335,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5218594007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Security Operations Analyst",
-  "location": "Boston, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
-  "track": "core"
- },
- {
-  "id": "gh-andurilindustries-5218586007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Security Operations Analyst",
-  "location": "Seattle, Washington, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5218589007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -4300,6 +4360,36 @@
   "employment": null,
   "posted": "2026-08-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5218586007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Security Operations Analyst",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-08-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5218594007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Security Operations Analyst",
+  "location": "Boston, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-08-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
   "track": "core"
@@ -4617,6 +4707,36 @@
   "url": "https://www.coinbase.com/careers/positions/8114684?gh_jid=8114684",
   "compensation": null,
   "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . As an Internal Audit Senior Associate on the Internal Audit team within Finance, you'll execute risk-based operational and compliance audits end-to-end, covering planning, fieldwork, reporting, and remediation validation. Internal Audit is an independent, third-line function reporting directly to the Audit Committee, and this role strengthens Coinbase's control environment by evaluating governance, compliance, and risk management processes across global operations. You'll partner with first- and second-line stakeholders to identify control gaps, drive practical recommendations, and validate remediation, helping Coinbase maintain its position as the most trusted crypto platform. What you'll do: Execute end-to-end operational and compliance audits, including scoping, preliminary risk assessments, control walkthroughs, fieldwork testing (design and operating effectiveness), and reporting Own audit request tracking, open item management, and testing status, delivering proactive and transparent updates to Internal Audit leadership and cross-functional stakeholders Identify control gaps by performing root cause analysis, evaluating exception severity, and drafting risk-based recommendatio",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5205123007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Technician Trainer, Manufacturing",
+  "location": "Ashville, Ohio, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-08-06",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205123007?gh_jid=5205123007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Manufacturing Production team is responsible for a wide range of activities that are crucial to the manufacturing process including operating equipment, assembling products, performing quality control checks, and maintaining a safe and efficient work environment. The Manufacturing Training and Development team plays a critical role in equipping employees with the skills, knowledge, and resources needed to excel in their roles. They design, develop, and deliver training programs that enhance technical proficiency, ensure compliance, and support career growth within the organization. This position offers an opportunity to contribute to a growing training function while enhancing our employee’s training experiences. ABOUT THE JOB We are seeking a Technician Trainer to join the team to develop and deliver training programs for our Manufacturing teams supporting our Cutting Edge Production Lines at Arsenal (Ohio). This role is essential to building a skilled workforce that adheres to safety protocols, quality standards, and operational efficiency",
+  "track": "alt"
+ },
+ {
+  "id": "lever-shieldai-a0d0acf8",
+  "company": "Shield AI",
+  "ats": "lever",
+  "title": "Cybersecurity Platform Engineer (R5531)",
+  "location": "Seattle, Washington; Seattle, Washington",
+  "remote": false,
+  "workplace": "onsite",
+  "employment": "Full Time Employee",
+  "posted": "2026-08-05",
+  "url": "https://jobs.lever.co/shieldai/a0d0acf8-5c01-43d0-9bb7-3a0433280302",
+  "compensation": "USD 190000-280000 per-year-salary",
+  "excerpt": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai. Follow Shield AI on LinkedIn, X, Instagram, and YouTube. Job Description: We are seeking an experienced Cybersecurity Platform Engineer to engage in the design, implementation, and optimization of complex software and network infrastructures. This role requires deep expertise across network engineering, cybersecurity protocols, and server room / hardware infrastructure, with a strong ability to communicate and develop Base Media Solutions. The ideal candidate will operate in a hands-on manner, serving as a technical expert and a key contributor in decision-making across network and infrastructure domains.",
   "track": "core"
  },
  {
@@ -5250,6 +5370,21 @@
   "track": "core"
  },
  {
+  "id": "ashby-10xteam-a3ae1d3b",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Chief Technology Officer - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+  "location": "Ireland",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-06-18",
+  "url": "https://jobs.ashbyhq.com/10xteam/a3ae1d3b-454e-427a-a67a-828e7560b857",
+  "compensation": "€100 – €180 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced technology leader ready to shape the evolution of artificial intelligence? Join 10x Team as a Freelance Chief Technology Officer (CTO) – AI Trainer and leverage your expertise to guide and enhance advanced AI models, all while enjoying the flexibility of remote, project-based work. About Us 10x Team connects top independent professionals with cutting-edge AI labs to accelerate progress in artificial intelligence. We are seeking EU or UK-based CTOs and senior technology experts to train and refine AI systems on executive technology leadership, product strategy, technical architecture, and organizational best practices. Key Responsibilities - Review and refine AI-generated content relating to executive technology management, technical strategy, and digital transformation - Evaluate the accuracy and practicality of AI suggestions on technology vision, team structure, and business alignment - Create real-world scenarios and case studies based on your CTO or senior tech leadership experience - Generate scenario variations that reflect best practices, forward-thinking tech strategies, and industry standards - Identify risks, gaps, or ambiguities in AI-generated content, providing actionable, structured feedback to boost accuracy - Guide AI systems to better understand and apply key CTO-level decision-making and technology leadership concepts About You - Experienced CTO or senior technology leader with deep knowledge in tech strategy, digital transformation, and executive decision-making - Based in the EU or UK - Skilled in technical leadership, organizational design, product development, and innovation management - Analytical, detail-oriented, and able to provide clear, constructive feedback - Available for 8–2",
+  "track": "alt"
+ },
+ {
   "id": "ashby-10xteam-4bd8fef5",
   "company": "10x Team",
   "ats": "ashby",
@@ -5262,7 +5397,7 @@
   "url": "https://jobs.ashbyhq.com/10xteam/4bd8fef5-086f-417a-bf1f-e6cc89f23580",
   "compensation": "€103 – €159 per hour",
   "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced security architect who instinctively spots gaps in security reasoning and understands the complex realities of security architecture? Do you have 8 to 20 hours per week available alongside your main job or consulting projects? Join us in shaping how AI understands and applies security architecture expertise at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are looking for knowledgeable security architects based in the EU or UK to enhance the accuracy, depth, and real-world relevance of AI-powered security systems. What You Will Do - Review and refine AI-generated outputs related to security architecture, cyber risk assessments, mitigation strategies, and practical aspects of security design - Evaluate AI responses for accuracy, practicality, and compliance with real-world security requirements - Draft realistic security architecture scenarios based on your direct professional experience - Create scenario variations from different perspectives (e.g. security architect, client, IT leader, or regulator) - Identify gaps, oversights, or weak reasoning in AI-generated security content In simple terms: You will assess and improve AI-generated content, ensuring it reflects true security architecture reasoning, authentic security documentation, and practical procedures. Rather than conducting traditional security architecture projects, you’ll apply your expertise to help AI systems understand and reason about security architecture at scale. Who You Are - A senior-level security architect with significant professional experience within the EU or UK - Experienced in advising on, preparing, and executing security architectures and cybersecurity solu",
-  "track": "core"
+  "track": "alt"
  },
  {
   "id": "gh-guidepointsecurity-6094965004",
@@ -5655,6 +5790,36 @@
   "track": "core"
  },
  {
+  "id": "ashby-10xteam-428bf33f",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Data Scientist - AI Trainer - Freelance - 8-20hr p/w - Remote",
+  "location": "UK",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-05-28",
+  "url": "https://jobs.ashbyhq.com/10xteam/428bf33f-749b-4653-86cb-aeb05104bb68",
+  "compensation": "€88 – €121 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced data scientist who instinctively spots gaps in analytical reasoning and understands the complex realities of data science in a business context? Do you have 8 to 20 hours per week available alongside your main job or consulting projects? Join us in shaping how AI understands and applies data science expertise at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are looking for knowledgeable data scientists based in the EU or UK to enhance the accuracy, depth, and real-world relevance of AI-powered data science solutions. What You Will Do - Review and refine AI-generated outputs related to data science, machine learning, statistical modeling, and practical aspects of deploying data-driven solutions - Evaluate AI responses for accuracy, application of statistical and machine learning methods, and compliance with real-world requirements - Draft realistic data science scenarios based on your direct professional experience - Create scenario variations from different perspectives (e.g. data scientist, business stakeholder, manager, or client) - Identify gaps, oversights, or weak reasoning in AI-generated data science content In simple terms: You will assess and improve AI-generated content, ensuring it reflects true data science reasoning, authentic documentation, and practical analytical procedures. Rather than conducting traditional data science projects, you’ll apply your expertise to help AI systems understand and reason about data science at scale. Who You Are - A senior-level data scientist with significant professional experience within the EU or UK - Experienced in advising on, preparing, and executing data science or machine learning pro",
+  "track": "alt"
+ },
+ {
+  "id": "ashby-10xteam-cf3c449d",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Software Architect - AI Trainer - Freelance - 8-20hrs/week - Remote",
+  "location": "Germany",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-05-28",
+  "url": "https://jobs.ashbyhq.com/10xteam/cf3c449d-0a87-46f8-b0a8-c274a01fe7d4",
+  "compensation": "€105 – €159 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Software Architect – AI Trainer (Freelance, 8–20 hrs/week, Remote – EU/UK) Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an accomplished software architect eager to apply your expertise in shaping how AI systems comprehend and apply software architecture? Do you have 8–20 hours per week available to work alongside your current commitments? Join 10x Team and make a lasting impact on advancing AI-driven technology. About the Role 10x Team matches expert freelance talent with leading AI labs developing next-generation technology. We are seeking experienced software architects based in the EU or UK to help enhance the quality, accuracy, and real-world value of AI-powered systems. Key Responsibilities: - Review and refine AI-generated outputs covering software architecture, system design, code patterns, and practical software development - Evaluate AI responses for technical correctness, viability, and compliance with actual development practices - Draft realistic software architecture scenarios drawn from your hands-on professional background - Develop scenario variations from diverse viewpoints (architect, client, developer, or project manager) - Pinpoint gaps, oversights, or flawed reasoning in AI-generated technical content In essence: You’ll leverage your architectural expertise to improve how AI learns and reasons, ensuring content matches authentic processes, documentation, and decision-making in real projects. About You: - Senior-level software architect with substantial EU or UK professional experience - Proven track record in advising, preparing, and leading architecture and system design projects - Skilled at critiquing technical solutions, architectural documentation, and industry standards compliance - Self-motivat",
+  "track": "alt"
+ },
+ {
   "id": "ashby-10xteam-5bfdd5fe",
   "company": "10x Team",
   "ats": "ashby",
@@ -5667,7 +5832,7 @@
   "url": "https://jobs.ashbyhq.com/10xteam/5bfdd5fe-176c-497c-b249-b4d18fb53f95",
   "compensation": "€103 – €159 per hour",
   "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced security architect who instinctively spots gaps in security reasoning and understands the complex realities of security architecture? Do you have 8 to 20 hours per week available alongside your main job or consulting projects? Join us in shaping how AI understands and applies security architecture expertise at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are looking for knowledgeable security architects based in the EU or UK to enhance the accuracy, depth, and real-world relevance of AI-powered security systems. What You Will Do - Review and refine AI-generated outputs related to security architecture, cyber risk assessments, mitigation strategies, and practical aspects of security design - Evaluate AI responses for accuracy, practicality, and compliance with real-world security requirements - Draft realistic security architecture scenarios based on your direct professional experience - Create scenario variations from different perspectives (e.g. security architect, client, IT leader, or regulator) - Identify gaps, oversights, or weak reasoning in AI-generated security content In simple terms: You will assess and improve AI-generated content, ensuring it reflects true security architecture reasoning, authentic security documentation, and practical procedures. Rather than conducting traditional security architecture projects, you’ll apply your expertise to help AI systems understand and reason about security architecture at scale. Who You Are - A senior-level security architect with significant professional experience within the EU or UK - Experienced in advising on, preparing, and executing security architectures and cybersecurity solu",
-  "track": "core"
+  "track": "alt"
  },
  {
   "id": "ashby-10xteam-7154c900",
@@ -5712,7 +5877,7 @@
   "url": "https://jobs.ashbyhq.com/10xteam/a2036297-503d-4b22-b4d1-53bb64ae3faa",
   "compensation": "€103 – €200 per hour",
   "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced data privacy professional or DPO who can quickly identify compliance gaps and understands the complex realities of data protection in business? Do you have 8 to 20 hours per week available alongside your main role or consulting projects? Join us in shaping how AI comprehends and applies data privacy principles at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are seeking seasoned Data Protection Officers and data privacy experts based in the EU or UK to enhance the accuracy, depth, and real-world application of AI-powered privacy systems. What You Will Do - Review and refine AI-generated content across topics such as GDPR compliance, data protection strategies, privacy risk management, and regulatory frameworks - Evaluate AI responses for regulatory accuracy, practical soundness, and real-world applicability - Draft realistic data privacy scenarios and case studies drawn from your direct experience - Create scenario variations from multiple viewpoints (e.g. DPO, compliance officer, business executive, regulator) - Identify gaps, oversights, or weak logic in AI-generated privacy content In simple terms: You’ll assess and improve AI-generated data privacy content, ensuring it reflects genuine regulatory understanding, practical compliance measures, and current best practices. Instead of performing traditional DPO tasks, you’ll channel your expertise into helping AI systems deeply understand and reason about privacy and protection at scale. Who You Are - Senior data privacy/protection officer (DPO), compliance lead, in-house counsel, privacy consultant, or similar professional - Based in and eligible to work in the EU or UK - Several years ",
-  "track": "core"
+  "track": "alt"
  },
  {
   "id": "ashby-10xteam-1f4b3e07",
@@ -5727,7 +5892,7 @@
   "url": "https://jobs.ashbyhq.com/10xteam/1f4b3e07-9315-4c44-841a-9a8a67a71264",
   "compensation": "€90 – €180 per hour",
   "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced compliance specialist or regulatory expert who easily spots gaps in reasoning and understands the complexities of compliance in dynamic environments? Do you have 8 to 20 hours per week available alongside your current role or consulting projects? Join us in shaping how AI understands and applies compliance and regulatory strategies at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are seeking experienced compliance professionals based in the EU or UK to enhance the accuracy, detail, and practical value of AI-powered compliance solutions. What You Will Do - Review and refine AI-generated outputs on topics such as regulatory compliance, risk management, policy development, and audit processes - Evaluate AI responses for regulatory accuracy, commercial realism, and real-world applicability - Draft realistic compliance scenarios and case studies based on your hands-on experience - Create scenario variations from diverse stakeholder perspectives (e.g. compliance officer, risk manager, executive, or auditor) - Identify gaps, flaws, or oversimplifications in AI-generated compliance content In simple terms: You will assess and improve AI-generated compliance content, ensuring it embodies genuine regulatory expertise, logical accuracy, and best practices. Rather than performing traditional compliance work, you’ll leverage your practical experience to help AI systems understand and reason about compliance functions at scale. Who You Are - A senior compliance specialist, regulatory consultant, risk manager, or similar professional - Based in and eligible to work in the EU or UK - Several years of hands-on compliance, regulatory, or risk management ",
-  "track": "core"
+  "track": "alt"
  },
  {
   "id": "ashby-10xteam-38707090",
@@ -5743,6 +5908,36 @@
   "compensation": "€80 – €158 per hour",
   "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced quality assurance professional who instinctively spots gaps in QA reasoning and understands the complex realities of quality management? Do you have 8 to 20 hours per week available alongside your main job or consulting projects? Join us in shaping how AI understands and applies quality assurance expertise at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are looking for skilled Quality Assurance Leads or specialists based in the EU or UK to enhance the accuracy, depth, and real-world relevance of AI-powered quality systems. What You Will Do - Review and refine AI-generated outputs related to quality controls, process validation, risk assessment, and compliance - Evaluate AI responses for technical accuracy, practicality, and compliance with real-world requirements - Draft realistic QA scenarios based on your direct professional experience - Create scenario variations from different perspectives (e.g. quality managers, auditors, operations leads) - Identify gaps, oversights, or weak reasoning in AI-generated QA content In simple terms: You will assess and improve AI-generated content, ensuring it reflects true QA reasoning, best industry practices, and operational procedures. Rather than conducting traditional QA work, you’ll apply your expertise to help AI systems understand and reason about quality assurance processes at scale. Who You Are - An experienced quality assurance lead or specialist with significant professional experience within the EU or UK - Experienced in managing, validating, or improving quality processes and compliance - Skilled at evaluating technical documents, workflows, and standards alignment - Comfortable working",
   "track": "core"
+ },
+ {
+  "id": "ashby-10xteam-65d35ae0",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Data Architect - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+  "location": "France",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-05-28",
+  "url": "https://jobs.ashbyhq.com/10xteam/65d35ae0-276b-4b64-9770-293919c160f7",
+  "compensation": "€120 – €160 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Data Architect - AI Trainer - Freelance - 8–20 hrs/week - Remote (EU/UK) Are you an experienced Data Architect passionate about advancing the capabilities of AI in data management, modeling, and analysis? Join 10x Team as a freelance AI Trainer and leverage your expertise to develop AI tools that reflect authentic data architecture scenarios, challenges, and industry standards. About the Role We are seeking skilled Data Architects or specialists with a strong background in data modeling, database design, data integration, and architecture planning. In this flexible, remote freelance position, you will train AI systems to accurately interpret and simulate real-world data architecture use cases, ensuring AI outputs reflect best practices and support genuine business needs. This is an excellent opportunity for data professionals interested in shaping next-generation AI solutions within their field. What You’ll Do - Review and refine AI-generated content focused on data modeling, storage solutions, data governance, and system integration - Assess the accuracy, clarity, and technical soundness of AI outputs related to data architecture and management - Design and enhance realistic data architecture scenarios and case studies - Generate scenario variations from perspectives such as data architects, engineers, and analysts - Identify potential improvements or risks in AI-driven data solutions - Collaborate on developing AI-powered tools for data analysis, modeling, and reporting Who We’re Looking For - Experienced Data Architects or professionals with expertise in data modeling, integration, warehousing, and architecture planning (EU/UK focus a plus) - Background in database management, governance, and large-scale data systems - Skill",
+  "track": "alt"
+ },
+ {
+  "id": "ashby-10xteam-8d8b452f",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Software Engineer - AI Trainer - Remote - 8/20 hrs week - Freelance",
+  "location": "UK",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-05-28",
+  "url": "https://jobs.ashbyhq.com/10xteam/8d8b452f-8359-4db4-85c8-4e7b466d2ce0",
+  "compensation": "€60 – €110 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced software engineer who instinctively spots gaps in technical reasoning and understands the complex realities of software development? Do you have 8 to 20 hours per week available alongside your main job or freelance projects? Join us in shaping how AI understands and applies software engineering expertise at scale. About the Role 10x.team connects expert freelancers with leading AI labs building next-generation models. We are looking for knowledgeable software engineers based in the EU or UK to enhance the accuracy, depth, and real-world relevance of AI-powered engineering systems. What You Will Do - Review and refine AI-generated outputs related to software engineering, technical documentation, code quality, and practical aspects of software development - Evaluate AI responses for technical accuracy, practicality, and alignment with real-world development standards - Draft realistic engineering scenarios based on your direct professional experience - Create scenario variations from different perspectives (e.g. engineer, client, product manager, or stakeholder) - Identify gaps, oversights, or weak reasoning in AI-generated engineering content In simple terms: You will assess and improve AI-generated content, ensuring it reflects true engineering reasoning, authentic technical documentation, and practical workflows. Rather than conducting traditional development projects, you’ll apply your expertise to help AI systems understand and reason about software engineering at scale. Who You Are - A senior-level software engineer with significant professional experience within the EU or UK - Experienced in advising on, preparing, and executing software projects and technical deliverables - Skilled at evaluating cod",
+  "track": "alt"
  },
  {
   "id": "ashby-10xteam-c1771c74",
@@ -5788,6 +5983,36 @@
   "compensation": null,
   "excerpt": "SentiLink https://www.sentilink.com/ helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process. The problems we work on are challenging, and solving them takes deep domain expertise, rigorous analysis, and a willingness to dig into the details. At SentiLink, you'll work alongside smart, highly collaborative colleagues who respect each other's time and judgment, take ownership, and follow through on their commitments. Together, we do truly meaningful work protecting the identities of innocent consumers and flagging the fraudsters attempting to exploit them. We're well capitalized and growing quickly. We already serve 13 of the top 15 U.S. banks, we're expanding into new markets, and we're backed by Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. We've been named to the Forbes Fintech 50 https://www.forbes.com/companies/sentilink/?list=fintech50 and as a 2026 FICO Industry Vanguard Decision Award Winner https://www.businesswire.com/news/home/20260330439998/en/SentiLink-Named-a-2026-FICO-Industry-Vanguard-Decision-Award-Winner-for-Leadership-in-Identity-Theft-Detection. We were also the first company to go live https://resources.sentilink.com/blog/sentilink-makes-history-as-first-ecbsv-provider with the electronic Consent Based Social Security Number Verification (eCBSV) service, and we've testified before the U.S. Congress https://resources.sentilink.com/media/dr.-david-maimons-congressional-testimony-on-emerging-fraud-threats-and-the-evolving-fraud-landscape on the future of identity. We want SentiLink to be the best place you've ever worked. We offer generous benefits and support a range of working arrangements, from fu",
   "track": "core"
+ },
+ {
+  "id": "ashby-10xteam-c5c8424b",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Data Architect - AI Trainer - Freelance - 8-20hrs/week - Remote",
+  "location": "Germany",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-05-26",
+  "url": "https://jobs.ashbyhq.com/10xteam/c5c8424b-81a3-4a36-be86-5f12b0cc5ea3",
+  "compensation": "€99 – €159 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you a senior data architect with a sharp eye for spotting gaps in data architecture and a strong grasp of building robust data systems? Do you want to leverage your expertise to help AI learn the realities of data architecture, all while enjoying flexibility and remote work? Join 10x Team and make a difference in how advanced AI models reason about data architecture at scale. About Us 10x Team connects seasoned freelance experts with world-leading AI labs developing the next generation of AI models. We are searching for experienced data architects based in the EU or UK to ensure our AI-generated solutions are industry-relevant, comprehensive, and realistic. Key Responsibilities: - Review and refine AI-generated content related to data architecture, system design, data integration, and realistic architectural scenarios. - Evaluate responses for architectural soundness, scalability, and compliance with real-world requirements. - Draft scenarios based on your hands-on professional experience in data architecture. - Create scenario variations from multiple perspectives (e.g., data architect, engineer, business stakeholder, client). - Identify gaps, oversights, or weak reasoning in AI-generated outputs and provide structured feedback. In plain terms: Your job is to apply and communicate your data architecture expertise, ensuring AI systems learn from authentic, practical, and accurate real-world examples. Rather than directly designing systems, you'll help AI model how architects think and solve problems. About You: - Senior-level data architect with substantial professional experience. - You must be located in the EU or UK to be eligible. - Proven ability to advise on, prepare, and execute data architecture projects or enterpri",
+  "track": "alt"
+ },
+ {
+  "id": "ashby-10xteam-e473c77a",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Principal Software Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
+  "location": "Portugal",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-05-26",
+  "url": "https://jobs.ashbyhq.com/10xteam/e473c77a-319f-44f3-9b4f-17a7057d473e",
+  "compensation": "€93 – €159 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an accomplished Principal Software Engineer passionate about shaping the future of artificial intelligence? Join 10x Team as a Freelance Principal Software Engineer – AI Trainer and leverage your technical expertise to enhance advanced AI models, all while enjoying the freedom of remote, project-based work. About Us: 10x Team connects top independent professionals with leading AI labs to drive artificial intelligence advancement. We are looking for skilled software engineers based in the EU or UK to contribute to the training of AI systems in software architecture, engineering best practices, and technical problem-solving. Key Responsibilities: - Review and refine AI-generated outputs related to software engineering, system architecture, and coding standards - Assess the accuracy and practicality of AI-driven recommendations on software design, testing, and implementation - Develop real-world case studies and technical scenarios from your professional experience - Create scenario variations covering software development lifecycle, technical challenges, and industry best practices - Identify and articulate gaps or risks in AI recommendations, providing clear, structured feedback - Influence how AI systems interpret and apply engineering principles and coding standards About You: - Experienced Principal Software Engineer with a strong background in software architecture, development, and technical leadership - Based in the EU or UK - Deep understanding of multiple programming languages, architectural patterns, and software development best practices - Analytical and detail-oriented, capable of delivering actionable, structured feedback - Available 8–20 hours per week and comfortable with remote, asynchronous collaboration",
+  "track": "alt"
  },
  {
   "id": "gh-andurilindustries-5143540007",
@@ -6045,6 +6270,21 @@
   "track": "core"
  },
  {
+  "id": "ashby-10xteam-dee6dd00",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Cloud Architect - AI Trainer - Freelance - 8-20hrs/week - Remote",
+  "location": "Spain",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-04-03",
+  "url": "https://jobs.ashbyhq.com/10xteam/dee6dd00-1420-4d87-8afb-eeb4255ddd4c",
+  "compensation": "€101 – €160 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an experienced cloud architect looking to apply your expertise to advance AI-powered technology? Do you have 8–20 hours per week available to contribute alongside your current projects? Join 10x Team and help shape how AI understands and applies real-world cloud architecture. About the Role 10x Team matches expert freelance professionals with leading AI labs to develop next-generation solutions. We are seeking knowledgeable cloud architects based in the EU or UK to help improve the quality, technical accuracy, and practical relevance of AI-driven systems. Key Responsibilities: - Review and enhance AI-generated outputs related to cloud architecture concepts, system design, best practices, and service deployment - Assess AI responses for technical correctness, feasibility, and alignment with true cloud architecture practices - Develop realistic cloud infrastructure and migration scenarios leveraging your professional background - Generate scenario variations from the perspectives of architects, clients, devops engineers, or project managers - Identify technical gaps, misconceptions, or faulty assumptions in AI-generated content In short: Leverage your cloud expertise to ensure AI training data accurately reflects real-life decision-making, documentation, and processes used by experienced professionals. About You: - Senior-level cloud architect with substantial professional experience in the EU or UK - Strong background advising on, designing, and implementing cloud ecosystems and migrations - Skilled in critiquing technical solutions, architectural documents, and best practices - Organized, detail-oriented, and capable of providing actionable, critical feedback independently - Available for 8–20 hours weekly with timely c",
+  "track": "alt"
+ },
+ {
   "id": "gh-andurilindustries-5078667007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -6103,6 +6343,21 @@
   "compensation": null,
   "excerpt": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors https://www.skydio.com/solutions/energy-and-utilities to first responders https://www.skydio.com/solutions/public-safety, soldiers in battlefield scenarios https://www.skydio.com/solutions/national-security/tactical-isr, and beyond https://www.skydio.com/solutions. ABOUT THE ROLE Skydio’s mission is to make the world more productive, creative, and safe through autonomous flight. We are seeking an Aviation Compliance Lead to join our Global Aviation Regulatory team. This role will serve as the responsible compliance lead for Skydio-held aviation authorizations and approvals. You will partner closely with regulatory, flight operations, training, and program stakeholders to standardize processes and ensure operational compliance at scale. This is the opportunity of a lifetime. Skydio is the largest American drone company whose products are used by thousands of organizations across critical infrastructure, public safety, energy utilities and many sectors. If you want to enable life-saving missions and join a rocket-ship company that is transforming drone technology, this is the job for you. HOW YOU’LL MAKE AN IMPACT This is a hands-on, high-ownership role at the core of Skydio’s aviation safety and compliance culture, where you will: - Serve as the responsible lead for Skydio-held aviation authorizations and operational approvals. - Manage FAA drone registrations, product compli",
   "track": "core"
+ },
+ {
+  "id": "ashby-10xteam-b9682970",
+  "company": "10x Team",
+  "ats": "ashby",
+  "title": "Principal Software Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
+  "location": "UK",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "Contract",
+  "posted": "2026-03-15",
+  "url": "https://jobs.ashbyhq.com/10xteam/b9682970-941a-484b-b193-3df0c3db36c7",
+  "compensation": "€93 – €159 per hour",
+  "excerpt": "Freelance | 8–20 hrs/week | Remote (EU/UK) Are you an accomplished Principal Software Engineer passionate about shaping the future of artificial intelligence? Join 10x Team as a Freelance Principal Software Engineer – AI Trainer and leverage your technical expertise to enhance advanced AI models, all while enjoying the freedom of remote, project-based work. About Us: 10x Team connects top independent professionals with leading AI labs to drive artificial intelligence advancement. We are looking for skilled software engineers based in the EU or UK to contribute to the training of AI systems in software architecture, engineering best practices, and technical problem-solving. Key Responsibilities: - Review and refine AI-generated outputs related to software engineering, system architecture, and coding standards - Assess the accuracy and practicality of AI-driven recommendations on software design, testing, and implementation - Develop real-world case studies and technical scenarios from your professional experience - Create scenario variations covering software development lifecycle, technical challenges, and industry best practices - Identify and articulate gaps or risks in AI recommendations, providing clear, structured feedback - Influence how AI systems interpret and apply engineering principles and coding standards About You: - Experienced Principal Software Engineer with a strong background in software architecture, development, and technical leadership - Based in the EU or UK - Deep understanding of multiple programming languages, architectural patterns, and software development best practices - Analytical and detail-oriented, capable of delivering actionable, structured feedback - Available 8–20 hours per week and comfortable with remote, asynchronous collaboration",
+  "track": "alt"
  },
  {
   "id": "gh-coinbase-7611263",
@@ -6180,21 +6435,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5041620007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Product Security Engineer, Programs",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-02-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5042718007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -6205,6 +6445,21 @@
   "employment": null,
   "posted": "2026-02-04",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5041620007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Product Security Engineer, Programs",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-02-04",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor",
   "track": "core"
