@@ -269,15 +269,17 @@ def company_signals(company, ats, slug, payload):
 
 # "Otras vías": operations and leadership roles outside security that Lara also applies to
 ALT_RE = re.compile(
-    r"\b(chief of staff|chief operating officer|coo|integrator|head of (business )?op(eration)?s|"
+    r"\b(chief of staff|chief operating officer|coo|eos integrator|fractional integrator|"
+    r"head of (business )?op(eration)?s|"
     r"(director|vp|vice president|head|lead)[ ,]+(of )?(business |strategy (and|&) )?operations|"
-    r"operations (director|lead)|business operations|bizops|strategy (and|&) operations|"
-    r"(senior |principal |staff )?(technical )?program(me)? manager|(senior |principal )?program(me)? lead|"
-    r"head of programs?|pmo)\b",
+    r"operations (director|lead)|business operations (lead|manager|director)|bizops|strategy (and|&) operations|"
+    r"(senior |principal |staff |lead )?program(me)? manager|head of programs?|pmo|"
+    r"(operational|enterprise|third[- ]party|vendor) risk|internal audit|ai governance|responsible ai|trust (and|&) safety)\b",
     re.I,
 )
-ALT_EXCLUDE = re.compile(r"\b(intern|internship|junior|graduate|sales operations|revenue operations|revops|"
-                         r"warehouse|fulfil+ment|logistics|clinical|nurse)\b", re.I)
+ALT_EXCLUDE = re.compile(r"\b(intern|internship|junior|graduate|associate|analyst|sales operations|revenue operations|revops|"
+                         r"warehouse|fulfil+ment|logistics|clinical|nurse|technical program|channel|partner|production|"
+                         r"manufacturing|supply chain|construction|engineering program|hardware|clearance)\b", re.I)
 
 
 def relevant(job):
