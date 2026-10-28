@@ -25,9 +25,19 @@
   "url": "https://www.linkedin.com/jobs/view/4480268795/"
  },
  {
+  "id": "jobgether-297e968c",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61"
+ },
+ {
   "id": "ashby-aufinity-group-a12f6c12",
   "coll": "jobs",
   "url": "https://jobs.ashbyhq.com/aufinity-group/a12f6c12-eaf3-49cd-a45b-e9e146ea3a32"
+ },
+ {
+  "id": "li-4473393070",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4473393070/"
  },
  {
   "id": "gh-sourcegraph91-6209697004",
@@ -43,6 +53,11 @@
   "id": "ashby-supabase-13478d3f",
   "coll": "jobs",
   "url": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f"
+ },
+ {
+  "id": "lever-myob-8754cf16",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
  },
  {
   "id": "li-4482317639",
@@ -65,28 +80,23 @@
   "url": "https://parikhholdings.na.teamtailor.com/en/jobs/85986-eos-integrator-chief-operating-officer-coo-remote-tech-travel-company"
  },
  {
-  "id": "himalayas-tions-expert",
-  "coll": "alt",
-  "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api"
- },
- {
   "id": "jobgether-a80049aa",
   "coll": "alt",
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  },
  {
+  "id": "builtin-kobalt-9341491",
+  "coll": "jobs",
+  "url": "https://builtin.com/job/vciso-contractor-emea/9341491"
+ },
+ {
+  "id": "web-ppro-headofgrc",
+  "coll": "jobs",
+  "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+ },
+ {
   "id": "gofractional--ciso-remote-workforce-security-cmviuik6",
   "coll": "jobs",
   "url": "https://www.gofractional.com/job/fractional-ciso-remote-workforce-security-cmviuik6"
- },
- {
-  "id": "jobgether-297e968c",
-  "coll": "jobs",
-  "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61"
- },
- {
-  "id": "li-4473393070",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4473393070/"
  }
 ]
