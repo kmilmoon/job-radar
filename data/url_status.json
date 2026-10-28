@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-27T09:26:09+00:00",
+ "checked": "2026-10-28T05:04:53+00:00",
  "items": {
   "jobs/weworkremotely-c68001cc34": {
    "status": "open",
@@ -31,11 +31,23 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4480268795/"
   },
+  "jobs/jobgether-297e968c": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61"
+  },
   "jobs/ashby-aufinity-group-a12f6c12": {
    "status": "open",
    "reason": "Sigue en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/aufinity-group/a12f6c12-eaf3-49cd-a45b-e9e146ea3a32"
+  },
+  "jobs/li-4473393070": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4473393070/"
   },
   "jobs/gh-sourcegraph91-6209697004": {
    "status": "open",
@@ -54,6 +66,12 @@
    "reason": "Sigue en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f"
+  },
+  "jobs/lever-myob-8754cf16": {
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
+   "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
   },
   "jobs/li-4482317639": {
    "status": "unknown",
@@ -79,35 +97,29 @@
    "http": 410,
    "url": "https://parikhholdings.na.teamtailor.com/en/jobs/85986-eos-integrator-chief-operating-officer-coo-remote-tech-travel-company"
   },
-  "alt/himalayas-tions-expert": {
-   "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api"
-  },
   "alt/jobgether-a80049aa": {
    "status": "closed",
    "reason": "Lever ya no la tiene",
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   },
+  "jobs/builtin-kobalt-9341491": {
+   "status": "open",
+   "reason": "La página sigue mostrando la opción de aplicar",
+   "http": 200,
+   "url": "https://builtin.com/job/vciso-contractor-emea/9341491"
+  },
+  "jobs/web-ppro-headofgrc": {
+   "status": "closed",
+   "reason": "La página da error 404",
+   "http": 404,
+   "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+  },
   "jobs/gofractional--ciso-remote-workforce-security-cmviuik6": {
    "status": "closed",
    "reason": "La página dice que la oferta está cerrada",
    "http": 200,
    "url": "https://www.gofractional.com/job/fractional-ciso-remote-workforce-security-cmviuik6"
-  },
-  "jobs/jobgether-297e968c": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61"
-  },
-  "jobs/li-4473393070": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4473393070/"
   }
  }
 }
