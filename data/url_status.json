@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-28T10:10:18+00:00",
+ "checked": "2026-10-29T04:52:28+00:00",
  "items": {
   "jobs/weworkremotely-c68001cc34": {
    "status": "open",
@@ -61,12 +61,6 @@
    "http": 200,
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
   },
-  "jobs/ashby-supabase-13478d3f": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f"
-  },
   "jobs/lever-myob-8754cf16": {
    "status": "closed",
    "reason": "Lever ya no la tiene",
@@ -103,23 +97,11 @@
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   },
-  "jobs/builtin-kobalt-9341491": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
+  "jobs/workable-plainconcepts-287FD7D4": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
    "http": 200,
-   "url": "https://builtin.com/job/vciso-contractor-emea/9341491"
-  },
-  "jobs/web-ppro-headofgrc": {
-   "status": "closed",
-   "reason": "La página da error 404",
-   "http": 404,
-   "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
-  },
-  "jobs/gofractional--ciso-remote-workforce-security-cmviuik6": {
-   "status": "closed",
-   "reason": "La página dice que la oferta está cerrada",
-   "http": 200,
-   "url": "https://www.gofractional.com/job/fractional-ciso-remote-workforce-security-cmviuik6"
+   "url": "https://apply.workable.com/plainconcepts/jobs/view/287FD7D4F7"
   }
  }
 }
