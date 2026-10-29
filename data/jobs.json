@@ -15,6 +15,21 @@
   "track": "core"
  },
  {
+  "id": "gh-coinbase-8333165",
+  "company": "Coinbase",
+  "ats": "greenhouse",
+  "title": "Staff Machine Learning Engineer, Compliance Automation (Platform)",
+  "location": "Remote - USA",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-29",
+  "url": "https://www.coinbase.com/careers/positions/8333165?gh_jid=8333165",
+  "compensation": null,
+  "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . As a Staff Machine Learning Engineer on the Compliance Automation team within the Platform group, you'll build the AI systems that are reimagining how Coinbase executes compliance operations at scale. This team designs and ships Agentic AI solutions that automate compliance processes, from investigation workflows to decision support, replacing manual operations with intelligent, auditable, and measurable automation. You'll own the ML architecture for production compliance agents, driving technical decisions on model selection, grounding, guardrails, and evaluation while partnering with Compliance stakeholders to ensure every automated output meets regulatory standards. What You'll Do: Architect and build production Agentic AI systems for compliance automation, including LLM-powered agents, orchestration pipelines, and decision support workflows that replace manual compliance processes Own the ML technical direction for compliance agents, driving model selection, prompt engineering, grounding strategies, and guardrail design that ensure agent outputs are accurate, auditable, and regulatorily defensible Design and implement evaluation and measurement frameworks that quantify agent per",
+  "track": "core"
+ },
+ {
   "id": "ashby-pliant-c944d7e9",
   "company": "Pliant",
   "ats": "ashby",
@@ -465,21 +480,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270947007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Program Manager, Maritime",
-  "location": "Quincy, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5269746007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -490,6 +490,21 @@
   "employment": null,
   "posted": "2026-10-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269746007?gh_jid=5269746007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5270947007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Program Manager, Maritime",
+  "location": "Quincy, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
   "track": "alt"
@@ -540,16 +555,16 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270612007",
+  "id": "gh-andurilindustries-5257493007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Global Mobility Program Manager, Tax",
-  "location": "Seattle, Washington, United States",
+  "location": "Costa Mesa, California, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-10-20",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270612007?gh_jid=5270612007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257493007?gh_jid=5257493007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
   "track": "alt"
@@ -570,16 +585,16 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5257493007",
+  "id": "gh-andurilindustries-5270612007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Global Mobility Program Manager, Tax",
-  "location": "Costa Mesa, California, United States",
+  "location": "Seattle, Washington, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-10-20",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257493007?gh_jid=5257493007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270612007?gh_jid=5270612007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
   "track": "alt"
@@ -1245,21 +1260,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5262722007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior People Program Manager",
-  "location": "Boston, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-09",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262722007?gh_jid=5262722007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5262718007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1270,6 +1270,21 @@
   "employment": null,
   "posted": "2026-10-09",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262718007?gh_jid=5262718007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5262722007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior People Program Manager",
+  "location": "Boston, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-09",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262722007?gh_jid=5262722007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
   "track": "alt"
@@ -4305,6 +4320,21 @@
   "track": "core"
  },
  {
+  "id": "gh-andurilindustries-5201053007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Security Operations Analyst",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-08-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
+  "track": "core"
+ },
+ {
   "id": "gh-andurilindustries-5218586007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -4330,21 +4360,6 @@
   "employment": null,
   "posted": "2026-08-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
-  "track": "core"
- },
- {
-  "id": "gh-andurilindustries-5201053007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Security Operations Analyst",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
   "track": "core"
@@ -6135,21 +6150,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5047568007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Sr. Program Manager (UAE)",
-  "location": "Abu Dhabi, United Arab Emirates",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-04-09",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5047568007?gh_jid=5047568007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Sr. Program Manager to be one of the first on the ground for the Maneuver Dominance team in Abu Dhabi, UAE. Omen is Anduril’s hover-to-cruise autonomous air vehicle (AAV) that packs the endurance, payload, and mission flexibility of much larger airplanes into a novel runway-independent Group 3 platform. Omen can operate from ship decks, beaches, or remote island clearings, providing true runway independence and freedom of maneuver across defense and civilian domains. Omen is the first tail-sitter aircraft with a mass-production contract, with an order of 50 systems representing a decisive investment that anchors production and accelerates the development of future systems. ABOUT THE JOB As the UAE Sr. Program Manager you will play a critical role in balancing innovation and practical execution across the Omen program. In this position, you will be deeply intertwined in a highly complex global program, driving strategic decision making, evaluating program milestones, and managing appropriate resourcing in country. You will be",
-  "track": "alt"
- },
- {
   "id": "gh-guidepointsecurity-5843886004",
   "company": "GuidePoint Security",
   "ats": "greenhouse",
@@ -6283,21 +6283,6 @@
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril employs a variety of networks and networking infrastructures to support global operations. Information Systems Security Managers are in charge of directly supporting business lines that wish to deploy Anduril products in classified environments. Information Systems Security Managers lead lean teams of Information Systems Security Officers to enable the program personnel to create contract deliverables. Well versed in Information Technology and the Risk Management Framework, Information Systems Security Managers are the driving force of Anduril's classified deployments. Forward thinkers capable of managing Business Line needs as well as critical thinking skills in order to drive customer requirements are the best candidates for a Information Systems Security Manager. ABOUT THE JOB WHAT YOU’LL DO Provide expertise in documenting security controls to reduce the administrative cost of deploying Anduril’s products into operational environments. Partner with program and security teams to coordinate security artifacts in support of classified d",
   "track": "core"
- },
- {
-  "id": "gh-andurilindustries-5047657007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Sr. Program Manager (UAE)",
-  "location": "Abu Dhabi, United Arab Emirates",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-02-10",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5047657007?gh_jid=5047657007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Sr. Program Manager to be one of the first on the ground for the Maneuver Dominance team in Abu Dhabi, UAE. Omen is Anduril’s hover-to-cruise autonomous air vehicle (AAV) that packs the endurance, payload, and mission flexibility of much larger airplanes into a novel runway-independent Group 3 platform. Omen can operate from ship decks, beaches, or remote island clearings, providing true runway independence and freedom of maneuver across defense and civilian domains. Omen is the first tail-sitter aircraft with a mass-production contract, with an order of 50 systems representing a decisive investment that anchors production and accelerates the development of future systems. ABOUT THE JOB As the UAE Sr. Program Manager you will play a critical role in balancing innovation and practical execution across the Omen program. In this position, you will be deeply intertwined in a highly complex global program, driving strategic decision making, evaluating program milestones, and managing appropriate resourcing in country. You will be",
-  "track": "alt"
  },
  {
   "id": "gh-clutch-5799573004",
