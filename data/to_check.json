@@ -1,28 +1,13 @@
 [
  {
-  "id": "weworkremotely-c68001cc34",
-  "coll": "jobs",
-  "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
- },
- {
   "id": "gofractional-cambridgespark-fciso",
   "coll": "jobs",
   "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
  },
  {
-  "id": "li-4478251825",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4478251825/"
- },
- {
   "id": "web-aidigital-headofsecurity",
   "coll": "jobs",
   "url": "https://www.aidigital.com/vacancies/head-of-security"
- },
- {
-  "id": "li-4480268795",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4480268795/"
  },
  {
   "id": "jobgether-297e968c",
@@ -40,11 +25,6 @@
   "url": "https://www.linkedin.com/jobs/view/4473393070/"
  },
  {
-  "id": "gh-sourcegraph91-6209697004",
-  "coll": "jobs",
-  "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6209697004"
- },
- {
   "id": "gh-bitpanda-4995059101",
   "coll": "jobs",
   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
@@ -53,6 +33,11 @@
   "id": "lever-myob-8754cf16",
   "coll": "jobs",
   "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
+ },
+ {
+  "id": "workable-plainconcepts-287FD7D4",
+  "coll": "jobs",
+  "url": "https://apply.workable.com/plainconcepts/jobs/view/287FD7D4F7"
  },
  {
   "id": "li-4482317639",
@@ -78,10 +63,5 @@
   "id": "jobgether-a80049aa",
   "coll": "alt",
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
- },
- {
-  "id": "workable-plainconcepts-287FD7D4",
-  "coll": "jobs",
-  "url": "https://apply.workable.com/plainconcepts/jobs/view/287FD7D4F7"
  }
 ]
