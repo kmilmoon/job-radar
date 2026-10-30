@@ -1,35 +1,17 @@
 {
- "checked": "2026-10-29T10:30:10+00:00",
+ "checked": "2026-10-30T04:53:46+00:00",
  "items": {
-  "jobs/weworkremotely-c68001cc34": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
-   "http": 200,
-   "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
-  },
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
    "reason": "La página dice que la oferta está cerrada",
    "http": 200,
    "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
   },
-  "jobs/li-4478251825": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4478251825/"
-  },
   "jobs/web-aidigital-headofsecurity": {
    "status": "closed",
    "reason": "La página da error 404",
    "http": 404,
    "url": "https://www.aidigital.com/vacancies/head-of-security"
-  },
-  "jobs/li-4480268795": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4480268795/"
   },
   "jobs/jobgether-297e968c": {
    "status": "open",
@@ -49,12 +31,6 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4473393070/"
   },
-  "jobs/gh-sourcegraph91-6209697004": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
-   "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6209697004"
-  },
   "jobs/gh-bitpanda-4995059101": {
    "status": "open",
    "reason": "Sigue publicada en Greenhouse",
@@ -66,6 +42,12 @@
    "reason": "Lever ya no la tiene",
    "http": 404,
    "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
+  },
+  "jobs/workable-plainconcepts-287FD7D4": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
+   "http": 200,
+   "url": "https://apply.workable.com/plainconcepts/jobs/view/287FD7D4F7"
   },
   "jobs/li-4482317639": {
    "status": "unknown",
@@ -96,12 +78,6 @@
    "reason": "Lever ya no la tiene",
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
-  },
-  "jobs/workable-plainconcepts-287FD7D4": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://apply.workable.com/plainconcepts/jobs/view/287FD7D4F7"
   }
  }
 }
