@@ -19,6 +19,20 @@
   "excerpt": "About mPulse: mPulse is the leader in conversational AI and member engagement for healthcare."
  },
  {
+  "id": "weworkremotely-689d307a02",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Autonomous Systems Security Engineer",
+  "company": "Anthropic",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-10-30",
+  "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Claude is trained and served on hardware in data centers Anthropic operates and in sites partners build and run for us. DCSE secures that footprint: the sites, the hardware moving through them, and the people and vendors who touch it. You'll be the engineer who owns autonomous systems across that footprint as one security domain, from both sides: drones, ground robots and automated vehicles for patrol, inspection and moving hardware, including the security of that automation inside secure areas, and the detection systems that tell us what is flying over or operating near a site uninvited. You set the approach, select and integrate the platforms and sensors, write the requirements vendors build to, and run what you ship, from the operating model where operators assign m"
+ },
+ {
   "id": "jobgether-64bfb177",
   "source": "jobgether",
   "track": "alt",
@@ -89,28 +103,6 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Lead Teacher – Software Development & AI (Full-Stack) IT SkillSprint based in Spain. Are you passionate about software engineering, artificial intelligence, and shaping the next generation of tech talent? As Lead Teacher, you will deliver an intensive full-stack development and AI training programme designed for third-year university students. You will combine engaging live instruction, hands-on coding sessions, and collaborative projects to help learners build practical, industry-relevant technical skills. You will guide students through modern backend and frontend technologies while demonstrating how to integrate AI tools responsibly into real-world development workflows. Working remotely with an international education team, you will foster an inclusive, collaborative, and engaging learning environment. This is an opportunity to make a meaningful impact on students' professional development while contributing to an ambitious digital skills initiative."
  },
  {
-  "id": "himalayas-d-4407176928",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Cybersecurity Co-Founder / Head of Sales (100 % remote) (m/f/d)",
-  "company": "EWOR GmbH",
-  "location": "Worldwide",
-  "employment": "Full Time",
-  "posted": "2026-10-29",
-  "url": "https://himalayas.app/companies/ewor-gmbh/jobs/cybersecurity-co-founder-head-of-sales-100-remote-m-f-d-4407176928?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Co-Founder",
-   "Head-of-Sales",
-   "Cybersecurity-Entrepreneur",
-   "Startup-Founder",
-   "Sales-Director",
-   "Cybersecurity-Sales-Director",
-   "Remote-Director-Of-Sales"
-  ],
-  "excerpt": "We are looking to hire ambitious entrepreneurs to start and scale their own startups."
- },
- {
   "id": "weworkremotely-d6365ae90a",
   "source": "weworkremotely",
   "track": "alt",
@@ -123,34 +115,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Japan URL: https://nativecamp.net/tutors/?cc=gb-wwr About us: Native Camp is Japan’s No.1 Online English Service counting the highest number of both teachers and students who are learning the English language through our platform. Since 2017, we have started hiring teachers from all around the world, and we have created an environment that makes it easy for them to work and earn while having full flexibility. We are continuously expanding, introducing new features and teaching materials, and as a result of these efforts, more than 1.3 million members are using our service. Lessons are provided via a unique language platform developed by our company. We have simplified our application process and made it as quick as possible, so joining our team of teachers has never been easier. Join us today to experience the benefits that we provide. ONLINE ENGLISH TEACHER (Home-Based job position) What we offer: ・Complete flexibility (24/7) ・100% remote ・Easy-to-follow teaching materials provided ・No minimum hours per week required ・Frequent incentives offered ・No CV or experience required ・Online support available Requirements: ・English Proficiency ・Laptop or PC with a webcam ・Hea"
- },
- {
-  "id": "jobspresso-c483590e03",
-  "source": "jobspresso",
-  "track": "core",
-  "title": "Head of Security Operations",
-  "company": "Canonical",
-  "location": "Worldwide",
-  "employment": "Engineer",
-  "posted": "2026-10-29",
-  "url": "https://jobspresso.co/job/head-security-operations/",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This global leadership role in cyber security is to manage the Security Operations (SecOps) team responsible for design, implementation and evolution of Canonical security practices, techniques, tools, systems and policies. The team is the primary owner of strategy and practices that determine how Canonical secures its data, internal infrastructure and build processes. They are responsible"
- },
- {
-  "id": "jobspresso-14ac26252c",
-  "source": "jobspresso",
-  "track": "core",
-  "title": "Security Risk Management Specialist",
-  "company": "Canonical",
-  "location": "Worldwide",
-  "employment": "Others",
-  "posted": "2026-10-29",
-  "url": "https://jobspresso.co/job/security-risk-management-specialist/",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "In security risk management we’re looking to harness the power of industry best practice combined with driving new innovation on how we do security risk assessments and modelling. Our security risk management team is the primary owner of the strategy and practices of how we identify, track and reduce our security risk across everything we"
  },
  {
   "id": "jobgether-0e9cc7ed",
@@ -745,43 +709,5 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Mexico URL: http://lawnstarter.com About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $150M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Analytics at LawnStarter We're a small, senior analytics team supporting the entire company, product, marketing, operations, and finance all run on the data we serve. The foundation is solid: a centralized Redshift data warehouse where all source data lands, modeled in dbt and orchestrated by Airflow, with Segment feeding event data in. You won't be stitching scattered sources together, the platform exists; your job is to make it trustworthy and keep it that way. We're mid-migration to Lightdash as our single BI platform, replacing Tableau and Metabase. Here's the honest gap: everyone on the team today is an analyst. Data quality, tracking standards, and platform hygiene get done as side work, squeezed between analyses. Nobody wakes up thinking about them, which is exactly the job we're hiring for. The Rol"
- },
- {
-  "id": "getonboard-ca-grupo-mariposa-remote",
-  "source": "getonboard",
-  "track": "core",
-  "title": "Especialista de Seguridad Informática",
-  "company": "Grupo Mariposa",
-  "location": "Remote anywhere",
-  "employment": {
-   "data": {
-    "id": 1,
-    "type": "modality"
-   }
-  },
-  "posted": "2026-09-28",
-  "url": "https://www.getonbrd.com/jobs/especialista-de-seguridad-informatica-grupo-mariposa-remote",
-  "compensation": "USD 2000-3000 /mes",
-  "tags": [],
-  "excerpt": "Formación academica Licenciatura en Ingeniería en Sistemas, Informática, Telecomunicaciones o carrera afín. Deseable contar con certificaciones en ciberseguridad y seguridad de redes. Experiencia Entre 4 y 5 años de experiencia en Seguridad Informática. Experiencia en Seguridad de Redes y administración de herramientas de seguridad. Gestión de incidentes de seguridad, análisis de vulnerabilidades y mitigación de riesgos. Conocimientos técnicos Seguridad de redes y comunicaciones. Análisis de vulnerabilidades y gestión de riesgos. Herramientas de monitoreo y protección de seguridad informática. Continuidad del negocio y recuperación ante desastres. Normativas y buenas prácticas de seguridad de la información. Competencias Capacidad analítica y resolución de problemas. Toma de decisiones ante incidentes críticos. Comunicación efectiva y trabajo colaborativo. Orientación a resultados y gestión de riesgos. Monitorear y administrar la seguridad de la infraestructura tecnológica y las redes corporativas. Detectar, analizar y gestionar incidentes de seguridad informática, definiendo acciones de contención y escalamiento cuando sea necesario. Identificar vulnerabilidades y coordinar planes"
- },
- {
-  "id": "getonboard-path-partners-llc-remote",
-  "source": "getonboard",
-  "track": "alt",
-  "title": "Director of Operations",
-  "company": "ExitPath Partners, LLC",
-  "location": "Remote anywhere",
-  "employment": {
-   "data": {
-    "id": 1,
-    "type": "modality"
-   }
-  },
-  "posted": "2026-09-08",
-  "url": "https://www.getonbrd.com/jobs/director-of-operations-exitpath-partners-llc-remote",
-  "compensation": "USD 3000-3500 /mes",
-  "tags": [],
-  "excerpt": "Must have: 5+ years running operations in a professional services, advisory, private equity, or law firm environment Chief of staff, director of operations, practice manager, or business manager Direct experience running an operating cadence (EOS/Traction, 4DX, OKRs, or a homegrown equivalent). Documentation and process discipline Working command of a deal or relationship CRM and comfort administering data standards U.S. Eastern time or a good portion of your hours aligned with our working time zone. Helpful, not required: Law firm or legal services operations background Exposure to M&A transaction process, deal desk, or contract administration Experience inside a partner-led business WHO THIS ROLE ISN’T FOR If you want to redesign the operating system rather than run it week after week, you will be bored here. If you disengage when people don’t comply and let the system do the confronting for you, this role will fail. If the appeal is a path into origination or deal execution, that is not on offer. If a job whose central function is enforcing consistency sounds tedious to you, trust that instinct. The operating cadence. - Leadership and department meetings ran, held, and recorded."
  }
 ]
