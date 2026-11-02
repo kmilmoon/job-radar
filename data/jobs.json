@@ -1,5 +1,20 @@
 [
  {
+  "id": "gh-bitpanda-5024636101",
+  "company": "Bitpanda",
+  "ats": "greenhouse",
+  "title": "Expert, Information Security",
+  "location": "Vienna, Vienna, Austria",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-02",
+  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101",
+  "compensation": null,
+  "excerpt": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 7 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing. Headquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go! Your mission As an Information Security Expert, you are a senior individual contributor who sets direction and solves the hardest GRC problems in a regulated fintech environment. You shape our security governance strategy, ensure our control framework remains effective as the business scales, and act as a key advisor to security leadership and senior business stakeholders on risk and compliance decisions. You’ll lead complex, high-impact initiatives (multi-entity, multi-region, regulator/customer-facing), influence across the organisation, and raise the bar for how we design, test, and evidence security controls. What you’ll do GRC strategy & roadmap: Define mu",
+  "track": "core"
+ },
+ {
   "id": "ashby-supabase-c20228c2",
   "company": "Supabase",
   "ats": "ashby",
@@ -165,21 +180,6 @@
   "track": "core"
  },
  {
-  "id": "gh-coinbase-8334161",
-  "company": "Coinbase",
-  "ats": "greenhouse",
-  "title": "Payments Risk Analyst II",
-  "location": "Hyderabad, India",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-30",
-  "url": "https://www.coinbase.com/careers/positions/8334161?gh_jid=8334161",
-  "compensation": null,
-  "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . Responsibilities: Conduct detailed reviews of escalated customer accounts to identify and mitigate payments fraud risks, including chargebacks, ACH returns, wire disputes, and account takeovers. Analyze fraud trends and patterns in payment activities, providing actionable insights to Payments Risk management. Collaborate with the Payments Risk investigations team to provide feedback on rule performance and risk logic. Support the development and documentation of review processes to enhance operational efficiency. Identify inefficiencies in workflows and recommend process improvements to mitigate risk exposure. Maintain high standards of accuracy and timeliness in fraud investigations and risk assessments. Requirements: Minimum of 1 year of experience in payments risk, fraud analysis, or risk operations within financial services or e-commerce. Strong understanding of payments systems, fraud detection methodologies, and risk mitigation strategies. Excellent analytical and investigative skills with the ability to identify patterns and root causes of fraud. Proficiency in English communication, both written and verbal. BA/BS degree or equivalent practical experience. Demonstrated abilit",
-  "track": "core"
- },
- {
   "id": "gh-coinbase-8334164",
   "company": "Coinbase",
   "ats": "greenhouse",
@@ -190,6 +190,21 @@
   "employment": null,
   "posted": "2026-10-30",
   "url": "https://www.coinbase.com/careers/positions/8334164?gh_jid=8334164",
+  "compensation": null,
+  "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . Responsibilities: Conduct detailed reviews of escalated customer accounts to identify and mitigate payments fraud risks, including chargebacks, ACH returns, wire disputes, and account takeovers. Analyze fraud trends and patterns in payment activities, providing actionable insights to Payments Risk management. Collaborate with the Payments Risk investigations team to provide feedback on rule performance and risk logic. Support the development and documentation of review processes to enhance operational efficiency. Identify inefficiencies in workflows and recommend process improvements to mitigate risk exposure. Maintain high standards of accuracy and timeliness in fraud investigations and risk assessments. Requirements: Minimum of 1 year of experience in payments risk, fraud analysis, or risk operations within financial services or e-commerce. Strong understanding of payments systems, fraud detection methodologies, and risk mitigation strategies. Excellent analytical and investigative skills with the ability to identify patterns and root causes of fraud. Proficiency in English communication, both written and verbal. BA/BS degree or equivalent practical experience. Demonstrated abilit",
+  "track": "core"
+ },
+ {
+  "id": "gh-coinbase-8334161",
+  "company": "Coinbase",
+  "ats": "greenhouse",
+  "title": "Payments Risk Analyst II",
+  "location": "Hyderabad, India",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-30",
+  "url": "https://www.coinbase.com/careers/positions/8334161?gh_jid=8334161",
   "compensation": null,
   "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . Responsibilities: Conduct detailed reviews of escalated customer accounts to identify and mitigate payments fraud risks, including chargebacks, ACH returns, wire disputes, and account takeovers. Analyze fraud trends and patterns in payment activities, providing actionable insights to Payments Risk management. Collaborate with the Payments Risk investigations team to provide feedback on rule performance and risk logic. Support the development and documentation of review processes to enhance operational efficiency. Identify inefficiencies in workflows and recommend process improvements to mitigate risk exposure. Maintain high standards of accuracy and timeliness in fraud investigations and risk assessments. Requirements: Minimum of 1 year of experience in payments risk, fraud analysis, or risk operations within financial services or e-commerce. Strong understanding of payments systems, fraud detection methodologies, and risk mitigation strategies. Excellent analytical and investigative skills with the ability to identify patterns and root causes of fraud. Proficiency in English communication, both written and verbal. BA/BS degree or equivalent practical experience. Demonstrated abilit",
   "track": "core"
@@ -870,21 +885,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270947007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Program Manager, Maritime",
-  "location": "Quincy, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5269746007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -895,6 +895,21 @@
   "employment": null,
   "posted": "2026-10-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269746007?gh_jid=5269746007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5270947007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Program Manager, Maritime",
+  "location": "Quincy, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
   "track": "alt"
@@ -960,21 +975,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270613007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Global Mobility Program Manager, Tax",
-  "location": "Washington, District of Columbia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-20",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270613007?gh_jid=5270613007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5270612007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -985,6 +985,21 @@
   "employment": null,
   "posted": "2026-10-20",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270612007?gh_jid=5270612007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5270613007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Global Mobility Program Manager, Tax",
+  "location": "Washington, District of Columbia, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-20",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270613007?gh_jid=5270613007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
   "track": "alt"
@@ -2010,21 +2025,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5259071007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Security Engineer, Identity",
-  "location": "Seattle, Washington, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-06",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5259072007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2035,6 +2035,21 @@
   "employment": null,
   "posted": "2026-10-06",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5259071007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Security Engineer, Identity",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-06",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
   "track": "core"
@@ -3480,21 +3495,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5241160007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "People Program Manager",
-  "location": "Seattle, Washington, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-09-17",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241160007?gh_jid=5241160007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5240064007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -3505,6 +3505,21 @@
   "employment": null,
   "posted": "2026-09-17",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240064007?gh_jid=5240064007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5241160007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "People Program Manager",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-09-17",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241160007?gh_jid=5241160007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we're not just changing the game – we're redefining it. As a People Program Manager, you will partner with teams and leaders from across the business to drive execution, manage program lifecycles, and build lasting, scalable organizational solutions. ABOUT THE JOB We are looking for a Program Manager to join our rapidly growing People PM Team. From talent acquisition to compensation, you'll dive deep into our critical workflows, emerging as the directly accountable owner for key People Programs. With your strong foundation in project management, a keen understanding of data analysis, and ability to build trust across the business, you will drive program initiatives, manage risks, and communicate effectively with stakeholders across the company. WHAT YOU’LL DO You’ll lead and execute critical projects within the People organization, ensuring successful delivery against business objectives. You have an insanely high execution bar and will see projects through from conception to tactical completion to move Anduril forward. Develop, own,",
   "track": "alt"
@@ -4455,16 +4470,16 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5218589007",
+  "id": "gh-andurilindustries-5201053007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Security Operations Analyst",
-  "location": "Washington, District of Columbia, United States",
+  "location": "Costa Mesa, California, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
   "track": "core"
@@ -4485,16 +4500,16 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5201053007",
+  "id": "gh-andurilindustries-5218589007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Security Operations Analyst",
-  "location": "Costa Mesa, California, United States",
+  "location": "Washington, District of Columbia, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
   "track": "core"
@@ -6147,21 +6162,6 @@
   "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7859213",
   "compensation": null,
   "excerpt": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is a global leader in privileged access management. Our products provide remote access and privileged control capabilities that are deployed across thousands of enterprise environments worldwide. That makes us a high-value target. Nation-state actors, ransomware operators, and sophisticated threat groups actively target companies like ours—not just to compromise our corporate environment, but to reach the customers who trust our software to protect their most sensitive systems. A compromise of BeyondTrust is a compromise of the privileged access layer inside our customers’ networks. We take that responsibility seriously. As a Cyber Defense Engineer on our Cyber Defense Operations team, you will serve as a front-line defender responsible for protecting both BeyondTrust’s enterprise infrastructure and the integrity of the products our customers depend on. You will monitor, investigate, and respond to security events in an environment where the stakes are real and the adversaries are capable. You will work alongside experienced threat hunters, incident responders, and detection engineers in a collaborative team that values sharp analytical thinking over checkbox compliance. This team is building toward an AI-augmented operating model. You will be expected to use AI-driven tools in your daily work and to contribute to how we integrate these capa",
-  "track": "core"
- },
- {
-  "id": "ashby-elevenlabs-f80d0420",
-  "company": "ElevenLabs",
-  "ats": "ashby",
-  "title": "Compliance Engineer",
-  "location": "New York; Boston; Washington, D.C.",
-  "remote": true,
-  "workplace": "Remote",
-  "employment": "FullTime",
-  "posted": "2026-04-22",
-  "url": "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e",
-  "compensation": null,
-  "excerpt": "ABOUT ELEVENLABS ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. - ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. HOW WE WORK - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. - Excellence everywhere: Everything we do should match the quality of our AI models. - Global team: We prioritize your talent, not your location. WHAT WE",
   "track": "core"
  },
  {

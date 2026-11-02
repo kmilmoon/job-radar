@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-02T04:56:34+00:00",
+ "generatedAt": "2026-11-02T11:47:06+00:00",
  "companies": [
   {
    "company": "n8n",
    "ats": "ashby",
    "slug": "n8n",
-   "openPostings": 49,
+   "openPostings": 50,
    "firstHire": [
     {
      "title": "Sr Security Engineer | Remote | Europe",
@@ -70,7 +70,7 @@
    "company": "Masabi",
    "ats": "ashby",
    "slug": "masabi",
-   "openPostings": 12,
+   "openPostings": 13,
    "firstHire": [
     {
      "title": "Security Compliance Analyst",
@@ -336,7 +336,7 @@
    "company": "Modulr",
    "ats": "greenhouse",
    "slug": "modulrfinance",
-   "openPostings": 24,
+   "openPostings": 25,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -534,7 +534,7 @@
    "company": "Taktile",
    "ats": "ashby",
    "slug": "taktile",
-   "openPostings": 34,
+   "openPostings": 33,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -618,7 +618,7 @@
    "company": "Bitpanda",
    "ats": "greenhouse",
    "slug": "bitpanda",
-   "openPostings": 32,
+   "openPostings": 33,
    "firstHire": [
     {
      "title": "Associate, AFC Compliance",
@@ -655,21 +655,21 @@
    "frameworks": [
     {
      "framework": "SOC 2",
-     "title": "Lead, Information Security",
-     "posted": "2026-10-09",
-     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+     "title": "Expert, Information Security",
+     "posted": "2026-11-02",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
     },
     {
      "framework": "ISO 27001",
-     "title": "Lead, Information Security",
-     "posted": "2026-10-09",
-     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+     "title": "Expert, Information Security",
+     "posted": "2026-11-02",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
     },
     {
      "framework": "DORA",
-     "title": "Lead, Information Security",
-     "posted": "2026-10-09",
-     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+     "title": "Expert, Information Security",
+     "posted": "2026-11-02",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
     },
     {
      "framework": "PCI DSS",
@@ -963,7 +963,7 @@
    "company": "Valarian",
    "ats": "lever",
    "slug": "valarian",
-   "openPostings": 12,
+   "openPostings": 13,
    "firstHire": [
     {
      "title": "InfoSec Engineer",
@@ -1066,7 +1066,7 @@
    "company": "Tandem Health",
    "ats": "ashby",
    "slug": "tandem-health",
-   "openPostings": 76,
+   "openPostings": 77,
    "firstHire": [
     {
      "title": "Senior GRC Engineer",
@@ -1105,7 +1105,7 @@
    "company": "Causa Prima",
    "ats": "ashby",
    "slug": "causaprima",
-   "openPostings": 11,
+   "openPostings": 10,
    "firstHire": [
     {
      "title": "Agentic Security Engineer",
@@ -1224,13 +1224,8 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "openPostings": 140,
+   "openPostings": 142,
    "firstHire": [
-    {
-     "title": "Compliance Engineer",
-     "posted": "2026-04-22",
-     "url": "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e"
-    },
     {
      "title": "Infrastructure Security Engineer",
      "posted": "2026-05-20",
@@ -1746,11 +1741,6 @@
     },
     {
      "title": "Product Security Engineer, Programs",
-     "posted": "2026-07-09",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183808007?gh_jid=5183808007"
-    },
-    {
-     "title": "Product Security Engineer, Programs",
      "posted": "2026-02-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007"
     },
@@ -1760,6 +1750,11 @@
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007"
     },
     {
+     "title": "Product Security Engineer, Programs",
+     "posted": "2026-07-09",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183808007?gh_jid=5183808007"
+    },
+    {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
@@ -1767,7 +1762,7 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007"
     },
     {
      "title": "Security Operations Analyst",
@@ -1777,7 +1772,7 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
     },
     {
      "title": "Security Operations Analyst, UK",
@@ -1816,8 +1811,8 @@
     },
     {
      "title": "Senior Security Engineer, Identity",
-     "posted": "2026-10-06",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
+     "posted": "2026-06-04",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
     },
     {
      "title": "Senior Security Engineer, Identity",
@@ -1826,8 +1821,8 @@
     },
     {
      "title": "Senior Security Engineer, Identity",
-     "posted": "2026-06-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
+     "posted": "2026-10-06",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
     },
     {
      "title": "Senior Security Engineer (OT)",
@@ -2196,7 +2191,7 @@
    "company": "GitLab",
    "ats": "greenhouse",
    "slug": "gitlab",
-   "openPostings": 238,
+   "openPostings": 236,
    "firstHire": [
     {
      "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
@@ -2399,7 +2394,7 @@
    "company": "Coinbase",
    "ats": "greenhouse",
    "slug": "coinbase",
-   "openPostings": 252,
+   "openPostings": 264,
    "firstHire": [
     {
      "title": "Compliance, International Investigations Associate",

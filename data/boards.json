@@ -1,5 +1,47 @@
 [
  {
+  "id": "jobgether-e3243f97",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Clinical Trial Delivery Trainer",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-02",
+  "url": "https://jobs.lever.co/jobgether/e3243f97-6d50-4a52-a4ee-4b91aac07349",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Clinical Trial Delivery Trainer based in Spain . The Clinical Trial Delivery Trainer will play a key role in strengthening employee capabilities and ensuring consistent operational excellence across clinical research teams. This position focuses on designing, coordinating, delivering, and continuously improving training programs for professionals involved in clinical trial operations. You will support onboarding, ongoing professional development, and role readiness across multiple functions, including clinical research and project management. Working closely with functional leaders, subject matter experts, and cross-functional teams, you will translate complex regulatory and operational requirements into practical learning experiences. You will also contribute to knowledge sharing, employee coaching, and continuous improvement initiatives. This is an opportunity to make a meaningful impact on clinical trial quality, compliance, and delivery in an international environment."
+ },
+ {
+  "id": "jobgether-3b5d5c84",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Interim Head of Information Security",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-02",
+  "url": "https://jobs.lever.co/jobgether/3b5d5c84-874d-476f-b001-6e69de1ab8c5",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Interim Head of Information Security based in Spain. We are seeking an experienced information security leader to take ownership of a software-driven organization’s security strategy and strengthen its overall security posture. In this interim role, you will work closely with Engineering, IT, Legal, and Compliance teams to embed security into development and platform operations. You will help advance a proactive, engineering-aligned security function built around secure-by-design principles, measurable risk management, and practical safeguards. You will also lead preparations for important compliance and audit requirements, including PCI-DSS and SOC 2. This is a temporary leadership opportunity offering flexibility in both scope and working arrangements, with the potential to make a meaningful impact over a 4–6 month engagement."
+ },
+ {
+  "id": "jobgether-2e23524a",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Online Science Teacher – Partner School, Term 2 (Environmental & Physical Science)",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Contract",
+  "posted": "2026-11-02",
+  "url": "https://jobs.lever.co/jobgether/2e23524a-97a9-4573-a937-e979aab5e3c5",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Online Science Teacher – Partner School, Term 2 (Environmental & Physical Science) based in Spain. We are looking for an experienced Science Teacher to deliver engaging, live online lessons in Environmental Science and Physical Science to a small partner school class. You will help students develop a strong understanding of the natural and physical world while encouraging curiosity, critical thinking, and scientific confidence. The role covers topics including ecosystems, sustainability, energy, forces and motion, and the properties of matter. Through interactive teaching methods, virtual labs, simulations, and practical activities, you will create an engaging digital classroom experience. You will also monitor student progress, provide constructive feedback, and adapt lessons to meet individual learning needs. This is a fully remote, fixed-term teaching opportunity running from January to March 2027, with onboarding completed by December 2026. Lessons follow the Spain/Italy time zone (CET), making this opportunity particularly suitable for teachers who"
+ },
+ {
   "id": "himalayas-t-8031789490",
   "source": "himalayas",
   "track": "alt",
@@ -870,17 +912,41 @@
   "excerpt": "The organization — a certified IT asset disposition and secure data-destruction services provider (New Jersey; hybrid) — is hiring a Compliance & Contracts Manager reporting to the EVP of Operations & Product. This hands-on, builder role centralizes audit readiness, certification maintenance, and contract ownership to ensure the organization stays audit-ready, contractually protected, and able to win and retain enterprise clients during rapid growth. Responsibilities Own certification maintenance and audit readiness: schedule and prepare for audits, track corrective actions, maintain documentation and evidence, and evaluate additional certifications (for example, ISO standards). Manage contracts across the client lifecycle: draft and review NDAs, MSAs, and amendments; execute and track agreements. Lead compliance and contracts activities during new client onboarding: manage NDAs, customer requirement surveys, security/compliance questionnaires, and vendor risk assessments. Build and maintain a standardized compliance document library (policies, SOPs, forms) and a compliance dashboard for leadership and board reporting. Respond to enterprise client compliance and vendor-review reque"
  },
  {
-  "id": "weworkremotely-75b79fb7db",
-  "source": "weworkremotely",
+  "id": "getonboard-ca-grupo-mariposa-remote",
+  "source": "getonboard",
   "track": "core",
-  "title": "Security Engineer, Cloud",
-  "company": "Vercel",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-03",
-  "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-  "compensation": null,
+  "title": "Especialista de Seguridad Informática",
+  "company": "Grupo Mariposa",
+  "location": "Remote anywhere",
+  "employment": {
+   "data": {
+    "id": 1,
+    "type": "modality"
+   }
+  },
+  "posted": "2026-09-28",
+  "url": "https://www.getonbrd.com/jobs/especialista-de-seguridad-informatica-grupo-mariposa-remote",
+  "compensation": "USD 2000-3000 /mes",
   "tags": [],
-  "excerpt": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the role: We're looking for a Security Engineer to join our Cloud Security Engineering team. In this role, you'll help strengthen the security of our platform by building and improving the controls that protect our infrastructure. You'll play a key role in making security a core part of how we build, deploy, and scale our systems, while helping the company grow securely and confidently. You'll report to the Security Operations Manager, and this is a hybrid or fully remote within the United States. If you're based within commuting distance of our SF or NY offices, the role includes in-office anchor days on Monday, Tuesday, and Friday. What you will do: Design and implement scalable security controls across our cloud-nativ"
+  "excerpt": "Formación academica Licenciatura en Ingeniería en Sistemas, Informática, Telecomunicaciones o carrera afín. Deseable contar con certificaciones en ciberseguridad y seguridad de redes. Experiencia Entre 4 y 5 años de experiencia en Seguridad Informática. Experiencia en Seguridad de Redes y administración de herramientas de seguridad. Gestión de incidentes de seguridad, análisis de vulnerabilidades y mitigación de riesgos. Conocimientos técnicos Seguridad de redes y comunicaciones. Análisis de vulnerabilidades y gestión de riesgos. Herramientas de monitoreo y protección de seguridad informática. Continuidad del negocio y recuperación ante desastres. Normativas y buenas prácticas de seguridad de la información. Competencias Capacidad analítica y resolución de problemas. Toma de decisiones ante incidentes críticos. Comunicación efectiva y trabajo colaborativo. Orientación a resultados y gestión de riesgos. Monitorear y administrar la seguridad de la infraestructura tecnológica y las redes corporativas. Detectar, analizar y gestionar incidentes de seguridad informática, definiendo acciones de contención y escalamiento cuando sea necesario. Identificar vulnerabilidades y coordinar planes"
+ },
+ {
+  "id": "getonboard-path-partners-llc-remote",
+  "source": "getonboard",
+  "track": "alt",
+  "title": "Director of Operations",
+  "company": "ExitPath Partners, LLC",
+  "location": "Remote anywhere",
+  "employment": {
+   "data": {
+    "id": 1,
+    "type": "modality"
+   }
+  },
+  "posted": "2026-09-08",
+  "url": "https://www.getonbrd.com/jobs/director-of-operations-exitpath-partners-llc-remote",
+  "compensation": "USD 3000-3500 /mes",
+  "tags": [],
+  "excerpt": "Must have: 5+ years running operations in a professional services, advisory, private equity, or law firm environment Chief of staff, director of operations, practice manager, or business manager Direct experience running an operating cadence (EOS/Traction, 4DX, OKRs, or a homegrown equivalent). Documentation and process discipline Working command of a deal or relationship CRM and comfort administering data standards U.S. Eastern time or a good portion of your hours aligned with our working time zone. Helpful, not required: Law firm or legal services operations background Exposure to M&A transaction process, deal desk, or contract administration Experience inside a partner-led business WHO THIS ROLE ISN’T FOR If you want to redesign the operating system rather than run it week after week, you will be bored here. If you disengage when people don’t comply and let the system do the confronting for you, this role will fail. If the appeal is a path into origination or deal execution, that is not on offer. If a job whose central function is enforcing consistency sounds tedious to you, trust that instinct. The operating cadence. - Leadership and department meetings ran, held, and recorded."
  }
 ]
