@@ -840,5 +840,24 @@
  },
  {
   "name": "Nevis"
+ },
+ {
+  "name": "PPRO",
+  "ats": "lever",
+  "slugs": [
+   "ppro"
+  ]
+ },
+ {
+  "name": "fiskaly"
+ },
+ {
+  "name": "Ravical"
+ },
+ {
+  "name": "Flagright"
+ },
+ {
+  "name": "Cytix"
  }
 ]
