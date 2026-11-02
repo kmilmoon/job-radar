@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T02:43:30+00:00",
+ "generatedAt": "2026-11-02T04:56:34+00:00",
  "counts": {
   "Vanta": 120,
   "Secureframe": 32,
@@ -25,6 +25,13 @@
   }
  ],
  "recentlyUpdated": [
+  {
+   "vendor": "Vanta",
+   "slug": "specbook-ai",
+   "name": "Specbook AI",
+   "url": "https://www.vanta.com/customers/specbook-ai",
+   "lastmod": "2026-10-28"
+  },
   {
    "vendor": "Vanta",
    "slug": "carter-newell-lawyers",
@@ -80,20 +87,6 @@
    "name": "Synthesia",
    "url": "https://www.vanta.com/customers/synthesia",
    "lastmod": "2026-10-08"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "pendo",
-   "name": "Pendo",
-   "url": "https://www.vanta.com/customers/pendo",
-   "lastmod": "2026-09-16"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "flaconi",
-   "name": "Flaconi",
-   "url": "https://www.vanta.com/customers/flaconi",
-   "lastmod": "2026-09-14"
   }
  ],
  "note": "new = case studies that appeared since the previous weekly snapshot (empty on the first run of a vendor: that run is the baseline). recentlyUpdated = pages whose sitemap date is in the last 45 days: may be new or just edited, check the page before scoring.",
@@ -971,7 +964,7 @@
    "slug": "specbook-ai",
    "name": "Specbook AI",
    "url": "https://www.vanta.com/customers/specbook-ai",
-   "lastmod": "2026-03-17"
+   "lastmod": "2026-10-28"
   },
   {
    "vendor": "Vanta",

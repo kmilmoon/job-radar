@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-30T10:34:27+00:00",
+ "checked": "2026-11-02T04:56:39+00:00",
  "items": {
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
@@ -55,6 +55,42 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4482317639/"
   },
+  "jobs/li-4484957155": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4484957155/"
+  },
+  "jobs/li-4483451095": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4483451095/"
+  },
+  "jobs/gh-fiskaly-4696736101": {
+   "status": "closed",
+   "reason": "La página da error 404",
+   "http": 404,
+   "url": "https://www.fiskaly.com/fr/jobs/4696736101"
+  },
+  "jobs/web-ppro-headofgrc": {
+   "status": "closed",
+   "reason": "La página da error 404",
+   "http": 404,
+   "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+  },
+  "jobs/ashby-airwallex-45b2b27f": {
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
+   "http": 200,
+   "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
+  },
+  "jobs/li-4484708988": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4484708988/"
+  },
   "alt/10xteam-compliance-ai-trainer": {
    "status": "unknown",
    "reason": "La página carga, pero no está claro si admite candidaturas",
@@ -67,17 +103,17 @@
    "http": 404,
    "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
   },
-  "alt/teamtailor-roverpass-eos-integrator-coo": {
-   "status": "closed",
-   "reason": "La página da error 410",
-   "http": 410,
-   "url": "https://parikhholdings.na.teamtailor.com/en/jobs/85986-eos-integrator-chief-operating-officer-coo-remote-tech-travel-company"
-  },
   "alt/jobgether-a80049aa": {
    "status": "closed",
    "reason": "Lever ya no la tiene",
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
+  },
+  "alt/jobgether-64bfb177": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/64bfb177-92a9-43eb-a8bb-51cc2d3a498a"
   }
  }
 }

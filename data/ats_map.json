@@ -99,6 +99,10 @@
   "ats": "greenhouse",
   "slug": "customerio"
  },
+ "Cytix": {
+  "ats": "ashby",
+  "slug": "cytix"
+ },
  "Databento": {
   "ats": "greenhouse",
   "slug": "databento"
@@ -275,6 +279,10 @@
   "ats": "ashby",
   "slug": "outpost"
  },
+ "PPRO": {
+  "ats": "lever",
+  "slug": "ppro"
+ },
  "Parallel": {
   "ats": "ashby",
   "slug": "parallel"
@@ -402,6 +410,10 @@
  "dLocal": {
   "ats": "lever",
   "slug": "dlocal"
+ },
+ "fiskaly": {
+  "ats": "greenhouse",
+  "slug": "fiskaly"
  },
  "n8n": {
   "ats": "ashby",
