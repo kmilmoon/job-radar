@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-03T04:53:46+00:00",
+ "checked": "2026-11-03T11:29:33+00:00",
  "items": {
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
@@ -105,8 +105,8 @@
   },
   "jobs/web-signaturit-ciso": {
    "status": "unknown",
-   "reason": "La página respondió 500",
-   "http": 500,
+   "reason": "No se pudo abrir: The read operation timed out",
+   "http": null,
    "url": "https://www.signaturit.com/?p=26001"
   },
   "jobs/web-crossborder-compliancelead": {
