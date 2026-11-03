@@ -5,19 +5,29 @@
   "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
  },
  {
+  "id": "li-4483451095",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4483451095/"
+ },
+ {
   "id": "web-aidigital-headofsecurity",
   "coll": "jobs",
   "url": "https://www.aidigital.com/vacancies/head-of-security"
  },
  {
-  "id": "jobgether-297e968c",
+  "id": "ashby-airwallex-45b2b27f",
   "coll": "jobs",
-  "url": "https://jobs.lever.co/jobgether/297e968c-c8ef-480a-91f3-e0824087eb61"
+  "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
  },
  {
-  "id": "ashby-aufinity-group-a12f6c12",
+  "id": "li-4484957155",
   "coll": "jobs",
-  "url": "https://jobs.ashbyhq.com/aufinity-group/a12f6c12-eaf3-49cd-a45b-e9e146ea3a32"
+  "url": "https://www.linkedin.com/jobs/view/4484957155/"
+ },
+ {
+  "id": "li-4468870097",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4468870097/"
  },
  {
   "id": "li-4473393070",
@@ -25,9 +35,9 @@
   "url": "https://www.linkedin.com/jobs/view/4473393070/"
  },
  {
-  "id": "gh-bitpanda-4995059101",
+  "id": "li-4484708988",
   "coll": "jobs",
-  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+  "url": "https://www.linkedin.com/jobs/view/4484708988/"
  },
  {
   "id": "lever-myob-8754cf16",
@@ -45,36 +55,6 @@
   "url": "https://www.linkedin.com/jobs/view/4482317639/"
  },
  {
-  "id": "li-4484957155",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4484957155/"
- },
- {
-  "id": "li-4483451095",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4483451095/"
- },
- {
-  "id": "gh-fiskaly-4696736101",
-  "coll": "jobs",
-  "url": "https://www.fiskaly.com/fr/jobs/4696736101"
- },
- {
-  "id": "web-ppro-headofgrc",
-  "coll": "jobs",
-  "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
- },
- {
-  "id": "ashby-airwallex-45b2b27f",
-  "coll": "jobs",
-  "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
- },
- {
-  "id": "li-4484708988",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4484708988/"
- },
- {
   "id": "10xteam-compliance-ai-trainer",
   "coll": "alt",
   "url": "https://jobs.ashbyhq.com/10xteam"
@@ -85,13 +65,48 @@
   "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
  },
  {
+  "id": "jobgether-64bfb177",
+  "coll": "alt",
+  "url": "https://jobs.lever.co/jobgether/64bfb177-92a9-43eb-a8bb-51cc2d3a498a"
+ },
+ {
   "id": "jobgether-a80049aa",
   "coll": "alt",
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  },
  {
-  "id": "jobgether-64bfb177",
+  "id": "jobgether-3b5d5c84",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/jobgether/3b5d5c84-874d-476f-b001-6e69de1ab8c5"
+ },
+ {
+  "id": "gh-bitpanda-5024636101",
+  "coll": "jobs",
+  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
+ },
+ {
+  "id": "web-signaturit-ciso",
+  "coll": "jobs",
+  "url": "https://www.signaturit.com/?p=26001"
+ },
+ {
+  "id": "web-crossborder-compliancelead",
+  "coll": "jobs",
+  "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
+ },
+ {
+  "id": "li-4483987204",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4483987204/"
+ },
+ {
+  "id": "ashby-elevenlabs-7ab03a75",
   "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/64bfb177-92a9-43eb-a8bb-51cc2d3a498a"
+  "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
+ },
+ {
+  "id": "ashby-scarlet-3c4de6bd",
+  "coll": "alt",
+  "url": "https://jobs.ashbyhq.com/scarlet/3c4de6bd-bae1-489b-a03f-3cbfa893b68c"
  }
 ]
