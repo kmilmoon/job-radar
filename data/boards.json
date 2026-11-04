@@ -1,5 +1,33 @@
 [
  {
+  "id": "jobgether-2d73168e",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Chief Operating Officer (COO)",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-04",
+  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Chief Operating Officer (COO) based in Spain. As Chief Operating Officer, you will play a pivotal role in building and leading the operational infrastructure of a new international crypto-fiat digital banking venture. You will oversee the development of the business's operating model, ensuring efficient financial operations, reliable payment processes, and scalable service delivery. Working closely with the CEO and senior leadership team, you will establish the systems, controls, and procedures required to support a successful market launch and sustainable growth. Your responsibilities will span customer onboarding, payment processing, banking partnerships, operational risk management, and team development. Combining strategic oversight with hands-on execution, you will build a lean, high-performing organization while maintaining strong operational standards. This is a unique opportunity to shape a financial services business from the ground up, backed by experienced technology entrepreneurs and operating in the fast-evolving digital finance and crypto"
+ },
+ {
+  "id": "jobgether-6a4371f9",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Content Strategy & Creative Operations Lead",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-04",
+  "url": "https://jobs.lever.co/jobgether/6a4371f9-7ef7-4277-942c-96d7ffddb20d",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Content Strategy & Creative Operations Lead based in Spain. As Content Strategy & Creative Operations Lead, you will shape and lead the global content strategy, ensuring that creative initiatives support business objectives, customer journeys, and go-to-market priorities. You will oversee a multidisciplinary Content & Design Team, managing resources, workflows, and production processes to deliver high-quality, consistent, and impactful content. Working across marketing, product, sales, and regional teams, you will ensure unified messaging throughout campaigns, websites, product launches, and sales enablement materials. You will also drive operational excellence by introducing AI-powered tools, automation, and scalable content production practices. Using performance data and customer insights, you will identify opportunities to optimize content effectiveness and contribute to business growth. This is an exciting opportunity to combine strategic leadership, creative operations, and technological innovation within an international B2B technology environme"
+ },
+ {
   "id": "jobgether-87ee8aed",
   "source": "jobgether",
   "track": "alt",
@@ -80,20 +108,6 @@
    "German-As-A-Foreign-Language-(DaF)-Teacher"
   ],
   "excerpt": "This is a remote position. Stellenausschreibung - Internationaler Sprachlehrer für Deutschkurse als Online Lehrer/ (alternativ auch onsite)als Freelancer staffus GmbHist unter anderem eine Personalvermittlungsfirma und rekrutiert Pflegefachkräfte aus verschiedenen Ländern für Kunden in Deutschland."
- },
- {
-  "id": "jobspresso-82e031899d",
-  "source": "jobspresso",
-  "track": "alt",
-  "title": "Operations Manager, Product",
-  "company": "Revolut",
-  "location": "Europe",
-  "employment": "Others",
-  "posted": "2026-11-03",
-  "url": "https://jobspresso.co/job/operations-manager-product/",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "About Revolut People deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products — including spending, saving, investing, exchanging, travelling, and more — help our 80+ million customers get more from their money every day. As we"
  },
  {
   "id": "jobgether-e3243f97",
@@ -462,20 +476,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Job Summary We are looking for an experienced Cybersecurity Lead to direct the Risk Management Framework (RMF) and Authority to Operate (ATO) effort for a new Department of Defense emergency mass notification system. You will own the authorization package from boundary definition through AO decision support, working alongside the engineering and installation team on an accelerated schedule. Location: This is a US-based remote position, with approved on-site work at a U.S. military installation in Germany as needed. On-site travel is scheduled in advance and approved travel costs are covered. Employment Type: Part-Time Contract Security Clearance: Must be eligible for a DoD Common Access Card (CAC) and military base access Key Responsibilities ● Lead the full RMF lifecycle: boundary definition, categorization, control selection, implementation, assessment, and authorization ● Author the SSP, control narratives, network and data-flow diagrams, and interconnection security agreements (ISAs) ● Apply STIGs/SRGs, run SCAP, Evaluate-STIG, and ACAS/Nessus scans, and maintain hardened baselines ● Manage findings, POA&Ms, patching, and IAVM records, and direct field staff on remediation ● Se"
- },
- {
-  "id": "weworkremotely-9f8e03dfff",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "Business Systems Security Analyst",
-  "company": "Wrike",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-05",
-  "url": "https://weworkremotely.com/remote-jobs/wrike-business-systems-security-analyst",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: Estonia - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. Our vision: A world where everyone is free to focus on their most purposeful work, together. About the Role: You'll work alongside diverse, cross-border teams and supportive colleagues who share knowledge and want to see you succeed. Salesforce, Marketo, Salesloft, and a growing web of integrated SaaS tools run large parts of Wrike's business. As that footprint grows, we're hiring a dedicated analyst to bring stronger visibility, governance, and risk understanding to this business systems e"
  },
  {
   "id": "weworkremotely-bf0b0cc65e",
