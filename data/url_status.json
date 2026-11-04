@@ -1,6 +1,12 @@
 {
- "checked": "2026-11-03T11:29:33+00:00",
+ "checked": "2026-11-04T04:51:16+00:00",
  "items": {
+  "jobs/web-crossborder-compliancelead": {
+   "status": "closed",
+   "reason": "La página da error 404",
+   "http": 404,
+   "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
+  },
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
    "reason": "La página dice que la oferta está cerrada",
@@ -12,6 +18,12 @@
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4483451095/"
+  },
+  "jobs/li-4483987204": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4483987204/"
   },
   "jobs/web-aidigital-headofsecurity": {
    "status": "closed",
@@ -49,6 +61,12 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4484708988/"
   },
+  "jobs/gh-bitpanda-5024636101": {
+   "status": "open",
+   "reason": "Sigue publicada en Greenhouse",
+   "http": 200,
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
+  },
   "jobs/lever-myob-8754cf16": {
    "status": "closed",
    "reason": "Lever ya no la tiene",
@@ -85,53 +103,23 @@
    "http": 200,
    "url": "https://jobs.lever.co/jobgether/64bfb177-92a9-43eb-a8bb-51cc2d3a498a"
   },
-  "alt/jobgether-a80049aa": {
-   "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
-   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
-  },
-  "jobs/jobgether-3b5d5c84": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/3b5d5c84-874d-476f-b001-6e69de1ab8c5"
-  },
-  "jobs/gh-bitpanda-5024636101": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
-   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
-  },
-  "jobs/web-signaturit-ciso": {
-   "status": "unknown",
-   "reason": "No se pudo abrir: The read operation timed out",
-   "http": null,
-   "url": "https://www.signaturit.com/?p=26001"
-  },
-  "jobs/web-crossborder-compliancelead": {
-   "status": "closed",
-   "reason": "La página da error 404",
-   "http": 404,
-   "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
-  },
-  "jobs/li-4483987204": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4483987204/"
-  },
   "alt/ashby-elevenlabs-7ab03a75": {
    "status": "open",
    "reason": "Sigue en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
   },
-  "alt/ashby-scarlet-3c4de6bd": {
+  "alt/jobgether-a80049aa": {
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
+   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
+  },
+  "jobs/web-teleclinic-768dc496": {
    "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
+   "reason": "La página sigue mostrando la opción de aplicar",
    "http": 200,
-   "url": "https://jobs.ashbyhq.com/scarlet/3c4de6bd-bae1-489b-a03f-3cbfa893b68c"
+   "url": "https://jobs.teleclinic.com/en/offer/information-security-lead-m-f-d/768dc496-a5ba-4e1c-bdc7-ba1d05a6c379"
   }
  }
 }
