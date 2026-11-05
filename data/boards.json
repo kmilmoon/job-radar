@@ -1,5 +1,33 @@
 [
  {
+  "id": "jobgether-764ee048",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Senior Security Engineer",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-05",
+  "url": "https://jobs.lever.co/jobgether/764ee048-16d6-4ce3-8848-01fa7975ed64",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Security Engineer based in Spain. In this role, you will play a key part in protecting a real-time, cloud-based fraud prevention platform serving customers across highly regulated industries worldwide. You will combine hands-on cloud and infrastructure security engineering with ownership of security assurance and compliance programmes. Working across AWS, Kubernetes, Terraform, and GitHub environments, you will strengthen identity management, automate security controls, and improve threat detection and incident response capabilities. You will also lead major certification and compliance initiatives, including ISO 27001, ISO 42001, SOC 2, and PCI DSS. A key focus will be building an engineering-driven security programme where evidence collection, access reviews, and compliance workflows are automated. This is an opportunity to shape security strategy, influence technical decisions, and contribute to a fast-growing international technology environment."
+ },
+ {
+  "id": "jobspresso-35c305cf75",
+  "source": "jobspresso",
+  "track": "core",
+  "title": "Information Security Specialist",
+  "company": "AI Digital",
+  "location": "Worldwide",
+  "employment": "Engineer",
+  "posted": "2026-11-05",
+  "url": "https://jobspresso.co/job/information-security-specialist/",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "At AI Digital, we are a global team of more than 650 people across 41 countries, working at the intersection of media, data, and technology. We are looking for an Information Security Specialist to join our Finance and Security team and help keep our systems, data, and people safe as we grow. What you will"
+ },
+ {
   "id": "jobgether-2d73168e",
   "source": "jobgether",
   "track": "alt",
@@ -28,6 +56,97 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Content Strategy & Creative Operations Lead based in Spain. As Content Strategy & Creative Operations Lead, you will shape and lead the global content strategy, ensuring that creative initiatives support business objectives, customer journeys, and go-to-market priorities. You will oversee a multidisciplinary Content & Design Team, managing resources, workflows, and production processes to deliver high-quality, consistent, and impactful content. Working across marketing, product, sales, and regional teams, you will ensure unified messaging throughout campaigns, websites, product launches, and sales enablement materials. You will also drive operational excellence by introducing AI-powered tools, automation, and scalable content production practices. Using performance data and customer insights, you will identify opportunities to optimize content effectiveness and contribute to business growth. This is an exciting opportunity to combine strategic leadership, creative operations, and technological innovation within an international B2B technology environme"
  },
  {
+  "id": "himalayas-tions-remote",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Program Lead - FSP Clinical Operations - Remote",
+  "company": "Parexel",
+  "location": "Czechia, France, Hungary, Ireland, Italy, Poland, Romania, Spain, United Kingdom",
+  "employment": "Full Time",
+  "posted": "2026-11-04",
+  "url": "https://himalayas.app/companies/parexel/jobs/program-lead-fsp-clinical-operations-remote?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Clinical-Operations-Leadership",
+   "FSP-Program-Management",
+   "CRO-Leadership",
+   "Clinical-Research-Management",
+   "Program-Lead",
+   "Remote-Clinical-Program-Manager",
+   "Clinical-Program-Manager",
+   "FSP-Clinical-Manager",
+   "FSP-Clinical-Operations",
+   "Clinical-Operations-Lead",
+   "Remote-Program-Manager",
+   "Operations"
+  ],
+  "excerpt": "When our values align, there's no limit to what we can achieve."
+ },
+ {
+  "id": "workingnomads-go/1994915",
+  "source": "workingnomads",
+  "track": "alt",
+  "title": "Technical Operations Lead",
+  "company": "Lemon.io",
+  "location": "Europe",
+  "employment": null,
+  "posted": "2026-11-04",
+  "url": "https://www.workingnomads.com/job/go/1994915/",
+  "compensation": null,
+  "tags": [
+   "python",
+   "project management",
+   "ai engineer",
+   "annotation",
+   "english"
+  ],
+  "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. We are looking for a Technical Operations Lead for our client: a leading European AI lab working on advanced AI models and data annotation projects. They collaborate with Lemon.io to scale their annotation and technical operations teams. Who we’re looking for Technical Operations Lead with: 5+ years of commercial experience with Python 3+ years of commercial experience in Project management You’ve built projects from scratch and made solid architecture decisions You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls You work full-time remotely and deliver without supervision You onboard quickly and start shipping in you"
+ },
+ {
+  "id": "weworkremotely-a1642acceb",
+  "source": "weworkremotely",
+  "track": "alt",
+  "title": "Supply Chain & Operations Manager - LATAM",
+  "company": "Super Speciosa",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-04",
+  "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Mexico City, Mexico URL: http://superspeciosa.com Location: Fully remote, based in Colombia, Mexico, or Argentina Compensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience Schedule: Monday-Friday, 9:00 a.m.-5:00 p.m. U.S. Eastern Time, with some flexibility Reports to: CEO, working closely with the COO Commitment: Full-time; no direct reports Openings: One; start as soon as practical About us Super Organics is a portfolio of wellness and supplement brands based in Fort Lauderdale, Florida, including Super Speciosa, a kratom brand. We work with a globally distributed team and affiliated manufacturing and fulfillment operations, with a focus on quality, transparency, and reliable execution. About the role We are hiring a hands-on Supply Chain & Operations Manager to keep products in stock, manage purchasing and production commitments, and deliver measurable savings in packaging, inventory, and shipping. You will build practical planning tools and independently follow through with manufacturers, suppliers, and warehouse teams. You will also coordinate packaging artwork, product launches, and brand-side quality workflows. This "
+ },
+ {
+  "id": "gofractional-ices-operations-project-manager-rippling",
+  "source": "gofractional",
+  "track": "core",
+  "title": "Cyber Services Operations Project Manager",
+  "company": "Beazley Security",
+  "location": "Remote; Remote (United States), United States; United States",
+  "employment": null,
+  "posted": "2026-11-04",
+  "url": "https://www.gofractional.com/job/rippling-cyber-services-operations-project-manager-rippling",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "3-6 Month Contract Summary The CyberServices Operations Project Manager is responsible for driving the successful planning, execution, governance, and operational coordination of key internal projects, including the onboarding of an outsourced service to triage customer service tickets & the co-ordination of process changes and efficiency improvements in Cyber Services’ ticketing platform - Zendesk. This role serves as the bridge between CyberServices leadership, third party contractors, and internal business functions to ensure projects are delivered efficiently, consistently, and in alignment with business objectives. The position oversees project lifecycles, resource coordination, deliverables tracking, operational reporting, and process improvement initiatives across the CyberServices department. The ideal candidate combines strong project management discipline with operational excellence, stakeholder management, and exceptional communication skills. Responsibilities Manage the full lifecycle of internal projects: Onboarding of a managed service for customer service ticket triaging Co-ordination of process changes and efficiency improvements in Cyber Services’ ticketing platfor"
+ },
+ {
+  "id": "gofractional-am-manager-commercial-systems-fixed-term",
+  "source": "gofractional",
+  "track": "alt",
+  "title": "Interim Senior Program Manager, Commercial Systems",
+  "company": "ŌURA",
+  "location": "Remote; Oulu, California, United States; United States",
+  "employment": null,
+  "posted": "2026-11-04",
+  "url": "https://www.gofractional.com/job/greenhouse-senior-program-manager-commercial-systems-fixed-term",
+  "compensation": "USD 85-125/hour",
+  "tags": [
+   "exclusive"
+  ],
+  "excerpt": "We are looking for a Senior Program Manager, Commercial Systems (Contract) to provide interim leadership of Commercial Systems within Commercial Operations during a period of transition. In this role, you will own the intake, prioritization, and delivery of initiatives that support our Commercial teams by working with Systems partner teams from across the organization. You will set direction and stay hands-on to keep programs moving, with a high degree of autonomy. This is a 3 month contract with potential for extension. What You Will Do: Ensure the Commercial Systems roadmap reflects the highest-ROI work by running a clear intake and prioritization process, and saying \"not now\" to senior stakeholders when needed Turn ambiguous business requests into clear, documented requirements that admins, engineers, and vendors can build against Deliver multiple concurrent initiatives on time, from planning and dependency management through UAT, launch, and status reporting Keep Commercial and cross-functional stakeholders aligned by resolving competing priorities and removing roadblocks Keep the broader stakeholder group informed through consistent roadmap updates, status summaries, and timel"
+ },
+ {
   "id": "jobgether-87ee8aed",
   "source": "jobgether",
   "track": "alt",
@@ -40,74 +159,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Head of CEO Office & Business Operations based in Germany. We are looking for a highly experienced and hands-on Business Operations leader to work directly with the CEO and drive the operational excellence of a growing international software engineering business. In this strategic leadership role, you will own the company's operating rhythm, translating business priorities into actionable plans, measurable objectives, and tangible results. You will oversee key areas including delivery performance, financial planning, workforce management, compliance, and organizational efficiency. Working closely with senior leadership and team leads across multiple time zones, you will ensure accountability and effective execution throughout the organization. You will also lead the adoption of AI-powered tools and scalable processes to support the company's ambitious growth plans. This is an opportunity for an entrepreneurial operations professional to shape a growing business from within, with a clear progression path toward the Chief Operating Officer (COO) position."
- },
- {
-  "id": "himalayas-t-8527099992",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Security Engineer - Product",
-  "company": "Wiz Co",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-03",
-  "url": "https://himalayas.app/companies/wiz-co/jobs/security-engineer-product-8527099992?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Product-Security",
-   "Security-Engineering",
-   "Cloud-Security",
-   "Application-Security",
-   "DevSecOps",
-   "Security-Products-Engineer",
-   "Product-Security-Engineer",
-   "Product-Security-Engineering",
-   "Security-Software-Engineer",
-   "Cybersecurity-Engineer",
-   "Software-Security-Engineer",
-   "Information-Security-Engineer"
-  ],
-  "excerpt": "Come join the organization that is redefining security for the AI era."
- },
- {
-  "id": "himalayas-r-5826513300",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "Program Manager - Fully Remote | Upto $160/hr",
-  "company": "mercor",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvi",
-  "employment": "Full Time",
-  "posted": "2026-11-03",
-  "url": "https://himalayas.app/companies/mercor/jobs/program-manager-fully-remote-upto-160-hr-5826513300?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Project-Management",
-   "Remote-Coordination",
-   "Document-Review",
-   "Remote-Program-Manager",
-   "Remote-Senior-Project-Manager",
-   "Remote-Program-Management",
-   "Program-Manager"
-  ],
-  "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs."
- },
- {
-  "id": "himalayas-acher-remote",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "Online German Teacher - Remote",
-  "company": "Staffus GmbH",
-  "location": "Worldwide",
-  "employment": "Contractor",
-  "posted": "2026-11-03",
-  "url": "https://himalayas.app/companies/staffus-gmbh/jobs/online-german-teacher-remote?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "German-Teacher",
-   "Online-German-Teacher",
-   "German-Language-Instructor",
-   "German-As-A-Foreign-Language-(DaF)-Teacher"
-  ],
-  "excerpt": "This is a remote position. Stellenausschreibung - Internationaler Sprachlehrer für Deutschkurse als Online Lehrer/ (alternativ auch onsite)als Freelancer staffus GmbHist unter anderem eine Personalvermittlungsfirma und rekrutiert Pflegefachkräfte aus verschiedenen Ländern für Kunden in Deutschland."
  },
  {
   "id": "jobgether-e3243f97",
@@ -234,48 +285,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Japan URL: https://nativecamp.net/tutors/?cc=gb-wwr About us: Native Camp is Japan’s No.1 Online English Service counting the highest number of both teachers and students who are learning the English language through our platform. Since 2017, we have started hiring teachers from all around the world, and we have created an environment that makes it easy for them to work and earn while having full flexibility. We are continuously expanding, introducing new features and teaching materials, and as a result of these efforts, more than 1.3 million members are using our service. Lessons are provided via a unique language platform developed by our company. We have simplified our application process and made it as quick as possible, so joining our team of teachers has never been easier. Join us today to experience the benefits that we provide. ONLINE ENGLISH TEACHER (Home-Based job position) What we offer: ・Complete flexibility (24/7) ・100% remote ・Easy-to-follow teaching materials provided ・No minimum hours per week required ・Frequent incentives offered ・No CV or experience required ・Online support available Requirements: ・English Proficiency ・Laptop or PC with a webcam ・Hea"
- },
- {
-  "id": "jobgether-86d6709c",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Middle Years Program Lead (Trailblazers)",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-10-28",
-  "url": "https://jobs.lever.co/jobgether/86d6709c-388e-4f68-9465-cb77537090fe",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Middle Years Program Lead (Trailblazers) based in Spain. The Middle Years Program Lead will shape and scale an innovative educational program designed for children aged 10–14, combining academic excellence with social-emotional development. This role offers the opportunity to lead end-to-end curriculum design, integrating project-based and place-based learning experiences inspired by the world around students. You will develop engaging learning resources, assessment frameworks, and educational systems that support consistent delivery across international locations. Working closely with educators, education leaders, and cross-functional teams, you will empower teachers and foster meaningful student progress. You will also drive the integration of online learning providers and educational technologies to enhance the learning experience. As the program expands globally, you will play a pivotal role in establishing quality standards, supporting new launches, and ensuring educational excellence at scale. This is an exciting opportunity for an experienced educ"
- },
- {
-  "id": "jobgether-023c79f3",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Product Compliance Counsel",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-10-28",
-  "url": "https://jobs.lever.co/jobgether/023c79f3-c917-4764-a0fa-243b3628118b",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Product Compliance Counsel based in Spain. Join an international, remote-first organization developing innovative digital products that help people build meaningful connections across cultures and communities. As Product Compliance Counsel, you will play a key role in ensuring that digital products, marketing activities, and emerging technologies meet applicable legal and regulatory requirements. You will work closely with Product, Marketing, and other cross-functional teams to identify compliance risks, review new features, and support responsible product development. Your expertise will help navigate complex consumer protection, advertising, digital platform, sanctions, and artificial intelligence regulations across the EU and US markets. You will also contribute to regulatory monitoring, compliance training, and the continuous improvement of internal policies and controls. This opportunity is ideal for a legally trained professional who enjoys working at the intersection of technology, digital innovation, and international regulatory compliance."
- },
- {
-  "id": "jobgether-0abbad76",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Web3 Licensing and Regulatory Compliance Specialist",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-10-28",
-  "url": "https://jobs.lever.co/jobgether/0abbad76-1189-4a99-b1a7-e0e94dbb1fe8",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Web3 Licensing and Regulatory Compliance Specialist based in Spain. The Web3 Licensing and Regulatory Compliance Specialist will support digital-asset businesses in navigating complex regulatory frameworks and obtaining the authorizations required to operate. This role combines regulatory advisory, licensing support, compliance assessments, and the development of practical solutions for the evolving Web3 ecosystem. You will work with clients ranging from crypto-asset service providers and virtual asset service providers to token issuers and other blockchain-focused businesses. A key focus will be European Union and United Arab Emirates regulatory frameworks, helping organizations translate legal obligations into effective governance, risk management, and operational controls. Working alongside cybersecurity, anti-money laundering, product, and engineering specialists, you will bridge regulatory requirements with technical implementation. You will also contribute to regulatory research and the development of scalable compliance tools, methodologies, and s"
  },
  {
   "id": "weworkremotely-0edf261885",
@@ -462,50 +471,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers Evangelize Datadog’s security story to security leaders (CISO, Security Architects, SecOps) Work cross-functionally with Datadog's pa"
- },
- {
-  "id": "gofractional-ucayan-technology-solutions-llc-rippling",
-  "source": "gofractional",
-  "track": "core",
-  "title": "Interim Cybersecurity Lead",
-  "company": "Lucayan Technology Solutions LLC",
-  "location": "Remote; Tampa, Florida, United States; United States",
-  "employment": null,
-  "posted": "2026-10-07",
-  "url": "https://www.gofractional.com/job/rippling-cybersecurity-lead-lucayan-technology-solutions-llc-rippling",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Job Summary We are looking for an experienced Cybersecurity Lead to direct the Risk Management Framework (RMF) and Authority to Operate (ATO) effort for a new Department of Defense emergency mass notification system. You will own the authorization package from boundary definition through AO decision support, working alongside the engineering and installation team on an accelerated schedule. Location: This is a US-based remote position, with approved on-site work at a U.S. military installation in Germany as needed. On-site travel is scheduled in advance and approved travel costs are covered. Employment Type: Part-Time Contract Security Clearance: Must be eligible for a DoD Common Access Card (CAC) and military base access Key Responsibilities ● Lead the full RMF lifecycle: boundary definition, categorization, control selection, implementation, assessment, and authorization ● Author the SSP, control narratives, network and data-flow diagrams, and interconnection security agreements (ISAs) ● Apply STIGs/SRGs, run SCAP, Evaluate-STIG, and ACAS/Nessus scans, and maintain hardened baselines ● Manage findings, POA&Ms, patching, and IAVM records, and direct field staff on remediation ● Se"
- },
- {
-  "id": "weworkremotely-bf0b0cc65e",
-  "source": "weworkremotely",
-  "track": "alt",
-  "title": "IT Lead Consultant / Service Delivery Lead  - Cloud CRM (Remote)",
-  "company": "Veeva Systems",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-05",
-  "url": "https://weworkremotely.com/remote-jobs/veeva-systems-it-lead-consultant-service-delivery-lead-cloud-crm-remote",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: Hungary - Budapest URL: http://veeva.com Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry , committed to making a positive impact on its customers, employees, and communities. The Role Are you looking for a place where your work makes an impact? We are seeking a talented Cloud CRM Consultant to join our amazing, fast-paced team of experts in Hungary. As a Cloud CRM Lead Consultant in our Commercial Managed Services team, you will drive customer e"
- },
- {
-  "id": "gofractional-compliance-contracts-manager-cmun05um",
-  "source": "gofractional",
-  "track": "core",
-  "title": "Compliance & Contracts Manager",
-  "company": "",
-  "location": "Remote; New Jersey, United States, New Jersey, US; US",
-  "employment": null,
-  "posted": "2026-10-05",
-  "url": "https://www.gofractional.com/job/compliance-contracts-manager-cmun05um",
-  "compensation": "USD 115-155/hour",
-  "tags": [
-   "exclusive"
-  ],
-  "excerpt": "The organization — a certified IT asset disposition and secure data-destruction services provider (New Jersey; hybrid) — is hiring a Compliance & Contracts Manager reporting to the EVP of Operations & Product. This hands-on, builder role centralizes audit readiness, certification maintenance, and contract ownership to ensure the organization stays audit-ready, contractually protected, and able to win and retain enterprise clients during rapid growth. Responsibilities Own certification maintenance and audit readiness: schedule and prepare for audits, track corrective actions, maintain documentation and evidence, and evaluate additional certifications (for example, ISO standards). Manage contracts across the client lifecycle: draft and review NDAs, MSAs, and amendments; execute and track agreements. Lead compliance and contracts activities during new client onboarding: manage NDAs, customer requirement surveys, security/compliance questionnaires, and vendor risk assessments. Build and maintain a standardized compliance document library (policies, SOPs, forms) and a compliance dashboard for leadership and board reporting. Respond to enterprise client compliance and vendor-review reque"
  },
  {
   "id": "getonboard-ca-grupo-mariposa-remote",
