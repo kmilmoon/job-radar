@@ -30,16 +30,6 @@
   "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
  },
  {
-  "id": "li-4484957155",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4484957155/"
- },
- {
-  "id": "li-4468870097",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4468870097/"
- },
- {
   "id": "li-4473393070",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4473393070/"
@@ -50,19 +40,9 @@
   "url": "https://www.linkedin.com/jobs/view/4484708988/"
  },
  {
-  "id": "gh-bitpanda-5024636101",
-  "coll": "jobs",
-  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
- },
- {
   "id": "lever-myob-8754cf16",
   "coll": "jobs",
   "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
- },
- {
-  "id": "workable-plainconcepts-287FD7D4",
-  "coll": "jobs",
-  "url": "https://apply.workable.com/plainconcepts/jobs/view/287FD7D4F7"
  },
  {
   "id": "li-4482317639",
@@ -80,9 +60,9 @@
   "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
  },
  {
-  "id": "jobgether-64bfb177",
+  "id": "himalayas-r-5826513300",
   "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/64bfb177-92a9-43eb-a8bb-51cc2d3a498a"
+  "url": "https://himalayas.app/companies/mercor/jobs/program-manager-fully-remote-upto-160-hr-5826513300?utm_source=api"
  },
  {
   "id": "ashby-elevenlabs-7ab03a75",
@@ -95,8 +75,13 @@
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  },
  {
-  "id": "web-teleclinic-768dc496",
+  "id": "gh-bitpanda-5025155101",
   "coll": "jobs",
-  "url": "https://jobs.teleclinic.com/en/offer/information-security-lead-m-f-d/768dc496-a5ba-4e1c-bdc7-ba1d05a6c379"
+  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
+ },
+ {
+  "id": "jobgether-2d73168e",
+  "coll": "alt",
+  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
  }
 ]
