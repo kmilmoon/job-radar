@@ -10,6 +10,11 @@
   "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
  },
  {
+  "id": "gh-bitpanda-5025155101",
+  "coll": "jobs",
+  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
+ },
+ {
   "id": "li-4483451095",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4483451095/"
@@ -40,6 +45,11 @@
   "url": "https://www.linkedin.com/jobs/view/4484708988/"
  },
  {
+  "id": "gh-bitpanda-4995059101",
+  "coll": "jobs",
+  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+ },
+ {
   "id": "lever-myob-8754cf16",
   "coll": "jobs",
   "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
@@ -60,6 +70,16 @@
   "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
  },
  {
+  "id": "jobgether-2d73168e",
+  "coll": "alt",
+  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
+ },
+ {
+  "id": "shiny-fractional-coo",
+  "coll": "alt",
+  "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
+ },
+ {
   "id": "himalayas-r-5826513300",
   "coll": "alt",
   "url": "https://himalayas.app/companies/mercor/jobs/program-manager-fully-remote-upto-160-hr-5826513300?utm_source=api"
@@ -70,18 +90,13 @@
   "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
  },
  {
+  "id": "himalayas-s-9703334638",
+  "coll": "alt",
+  "url": "https://himalayas.app/companies/tripleten/jobs/ai-for-business-transformation-teaching-experts-9703334638"
+ },
+ {
   "id": "jobgether-a80049aa",
   "coll": "alt",
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
- },
- {
-  "id": "gh-bitpanda-5025155101",
-  "coll": "jobs",
-  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
- },
- {
-  "id": "jobgether-2d73168e",
-  "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
  }
 ]
