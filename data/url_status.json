@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-06T11:35:58+00:00",
+ "checked": "2026-11-09T04:43:27+00:00",
  "items": {
   "jobs/web-crossborder-compliancelead": {
    "status": "closed",
@@ -12,6 +12,12 @@
    "reason": "La página dice que la oferta está cerrada",
    "http": 200,
    "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
+  },
+  "jobs/gh-bitpanda-5025155101": {
+   "status": "open",
+   "reason": "Sigue publicada en Greenhouse",
+   "http": 200,
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
   },
   "jobs/li-4483451095": {
    "status": "unknown",
@@ -49,6 +55,12 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4484708988/"
   },
+  "jobs/gh-bitpanda-4995059101": {
+   "status": "open",
+   "reason": "Sigue publicada en Greenhouse",
+   "http": 200,
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+  },
   "jobs/lever-myob-8754cf16": {
    "status": "closed",
    "reason": "Lever ya no la tiene",
@@ -73,6 +85,18 @@
    "http": 404,
    "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
   },
+  "alt/jobgether-2d73168e": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
+  },
+  "alt/shiny-fractional-coo": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
+   "http": 200,
+   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
+  },
   "alt/himalayas-r-5826513300": {
    "status": "unknown",
    "reason": "La página respondió 403",
@@ -85,23 +109,17 @@
    "http": 200,
    "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
   },
+  "alt/himalayas-s-9703334638": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://himalayas.app/companies/tripleten/jobs/ai-for-business-transformation-teaching-experts-9703334638"
+  },
   "alt/jobgether-a80049aa": {
    "status": "closed",
    "reason": "Lever ya no la tiene",
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
-  },
-  "jobs/gh-bitpanda-5025155101": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
-   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
-  },
-  "alt/jobgether-2d73168e": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
   }
  }
 }

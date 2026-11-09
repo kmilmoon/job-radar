@@ -1,12 +1,20 @@
 {
- "generatedAt": "2026-11-02T04:56:34+00:00",
+ "generatedAt": "2026-11-09T04:43:22+00:00",
  "counts": {
-  "Vanta": 120,
+  "Vanta": 119,
   "Secureframe": 32,
   "Drata": 0
  },
  "baseline": [],
  "new": [
+  {
+   "vendor": "Vanta",
+   "slug": "fin",
+   "name": "Fin",
+   "url": "https://www.vanta.com/customers/fin",
+   "lastmod": "2026-11-05",
+   "firstSeen": "2026-11-09"
+  },
   {
    "vendor": "Vanta",
    "slug": "carter-newell-lawyers",
@@ -27,10 +35,24 @@
  "recentlyUpdated": [
   {
    "vendor": "Vanta",
+   "slug": "eight-sleep",
+   "name": "Eight Sleep",
+   "url": "https://www.vanta.com/customers/eight-sleep",
+   "lastmod": "2026-11-06"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "fin",
+   "name": "Fin",
+   "url": "https://www.vanta.com/customers/fin",
+   "lastmod": "2026-11-05"
+  },
+  {
+   "vendor": "Vanta",
    "slug": "specbook-ai",
    "name": "Specbook AI",
    "url": "https://www.vanta.com/customers/specbook-ai",
-   "lastmod": "2026-10-28"
+   "lastmod": "2026-11-02"
   },
   {
    "vendor": "Vanta",
@@ -44,13 +66,6 @@
    "slug": "dust",
    "name": "Dust",
    "url": "https://www.vanta.com/customers/dust",
-   "lastmod": "2026-10-20"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "eight-sleep",
-   "name": "Eight Sleep",
-   "url": "https://www.vanta.com/customers/eight-sleep",
    "lastmod": "2026-10-20"
   },
   {
@@ -180,21 +195,21 @@
    "slug": "formsort",
    "name": "Formsort",
    "url": "https://secureframe.com/customers/formsort",
-   "lastmod": "2024-07-27"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Secureframe",
    "slug": "haystack",
    "name": "Haystack",
    "url": "https://secureframe.com/customers/haystack",
-   "lastmod": "2023-11-28"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Secureframe",
    "slug": "headcount365",
    "name": "Headcount365",
    "url": "https://secureframe.com/customers/headcount365",
-   "lastmod": "2023-11-28"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Secureframe",
@@ -208,7 +223,7 @@
    "slug": "kinectify",
    "name": "Kinectify",
    "url": "https://secureframe.com/customers/kinectify",
-   "lastmod": "2024-04-01"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Secureframe",
@@ -243,7 +258,7 @@
    "slug": "osmos",
    "name": "Osmos",
    "url": "https://secureframe.com/customers/osmos",
-   "lastmod": "2023-11-28"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Secureframe",
@@ -271,7 +286,7 @@
    "slug": "roadie",
    "name": "Roadie",
    "url": "https://secureframe.com/customers/roadie",
-   "lastmod": "2023-11-28"
+   "lastmod": "2024-08-22"
   },
   {
    "vendor": "Secureframe",
@@ -292,14 +307,14 @@
    "slug": "slatewell",
    "name": "Slatewell",
    "url": "https://secureframe.com/customers/slatewell",
-   "lastmod": "2024-03-29"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Secureframe",
    "slug": "troops",
    "name": "Troops",
    "url": "https://secureframe.com/customers/troops",
-   "lastmod": "2023-11-28"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Secureframe",
@@ -313,7 +328,7 @@
    "slug": "wealth",
    "name": "Wealth",
    "url": "https://secureframe.com/customers/wealth",
-   "lastmod": "2023-11-28"
+   "lastmod": "2024-08-04"
   },
   {
    "vendor": "Vanta",
@@ -369,13 +384,6 @@
    "slug": "black-kite",
    "name": "Black Kite",
    "url": "https://www.vanta.com/customers/black-kite",
-   "lastmod": "2026-03-17"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "blade-labs",
-   "name": "Blade Labs",
-   "url": "https://www.vanta.com/customers/blade-labs",
    "lastmod": "2026-03-17"
   },
   {
@@ -544,7 +552,7 @@
    "slug": "eight-sleep",
    "name": "Eight Sleep",
    "url": "https://www.vanta.com/customers/eight-sleep",
-   "lastmod": "2026-10-20"
+   "lastmod": "2026-11-06"
   },
   {
    "vendor": "Vanta",
@@ -576,6 +584,13 @@
   },
   {
    "vendor": "Vanta",
+   "slug": "fin",
+   "name": "Fin",
+   "url": "https://www.vanta.com/customers/fin",
+   "lastmod": "2026-11-05"
+  },
+  {
+   "vendor": "Vanta",
    "slug": "fireant",
    "name": "Fireant",
    "url": "https://www.vanta.com/customers/fireant",
@@ -593,13 +608,6 @@
    "slug": "flo-health",
    "name": "Flo Health",
    "url": "https://www.vanta.com/customers/flo-health",
-   "lastmod": "2026-03-17"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "flossie",
-   "name": "Flossie",
-   "url": "https://www.vanta.com/customers/flossie",
    "lastmod": "2026-03-17"
   },
   {
@@ -964,7 +972,7 @@
    "slug": "specbook-ai",
    "name": "Specbook AI",
    "url": "https://www.vanta.com/customers/specbook-ai",
-   "lastmod": "2026-10-28"
+   "lastmod": "2026-11-02"
   },
   {
    "vendor": "Vanta",

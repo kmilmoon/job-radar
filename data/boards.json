@@ -1,5 +1,25 @@
 [
  {
+  "id": "himalayas-er-295143647",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+  "company": "Mindrift",
+  "location": "Spain",
+  "employment": "Contractor",
+  "posted": "2026-11-08",
+  "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cfd-engineer-ai-trainer-295143647?utm_source=api",
+  "compensation": "USD 31-31",
+  "tags": [
+   "Computational-Fluid-Dynamics-Engineer",
+   "Mechanical-Engineer",
+   "Simulation-Engineer",
+   "AI-Trainer",
+   "Freelance-Engineer"
+  ],
+  "excerpt": "About the role Help train and evaluate AI agents on expert-level fluid simulation tasks."
+ },
+ {
   "id": "jobgether-bcf44c2b",
   "source": "jobgether",
   "track": "alt",
@@ -143,7 +163,7 @@
    "annotation",
    "english"
   ],
-  "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. We are looking for a Technical Operations Lead for our client: a leading European AI lab working on advanced AI models and data annotation projects. They collaborate with Lemon.io to scale their annotation and technical operations teams. Who we’re looking for Technical Operations Lead with: 5+ years of commercial experience with Python 3+ years of commercial experience in Project management You’ve built projects from scratch and made solid architecture decisions You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls You work full-time remotely and deliver without supervision You onboard quickly and start shipping in you"
+  "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior .NET Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team’s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we’r"
  },
  {
   "id": "weworkremotely-a1642acceb",
