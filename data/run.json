@@ -1,7 +1,7 @@
 {
- "ranAt": "2026-11-09T04:43:22+00:00",
- "companies": 166,
- "boardsRead": 103,
+ "ranAt": "2026-11-09T04:59:16+00:00",
+ "companies": 171,
+ "boardsRead": 104,
  "matchingJobs": 454,
  "noBoardFound": [
   "MultiSafepay",
@@ -66,7 +66,11 @@
   "Signaturit",
   "LO:TECH",
   "Conlio",
-  "Crediflow AI"
+  "Crediflow AI",
+  "Ryft",
+  "inforcer",
+  "Complaion",
+  "Cachet"
  ],
  "errors": [],
  "aggregators": {
@@ -205,23 +209,9 @@
   "leaderHiring": 6
  },
  "triggers": {
-  "ranAt": "2026-11-09T04:43:22+00:00",
-  "ran": [
-   "vendorCustomers"
-  ],
-  "vendorCustomers": {
-   "counts": {
-    "Vanta": 119,
-    "Secureframe": 32,
-    "Drata": 0
-   },
-   "new": 3,
-   "baseline": []
-  },
-  "errors": [
-   "Drata customers: https://drata.com/sitemap.xml: HTTPError: HTTP Error 403: Forbidden",
-   "Drata customers: nothing readable; covered by the daily web search"
-  ],
+  "ranAt": "2026-11-09T04:59:16+00:00",
+  "ran": [],
+  "errors": [],
   "webSearchFallback": [
    "Drata: clientes, partners y auditores (bloquea la lectura automática)",
    "Secureframe: auditores partner (no publica un listado)"
