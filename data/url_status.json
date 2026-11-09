@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T04:59:21+00:00",
+ "checked": "2026-11-09T12:14:18+00:00",
  "items": {
   "jobs/web-crossborder-compliancelead": {
    "status": "closed",
@@ -56,9 +56,9 @@
    "url": "https://www.linkedin.com/jobs/view/4484708988/"
   },
   "jobs/gh-bitpanda-4995059101": {
-   "status": "open",
-   "reason": "Sigue publicada en Greenhouse",
-   "http": 200,
+   "status": "closed",
+   "reason": "Greenhouse ya no la tiene",
+   "http": 404,
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
   },
   "jobs/lever-myob-8754cf16": {

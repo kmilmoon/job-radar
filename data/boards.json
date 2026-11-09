@@ -1,21 +1,51 @@
 [
  {
-  "id": "himalayas-r-2526860413",
-  "source": "himalayas",
+  "id": "jobgether-37e02f80",
+  "source": "jobgether",
   "track": "alt",
-  "title": "CAD Engineer - AI Trainer",
-  "company": "Mindrift",
-  "location": "Spain",
-  "employment": "Part Time",
-  "posted": "2026-11-08",
-  "url": "https://himalayas.app/companies/mindrift/jobs/cad-engineer-ai-trainer-2526860413?utm_source=api",
-  "compensation": "USD 31-31",
+  "title": "Global PMO Lead",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-09",
+  "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Global PMO Lead based in Spain. The Global PMO Lead will establish and lead a global Program Management Office, ensuring that the organisation’s most important cross-functional initiatives are delivered effectively across regions and business units. This hands-on leadership role combines direct ownership of complex strategic programs with the development of a scalable, practical PMO operating model. You will work closely with senior executives and functional leaders to translate business priorities into clear execution plans, improve visibility, and address risks before they affect delivery. You will also build and develop a team of program managers who act as trusted execution partners rather than administrative coordinators. In a fast-growing, international environment, you will bring structure to ambiguity while keeping processes lightweight and adaptable. Your work will directly strengthen accountability, resource allocation, and the organisation’s ability to deliver its highest-impact priorities."
+ },
+ {
+  "id": "jobgether-5c619fc2",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Marketing Operations Manager (fixed term)",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Fixed term",
+  "posted": "2026-11-09",
+  "url": "https://jobs.lever.co/jobgether/5c619fc2-9378-4bd5-b2f2-69af9e816f7e",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Marketing Operations Manager based in Spain. We are looking for an experienced Marketing Operations Manager to coordinate and streamline activities within a dynamic, globally distributed marketing department. In this role, you will oversee multiple projects simultaneously, ensuring campaigns, launches, webinars and events progress efficiently and meet their deadlines. You will work closely with cross-functional teams, including campaign management, content, creative, events, lifecycle marketing and sales, to keep priorities aligned and execution on track. Your responsibilities will include managing project workflows, facilitating team meetings, monitoring deliverables and providing leadership with clear progress updates. You will also identify potential bottlenecks, improve operational processes and ensure that decisions are translated into actionable outcomes. This is a 6–12-month fixed-term contract offering the opportunity to contribute to an ambitious, fully remote international team while maintaining operational excellence across its marketing activ"
+ },
+ {
+  "id": "himalayas-data-analyst",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Security Data Analyst",
+  "company": "Risk.Inc",
+  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
+  "employment": "Full Time",
+  "posted": "2026-11-09",
+  "url": "https://himalayas.app/companies/risk-inc/jobs/security-data-analyst?utm_source=api",
+  "compensation": null,
   "tags": [
-   "Cad-Engineer",
-   "AI-Trainer",
-   "Mechanical-Engineer"
+   "Security-Data-Analyst",
+   "Cybersecurity-Analyst",
+   "Security-Operations-Analyst",
+   "SOC-Analyst",
+   "Data-Loss-Prevention-Analyst"
   ],
-  "excerpt": "About the role Help train and evaluate AI agents that work inside a real CAD environment on long engineering tasks, work that would take an expert 10–15 hours."
+  "excerpt": "Company Description:RISK inc: An International iGaming Company Pushing the Boundaries of Entertainment Who We Are:An international iGaming company specializing in identifying and fostering the growth of high-potential entertainment markets."
  },
  {
   "id": "jobgether-bcf44c2b",
