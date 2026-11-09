@@ -871,5 +871,24 @@
  },
  {
   "name": "Crediflow AI"
+ },
+ {
+  "name": "Ryft"
+ },
+ {
+  "name": "Harmonic Security",
+  "ats": "ashby",
+  "slugs": [
+   "harmonic-security-inc"
+  ]
+ },
+ {
+  "name": "inforcer"
+ },
+ {
+  "name": "Complaion"
+ },
+ {
+  "name": "Cachet"
  }
 ]
