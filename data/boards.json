@@ -28,24 +28,94 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Marketing Operations Manager based in Spain. We are looking for an experienced Marketing Operations Manager to coordinate and streamline activities within a dynamic, globally distributed marketing department. In this role, you will oversee multiple projects simultaneously, ensuring campaigns, launches, webinars and events progress efficiently and meet their deadlines. You will work closely with cross-functional teams, including campaign management, content, creative, events, lifecycle marketing and sales, to keep priorities aligned and execution on track. Your responsibilities will include managing project workflows, facilitating team meetings, monitoring deliverables and providing leadership with clear progress updates. You will also identify potential bottlenecks, improve operational processes and ensure that decisions are translated into actionable outcomes. This is a 6–12-month fixed-term contract offering the opportunity to contribute to an ambitious, fully remote international team while maintaining operational excellence across its marketing activ"
  },
  {
-  "id": "himalayas-data-analyst",
+  "id": "himalayas-ife-sciences",
   "source": "himalayas",
-  "track": "core",
-  "title": "Security Data Analyst",
-  "company": "Risk.Inc",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
-  "employment": "Full Time",
+  "track": "alt",
+  "title": "AI Trainer (Life Sciences)",
+  "company": "micro1",
+  "location": "Worldwide",
+  "employment": "Contractor",
   "posted": "2026-11-09",
-  "url": "https://himalayas.app/companies/risk-inc/jobs/security-data-analyst?utm_source=api",
-  "compensation": null,
+  "url": "https://himalayas.app/companies/micro1/jobs/ai-trainer-life-sciences?utm_source=api",
+  "compensation": "USD 60-120",
   "tags": [
-   "Security-Data-Analyst",
-   "Cybersecurity-Analyst",
-   "Security-Operations-Analyst",
-   "SOC-Analyst",
-   "Data-Loss-Prevention-Analyst"
+   "Bioinformatics-AI-Trainer",
+   "Healthcare-AI-Trainer",
+   "AI-Trainer",
+   "AI-Trainer-Jobs",
+   "Healthcare-AI-Training-Specialist",
+   "AI-Training-Specialist",
+   "AI-Data-Trainer",
+   "AI-Model-Trainer-In-Healthcare"
   ],
-  "excerpt": "Company Description:RISK inc: An International iGaming Company Pushing the Boundaries of Entertainment Who We Are:An international iGaming company specializing in identifying and fostering the growth of high-potential entertainment markets."
+  "excerpt": "Pay: $60–$120/hour equivalent, paid per accepted task Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible micro1 is looking for Computational Life Scientists with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems."
+ },
+ {
+  "id": "himalayas-cal-sciences",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "AI Trainer (Physical Sciences)",
+  "company": "micro1",
+  "location": "Worldwide",
+  "employment": "Contractor",
+  "posted": "2026-11-09",
+  "url": "https://himalayas.app/companies/micro1/jobs/ai-trainer-physical-sciences?utm_source=api",
+  "compensation": "USD 60-120",
+  "tags": [
+   "AI-Trainer",
+   "Chemistry-AI-Trainer",
+   "AI-Chemistry-Trainer",
+   "AI-Trainer-Jobs",
+   "Technical-AI-Trainer",
+   "AI-Model-Trainer",
+   "AI-Data-Trainer"
+  ],
+  "excerpt": "Pay: $60–$120/hour equivalent, paid per accepted task Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible micro1 is looking for Computational Physical Scientists with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems."
+ },
+ {
+  "id": "himalayas--engineering",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "AI Trainer (ML Engineering)",
+  "company": "micro1",
+  "location": "Worldwide",
+  "employment": "Contractor",
+  "posted": "2026-11-09",
+  "url": "https://himalayas.app/companies/micro1/jobs/ai-trainer-ml-engineering?utm_source=api",
+  "compensation": "USD 60-120",
+  "tags": [
+   "AI-Trainer",
+   "AI-Model-Trainer",
+   "AI-ML-Training",
+   "Freelance-Engineering-AI-Trainer",
+   "AI-Training-Data-Engineer",
+   "Technical-AI-Trainer",
+   "AI-Data-Trainer",
+   "AI-Language-Model-Trainer",
+   "Data-Science"
+  ],
+  "excerpt": "Pay: $60–$120/hour equivalent, paid per accepted task Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible micro1 is looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems."
+ },
+ {
+  "id": "himalayas-ing-sciences",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "AI Trainer (Engineering Sciences)",
+  "company": "micro1",
+  "location": "Worldwide",
+  "employment": "Contractor",
+  "posted": "2026-11-09",
+  "url": "https://himalayas.app/companies/micro1/jobs/ai-trainer-engineering-sciences?utm_source=api",
+  "compensation": "USD 60-120",
+  "tags": [
+   "AI-Trainer",
+   "Freelance-Engineering-AI-Trainer",
+   "Freelance-Engineering-Research-AI-Trainer",
+   "Engineering-Trainer",
+   "Technical-AI-Trainer",
+   "AI-Model-Trainer"
+  ],
+  "excerpt": "Pay: $60–$120/hour equivalent, paid per accepted task Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible micro1 is looking for Engineering professionals with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems."
  },
  {
   "id": "jobgether-bcf44c2b",
@@ -222,22 +292,6 @@
   "excerpt": "3-6 Month Contract Summary The CyberServices Operations Project Manager is responsible for driving the successful planning, execution, governance, and operational coordination of key internal projects, including the onboarding of an outsourced service to triage customer service tickets & the co-ordination of process changes and efficiency improvements in Cyber Services’ ticketing platform - Zendesk. This role serves as the bridge between CyberServices leadership, third party contractors, and internal business functions to ensure projects are delivered efficiently, consistently, and in alignment with business objectives. The position oversees project lifecycles, resource coordination, deliverables tracking, operational reporting, and process improvement initiatives across the CyberServices department. The ideal candidate combines strong project management discipline with operational excellence, stakeholder management, and exceptional communication skills. Responsibilities Manage the full lifecycle of internal projects: Onboarding of a managed service for customer service ticket triaging Co-ordination of process changes and efficiency improvements in Cyber Services’ ticketing platfor"
  },
  {
-  "id": "gofractional-am-manager-commercial-systems-fixed-term",
-  "source": "gofractional",
-  "track": "alt",
-  "title": "Interim Senior Program Manager, Commercial Systems",
-  "company": "ŌURA",
-  "location": "Remote; Oulu, California, United States; United States",
-  "employment": null,
-  "posted": "2026-11-04",
-  "url": "https://www.gofractional.com/job/greenhouse-senior-program-manager-commercial-systems-fixed-term",
-  "compensation": "USD 85-125/hour",
-  "tags": [
-   "exclusive"
-  ],
-  "excerpt": "We are looking for a Senior Program Manager, Commercial Systems (Contract) to provide interim leadership of Commercial Systems within Commercial Operations during a period of transition. In this role, you will own the intake, prioritization, and delivery of initiatives that support our Commercial teams by working with Systems partner teams from across the organization. You will set direction and stay hands-on to keep programs moving, with a high degree of autonomy. This is a 3 month contract with potential for extension. What You Will Do: Ensure the Commercial Systems roadmap reflects the highest-ROI work by running a clear intake and prioritization process, and saying \"not now\" to senior stakeholders when needed Turn ambiguous business requests into clear, documented requirements that admins, engineers, and vendors can build against Deliver multiple concurrent initiatives on time, from planning and dependency management through UAT, launch, and status reporting Keep Commercial and cross-functional stakeholders aligned by resolving competing priorities and removing roadblocks Keep the broader stakeholder group informed through consistent roadmap updates, status summaries, and timel"
- },
- {
   "id": "jobgether-87ee8aed",
   "source": "jobgether",
   "track": "alt",
@@ -250,62 +304,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Head of CEO Office & Business Operations based in Germany. We are looking for a highly experienced and hands-on Business Operations leader to work directly with the CEO and drive the operational excellence of a growing international software engineering business. In this strategic leadership role, you will own the company's operating rhythm, translating business priorities into actionable plans, measurable objectives, and tangible results. You will oversee key areas including delivery performance, financial planning, workforce management, compliance, and organizational efficiency. Working closely with senior leadership and team leads across multiple time zones, you will ensure accountability and effective execution throughout the organization. You will also lead the adoption of AI-powered tools and scalable processes to support the company's ambitious growth plans. This is an opportunity for an entrepreneurial operations professional to shape a growing business from within, with a clear progression path toward the Chief Operating Officer (COO) position."
- },
- {
-  "id": "jobgether-e3243f97",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Clinical Trial Delivery Trainer",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-02",
-  "url": "https://jobs.lever.co/jobgether/e3243f97-6d50-4a52-a4ee-4b91aac07349",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Clinical Trial Delivery Trainer based in Spain . The Clinical Trial Delivery Trainer will play a key role in strengthening employee capabilities and ensuring consistent operational excellence across clinical research teams. This position focuses on designing, coordinating, delivering, and continuously improving training programs for professionals involved in clinical trial operations. You will support onboarding, ongoing professional development, and role readiness across multiple functions, including clinical research and project management. Working closely with functional leaders, subject matter experts, and cross-functional teams, you will translate complex regulatory and operational requirements into practical learning experiences. You will also contribute to knowledge sharing, employee coaching, and continuous improvement initiatives. This is an opportunity to make a meaningful impact on clinical trial quality, compliance, and delivery in an international environment."
- },
- {
-  "id": "jobgether-3b5d5c84",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Interim Head of Information Security",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-02",
-  "url": "https://jobs.lever.co/jobgether/3b5d5c84-874d-476f-b001-6e69de1ab8c5",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Interim Head of Information Security based in Spain. We are seeking an experienced information security leader to take ownership of a software-driven organization’s security strategy and strengthen its overall security posture. In this interim role, you will work closely with Engineering, IT, Legal, and Compliance teams to embed security into development and platform operations. You will help advance a proactive, engineering-aligned security function built around secure-by-design principles, measurable risk management, and practical safeguards. You will also lead preparations for important compliance and audit requirements, including PCI-DSS and SOC 2. This is a temporary leadership opportunity offering flexibility in both scope and working arrangements, with the potential to make a meaningful impact over a 4–6 month engagement."
- },
- {
-  "id": "jobgether-2e23524a",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Online Science Teacher – Partner School, Term 2 (Environmental & Physical Science)",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Contract",
-  "posted": "2026-11-02",
-  "url": "https://jobs.lever.co/jobgether/2e23524a-97a9-4573-a937-e979aab5e3c5",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Online Science Teacher – Partner School, Term 2 (Environmental & Physical Science) based in Spain. We are looking for an experienced Science Teacher to deliver engaging, live online lessons in Environmental Science and Physical Science to a small partner school class. You will help students develop a strong understanding of the natural and physical world while encouraging curiosity, critical thinking, and scientific confidence. The role covers topics including ecosystems, sustainability, energy, forces and motion, and the properties of matter. Through interactive teaching methods, virtual labs, simulations, and practical activities, you will create an engaging digital classroom experience. You will also monitor student progress, provide constructive feedback, and adapt lessons to meet individual learning needs. This is a fully remote, fixed-term teaching opportunity running from January to March 2027, with onboarding completed by December 2026. Lessons follow the Spain/Italy time zone (CET), making this opportunity particularly suitable for teachers who"
- },
- {
-  "id": "jobgether-890793d8",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Product Manager - Administration & Governance",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-02",
-  "url": "https://jobs.lever.co/jobgether/890793d8-9e8d-4c3b-8c11-33a193ed89e9",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Product Manager – Administration & Governance based in Spain. We’re looking for an experienced Product Manager to shape how organizations adopt and manage a shared development platform across their teams. The role focuses on making it easy for employees and AI agents to start building software independently, while giving IT, security, and platform teams the visibility and governance they need. You’ll define the product strategy for enterprise administration, helping organizations move from individual projects to coordinated, company-wide adoption. This includes designing intuitive self-service experiences alongside practical controls for identity, permissions, ownership, auditing, and spending. You’ll guide the journey from early experimentation to production applications, ensuring governance evolves as projects become more business-critical. Working closely with Engineering, Design, Sales, and Customer Success, you’ll turn customer needs into scalable product experiences in a fast-moving, fully remote environment."
  },
  {
   "id": "weworkremotely-689d307a02",
