@@ -1,117 +1,132 @@
 [
  {
-  "coll": "alt",
-  "id": "workable-townweb-interim-integrator",
-  "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
- },
- {
-  "coll": "jobs",
-  "id": "li-4483987204",
-  "url": "https://www.linkedin.com/jobs/view/4483987204/"
- },
- {
-  "coll": "jobs",
-  "id": "li-4482317639",
-  "url": "https://www.linkedin.com/jobs/view/4482317639/"
- },
- {
-  "coll": "alt",
-  "id": "10xteam-compliance-ai-trainer",
-  "url": "https://jobs.ashbyhq.com/10xteam"
- },
- {
-  "coll": "jobs",
-  "id": "li-4486635782",
-  "url": "https://www.linkedin.com/jobs/view/4486635782/"
- },
- {
-  "coll": "jobs",
-  "id": "gofractional-cambridgespark-fciso",
-  "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
- },
- {
-  "coll": "jobs",
-  "id": "web-aidigital-headofsecurity",
-  "url": "https://www.aidigital.com/vacancies/head-of-security"
- },
- {
-  "coll": "jobs",
-  "id": "ashby-airwallex-45b2b27f",
-  "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
- },
- {
-  "coll": "alt",
-  "id": "jobgether-2d73168e",
-  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
- },
- {
-  "coll": "jobs",
-  "id": "lever-myob-8754cf16",
-  "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
- },
- {
-  "coll": "alt",
-  "id": "jobgether-37e02f80",
-  "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
- },
- {
-  "coll": "alt",
-  "id": "himalayas-r-5826513300",
-  "url": "https://himalayas.app/companies/mercor/jobs/program-manager-fully-remote-upto-160-hr-5826513300?utm_source=api"
- },
- {
-  "coll": "jobs",
-  "id": "gh-bitpanda-5025155101",
-  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
- },
- {
-  "coll": "jobs",
-  "id": "li-4484708988",
-  "url": "https://www.linkedin.com/jobs/view/4484708988/"
- },
- {
-  "coll": "alt",
-  "id": "darwin-cliente-aigovernance",
-  "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
- },
- {
-  "coll": "alt",
-  "id": "himalayas-s-9703334638",
-  "url": "https://himalayas.app/companies/tripleten/jobs/ai-for-business-transformation-teaching-experts-9703334638"
- },
- {
-  "coll": "alt",
-  "id": "ashby-elevenlabs-7ab03a75",
-  "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
- },
- {
-  "coll": "jobs",
-  "id": "li-4485813029",
-  "url": "https://www.linkedin.com/jobs/view/4485813029/"
- },
- {
-  "coll": "jobs",
-  "id": "li-4488138855",
-  "url": "https://www.linkedin.com/jobs/view/4488138855/"
- },
- {
-  "coll": "jobs",
-  "id": "lever-vivenu-17ab4ccd",
-  "url": "https://jobs.lever.co/vivenu/17ab4ccd-7b1f-486e-b82f-da87626aa462"
- },
- {
-  "coll": "jobs",
-  "id": "li-4473393070",
-  "url": "https://www.linkedin.com/jobs/view/4473393070/"
- },
- {
-  "coll": "jobs",
   "id": "web-crossborder-compliancelead",
+  "coll": "jobs",
   "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
  },
  {
+  "id": "gofractional-cambridgespark-fciso",
+  "coll": "jobs",
+  "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
+ },
+ {
+  "id": "gh-bitpanda-5025155101",
+  "coll": "jobs",
+  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
+ },
+ {
+  "id": "li-4483987204",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4483987204/"
+ },
+ {
+  "id": "li-4486635782",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4486635782/"
+ },
+ {
+  "id": "web-aidigital-headofsecurity",
+  "coll": "jobs",
+  "url": "https://www.aidigital.com/vacancies/head-of-security"
+ },
+ {
+  "id": "li-4485813029",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4485813029/"
+ },
+ {
+  "id": "li-4488138855",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4488138855/"
+ },
+ {
+  "id": "lever-vivenu-17ab4ccd",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/vivenu/17ab4ccd-7b1f-486e-b82f-da87626aa462"
+ },
+ {
+  "id": "ashby-airwallex-45b2b27f",
+  "coll": "jobs",
+  "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
+ },
+ {
+  "id": "li-4473393070",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4473393070/"
+ },
+ {
+  "id": "li-4484708988",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4484708988/"
+ },
+ {
+  "id": "lever-myob-8754cf16",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
+ },
+ {
+  "id": "li-4482317639",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4482317639/"
+ },
+ {
+  "id": "web-ppro-headgrc",
+  "coll": "jobs",
+  "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+ },
+ {
+  "id": "li-4488829665",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4488829665/"
+ },
+ {
+  "id": "li-4488791786",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4488791786/"
+ },
+ {
+  "id": "web-maisa-grcsecuritylead",
+  "coll": "jobs",
+  "url": "https://talents.vaia.com/companies/maisa-ai/grc-and-security-lead-spain-remote-33033426/"
+ },
+ {
+  "id": "10xteam-compliance-ai-trainer",
   "coll": "alt",
+  "url": "https://jobs.ashbyhq.com/10xteam"
+ },
+ {
+  "id": "workable-townweb-interim-integrator",
+  "coll": "alt",
+  "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
+ },
+ {
+  "id": "darwin-cliente-aigovernance",
+  "coll": "alt",
+  "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
+ },
+ {
+  "id": "jobgether-2d73168e",
+  "coll": "alt",
+  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
+ },
+ {
+  "id": "jobgether-37e02f80",
+  "coll": "alt",
+  "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
+ },
+ {
+  "id": "shiny-fractional-coo",
+  "coll": "alt",
+  "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
+ },
+ {
+  "id": "ashby-elevenlabs-7ab03a75",
+  "coll": "alt",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
+ },
+ {
   "id": "jobgether-a80049aa",
+  "coll": "alt",
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  }
 ]
