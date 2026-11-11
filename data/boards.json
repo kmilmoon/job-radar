@@ -1,5 +1,19 @@
 [
  {
+  "id": "jobgether-eb4746bc",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Cybersecurity Consultant",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-11",
+  "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Cybersecurity Consultant based in Spain. The Cybersecurity Consultant will play a hands-on role in strengthening organizational security and embedding secure development practices across software projects. You will assess existing security controls, identify vulnerabilities, and implement practical improvements across repositories, cloud environments, and CI/CD pipelines. Working closely with engineering teams, you will configure security tools, establish policies, conduct security reviews, and support regulatory compliance initiatives. A key priority will be preparing the organization for ISO/IEC 27001 certification while building a sustainable security framework. You will also mentor an internal Security Lead and help developers adopt security best practices. This is a part-time, fully remote opportunity offering significant flexibility and the chance to shape security operations within an international software environment."
+ },
+ {
   "id": "jobgether-77360c69",
   "source": "jobgether",
   "track": "core",
@@ -12,6 +26,20 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Security Engineer based in Spain. As a Security Engineer, you will take ownership of application security for a rapidly growing AI-powered digital platform serving millions of users worldwide. This is a hands-on role focused on identifying vulnerabilities, reviewing code and strengthening security across the entire application stack. Acting as the primary security specialist, you will work closely with technical leadership and engineering teams to define security priorities and implement effective solutions. You will also contribute to securing AI-powered products by identifying emerging threats such as prompt injection, jailbreaks and content filter bypasses. Combining technical execution, independent decision-making and strategic responsibility, you will have the opportunity to shape security practices from the ground up. This fully remote position offers significant autonomy within a fast-paced, innovative and internationally distributed environment."
+ },
+ {
+  "id": "jobgether-7ccd8ed1",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Sr Regulatory CMC Consultant - Small Molecule & Veeva RIM Must Have",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-11",
+  "url": "https://jobs.lever.co/jobgether/7ccd8ed1-0244-4ef7-81c3-d4d1ac3d31d2",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Sr Regulatory CMC Consultant - Small Molecule & Veeva RIM Must Have based in Brazil. We are seeking an experienced Regulatory CMC Consultant to support regulatory affairs activities for small-molecule pharmaceutical products. In this senior consulting role, you will apply your expertise in regulatory requirements, drug development, and product lifecycle management to help ensure products remain compliant throughout their time on the market. You will assess regulatory guidelines, support ongoing regulatory obligations, and contribute to effective reporting and surveillance processes. Working in a collaborative, international life sciences environment, you will partner with cross-functional teams to address complex regulatory needs. This opportunity is suited to a knowledgeable professional who can combine strong technical judgment with clear communication and organized project execution."
  },
  {
   "id": "jobgether-67cc81ea",
@@ -70,27 +98,34 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Marketing Operations Manager based in Spain. We are looking for an experienced Marketing Operations Manager to coordinate and streamline activities within a dynamic, globally distributed marketing department. In this role, you will oversee multiple projects simultaneously, ensuring campaigns, launches, webinars and events progress efficiently and meet their deadlines. You will work closely with cross-functional teams, including campaign management, content, creative, events, lifecycle marketing and sales, to keep priorities aligned and execution on track. Your responsibilities will include managing project workflows, facilitating team meetings, monitoring deliverables and providing leadership with clear progress updates. You will also identify potential bottlenecks, improve operational processes and ensure that decisions are translated into actionable outcomes. This is a 6–12-month fixed-term contract offering the opportunity to contribute to an ambitious, fully remote international team while maintaining operational excellence across its marketing activ"
  },
  {
-  "id": "himalayas-ife-sciences",
+  "id": "himalayas-t-2741077201",
   "source": "himalayas",
   "track": "alt",
-  "title": "AI Trainer (Life Sciences)",
-  "company": "micro1",
-  "location": "Worldwide",
+  "title": "AI Safety Specialist - Evaluation Expert",
+  "company": "mercor",
+  "location": "Spain",
   "employment": "Contractor",
   "posted": "2026-11-09",
-  "url": "https://himalayas.app/companies/micro1/jobs/ai-trainer-life-sciences?utm_source=api",
-  "compensation": "USD 60-120",
+  "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-evaluation-expert-2741077201?utm_source=api",
+  "compensation": null,
   "tags": [
-   "Bioinformatics-AI-Trainer",
-   "Healthcare-AI-Trainer",
-   "AI-Trainer",
-   "AI-Trainer-Jobs",
-   "Healthcare-AI-Training-Specialist",
-   "AI-Training-Specialist",
-   "AI-Data-Trainer",
-   "AI-Model-Trainer-In-Healthcare"
+   "AI-Safety",
+   "Trust-and-Safety",
+   "AI-Evaluation",
+   "Content-Moderation",
+   "AI-Research",
+   "AI-Safety-Evaluator",
+   "AI-Safety-Specialist",
+   "AI-Safety-Expert",
+   "AI-Evaluation-Specialist",
+   "AI-Safety-Analyst",
+   "AI-Safety-Assessment",
+   "AI-Safety-Practitioner",
+   "AI-Model-Evaluation-Specialist",
+   "AI-ML-Evaluation-Specialist",
+   "AI-Safety-Researcher"
   ],
-  "excerpt": "Pay: $60–$120/hour equivalent, paid per accepted task Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible micro1 is looking for Computational Life Scientists with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems."
+  "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs."
  },
  {
   "id": "jobgether-bcf44c2b",
@@ -437,57 +472,5 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Mercury is building a complete finance stack for startups. We work hard to create the easiest and safest banking* experience possible to simplify our customer’s financial lives whether they are entrepreneurs, business owners, or individuals. Mercury has also obtained a provisional national bank charter and is currently taking proactive steps for final approval. Role Overview: We're looking for a Business Risk Officer to help scale the way Mercury builds products. In this role you will report to our Head of Business Risk & Enablement and will partner with Product, Operations, Compliance and many other support and oversight teams to ensure that products and features are delivered “best-in-class” in a safe and sound manner. Your success in this role will rely on subject matter expertise in one or more of Mercury’s core product offerings and associated risks. You will also be primarily responsible for the facilitation of non-financial risk management programs (see below). Key Responsibilities: Identify any potential blind spots in processes and controls, and suggest commercial improvem"
- },
- {
-  "id": "weworkremotely-7e5ce1c51c",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "Enterprise Security Sales Specialist",
-  "company": "Datadog",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-12",
-  "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers Evangelize Datadog’s security story to security leaders (CISO, Security Architects, SecOps) Work cross-functionally with Datadog's pa"
- },
- {
-  "id": "getonboard-ca-grupo-mariposa-remote",
-  "source": "getonboard",
-  "track": "core",
-  "title": "Especialista de Seguridad Informática",
-  "company": "Grupo Mariposa",
-  "location": "Remote anywhere",
-  "employment": {
-   "data": {
-    "id": 1,
-    "type": "modality"
-   }
-  },
-  "posted": "2026-09-28",
-  "url": "https://www.getonbrd.com/jobs/especialista-de-seguridad-informatica-grupo-mariposa-remote",
-  "compensation": "USD 2000-3000 /mes",
-  "tags": [],
-  "excerpt": "Formación academica Licenciatura en Ingeniería en Sistemas, Informática, Telecomunicaciones o carrera afín. Deseable contar con certificaciones en ciberseguridad y seguridad de redes. Experiencia Entre 4 y 5 años de experiencia en Seguridad Informática. Experiencia en Seguridad de Redes y administración de herramientas de seguridad. Gestión de incidentes de seguridad, análisis de vulnerabilidades y mitigación de riesgos. Conocimientos técnicos Seguridad de redes y comunicaciones. Análisis de vulnerabilidades y gestión de riesgos. Herramientas de monitoreo y protección de seguridad informática. Continuidad del negocio y recuperación ante desastres. Normativas y buenas prácticas de seguridad de la información. Competencias Capacidad analítica y resolución de problemas. Toma de decisiones ante incidentes críticos. Comunicación efectiva y trabajo colaborativo. Orientación a resultados y gestión de riesgos. Monitorear y administrar la seguridad de la infraestructura tecnológica y las redes corporativas. Detectar, analizar y gestionar incidentes de seguridad informática, definiendo acciones de contención y escalamiento cuando sea necesario. Identificar vulnerabilidades y coordinar planes"
- },
- {
-  "id": "getonboard-path-partners-llc-remote",
-  "source": "getonboard",
-  "track": "alt",
-  "title": "Director of Operations",
-  "company": "ExitPath Partners, LLC",
-  "location": "Remote anywhere",
-  "employment": {
-   "data": {
-    "id": 1,
-    "type": "modality"
-   }
-  },
-  "posted": "2026-09-08",
-  "url": "https://www.getonbrd.com/jobs/director-of-operations-exitpath-partners-llc-remote",
-  "compensation": "USD 3000-3500 /mes",
-  "tags": [],
-  "excerpt": "Must have: 5+ years running operations in a professional services, advisory, private equity, or law firm environment Chief of staff, director of operations, practice manager, or business manager Direct experience running an operating cadence (EOS/Traction, 4DX, OKRs, or a homegrown equivalent). Documentation and process discipline Working command of a deal or relationship CRM and comfort administering data standards U.S. Eastern time or a good portion of your hours aligned with our working time zone. Helpful, not required: Law firm or legal services operations background Exposure to M&A transaction process, deal desk, or contract administration Experience inside a partner-led business WHO THIS ROLE ISN’T FOR If you want to redesign the operating system rather than run it week after week, you will be bored here. If you disengage when people don’t comply and let the system do the confronting for you, this role will fail. If the appeal is a path into origination or deal execution, that is not on offer. If a job whose central function is enforcing consistency sounds tedious to you, trust that instinct. The operating cadence. - Leadership and department meetings ran, held, and recorded."
  }
 ]
