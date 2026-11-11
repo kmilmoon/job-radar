@@ -1,35 +1,11 @@
 {
- "checked": "2026-11-10T11:53:33+00:00",
+ "checked": "2026-11-11T04:52:53+00:00",
  "items": {
-  "alt/workable-townweb-interim-integrator": {
+  "jobs/web-crossborder-compliancelead": {
    "status": "closed",
-   "reason": "Workable ya no la tiene",
+   "reason": "La página da error 404",
    "http": 404,
-   "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
-  },
-  "jobs/li-4483987204": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4483987204/"
-  },
-  "jobs/li-4482317639": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4482317639/"
-  },
-  "alt/10xteam-compliance-ai-trainer": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/10xteam"
-  },
-  "jobs/li-4486635782": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4486635782/"
+   "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
   },
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
@@ -37,71 +13,29 @@
    "http": 200,
    "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
   },
-  "jobs/web-aidigital-headofsecurity": {
-   "status": "closed",
-   "reason": "La página redirige fuera de la oferta (suele indicar que está cerrada)",
-   "http": 200,
-   "url": "https://www.aidigital.com/vacancies/head-of-security"
-  },
-  "jobs/ashby-airwallex-45b2b27f": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
-   "http": 200,
-   "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
-  },
-  "alt/jobgether-2d73168e": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
-  },
-  "jobs/lever-myob-8754cf16": {
-   "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
-   "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
-  },
-  "alt/jobgether-37e02f80": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
-   "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
-  },
-  "alt/himalayas-r-5826513300": {
-   "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://himalayas.app/companies/mercor/jobs/program-manager-fully-remote-upto-160-hr-5826513300?utm_source=api"
-  },
   "jobs/gh-bitpanda-5025155101": {
    "status": "open",
    "reason": "Sigue publicada en Greenhouse",
    "http": 200,
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
   },
-  "jobs/li-4484708988": {
+  "jobs/li-4483987204": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4484708988/"
+   "url": "https://www.linkedin.com/jobs/view/4483987204/"
   },
-  "alt/darwin-cliente-aigovernance": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
-   "http": 200,
-   "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
-  },
-  "alt/himalayas-s-9703334638": {
+  "jobs/li-4486635782": {
    "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://himalayas.app/companies/tripleten/jobs/ai-for-business-transformation-teaching-experts-9703334638"
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4486635782/"
   },
-  "alt/ashby-elevenlabs-7ab03a75": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
+  "jobs/web-aidigital-headofsecurity": {
+   "status": "closed",
+   "reason": "La página redirige fuera de la oferta (suele indicar que está cerrada)",
    "http": 200,
-   "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
+   "url": "https://www.aidigital.com/vacancies/head-of-security"
   },
   "jobs/li-4485813029": {
    "status": "unknown",
@@ -121,17 +55,101 @@
    "http": 200,
    "url": "https://jobs.lever.co/vivenu/17ab4ccd-7b1f-486e-b82f-da87626aa462"
   },
+  "jobs/ashby-airwallex-45b2b27f": {
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
+   "http": 200,
+   "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
+  },
   "jobs/li-4473393070": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4473393070/"
   },
-  "jobs/web-crossborder-compliancelead": {
+  "jobs/li-4484708988": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4484708988/"
+  },
+  "jobs/lever-myob-8754cf16": {
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
+   "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
+  },
+  "jobs/li-4482317639": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4482317639/"
+  },
+  "jobs/web-ppro-headgrc": {
    "status": "closed",
    "reason": "La página da error 404",
    "http": 404,
-   "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
+   "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+  },
+  "jobs/li-4488829665": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4488829665/"
+  },
+  "jobs/li-4488791786": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4488791786/"
+  },
+  "jobs/web-maisa-grcsecuritylead": {
+   "status": "open",
+   "reason": "La página sigue mostrando la opción de aplicar",
+   "http": 200,
+   "url": "https://talents.vaia.com/companies/maisa-ai/grc-and-security-lead-spain-remote-33033426/"
+  },
+  "alt/10xteam-compliance-ai-trainer": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
+   "http": 200,
+   "url": "https://jobs.ashbyhq.com/10xteam"
+  },
+  "alt/workable-townweb-interim-integrator": {
+   "status": "closed",
+   "reason": "Workable ya no la tiene",
+   "http": 404,
+   "url": "https://apply.workable.com/town-web/j/6D95F0CE3C/"
+  },
+  "alt/darwin-cliente-aigovernance": {
+   "status": "open",
+   "reason": "La página sigue mostrando la opción de aplicar",
+   "http": 200,
+   "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
+  },
+  "alt/jobgether-2d73168e": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
+  },
+  "alt/jobgether-37e02f80": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
+  },
+  "alt/shiny-fractional-coo": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
+   "http": 200,
+   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
+  },
+  "alt/ashby-elevenlabs-7ab03a75": {
+   "status": "open",
+   "reason": "Sigue en el tablón de Ashby",
+   "http": 200,
+   "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
   },
   "alt/jobgether-a80049aa": {
    "status": "closed",

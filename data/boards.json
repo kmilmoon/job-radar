@@ -1,5 +1,19 @@
 [
  {
+  "id": "jobgether-77360c69",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Security Engineer",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-11",
+  "url": "https://jobs.lever.co/jobgether/77360c69-b14a-44b2-a5d8-37947cf22601",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Security Engineer based in Spain. As a Security Engineer, you will take ownership of application security for a rapidly growing AI-powered digital platform serving millions of users worldwide. This is a hands-on role focused on identifying vulnerabilities, reviewing code and strengthening security across the entire application stack. Acting as the primary security specialist, you will work closely with technical leadership and engineering teams to define security priorities and implement effective solutions. You will also contribute to securing AI-powered products by identifying emerging threats such as prompt injection, jailbreaks and content filter bypasses. Combining technical execution, independent decision-making and strategic responsibility, you will have the opportunity to shape security practices from the ground up. This fully remote position offers significant autonomy within a fast-paced, innovative and internationally distributed environment."
+ },
+ {
   "id": "jobgether-67cc81ea",
   "source": "jobgether",
   "track": "alt",
@@ -26,24 +40,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Service Delivery Manager based in Spain. As a Service Delivery Manager, you will oversee the end-to-end delivery of enterprise networking solutions, ensuring successful deployments and exceptional customer experiences. You will lead complex technical implementation projects, coordinating internal teams, external partners, and customer stakeholders across multiple regions. From initial project planning and technical discovery to deployment, activation, and operational handoff, you will drive every stage of the delivery lifecycle. You will establish strong customer relationships, manage risks and escalations, and ensure projects meet agreed timelines, budgets, and quality standards. Working across engineering, sales, support, and customer success functions, you will promote accountability and operational alignment. You will also contribute to scalable delivery processes that support the growth of a global Network-as-a-Service business."
- },
- {
-  "id": "himalayas-ial-research",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Security Researcher - Bot Detection Adversarial Research",
-  "company": "Bright Data",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-10",
-  "url": "https://himalayas.app/companies/bright-data/jobs/security-researcher-bot-detection-adversarial-research?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Security-Researcher",
-   "Offensive-Security-Researcher",
-   "Web-Security-Specialist"
-  ],
-  "excerpt": "DescriptionAs a Security Researcher you will focus on simulating our most advanced adversaries against our data collection products affecting thousands of customers."
  },
  {
   "id": "jobgether-37e02f80",
@@ -74,55 +70,27 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Marketing Operations Manager based in Spain. We are looking for an experienced Marketing Operations Manager to coordinate and streamline activities within a dynamic, globally distributed marketing department. In this role, you will oversee multiple projects simultaneously, ensuring campaigns, launches, webinars and events progress efficiently and meet their deadlines. You will work closely with cross-functional teams, including campaign management, content, creative, events, lifecycle marketing and sales, to keep priorities aligned and execution on track. Your responsibilities will include managing project workflows, facilitating team meetings, monitoring deliverables and providing leadership with clear progress updates. You will also identify potential bottlenecks, improve operational processes and ensure that decisions are translated into actionable outcomes. This is a 6–12-month fixed-term contract offering the opportunity to contribute to an ambitious, fully remote international team while maintaining operational excellence across its marketing activ"
  },
  {
-  "id": "himalayas-r-9465078588",
+  "id": "himalayas-ife-sciences",
   "source": "himalayas",
   "track": "alt",
-  "title": "AI Safety Specialist - Fully Remote | Upto $84/hr",
-  "company": "mercor",
-  "location": "Spain",
+  "title": "AI Trainer (Life Sciences)",
+  "company": "micro1",
+  "location": "Worldwide",
   "employment": "Contractor",
   "posted": "2026-11-09",
-  "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-84-hr-9465078588?utm_source=api",
-  "compensation": null,
+  "url": "https://himalayas.app/companies/micro1/jobs/ai-trainer-life-sciences?utm_source=api",
+  "compensation": "USD 60-120",
   "tags": [
-   "AI-Safety",
-   "Red-Teaming",
-   "Trust-and-Safety",
-   "AI-Research",
-   "Security-Testing",
-   "AI-Safety-Specialist",
-   "AI-Safety-Analyst",
-   "AI-Safety-Practitioner",
-   "AI-Safety-Expert",
-   "AI-Safety-Researcher",
-   "AI-Safety-Evaluator"
+   "Bioinformatics-AI-Trainer",
+   "Healthcare-AI-Trainer",
+   "AI-Trainer",
+   "AI-Trainer-Jobs",
+   "Healthcare-AI-Training-Specialist",
+   "AI-Training-Specialist",
+   "AI-Data-Trainer",
+   "AI-Model-Trainer-In-Healthcare"
   ],
-  "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs."
- },
- {
-  "id": "himalayas-r-8605952592",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "AI Safety Specialist - Fully Remote | Upto $70/hr",
-  "company": "mercor",
-  "location": "Spain",
-  "employment": "Contractor",
-  "posted": "2026-11-09",
-  "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-70-hr-8605952592?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "AI-Safety",
-   "Trust-and-Safety",
-   "Content-Moderation",
-   "AI-Evaluation",
-   "AI-Safety-Practitioner",
-   "AI-Safety-Specialist",
-   "AI-Safety-Analyst",
-   "AI-Safety-Expert",
-   "Remote-AI-Specialist",
-   "AI-Safety-Evaluator"
-  ],
-  "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs."
+  "excerpt": "Pay: $60–$120/hour equivalent, paid per accepted task Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible micro1 is looking for Computational Life Scientists with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems."
  },
  {
   "id": "jobgether-bcf44c2b",
@@ -193,20 +161,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: URL: https://gruns.co We're so happy you're here! Thank you for checking our job out and we hope to have the chance to meet you in our interview process! About the role Grüns is scaling fast, and our People team needs a hands-on partner who can coach managers and run the operational engine at the same time. You'll be the first line of support for managers and employees on policy, performance, and growth, while owning payroll, leaves, benefits, and the employee lifecycle end to end. You'll step in during a major Q1 2027 systems transition, protecting talent density, keeping pay and compliance airtight, and freeing our People leadership to focus on strategy. This role is part of our remote HQ! We have a fully remote, high-trust work environment - and also come together on a biannual basis for amazing off-sites where we can connect IRL. In this role, you will: Be the first point of contact for managers and employees on policy, performance, corrective feedback, and growth Coach managers on feedback, documentation, and follow-ups, with hands-on support through performance and termination situations that keep talent density high and legal risk low Run People Team 1:1s and e"
- },
- {
-  "id": "jobgether-764ee048",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Senior Security Engineer",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-05",
-  "url": "https://jobs.lever.co/jobgether/764ee048-16d6-4ce3-8848-01fa7975ed64",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Security Engineer based in Spain. In this role, you will play a key part in protecting a real-time, cloud-based fraud prevention platform serving customers across highly regulated industries worldwide. You will combine hands-on cloud and infrastructure security engineering with ownership of security assurance and compliance programmes. Working across AWS, Kubernetes, Terraform, and GitHub environments, you will strengthen identity management, automate security controls, and improve threat detection and incident response capabilities. You will also lead major certification and compliance initiatives, including ISO 27001, ISO 42001, SOC 2, and PCI DSS. A key focus will be building an engineering-driven security programme where evidence collection, access reviews, and compliance workflows are automated. This is an opportunity to shape security strategy, influence technical decisions, and contribute to a fast-growing international technology environment."
  },
  {
   "id": "weworkremotely-f5d1ae0d79",
@@ -285,34 +239,6 @@
   "excerpt": "Headquarters: Mexico City, Mexico URL: http://superspeciosa.com Location: Fully remote, based in Colombia, Mexico, or Argentina Compensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience Schedule: Monday-Friday, 9:00 a.m.-5:00 p.m. U.S. Eastern Time, with some flexibility Reports to: CEO, working closely with the COO Commitment: Full-time; no direct reports Openings: One; start as soon as practical About us Super Organics is a portfolio of wellness and supplement brands based in Fort Lauderdale, Florida, including Super Speciosa, a kratom brand. We work with a globally distributed team and affiliated manufacturing and fulfillment operations, with a focus on quality, transparency, and reliable execution. About the role We are hiring a hands-on Supply Chain & Operations Manager to keep products in stock, manage purchasing and production commitments, and deliver measurable savings in packaging, inventory, and shipping. You will build practical planning tools and independently follow through with manufacturers, suppliers, and warehouse teams. You will also coordinate packaging artwork, product launches, and brand-side quality workflows. This "
  },
  {
-  "id": "gofractional-ices-operations-project-manager-rippling",
-  "source": "gofractional",
-  "track": "core",
-  "title": "Cyber Services Operations Project Manager",
-  "company": "Beazley Security",
-  "location": "Remote; Remote (United States), United States; United States",
-  "employment": null,
-  "posted": "2026-11-04",
-  "url": "https://www.gofractional.com/job/rippling-cyber-services-operations-project-manager-rippling",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "3-6 Month Contract Summary The CyberServices Operations Project Manager is responsible for driving the successful planning, execution, governance, and operational coordination of key internal projects, including the onboarding of an outsourced service to triage customer service tickets & the co-ordination of process changes and efficiency improvements in Cyber Services’ ticketing platform - Zendesk. This role serves as the bridge between CyberServices leadership, third party contractors, and internal business functions to ensure projects are delivered efficiently, consistently, and in alignment with business objectives. The position oversees project lifecycles, resource coordination, deliverables tracking, operational reporting, and process improvement initiatives across the CyberServices department. The ideal candidate combines strong project management discipline with operational excellence, stakeholder management, and exceptional communication skills. Responsibilities Manage the full lifecycle of internal projects: Onboarding of a managed service for customer service ticket triaging Co-ordination of process changes and efficiency improvements in Cyber Services’ ticketing platfor"
- },
- {
-  "id": "jobgether-87ee8aed",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Head of CEO Office & Business Operations",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-03",
-  "url": "https://jobs.lever.co/jobgether/87ee8aed-0673-4433-a303-caeb2b89603f",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Head of CEO Office & Business Operations based in Germany. We are looking for a highly experienced and hands-on Business Operations leader to work directly with the CEO and drive the operational excellence of a growing international software engineering business. In this strategic leadership role, you will own the company's operating rhythm, translating business priorities into actionable plans, measurable objectives, and tangible results. You will oversee key areas including delivery performance, financial planning, workforce management, compliance, and organizational efficiency. Working closely with senior leadership and team leads across multiple time zones, you will ensure accountability and effective execution throughout the organization. You will also lead the adoption of AI-powered tools and scalable processes to support the company's ambitious growth plans. This is an opportunity for an entrepreneurial operations professional to shape a growing business from within, with a clear progression path toward the Chief Operating Officer (COO) position."
- },
- {
   "id": "weworkremotely-689d307a02",
   "source": "weworkremotely",
   "track": "core",
@@ -353,20 +279,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: California URL: https://imerit.ai/ About the opportunity We’re seeking detail-oriented professionals to review AI-generated content and annotated data for accuracy, clarity, and consistency. This role is well suited to candidates with backgrounds in editing, teaching, instructional design, quality assurance, research, or AI data annotation. You will apply detailed written guidelines, identify subtle errors, and explain your decisions clearly. Assignments may include written content, image comparisons, and other evaluation tasks that require sustained focus and independent judgment. What you will do Review AI-generated responses and annotated data against project guidelines and scoring rubrics. Identify errors, inconsistencies, unsupported statements, and cases that require further review. Write clear, specific feedback explaining what is incorrect and how it should be improved. Compare images or video frames to identify subtle visual differences, where required. Maintain consistent judgments across lengthy tasks and multiple documents. Incorporate feedback and participate in calibration exercises to align with project standards. Flag unclear guidelines and recommend i"
- },
- {
-  "id": "gofractional-d-of-compliance-part-time-mira-mace-jobs",
-  "source": "gofractional",
-  "track": "core",
-  "title": "Fractional Head of Compliance",
-  "company": "Mira Mace",
-  "location": "Remote; Remote (United States), United States; United States",
-  "employment": null,
-  "posted": "2026-10-27",
-  "url": "https://www.gofractional.com/job/ashbyhq-head-of-compliance-part-time-mira-mace-jobs",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Location: Remote (U.S.-based) Commitment: Part-time (fractional), flexible hours About the Role We're looking for a part-time Head of Compliance to own our regulatory posture as we scale. We operate as a professional corporation / management services organization (PC-MSO), deliver care by phone and video, and bill payers every month for care management and visits. You'll make sure everything we do — how we're structured, how we document, how we code, how we bill and collect — holds up to CMS, OIG, state and payer scrutiny. This is a hands-on, senior role. You'll set the policies, review the work, train the team, and be the person we call when a rule changes or a payer asks hard questions. What You'll Do PC-MSO structure: keep our PC-MSO arrangement compliant — management services agreements, corporate practice of medicine rules state by state, fair-market-value fees, and the line between clinical and business decisions. HIPAA: own our privacy and security program — policies, risk assessments, BAAs with vendors, workforce training, access reviews, and breach response. Coding and billing: audit our use of Medicare codes (care management, E&M and related services) against documentatio"
  },
  {
   "id": "gofractional--ciso-remote-workforce-security-cmviuik6",
@@ -483,6 +395,20 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: U.S. Remote About Flexport: At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year. The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us. What you'll do There is no MSSP and no tier-1 queue here. Detection & Response engineers own their detections end to end: you write them, you tune them, and your team is paged when they fire. The security team is spread across the globe with a follow-the-sun pager rotation so nobody is paged at 3am local. The adversaries are real. The business is growing fast and the"
+ },
+ {
+  "id": "gofractional-d-of-compliance-part-time-mira-mace-jobs",
+  "source": "gofractional",
+  "track": "core",
+  "title": "Fractional Head of Compliance",
+  "company": "Mira Mace",
+  "location": "Remote; United States, 00, US; US",
+  "employment": null,
+  "posted": "2026-10-18",
+  "url": "https://www.gofractional.com/job/ashbyhq-head-of-compliance-part-time-mira-mace-jobs",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Location: Remote (U.S.-based) Commitment: Part-time (fractional), flexible hours About the Role We're looking for a part-time Head of Compliance to own our regulatory posture as we scale. We operate as a professional corporation / management services organization (PC-MSO), deliver care by phone and video, and bill payers every month for care management and visits. You'll make sure everything we do — how we're structured, how we document, how we code, how we bill and collect — holds up to CMS, OIG, state and payer scrutiny. This is a hands-on, senior role. You'll set the policies, review the work, train the team, and be the person we call when a rule changes or a payer asks hard questions. What You'll Do PC-MSO structure: keep our PC-MSO arrangement compliant — management services agreements, corporate practice of medicine rules state by state, fair-market-value fees, and the line between clinical and business decisions. HIPAA: own our privacy and security program — policies, risk assessments, BAAs with vendors, workforce training, access reviews, and breach response. Coding and billing: audit our use of Medicare codes (care management, E&M and related services) against documentatio"
  },
  {
   "id": "weworkremotely-9e8cae49af",

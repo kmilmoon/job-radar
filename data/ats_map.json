@@ -139,6 +139,10 @@
   "ats": "greenhouse",
   "slug": "gitlab"
  },
+ "Griffin": {
+  "ats": "ashby",
+  "slug": "griffin"
+ },
  "GuidePoint Security": {
   "ats": "greenhouse",
   "slug": "guidepointsecurity"
