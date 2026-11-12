@@ -15,6 +15,16 @@
   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
  },
  {
+  "id": "web-ppro-headgrc",
+  "coll": "jobs",
+  "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+ },
+ {
+  "id": "li-4488829665",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4488829665/"
+ },
+ {
   "id": "li-4483987204",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4483987204/"
@@ -23,6 +33,11 @@
   "id": "li-4486635782",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4486635782/"
+ },
+ {
+  "id": "web-maisa-grcsecuritylead",
+  "coll": "jobs",
+  "url": "https://talents.vaia.com/companies/maisa-ai/grc-and-security-lead-spain-remote-33033426/"
  },
  {
   "id": "web-aidigital-headofsecurity",
@@ -50,6 +65,11 @@
   "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
  },
  {
+  "id": "li-4488791786",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4488791786/"
+ },
+ {
   "id": "li-4473393070",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4473393070/"
@@ -68,26 +88,6 @@
   "id": "li-4482317639",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4482317639/"
- },
- {
-  "id": "web-ppro-headgrc",
-  "coll": "jobs",
-  "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
- },
- {
-  "id": "li-4488829665",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4488829665/"
- },
- {
-  "id": "li-4488791786",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4488791786/"
- },
- {
-  "id": "web-maisa-grcsecuritylead",
-  "coll": "jobs",
-  "url": "https://talents.vaia.com/companies/maisa-ai/grc-and-security-lead-spain-remote-33033426/"
  },
  {
   "id": "10xteam-compliance-ai-trainer",
@@ -115,11 +115,6 @@
   "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
  },
  {
-  "id": "shiny-fractional-coo",
-  "coll": "alt",
-  "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
- },
- {
   "id": "ashby-elevenlabs-7ab03a75",
   "coll": "alt",
   "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
@@ -128,5 +123,20 @@
   "id": "jobgether-a80049aa",
   "coll": "alt",
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
+ },
+ {
+  "id": "jobgether-eb4746bc",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c"
+ },
+ {
+  "id": "li-4489461281",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4489461281/"
+ },
+ {
+  "id": "li-4488320305",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4488320305/"
  }
 ]
