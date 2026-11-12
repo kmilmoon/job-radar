@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11T11:33:42+00:00",
+ "checked": "2026-11-12T04:51:17+00:00",
  "items": {
   "jobs/web-crossborder-compliancelead": {
    "status": "closed",
@@ -19,6 +19,18 @@
    "http": 200,
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
   },
+  "jobs/web-ppro-headgrc": {
+   "status": "closed",
+   "reason": "La página da error 404",
+   "http": 404,
+   "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+  },
+  "jobs/li-4488829665": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4488829665/"
+  },
   "jobs/li-4483987204": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
@@ -30,6 +42,12 @@
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4486635782/"
+  },
+  "jobs/web-maisa-grcsecuritylead": {
+   "status": "open",
+   "reason": "La página sigue mostrando la opción de aplicar",
+   "http": 200,
+   "url": "https://talents.vaia.com/companies/maisa-ai/grc-and-security-lead-spain-remote-33033426/"
   },
   "jobs/web-aidigital-headofsecurity": {
    "status": "closed",
@@ -61,6 +79,12 @@
    "http": 200,
    "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
   },
+  "jobs/li-4488791786": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4488791786/"
+  },
   "jobs/li-4473393070": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
@@ -85,30 +109,6 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4482317639/"
   },
-  "jobs/web-ppro-headgrc": {
-   "status": "closed",
-   "reason": "La página da error 404",
-   "http": 404,
-   "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
-  },
-  "jobs/li-4488829665": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4488829665/"
-  },
-  "jobs/li-4488791786": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4488791786/"
-  },
-  "jobs/web-maisa-grcsecuritylead": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
-   "http": 200,
-   "url": "https://talents.vaia.com/companies/maisa-ai/grc-and-security-lead-spain-remote-33033426/"
-  },
   "alt/10xteam-compliance-ai-trainer": {
    "status": "unknown",
    "reason": "La página carga, pero no está claro si admite candidaturas",
@@ -128,9 +128,9 @@
    "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
   },
   "alt/jobgether-2d73168e": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
    "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
   },
   "alt/jobgether-37e02f80": {
@@ -139,15 +139,9 @@
    "http": 200,
    "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
   },
-  "alt/shiny-fractional-coo": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
-  },
   "alt/ashby-elevenlabs-7ab03a75": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
+   "status": "closed",
+   "reason": "Ya no está en el tablón de Ashby",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
   },
@@ -156,6 +150,24 @@
    "reason": "Lever ya no la tiene",
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
+  },
+  "jobs/jobgether-eb4746bc": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c"
+  },
+  "jobs/li-4489461281": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489461281/"
+  },
+  "jobs/li-4488320305": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4488320305/"
   }
  }
 }

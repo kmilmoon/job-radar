@@ -1,5 +1,25 @@
 [
  {
+  "id": "himalayas-ity-engineer",
+  "source": "himalayas",
+  "track": "core",
+  "title": "SECURITY ENGINEER",
+  "company": "TECDATA ENGINEERING",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/security-engineer?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Security-Engineer",
+   "Cybersecurity-Engineer",
+   "Identity-And-Access-Management-Engineer",
+   "IAM-Consultant",
+   "Cloud-Security-Engineer"
+  ],
+  "excerpt": "Experto en Ciberseguridad, con especialización en plataformas de administración, gestión y gobierno de accesos Responsabilidades principales:Su función principal será realizar las tareas de operación, soporte y mantenimiento evolutivo y preventivo del servicio, realizando el diseño e implantación de nuevas funcionalidades que le sean asignadas por los responsables del cliente."
+ },
+ {
   "id": "jobgether-eb4746bc",
   "source": "jobgether",
   "track": "core",
@@ -42,6 +62,44 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Sr Regulatory CMC Consultant - Small Molecule & Veeva RIM Must Have based in Brazil. We are seeking an experienced Regulatory CMC Consultant to support regulatory affairs activities for small-molecule pharmaceutical products. In this senior consulting role, you will apply your expertise in regulatory requirements, drug development, and product lifecycle management to help ensure products remain compliant throughout their time on the market. You will assess regulatory guidelines, support ongoing regulatory obligations, and contribute to effective reporting and surveillance processes. Working in a collaborative, international life sciences environment, you will partner with cross-functional teams to address complex regulatory needs. This opportunity is suited to a knowledgeable professional who can combine strong technical judgment with clear communication and organized project execution."
  },
  {
+  "id": "himalayas--con-tarjeta",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Jefe de Proyecto de Pagos con Tarjeta",
+  "company": "TECDATA ENGINEERING",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-11",
+  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/jefe-de-proyecto-de-pagos-con-tarjeta?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Project-Manager",
+   "Payments-Project-Manager",
+   "Business-Analyst"
+  ],
+  "excerpt": "Estamos en busca de un Jefe de Proyecto de Pagos con Tarjeta Al menos 5 años en un puesto similar preferiblemente en sector banca."
+ },
+ {
+  "id": "himalayas-gram-manager",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Transformation Program Manager",
+  "company": "Viseven",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-11",
+  "url": "https://himalayas.app/companies/viseven/jobs/transformation-program-manager?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Transformation-Program-Manager",
+   "Program-Manager",
+   "Transformation-Manager",
+   "Digital-Transformation-Manager",
+   "Project-Program-Manager"
+  ],
+  "excerpt": "Make Every Experience MatterViseven is an AI-native Intelligent Experiences Enabler for life sciences, helping pharma and biotech organizations move from fragmented content operations to connected, compliant, and measurable omnichannel engagement with HCPs and patients."
+ },
+ {
   "id": "jobgether-67cc81ea",
   "source": "jobgether",
   "track": "alt",
@@ -70,6 +128,22 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Service Delivery Manager based in Spain. As a Service Delivery Manager, you will oversee the end-to-end delivery of enterprise networking solutions, ensuring successful deployments and exceptional customer experiences. You will lead complex technical implementation projects, coordinating internal teams, external partners, and customer stakeholders across multiple regions. From initial project planning and technical discovery to deployment, activation, and operational handoff, you will drive every stage of the delivery lifecycle. You will establish strong customer relationships, manage risks and escalations, and ensure projects meet agreed timelines, budgets, and quality standards. Working across engineering, sales, support, and customer success functions, you will promote accountability and operational alignment. You will also contribute to scalable delivery processes that support the growth of a global Network-as-a-Service business."
  },
  {
+  "id": "gofractional-l-or-full-time-virtual-behavioral-health",
+  "source": "gofractional",
+  "track": "alt",
+  "title": "Fractional Chief Operating Officer",
+  "company": "Betwell Health",
+  "location": "Remote; Remote, United States, United States; United States",
+  "employment": null,
+  "posted": "2026-11-10",
+  "url": "https://www.gofractional.com/job/betwell-health-chief-operating-officer-fractional-or-full-time-virtual-behavioral-health",
+  "compensation": null,
+  "tags": [
+   "exclusive"
+  ],
+  "excerpt": "Job title: Chief Operating Officer (Fractional or Full-Time) – Virtual Behavioral Health Location: Remote (U.S.) Job type: Fractional/part-time contract, with a path to full-time The role You’ll be our operations partner: building the systems, workflows and team structure that let us grow state by state. This role suits someone who has scaled a behavioral health program before and wants real ownership in an early-stage company. What you’ll do Build and streamline day-to-day operations across intake, scheduling, clinical delivery, documentation and discharge Lead multi-state expansion: state licensing, accreditation (Joint Commission/CARF) and a repeatable launch playbook for each new market Oversee payer contracting, credentialing and revenue cycle in partnership with our billing vendor Optimize our EMR and technology stack for a fully virtual care model Build KPIs and reporting for census, admissions, utilization, collections and outcomes Own compliance operations, including HIPAA, 42 CFR Part 2 and state regulations Support hiring, onboarding and staffing models as the clinical team grows Manage budgets and partner with the founder on strategy and growth What we’re looking for 7+"
+ },
+ {
   "id": "jobgether-37e02f80",
   "source": "jobgether",
   "track": "alt",
@@ -96,36 +170,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Marketing Operations Manager based in Spain. We are looking for an experienced Marketing Operations Manager to coordinate and streamline activities within a dynamic, globally distributed marketing department. In this role, you will oversee multiple projects simultaneously, ensuring campaigns, launches, webinars and events progress efficiently and meet their deadlines. You will work closely with cross-functional teams, including campaign management, content, creative, events, lifecycle marketing and sales, to keep priorities aligned and execution on track. Your responsibilities will include managing project workflows, facilitating team meetings, monitoring deliverables and providing leadership with clear progress updates. You will also identify potential bottlenecks, improve operational processes and ensure that decisions are translated into actionable outcomes. This is a 6–12-month fixed-term contract offering the opportunity to contribute to an ambitious, fully remote international team while maintaining operational excellence across its marketing activ"
- },
- {
-  "id": "himalayas-t-2741077201",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "AI Safety Specialist - Evaluation Expert",
-  "company": "mercor",
-  "location": "Spain",
-  "employment": "Contractor",
-  "posted": "2026-11-09",
-  "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-evaluation-expert-2741077201?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "AI-Safety",
-   "Trust-and-Safety",
-   "AI-Evaluation",
-   "Content-Moderation",
-   "AI-Research",
-   "AI-Safety-Evaluator",
-   "AI-Safety-Specialist",
-   "AI-Safety-Expert",
-   "AI-Evaluation-Specialist",
-   "AI-Safety-Analyst",
-   "AI-Safety-Assessment",
-   "AI-Safety-Practitioner",
-   "AI-Model-Evaluation-Specialist",
-   "AI-ML-Evaluation-Specialist",
-   "AI-Safety-Researcher"
-  ],
-  "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs."
  },
  {
   "id": "jobgether-bcf44c2b",
@@ -212,34 +256,6 @@
   "excerpt": "Headquarters: We're looking for an experienced Agile Program Manager to lead delivery across multiple cross-functional teams working toward a shared set of business outcomes. You'll sit at the intersection of strategy and execution: translating roadmap priorities into coordinated, predictable delivery, keeping dependencies visible, and making sure the right people are making the right decisions at the right time. This is a hands-on program role, not a status-reporting one. You'll own the cadence, the plan, and the risks across several Agile teams, and you'll be the person stakeholders trust to tell them where things really stand. What You'll Do Lead end-to-end delivery of a multi-team program, coordinating three or more Agile teams (Scrum, Kanban, or hybrid) toward shared quarterly objectives. Run program-level planning, including quarterly/PI planning, roadmap alignment, capacity planning, and release planning. Identify, map, and actively manage cross-team dependencies, risks, and blockers, escalating early and with clear options. Facilitate program ceremonies such as Scrum of Scrums, program syncs, system demos, and retrospectives, and make sure they produce decisions, not just u"
  },
  {
-  "id": "jobgether-2d73168e",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Chief Operating Officer (COO)",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-04",
-  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Chief Operating Officer (COO) based in Spain. As Chief Operating Officer, you will play a pivotal role in building and leading the operational infrastructure of a new international crypto-fiat digital banking venture. You will oversee the development of the business's operating model, ensuring efficient financial operations, reliable payment processes, and scalable service delivery. Working closely with the CEO and senior leadership team, you will establish the systems, controls, and procedures required to support a successful market launch and sustainable growth. Your responsibilities will span customer onboarding, payment processing, banking partnerships, operational risk management, and team development. Combining strategic oversight with hands-on execution, you will build a lean, high-performing organization while maintaining strong operational standards. This is a unique opportunity to shape a financial services business from the ground up, backed by experienced technology entrepreneurs and operating in the fast-evolving digital finance and crypto"
- },
- {
-  "id": "jobgether-6a4371f9",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Content Strategy & Creative Operations Lead",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-04",
-  "url": "https://jobs.lever.co/jobgether/6a4371f9-7ef7-4277-942c-96d7ffddb20d",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Content Strategy & Creative Operations Lead based in Spain. As Content Strategy & Creative Operations Lead, you will shape and lead the global content strategy, ensuring that creative initiatives support business objectives, customer journeys, and go-to-market priorities. You will oversee a multidisciplinary Content & Design Team, managing resources, workflows, and production processes to deliver high-quality, consistent, and impactful content. Working across marketing, product, sales, and regional teams, you will ensure unified messaging throughout campaigns, websites, product launches, and sales enablement materials. You will also drive operational excellence by introducing AI-powered tools, automation, and scalable content production practices. Using performance data and customer insights, you will identify opportunities to optimize content effectiveness and contribute to business growth. This is an exciting opportunity to combine strategic leadership, creative operations, and technological innovation within an international B2B technology environme"
- },
- {
   "id": "workingnomads-go/1994915",
   "source": "workingnomads",
   "track": "alt",
@@ -274,6 +290,20 @@
   "excerpt": "Headquarters: Mexico City, Mexico URL: http://superspeciosa.com Location: Fully remote, based in Colombia, Mexico, or Argentina Compensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience Schedule: Monday-Friday, 9:00 a.m.-5:00 p.m. U.S. Eastern Time, with some flexibility Reports to: CEO, working closely with the COO Commitment: Full-time; no direct reports Openings: One; start as soon as practical About us Super Organics is a portfolio of wellness and supplement brands based in Fort Lauderdale, Florida, including Super Speciosa, a kratom brand. We work with a globally distributed team and affiliated manufacturing and fulfillment operations, with a focus on quality, transparency, and reliable execution. About the role We are hiring a hands-on Supply Chain & Operations Manager to keep products in stock, manage purchasing and production commitments, and deliver measurable savings in packaging, inventory, and shipping. You will build practical planning tools and independently follow through with manufacturers, suppliers, and warehouse teams. You will also coordinate packaging artwork, product launches, and brand-side quality workflows. This "
  },
  {
+  "id": "gofractional--time-contractor-soda-data-workable-jobs",
+  "source": "gofractional",
+  "track": "core",
+  "title": "Fractional Compliance Lead",
+  "company": "Soda Data",
+  "location": "Remote; Remote, United Kingdom, United Kingdom; United Kingdom",
+  "employment": null,
+  "posted": "2026-11-02",
+  "url": "https://www.gofractional.com/job/workable-compliance-lead-part-time-contractor-soda-data-workable-jobs",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "The job We're looking for someone to own Soda's compliance function and keep building it. We've already built a strong foundation: we've been running a SOC 2 cycle since 2021, and have been making strides in automating and professionalizing the entire compliance process in the past year. But we aren't where we want to be yet. You will be pushing this further: maximizing automation and streamlining processes, so we get even better compliance, while minimizing time our engineers and ops team have to spend on manual execution and evidence gathering. Soda's product and operations are evolving at lightning speed. You will be the person to find pragmatic ways to make sure we keep our compliance commitments without slowing us down. If your instinct when you see a manual process is to ask what should be doing this instead of a person, this is a good role for you. What you'll do Build the structure. Roughly half of this job is making compliance at Soda easier and more reliable to run: Push the automation of our compliance program as far as it can go. We've already got a compliance automation platform, lots of controls are already fully or partially automated. Your job is to take that even f"
+ },
+ {
   "id": "weworkremotely-689d307a02",
   "source": "weworkremotely",
   "track": "core",
@@ -286,6 +316,20 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Claude is trained and served on hardware in data centers Anthropic operates and in sites partners build and run for us. DCSE secures that footprint: the sites, the hardware moving through them, and the people and vendors who touch it. You'll be the engineer who owns autonomous systems across that footprint as one security domain, from both sides: drones, ground robots and automated vehicles for patrol, inspection and moving hardware, including the security of that automation inside secure areas, and the detection systems that tell us what is flying over or operating near a site uninvited. You set the approach, select and integrate the platforms and sensors, write the requirements vendors build to, and run what you ship, from the operating model where operators assign m"
+ },
+ {
+  "id": "gofractional--white-hat-hacker-fractional-ciso-wanted",
+  "source": "gofractional",
+  "track": "core",
+  "title": "Fractional CISO",
+  "company": "Veru 365",
+  "location": "Remote; United States, United States; United States",
+  "employment": null,
+  "posted": "2026-10-30",
+  "url": "https://www.gofractional.com/job/veru-365-white-hat-hacker-fractional-ciso-wanted",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "About the opportunity Banks will ask us hard questions about security, architecture and controls before they let us near their clients. We want an experienced security leader on our side who has answered those questions before: someone who reviews what we build, signs off on what we tell banks, and joins the call when a bank’s CISO or vendor-risk team wants to know how it works. What you’ll do In your first weeks, learn our system quickly enough to join bank security calls, using whatever tools help you get there. Review our multi-tenant architecture on Google Cloud (Cloud Run, Cloud SQL Postgres with pgvector, Vertex AI, IAM, Cloud Armor), our identity provider and our data aggregation, and tell us plainly what a bank will push back on. Check how we keep each bank’s data apart: per-tenant isolation in the database, in search over documents, and in every call we make to an AI model. Advise on authentication, authorization and IAM for a B2B product where each bank administers its own users. Lead our SOC 2 work through to the audit. Our policies and control matrix are drafted; you put the gaps in order, help choose the auditor, and keep us honest about what is not done. Join bank and"
  },
  {
   "id": "weworkremotely-d6365ae90a",
@@ -472,5 +516,43 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Mercury is building a complete finance stack for startups. We work hard to create the easiest and safest banking* experience possible to simplify our customer’s financial lives whether they are entrepreneurs, business owners, or individuals. Mercury has also obtained a provisional national bank charter and is currently taking proactive steps for final approval. Role Overview: We're looking for a Business Risk Officer to help scale the way Mercury builds products. In this role you will report to our Head of Business Risk & Enablement and will partner with Product, Operations, Compliance and many other support and oversight teams to ensure that products and features are delivered “best-in-class” in a safe and sound manner. Your success in this role will rely on subject matter expertise in one or more of Mercury’s core product offerings and associated risks. You will also be primarily responsible for the facilitation of non-financial risk management programs (see below). Key Responsibilities: Identify any potential blind spots in processes and controls, and suggest commercial improvem"
+ },
+ {
+  "id": "getonboard-ca-grupo-mariposa-remote",
+  "source": "getonboard",
+  "track": "core",
+  "title": "Especialista de Seguridad Informática",
+  "company": "Grupo Mariposa",
+  "location": "Remote anywhere",
+  "employment": {
+   "data": {
+    "id": 1,
+    "type": "modality"
+   }
+  },
+  "posted": "2026-09-28",
+  "url": "https://www.getonbrd.com/jobs/especialista-de-seguridad-informatica-grupo-mariposa-remote",
+  "compensation": "USD 2000-3000 /mes",
+  "tags": [],
+  "excerpt": "Formación academica Licenciatura en Ingeniería en Sistemas, Informática, Telecomunicaciones o carrera afín. Deseable contar con certificaciones en ciberseguridad y seguridad de redes. Experiencia Entre 4 y 5 años de experiencia en Seguridad Informática. Experiencia en Seguridad de Redes y administración de herramientas de seguridad. Gestión de incidentes de seguridad, análisis de vulnerabilidades y mitigación de riesgos. Conocimientos técnicos Seguridad de redes y comunicaciones. Análisis de vulnerabilidades y gestión de riesgos. Herramientas de monitoreo y protección de seguridad informática. Continuidad del negocio y recuperación ante desastres. Normativas y buenas prácticas de seguridad de la información. Competencias Capacidad analítica y resolución de problemas. Toma de decisiones ante incidentes críticos. Comunicación efectiva y trabajo colaborativo. Orientación a resultados y gestión de riesgos. Monitorear y administrar la seguridad de la infraestructura tecnológica y las redes corporativas. Detectar, analizar y gestionar incidentes de seguridad informática, definiendo acciones de contención y escalamiento cuando sea necesario. Identificar vulnerabilidades y coordinar planes"
+ },
+ {
+  "id": "getonboard-path-partners-llc-remote",
+  "source": "getonboard",
+  "track": "alt",
+  "title": "Director of Operations",
+  "company": "ExitPath Partners, LLC",
+  "location": "Remote anywhere",
+  "employment": {
+   "data": {
+    "id": 1,
+    "type": "modality"
+   }
+  },
+  "posted": "2026-09-08",
+  "url": "https://www.getonbrd.com/jobs/director-of-operations-exitpath-partners-llc-remote",
+  "compensation": "USD 3000-3500 /mes",
+  "tags": [],
+  "excerpt": "Must have: 5+ years running operations in a professional services, advisory, private equity, or law firm environment Chief of staff, director of operations, practice manager, or business manager Direct experience running an operating cadence (EOS/Traction, 4DX, OKRs, or a homegrown equivalent). Documentation and process discipline Working command of a deal or relationship CRM and comfort administering data standards U.S. Eastern time or a good portion of your hours aligned with our working time zone. Helpful, not required: Law firm or legal services operations background Exposure to M&A transaction process, deal desk, or contract administration Experience inside a partner-led business WHO THIS ROLE ISN’T FOR If you want to redesign the operating system rather than run it week after week, you will be bored here. If you disengage when people don’t comply and let the system do the confronting for you, this role will fail. If the appeal is a path into origination or deal execution, that is not on offer. If a job whose central function is enforcing consistency sounds tedious to you, trust that instinct. The operating cadence. - Leadership and department meetings ran, held, and recorded."
  }
 ]

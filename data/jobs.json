@@ -1,5 +1,20 @@
 [
  {
+  "id": "ashby-camunda-54b6e8a4",
+  "company": "Camunda",
+  "ats": "ashby",
+  "title": "Information Security Engineer - Application Security",
+  "location": "Remote",
+  "remote": null,
+  "workplace": null,
+  "employment": "FullTime",
+  "posted": "2026-11-11",
+  "url": "https://jobs.ashbyhq.com/camunda/54b6e8a4-cfce-44c8-aa18-c5ed709e1769",
+  "compensation": null,
+  "excerpt": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/ 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies https://flexa.careers/companies/camunda, We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the Role: Hi there! We're hiring an Information Security Engineer with a focus on Application Security to join our Information Security team at Camunda. We are a team that takes security seriously without making it feel like a locked door. We work in a transparent, straightforward way, and we care about doing the work right rather than jus",
+  "track": "core"
+ },
+ {
   "id": "gh-gitlab-8891698002",
   "company": "GitLab",
   "ats": "greenhouse",
@@ -12,6 +27,36 @@
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891698002",
   "compensation": null,
   "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. An overview of this role As a Threat Research Engineer, you’ll take ideas from the first question to a working proof of concept, deploy it, and analyze the results yourself. This is a full-stack role, with AI central to how we work. You’ll build agentic workflows for research, analysis, and detection, and use AI tools every day to move faster. What you’ll do Research new attack surfaces and threat vectors, including AI coding agents, agen",
+  "track": "core"
+ },
+ {
+  "id": "ashby-vultr-be006885",
+  "company": "Vultr",
+  "ats": "ashby",
+  "title": "Senior Physical Security Evaluator",
+  "location": "Remote - United States",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-11-11",
+  "url": "https://jobs.ashbyhq.com/Vultr/be006885-dd7b-49d8-a871-60f9142de2e9",
+  "compensation": null,
+  "excerpt": "WHO WE ARE Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world’s largest privately-held cloud infrastructure company. Vultr Cares - 100% company-paid insurance premiums for employee medical, dental and vision plans. - 401(k) plan that matches 100% up to 4%, with immediate vesting - Professional Development Reimbursement of $2,500 each year - 11 Holidays + Paid Time Off Accrual + Rollover Plan - Commitment matters to Vultr! Increased PTO at 3 year and 10 year anniversary + 1 month paid sabbatical every 5 years + Anniversary Bonus each year - $500 stipend for remote office setup in first year + $400 each following year - Internet reimbursement up to $75 per month - Gym membership reimbursement up to $50 per month - Company paid Wellable subscription Join Vultr Vultr is seeking a highly skilled and experienced Senior Physical Security Evaluator to strengthen the physical security posture of our global data center footprint. The ideal candidate is a security leader with 8–12+ years of physical security experience, deep expertise in data center and critical infrastructure environments, and CPTED, CPP, or PSP certification. This is a highly visible role in a high-growth technology company, which will require up to 50% travel and close, ongoing collaboration wit",
+  "track": "core"
+ },
+ {
+  "id": "gh-alpaca-6251385004",
+  "company": "Alpaca",
+  "ats": "greenhouse",
+  "title": "Senior Software Engineer - Corporate Actions & Security Master",
+  "location": "Remote - EMEA",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-11",
+  "url": "https://job-boards.greenhouse.io/alpaca/jobs/6251385004",
+  "compensation": null,
+  "excerpt": "Who We Are: Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts. Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We're deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it. Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator. Our Team Members: We're a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond! We're searching for passionate individuals eager to contribute to Alpaca's rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply. About the Role As a Senior Software Engineer on the Reference Data team, you will build services that form the data backbone of Alpaca’s brokerage infrastructure. Almost every ",
   "track": "core"
  },
  {
@@ -423,7 +468,7 @@
   "id": "ashby-flock-8291e401",
   "company": "Flock Safety",
   "ats": "ashby",
-  "title": "People Operations Lead (Fixed term Contract)",
+  "title": "People Operations Lead (Fixed Term Contract)",
   "location": "London",
   "remote": true,
   "workplace": "Hybrid",
@@ -930,21 +975,6 @@
   "track": "core"
  },
  {
-  "id": "gh-coinbase-8337152",
-  "company": "Coinbase",
-  "ats": "greenhouse",
-  "title": "Payments Risk Specialist I",
-  "location": "Manila, Philippines",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-11-04",
-  "url": "https://www.coinbase.com/careers/positions/8337152?gh_jid=8337152",
-  "compensation": null,
-  "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase . Responsibilities: Conduct detailed reviews of escalated customer accounts to identify and mitigate payments fraud risks, including chargebacks, ACH returns, wire disputes, and account takeovers. Analyze fraud trends and patterns in payment activities, providing actionable insights to Payments Risk management. Collaborate with the Payments Risk investigations team to provide feedback on rule performance and risk logic. Support the development and documentation of review processes to enhance operational efficiency. Identify inefficiencies in workflows and recommend process improvements to mitigate risk exposure. Maintain high standards of accuracy and timeliness in fraud investigations and risk assessments. Requirements: Minimum of 1 year of experience in payments risk, fraud analysis, or risk operations within financial services or e-commerce. Strong understanding of payments systems, fraud detection methodologies, and risk mitigation strategies. Excellent analytical and investigative skills with the ability to identify patterns and root causes of fraud. Proficiency in English communication, both written and verbal. BA/BS degree or equivalent practical experience. Demonstrated abilit",
-  "track": "core"
- },
- {
   "id": "gh-coinbase-8337149",
   "company": "Coinbase",
   "ats": "greenhouse",
@@ -955,6 +985,21 @@
   "employment": null,
   "posted": "2026-11-04",
   "url": "https://www.coinbase.com/careers/positions/8337149?gh_jid=8337149",
+  "compensation": null,
+  "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase . Responsibilities: Conduct detailed reviews of escalated customer accounts to identify and mitigate payments fraud risks, including chargebacks, ACH returns, wire disputes, and account takeovers. Analyze fraud trends and patterns in payment activities, providing actionable insights to Payments Risk management. Collaborate with the Payments Risk investigations team to provide feedback on rule performance and risk logic. Support the development and documentation of review processes to enhance operational efficiency. Identify inefficiencies in workflows and recommend process improvements to mitigate risk exposure. Maintain high standards of accuracy and timeliness in fraud investigations and risk assessments. Requirements: Minimum of 1 year of experience in payments risk, fraud analysis, or risk operations within financial services or e-commerce. Strong understanding of payments systems, fraud detection methodologies, and risk mitigation strategies. Excellent analytical and investigative skills with the ability to identify patterns and root causes of fraud. Proficiency in English communication, both written and verbal. BA/BS degree or equivalent practical experience. Demonstrated abilit",
+  "track": "core"
+ },
+ {
+  "id": "gh-coinbase-8337152",
+  "company": "Coinbase",
+  "ats": "greenhouse",
+  "title": "Payments Risk Specialist I",
+  "location": "Manila, Philippines",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-04",
+  "url": "https://www.coinbase.com/careers/positions/8337152?gh_jid=8337152",
   "compensation": null,
   "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase . Responsibilities: Conduct detailed reviews of escalated customer accounts to identify and mitigate payments fraud risks, including chargebacks, ACH returns, wire disputes, and account takeovers. Analyze fraud trends and patterns in payment activities, providing actionable insights to Payments Risk management. Collaborate with the Payments Risk investigations team to provide feedback on rule performance and risk logic. Support the development and documentation of review processes to enhance operational efficiency. Identify inefficiencies in workflows and recommend process improvements to mitigate risk exposure. Maintain high standards of accuracy and timeliness in fraud investigations and risk assessments. Requirements: Minimum of 1 year of experience in payments risk, fraud analysis, or risk operations within financial services or e-commerce. Strong understanding of payments systems, fraud detection methodologies, and risk mitigation strategies. Excellent analytical and investigative skills with the ability to identify patterns and root causes of fraud. Proficiency in English communication, both written and verbal. BA/BS degree or equivalent practical experience. Demonstrated abilit",
   "track": "core"
@@ -1320,36 +1365,6 @@
   "track": "core"
  },
  {
-  "id": "ashby-pleo-ec0ccfe9",
-  "company": "Pleo",
-  "ats": "ashby",
-  "title": "Staff Security Operations Engineer",
-  "location": "London; Berlin; Amsterdam; Lisbon; Copenhagen; Madrid; Stockholm",
-  "remote": true,
-  "workplace": "Hybrid",
-  "employment": "FullTime",
-  "posted": "2026-10-30",
-  "url": "https://jobs.ashbyhq.com/pleo/ec0ccfe9-8f21-404a-afba-079573f9ae89",
-  "compensation": null,
-  "excerpt": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’. The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years. Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together. ABOUT THE ROLE We're looking for a Staff Security Operations Engineer to join our Cybersecurity team at Pleo. In this role, you'll define and deliver the SecOps roadmap, building the detection, response, and investigation capability that protects a fast-growing fintech. If you're excited about owning a security operations function end to end, from framework-based strategy through to the code that makes it run, then this is the opportunity for you! WHO YOU'LL BE WORKING WITH AND REPORTING TO You'll report to our VP of Fraud & Security and work closely with Fraud, DevSecOps, Engineering, and Risk & Compliance. Our team is highly colla",
-  "track": "core"
- },
- {
-  "id": "ashby-pleo-c9142b94",
-  "company": "Pleo",
-  "ats": "ashby",
-  "title": "Staff Security Operations Engineer",
-  "location": "United Kingdom; Denmark; Germany; Portugal; Sweden; Spain; Netherlands",
-  "remote": true,
-  "workplace": "Remote",
-  "employment": "FullTime",
-  "posted": "2026-10-30",
-  "url": "https://jobs.ashbyhq.com/pleo/c9142b94-d7c2-4e09-bc3e-3e8e7b8e05bd",
-  "compensation": null,
-  "excerpt": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’. The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years. Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together. ABOUT THE ROLE We're looking for a Staff Security Operations Engineer to join our Cybersecurity team at Pleo. In this role, you'll define and deliver the SecOps roadmap, building the detection, response, and investigation capability that protects a fast-growing fintech. If you're excited about owning a security operations function end to end, from framework-based strategy through to the code that makes it run, then this is the opportunity for you! WHO YOU'LL BE WORKING WITH AND REPORTING TO You'll report to our VP of Fraud & Security and work closely with Fraud, DevSecOps, Engineering, and Risk & Compliance. Our team is highly colla",
-  "track": "core"
- },
- {
   "id": "ashby-horizon3ai-169d3dde",
   "company": "Horizon3.ai",
   "ats": "ashby",
@@ -1378,21 +1393,6 @@
   "compensation": "£60K – £70K • Offers Equity",
   "excerpt": "WE PULL MEDICAL TECHNOLOGY FROM THE FUTURE TO SOLVE HUMAN HEALTH. Scarlet is authorised to assess and certify medical devices. We combine clinical, technical and regulatory expertise with AI agents and software so rigorous certification can keep pace with product development at the world’s most ambitious technology companies, without lowering the safety bar. Our customers have cut a year or more from their certification timelines for new AI-enabled medical devices and shortened product-update cycles from months to weeks. You’ll join a team building the infrastructure that makes these outcomes repeatable at scale. ABOUT THE ROLE As a Certification Program Manager at Scarlet, you will help safe medical technologies reach patients sooner by running and improving the operations behind their certification. You will own operational delivery across customer certification programs, working closely with auditors, assessors and account managers. This is a hands-on role: delivering detailed work accurately and on time, while finding ways to make certification simpler and more efficient. As Scarlet expands into new markets and jurisdictions, you will help shape the processes that support that growth. You’ll build expertise across a varied range of certification activities, with scope to take ownership of broader operational improvements. RESPONSIBILITIES - Plan and coordinate certification programs, including client considerations and audit time calculations, and improve how milestones, dependencies and follow-up activities are managed. - Review applications and shape project plans, identifying device codes, required assessments and assessor competence requirements, while streamlining routine checks. - Prepare certificates following approved certification decisions and coordinate s",
   "track": "alt"
- },
- {
-  "id": "ashby-elevenlabs-7ab03a75",
-  "company": "ElevenLabs",
-  "ats": "ashby",
-  "title": "Trust Strategy & Operations",
-  "location": "London; Dublin",
-  "remote": true,
-  "workplace": "Remote",
-  "employment": "FullTime",
-  "posted": "2026-10-30",
-  "url": "https://jobs.ashbyhq.com/ElevenLabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24",
-  "compensation": null,
-  "excerpt": "ABOUT ELEVENLABS ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. - ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. HOW WE WORK - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. - Excellence everywhere: Everything we do should match the quality of our AI models. - Global team: We prioritize your talent, not your location. WHAT WE",
-  "track": "core"
  },
  {
   "id": "gh-andurilindustries-5278928007",
@@ -1573,21 +1573,6 @@
   "compensation": null,
   "excerpt": "Company Overview: We are building Protege to solve the biggest unmet need in AI — getting access to the right training data. The process today is time intensive, incredibly expensive, and often ends in failure. The Protege platform facilitates the secure, efficient, and privacy-centric exchange of AI training data. Solving AI’s data problem is a generational opportunity. We’re backed by world-class investors and already powering partnerships with some of the most ambitious teams in AI. The company that succeeds will be one of the largest in AI — and in tech. We’re a lean, fast-moving, high-trust team of builders who are obsessed with velocity and impact. Our culture is built for people who thrive on ambiguity, own outcomes, and want to shape the future of data and AI. ROLE OVERVIEW As Head of Operations, DataLab at Protege, you will be a strategic partner and problem-solver, driving alignment, execution, and impact across the organization. You’ll work side-by-side with the CEO and leadership team to ensure our most important priorities move forward, from operational planning and strategic initiatives to executive communications and cross-functional coordination. This is a role for someone who thrives on variety, enjoys switching between strategic thinking and hands-on execution, and can adapt quickly in a fast-moving environment. You’ll have broad exposure to the business, making this an ideal position for someone who wants to help shape Protege’s future. KEY RESPONSIBILITIES - Own day-to-day operations for the Data Lab, including planning, prioritization, and execution across data initiatives. - Design and implement scalable operational processes (intake, prioritization, resourcing, delivery, and reporting) to support data projects from concept through launch. - Partne",
   "track": "alt"
- },
- {
-  "id": "ashby-vultr-8c5cf8fe",
-  "company": "Vultr",
-  "ats": "ashby",
-  "title": "Physical Security Evaluator",
-  "location": "Remote - United States",
-  "remote": true,
-  "workplace": "Remote",
-  "employment": "FullTime",
-  "posted": "2026-10-29",
-  "url": "https://jobs.ashbyhq.com/Vultr/8c5cf8fe-ede3-4a92-9174-c277bfc65fb6",
-  "compensation": null,
-  "excerpt": "WHO WE ARE Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world’s largest privately-held cloud infrastructure company. Vultr Cares - 100% company-paid insurance premiums for employee medical, dental and vision plans. - 401(k) plan that matches 100% up to 4%, with immediate vesting - Professional Development Reimbursement of $2,500 each year - 11 Holidays + Paid Time Off Accrual + Rollover Plan - Commitment matters to Vultr! Increased PTO at 3 year and 10 year anniversary + 1 month paid sabbatical every 5 years + Anniversary Bonus each year - $500 stipend for remote office setup in first year + $400 each following year - Internet reimbursement up to $75 per month - Gym membership reimbursement up to $50 per month - Company paid Wellable subscription Join Vultr Vultr is seeking a highly skilled and experienced Physical Security Evaluator based in Texas or Oklahoma to conduct comprehensive physical security evaluations of multiple data center facilities within an assigned region. This role protects critical infrastructure, personnel, and assets through effective oversight of security programs, vendor relationships, and incident response. The ideal candidate is forward thinking and security minded. This is a highly visible role in a high-growth technology comp",
-  "track": "core"
  },
  {
   "id": "gh-coinbase-8335796",
@@ -2070,21 +2055,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270947007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Program Manager, Maritime",
-  "location": "Quincy, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5269746007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2095,6 +2065,21 @@
   "employment": null,
   "posted": "2026-10-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269746007?gh_jid=5269746007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5270947007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Program Manager, Maritime",
+  "location": "Quincy, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
   "track": "alt"
@@ -2145,21 +2130,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5270612007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Global Mobility Program Manager, Tax",
-  "location": "Seattle, Washington, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-20",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270612007?gh_jid=5270612007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5257493007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2170,6 +2140,21 @@
   "employment": null,
   "posted": "2026-10-20",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257493007?gh_jid=5257493007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5270612007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Global Mobility Program Manager, Tax",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-20",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270612007?gh_jid=5270612007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
   "track": "alt"
@@ -2358,7 +2343,7 @@
   "id": "ashby-kong-8fb34850",
   "company": "Kong",
   "ats": "ashby",
-  "title": "Senior Security Engineer (Security Champion), Runtimes",
+  "title": "Senior Software Engineer (Security Champion), Runtimes",
   "location": "Milan, Italy",
   "remote": true,
   "workplace": "Hybrid",
@@ -4500,21 +4485,6 @@
   "track": "core"
  },
  {
-  "id": "gh-cresta-5417030008",
-  "company": "Cresta",
-  "ats": "greenhouse",
-  "title": "GTM Strategy & Operations Manager, EMEA",
-  "location": "United Kingdom (Remote)",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-09-04",
-  "url": "https://job-boards.greenhouse.io/cresta/jobs/5417030008",
-  "compensation": null,
-  "excerpt": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day. Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world’s leading investors, including a16z, Greylock, and Sequoia. Cresta’s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. About the role As Cresta's GTM Strategy & Operations Manager for EMEA, you will be the operational and analytical engine behind our fastest-growing region. You will partner directly with EMEA sales leadership to become a deep expert in the region's book of business: turning data into decisions, running the operating cadences that keep the business on plan, and removing the friction that slows the field down. This is a high-ownership, hands-on role. You will move fluidly between strategy (where we play, how we cover the market, how we set targets) and execution (territory carves, forecast hygiene, CRM data integrity). You will be the trusted right hand to regional sales leaders and the connective tissue between EMEA and our central GTM Ops function. Key responsibilities Regional strat",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5231329007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -4920,16 +4890,16 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5218586007",
+  "id": "gh-andurilindustries-5218594007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Security Operations Analyst",
-  "location": "Seattle, Washington, United States",
+  "location": "Boston, Massachusetts, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
   "track": "core"
@@ -4950,6 +4920,21 @@
   "track": "core"
  },
  {
+  "id": "gh-andurilindustries-5218586007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Security Operations Analyst",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-08-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
+  "track": "core"
+ },
+ {
   "id": "gh-andurilindustries-5201053007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -4960,21 +4945,6 @@
   "employment": null,
   "posted": "2026-08-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201053007?gh_jid=5201053007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
-  "track": "core"
- },
- {
-  "id": "gh-andurilindustries-5218594007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Security Operations Analyst",
-  "location": "Boston, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-08-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Security Operations Analyst to be the watchtower for Anduril's critical defense technologies. As a SecOps Analyst on the detection and response team, you'll be responsible for monitoring and responding to adversarial activity while helping incorporate key detection feedback loops with the detection engineering team. As a Senior SecOps Analyst, you will serve as an incident commander alongside other senior analysts. When not responding to threats, you'll be asking questions of our data sets, conducting threat hunting and data normalization operations across the organization to understand user behavior and identify anomalies. WHAT YOU'LL DO Triage and respond to alerts / incidents covering multiple disciplines including, but not limited to, phishing, endpoints, cloud infrastructure and services, and SaaS applications Build and optimize tailored detection signatures, response playbooks, and response automation using detection-as-code principles As the frontline of DNR, you will lead the feedbac",
   "track": "core"
