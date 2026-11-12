@@ -1,5 +1,130 @@
 [
  {
+  "id": "jobgether-1ad693ce",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "AI Operations Lead",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Contract",
+  "posted": "2026-11-12",
+  "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI Operations Lead based in Spain. The AI Operations Lead will take ownership of technical operations projects, transforming manual processes and fragmented workflows into scalable, automated systems. This hands-on role combines operational strategy, technical implementation, and AI-powered innovation within a fast-moving, fully remote environment. You will identify operational challenges, determine the right solutions, and independently build and implement systems that improve efficiency across sales, marketing, client management, and partnerships. Working closely with senior leadership and cross-functional teams, you will drive projects from initial problem identification through implementation, documentation, and long-term adoption. You will leverage automation platforms, CRM systems, APIs, and AI coding tools to deliver practical solutions with measurable business impact. This is an opportunity to shape how a growing international business operates while enjoying significant autonomy and ownership."
+ },
+ {
+  "id": "jobgether-a71817d2",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Game Operations Manager",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-12",
+  "url": "https://jobs.lever.co/jobgether/a71817d2-168c-4ccf-8ace-758d516e04ab",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Game Operations Manager based in Spain. Join a fast-growing international technology environment specializing in innovative iGaming solutions and B2B services. In this role, you will play a key part in ensuring the smooth operation, performance, and quality of an online gaming platform. You will oversee game content management, coordinate technical support requests, monitor platform performance, and help resolve operational issues. Working closely with technical, product, and marketing teams, you will contribute to an engaging and reliable gaming experience for end users. You will also analyze operational data, identify improvement opportunities, and support the implementation of new games and providers. This is an exciting opportunity for an iGaming professional looking to take ownership, develop operational expertise, and grow within a dynamic, collaborative, and fully remote team."
+ },
+ {
+  "id": "himalayas-lyst-telecom",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "PMO Analyst - Telecom",
+  "company": "IRIUM",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/irium/jobs/pmo-analyst-telecom?utm_source=api",
+  "compensation": "EUR 26000-26000",
+  "tags": [
+   "PMO-Analyst",
+   "Business-Analyst",
+   "Reporting-Analyst",
+   "Program-Analyst"
+  ],
+  "excerpt": "En IRIUM nos preocupamos por las personas y por su desarrollo profesional."
+ },
+ {
+  "id": "himalayas-/pmo-support",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "PMO-Support",
+  "company": "TECDATA ENGINEERING",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/pmo-support?utm_source=api",
+  "compensation": "EUR 28000-28000",
+  "tags": [
+   "PMO-Specialist",
+   "Project-Management-Assistant",
+   "Project-Coordinator",
+   "Project-Administrator"
+  ],
+  "excerpt": "• Actualización de los sistemas de gestión de proyecto."
+ },
+ {
+  "id": "himalayas-y-consultant",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Remote Cybersecurity Consultant",
+  "company": "Scopic",
+  "location": "Worldwide",
+  "employment": "Part Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/scopic/jobs/remote-cybersecurity-consultant?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Cybersecurity-Consultant",
+   "Information-Security-Consultant",
+   "Security-Consultant",
+   "Application-Security-Consultant",
+   "DevSecOps-Consultant"
+  ],
+  "excerpt": "Category: IT Services Location: This is a hands-on role."
+ },
+ {
+  "id": "himalayas-ernance-lead",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Integration & Architecture Governance Lead",
+  "company": "TECDATA ENGINEERING",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/integration-architecture-governance-lead?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Integration-Architect",
+   "Enterprise-Architect",
+   "API-governance",
+   "Technical-Governance"
+  ],
+  "excerpt": "📍 Ubicación: Madrid (a confirmar modalidad) ☁️ Entorno: AWS Enterprise 💼 Rol: Integration & Architecture Governance Lead / Integration Architecture Enablement Lead 🏦 Sector: Enterprise / Entornos regulados Objetivo del puestoBuscamos un perfil senior capaz de actuar como puente entre Arquitectura Empresarial y los equipos de desarrollo, asegurando que todas las soluciones de integración se construyen siguiendo los principios arquitectónicos, estándares corporativos, requisitos de seguridad y buenas prácticas modernas de integración."
+ },
+ {
+  "id": "himalayas-is-de-codigo",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Técnico Especialista N2 – Ciberseguridad (Análisis de Código)",
+  "company": "TECDATA ENGINEERING",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/tecnico-especialista-n2-ciberseguridad-analisis-de-codigo?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Cybersecurity-Specialist",
+   "Security-Auditor",
+   "Penetration-Tester",
+   "Application-Security-Analyst",
+   "Red-Team-Specialist"
+  ],
+  "excerpt": "Estamos en busca de un Técnico Especialista N2 – Ciberseguridad (Análisis de Código) 3 años de experiencia específica en proyectos de auditoría técnica de ciberseguridad (EME)."
+ },
+ {
   "id": "himalayas-ity-engineer",
   "source": "himalayas",
   "track": "core",
@@ -62,42 +187,24 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Sr Regulatory CMC Consultant - Small Molecule & Veeva RIM Must Have based in Brazil. We are seeking an experienced Regulatory CMC Consultant to support regulatory affairs activities for small-molecule pharmaceutical products. In this senior consulting role, you will apply your expertise in regulatory requirements, drug development, and product lifecycle management to help ensure products remain compliant throughout their time on the market. You will assess regulatory guidelines, support ongoing regulatory obligations, and contribute to effective reporting and surveillance processes. Working in a collaborative, international life sciences environment, you will partner with cross-functional teams to address complex regulatory needs. This opportunity is suited to a knowledgeable professional who can combine strong technical judgment with clear communication and organized project execution."
  },
  {
-  "id": "himalayas--con-tarjeta",
+  "id": "himalayas-ity-engineer",
   "source": "himalayas",
-  "track": "alt",
-  "title": "Jefe de Proyecto de Pagos con Tarjeta",
-  "company": "TECDATA ENGINEERING",
-  "location": "Spain",
+  "track": "core",
+  "title": "Cybersecurity Engineer",
+  "company": "XTEL",
+  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
   "employment": "Full Time",
   "posted": "2026-11-11",
-  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/jefe-de-proyecto-de-pagos-con-tarjeta?utm_source=api",
+  "url": "https://himalayas.app/companies/xtel/jobs/cybersecurity-engineer?utm_source=api",
   "compensation": null,
   "tags": [
-   "Project-Manager",
-   "Payments-Project-Manager",
-   "Business-Analyst"
+   "Cybersecurity-Engineer",
+   "Cybersecurity-Specialist",
+   "Security-Engineer",
+   "DevSecOps-Engineer",
+   "Cloud-Security-Engineer"
   ],
-  "excerpt": "Estamos en busca de un Jefe de Proyecto de Pagos con Tarjeta Al menos 5 años en un puesto similar preferiblemente en sector banca."
- },
- {
-  "id": "himalayas-gram-manager",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "Transformation Program Manager",
-  "company": "Viseven",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-11",
-  "url": "https://himalayas.app/companies/viseven/jobs/transformation-program-manager?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Transformation-Program-Manager",
-   "Program-Manager",
-   "Transformation-Manager",
-   "Digital-Transformation-Manager",
-   "Project-Program-Manager"
-  ],
-  "excerpt": "Make Every Experience MatterViseven is an AI-native Intelligent Experiences Enabler for life sciences, helping pharma and biotech organizations move from fragmented content operations to connected, compliant, and measurable omnichannel engagement with HCPs and patients."
+  "excerpt": "About XTELXTEL is a leader in advanced, AI-driven solutions for consumer goods companies, combining cutting- edge technology, industry expertise, and data management to accelerate profitable revenue growth and value realization."
  },
  {
   "id": "jobgether-67cc81ea",
@@ -273,7 +380,7 @@
    "annotation",
    "english"
   ],
-  "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior .NET Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team’s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we’r"
+  "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Tech Leads come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team’s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we’re looking f"
  },
  {
   "id": "weworkremotely-a1642acceb",
@@ -502,20 +609,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: San Francisco, CA and Kolkata, India URL: http://imerit.net AI Trainer Remote | Independent Contractor | Get certified for future project opportunities Prove your skills. Get certified. Be ready for what comes next. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. Demonstrate your skills now and be considered when project opportunities become available. ▌ What you will do As part of the certification process, you will demonstrate your ability to: Annotate short video clips by identifying objects, actions and events. Evaluate video quality, relevance and accuracy against established guidelines. Assess the clarity and plausibility of movements. Apply instructions consistently and identify potential quality issues. ▌ What you bring Strong attention to detail and analytical thinking. Strong written English and the ability to follow detailed instructions independently. A commitment to accuracy and consistency. No previous AI or robotics experience required. ▌ What the work loo"
- },
- {
-  "id": "weworkremotely-b0bf9a2fcc",
-  "source": "weworkremotely",
-  "track": "alt",
-  "title": "Business Risk Officer",
-  "company": "Mercury",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-13",
-  "url": "https://weworkremotely.com/remote-jobs/mercury-business-risk-officer",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Mercury is building a complete finance stack for startups. We work hard to create the easiest and safest banking* experience possible to simplify our customer’s financial lives whether they are entrepreneurs, business owners, or individuals. Mercury has also obtained a provisional national bank charter and is currently taking proactive steps for final approval. Role Overview: We're looking for a Business Risk Officer to help scale the way Mercury builds products. In this role you will report to our Head of Business Risk & Enablement and will partner with Product, Operations, Compliance and many other support and oversight teams to ensure that products and features are delivered “best-in-class” in a safe and sound manner. Your success in this role will rely on subject matter expertise in one or more of Mercury’s core product offerings and associated risks. You will also be primarily responsible for the facilitation of non-financial risk management programs (see below). Key Responsibilities: Identify any potential blind spots in processes and controls, and suggest commercial improvem"
  },
  {
   "id": "getonboard-ca-grupo-mariposa-remote",

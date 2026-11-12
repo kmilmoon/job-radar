@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T04:50:50+00:00",
+ "generatedAt": "2026-11-12T11:56:43+00:00",
  "companies": [
   {
    "company": "n8n",
@@ -42,7 +42,7 @@
    "company": "Morpho",
    "ats": "ashby",
    "slug": "morpho",
-   "openPostings": 12,
+   "openPostings": 13,
    "firstHire": [],
    "leaderHiring": [
     {
@@ -223,7 +223,7 @@
    "company": "Camunda",
    "ats": "ashby",
    "slug": "camunda",
-   "openPostings": 53,
+   "openPostings": 51,
    "firstHire": [
     {
      "title": "Information Security Engineer - Application Security",
@@ -327,20 +327,7 @@
    "openPostings": 24,
    "firstHire": [],
    "leaderHiring": [],
-   "frameworks": [
-    {
-     "framework": "ISO 27001",
-     "title": "Lead Devops Engineer",
-     "posted": "2026-09-16",
-     "url": "https://boards.greenhouse.io/modulrfinance/jobs/8794586002?gh_jid=8794586002"
-    },
-    {
-     "framework": "PCI DSS",
-     "title": "Lead Devops Engineer",
-     "posted": "2026-09-16",
-     "url": "https://boards.greenhouse.io/modulrfinance/jobs/8794586002?gh_jid=8794586002"
-    }
-   ]
+   "frameworks": []
   },
   {
    "company": "Taxbit",
@@ -413,13 +400,8 @@
    "company": "Pliant",
    "ats": "ashby",
    "slug": "pliant",
-   "openPostings": 40,
+   "openPostings": 37,
    "firstHire": [
-    {
-     "title": "Security Engineer *EU/UK remote* (m/f/d)",
-     "posted": "2026-05-11",
-     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
-    },
     {
      "title": "Compliance Operations Analyst (m/f/d)",
      "posted": "2026-10-28",
@@ -430,27 +412,27 @@
    "frameworks": [
     {
      "framework": "SOC 2",
-     "title": "Security Engineer *EU/UK remote* (m/f/d)",
-     "posted": "2026-05-11",
-     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+     "title": "Platform Infrastructure Engineer EU/UK remote (m/f/d)",
+     "posted": "2026-07-08",
+     "url": "https://jobs.ashbyhq.com/pliant/4e819d1b-9492-4778-b1e3-6a6fefb44d91"
     },
     {
      "framework": "ISO 27001",
-     "title": "Security Engineer *EU/UK remote* (m/f/d)",
-     "posted": "2026-05-11",
-     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+     "title": "Platform Infrastructure Engineer EU/UK remote (m/f/d)",
+     "posted": "2026-07-08",
+     "url": "https://jobs.ashbyhq.com/pliant/4e819d1b-9492-4778-b1e3-6a6fefb44d91"
     },
     {
      "framework": "PCI DSS",
-     "title": "Security Engineer *EU/UK remote* (m/f/d)",
-     "posted": "2026-05-11",
-     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+     "title": "Platform Infrastructure Engineer EU/UK remote (m/f/d)",
+     "posted": "2026-07-08",
+     "url": "https://jobs.ashbyhq.com/pliant/4e819d1b-9492-4778-b1e3-6a6fefb44d91"
     },
     {
      "framework": "DORA",
-     "title": "Security Engineer *EU/UK remote* (m/f/d)",
-     "posted": "2026-05-11",
-     "url": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
+     "title": "Senior Manager Operational Risk (UK) (m/f/d)",
+     "posted": "2026-10-05",
+     "url": "https://jobs.ashbyhq.com/pliant/0a237b17-f6ca-4b00-b769-a05880110eb1"
     }
    ]
   },
@@ -528,7 +510,7 @@
    "company": "Moss",
    "ats": "ashby",
    "slug": "moss",
-   "openPostings": 33,
+   "openPostings": 34,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -650,7 +632,7 @@
    "company": "Pleo",
    "ats": "ashby",
    "slug": "pleo",
-   "openPostings": 37,
+   "openPostings": 38,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -1483,7 +1465,7 @@
    "company": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "openPostings": 380,
+   "openPostings": 381,
    "firstHire": [
     {
      "title": "Senior Product Security Engineer",
@@ -1680,12 +1662,12 @@
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
     },
     {
      "title": "Security Operations Analyst",
      "posted": "2026-08-21",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
     },
     {
      "title": "Security Operations Analyst",
@@ -1700,17 +1682,17 @@
     {
      "title": "Senior Analyst, Government Compliance",
      "posted": "2026-11-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284965007?gh_jid=5284965007"
-    },
-    {
-     "title": "Senior Analyst, Government Compliance",
-     "posted": "2026-11-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283267007?gh_jid=5283267007"
     },
     {
      "title": "Senior Analyst, Government Compliance",
      "posted": "2026-11-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284964007?gh_jid=5284964007"
+    },
+    {
+     "title": "Senior Analyst, Government Compliance",
+     "posted": "2026-11-04",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284965007?gh_jid=5284965007"
     },
     {
      "title": "Senior Information Systems Security Officer, NGC2",
@@ -1725,12 +1707,12 @@
     {
      "title": "Senior Offensive Security Engineer",
      "posted": "2026-10-08",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007"
     },
     {
      "title": "Senior Offensive Security Engineer",
      "posted": "2026-10-08",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007"
     },
     {
      "title": "Senior Product Security Engineer",
@@ -1764,13 +1746,13 @@
     },
     {
      "title": "Senior Security Engineer, Identity",
-     "posted": "2026-10-06",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007"
+     "posted": "2026-06-04",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
     },
     {
      "title": "Senior Security Engineer, Identity",
-     "posted": "2026-06-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155253007?gh_jid=5155253007"
+     "posted": "2026-10-06",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007"
     },
     {
      "title": "Senior Security Engineer, Identity",
@@ -1848,7 +1830,7 @@
    "company": "Shield AI",
    "ats": "lever",
    "slug": "shieldai",
-   "openPostings": 665,
+   "openPostings": 663,
    "firstHire": [
     {
      "title": "Cybersecurity Platform Engineer (R5531)",
@@ -2346,7 +2328,7 @@
    "company": "Coinbase",
    "ats": "greenhouse",
    "slug": "coinbase",
-   "openPostings": 277,
+   "openPostings": 271,
    "firstHire": [
     {
      "title": "Compliance, International Investigations Associate",
@@ -2546,13 +2528,13 @@
     },
     {
      "title": "Cyber Defense Engineer",
-     "posted": "2026-09-08",
-     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8185856"
+     "posted": "2026-04-27",
+     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7859213"
     },
     {
      "title": "Cyber Defense Engineer",
-     "posted": "2026-04-27",
-     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7859213"
+     "posted": "2026-09-08",
+     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8185856"
     },
     {
      "title": "Sr Product Security Engineer",
