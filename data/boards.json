@@ -1,5 +1,19 @@
 [
  {
+  "id": "jobgether-6cd2d943",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Technical Program Manager - IP Backbone",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-13",
+  "url": "https://jobs.lever.co/jobgether/6cd2d943-c213-4505-82d3-2643b9e787b2",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Program Manager - IP Backbone based in Spain. As a Technical Program Manager, you will coordinate the planning and delivery of a global IP backbone and Internet edge infrastructure supporting a rapidly expanding AI cloud platform. You will oversee complex infrastructure initiatives, connecting data center launches, network architecture, engineering, procurement, and external connectivity providers. Your mission will be to ensure that new sites and existing infrastructure have the routing, connectivity, hardware, and network resources required for reliable service delivery and future growth. Working across international technical and operational teams, you will manage dependencies, schedules, risks, and project milestones from initial planning through operational handover. You will also contribute to network capacity planning, provider onboarding, and infrastructure resilience. This is an opportunity to take ownership of high-impact global infrastructure projects in a fast-growing, engineering-driven technology environment."
+ },
+ {
   "id": "jobgether-1ad693ce",
   "source": "jobgether",
   "track": "alt",
@@ -28,121 +42,108 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Game Operations Manager based in Spain. Join a fast-growing international technology environment specializing in innovative iGaming solutions and B2B services. In this role, you will play a key part in ensuring the smooth operation, performance, and quality of an online gaming platform. You will oversee game content management, coordinate technical support requests, monitor platform performance, and help resolve operational issues. Working closely with technical, product, and marketing teams, you will contribute to an engaging and reliable gaming experience for end users. You will also analyze operational data, identify improvement opportunities, and support the implementation of new games and providers. This is an exciting opportunity for an iGaming professional looking to take ownership, develop operational expertise, and grow within a dynamic, collaborative, and fully remote team."
  },
  {
-  "id": "himalayas-lyst-telecom",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "PMO Analyst - Telecom",
-  "company": "IRIUM",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/irium/jobs/pmo-analyst-telecom?utm_source=api",
-  "compensation": "EUR 26000-26000",
-  "tags": [
-   "PMO-Analyst",
-   "Business-Analyst",
-   "Reporting-Analyst",
-   "Program-Analyst"
-  ],
-  "excerpt": "En IRIUM nos preocupamos por las personas y por su desarrollo profesional."
- },
- {
-  "id": "himalayas-/pmo-support",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "PMO-Support",
-  "company": "TECDATA ENGINEERING",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/pmo-support?utm_source=api",
-  "compensation": "EUR 28000-28000",
-  "tags": [
-   "PMO-Specialist",
-   "Project-Management-Assistant",
-   "Project-Coordinator",
-   "Project-Administrator"
-  ],
-  "excerpt": "• Actualización de los sistemas de gestión de proyecto."
- },
- {
-  "id": "himalayas-y-consultant",
+  "id": "himalayas-iance-europe",
   "source": "himalayas",
   "track": "core",
-  "title": "Remote Cybersecurity Consultant",
-  "company": "Scopic",
-  "location": "Worldwide",
-  "employment": "Part Time",
+  "title": "Senior Director, Quality & Compliance (Europe)",
+  "company": "Lifelancer",
+  "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Re",
+  "employment": "Full Time",
   "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/scopic/jobs/remote-cybersecurity-consultant?utm_source=api",
+  "url": "https://himalayas.app/companies/lifelancer/jobs/senior-director-quality-compliance-europe?utm_source=api",
   "compensation": null,
   "tags": [
-   "Cybersecurity-Consultant",
-   "Information-Security-Consultant",
-   "Security-Consultant",
-   "Application-Security-Consultant",
-   "DevSecOps-Consultant"
+   "Quality-Assurance",
+   "Quality-and-Compliance",
+   "Quality-Management",
+   "Regulatory-Compliance",
+   "Clinical-Research-Quality",
+   "Global-Head-Of-Quality-Compliance",
+   "Quality-and-Compliance-Director",
+   "Executive-Quality-and-Regulatory-Affairs-Director",
+   "Senior-Director-Quality-Control",
+   "Global-Quality-Director",
+   "VP-Quality-and-Compliance"
   ],
-  "excerpt": "Category: IT Services Location: This is a hands-on role."
+  "excerpt": "Job Title: Senior Director, Quality & Compliance (Europe) Job Location: Virtual Bulgaria Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Who we areWe’re a global, midsize CRO that pushes boundaries, innovates and invents because the path to a cure for the world’s most persistent diseases is not paved by those who play it safe."
  },
  {
-  "id": "himalayas-ernance-lead",
+  "id": "himalayas-risk-officer",
   "source": "himalayas",
   "track": "alt",
-  "title": "Integration & Architecture Governance Lead",
+  "title": "Chief Risk Officer",
+  "company": "SoftwareONE Deutschland GmbH",
+  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
+  "employment": "Full Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/softwareone-deutschland-gmbh/jobs/chief-risk-officer?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Chief-Risk-Officer",
+   "Head-Of-Risk",
+   "Risk-Director",
+   "Risk-Management-Director"
+  ],
+  "excerpt": "Why SoftwareOne? SoftwareOne is a global software and cloud solutions provider and distributor, powered by around 12,000 people across more than 70 countries."
+ },
+ {
+  "id": "himalayas-ansformation",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Senior Business Architect – Banking Transformation",
   "company": "TECDATA ENGINEERING",
   "location": "Spain",
   "employment": "Full Time",
   "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/integration-architecture-governance-lead?utm_source=api",
+  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/senior-business-architect-banking-transformation?utm_source=api",
   "compensation": null,
   "tags": [
-   "Integration-Architect",
+   "Business-Architect",
    "Enterprise-Architect",
-   "API-governance",
-   "Technical-Governance"
+   "Transformation-Consultant",
+   "Business-Transformation-Consultant"
   ],
-  "excerpt": "📍 Ubicación: Madrid (a confirmar modalidad) ☁️ Entorno: AWS Enterprise 💼 Rol: Integration & Architecture Governance Lead / Integration Architecture Enablement Lead 🏦 Sector: Enterprise / Entornos regulados Objetivo del puestoBuscamos un perfil senior capaz de actuar como puente entre Arquitectura Empresarial y los equipos de desarrollo, asegurando que todas las soluciones de integración se construyen siguiendo los principios arquitectónicos, estándares corporativos, requisitos de seguridad y buenas prácticas modernas de integración."
+  "excerpt": "📍 Ubicación: Madrid / Barcelona 🏠 Modalidad: Remoto, con visitas puntuales a oficinas."
  },
  {
-  "id": "himalayas-is-de-codigo",
+  "id": "himalayas--lead-europe",
   "source": "himalayas",
   "track": "core",
-  "title": "Técnico Especialista N2 – Ciberseguridad (Análisis de Código)",
+  "title": "Trust and Safety Policy, Ads Policy,  Lead (Europe)",
+  "company": "Reddit",
+  "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Re",
+  "employment": "Full Time",
+  "posted": "2026-11-12",
+  "url": "https://himalayas.app/companies/reddit/jobs/trust-and-safety-policy-ads-policy-lead-europe?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Policy",
+   "Trust-and-Safety",
+   "Ad-Policy",
+   "Compliance",
+   "Regulatory-Policy",
+   "Media-Trust-and-Safety-Lead"
+  ],
+  "excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet."
+ },
+ {
+  "id": "himalayas--de-proyecto",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Jefe de Proyecto",
   "company": "TECDATA ENGINEERING",
   "location": "Spain",
   "employment": "Full Time",
   "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/tecnico-especialista-n2-ciberseguridad-analisis-de-codigo?utm_source=api",
+  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/jefe-de-proyecto?utm_source=api",
   "compensation": null,
   "tags": [
-   "Cybersecurity-Specialist",
-   "Security-Auditor",
-   "Penetration-Tester",
-   "Application-Security-Analyst",
-   "Red-Team-Specialist"
+   "Project-Manager",
+   "Software-Project-Manager",
+   "Technical-Project-Manager",
+   "IT-Project-Manager"
   ],
-  "excerpt": "Estamos en busca de un Técnico Especialista N2 – Ciberseguridad (Análisis de Código) 3 años de experiencia específica en proyectos de auditoría técnica de ciberseguridad (EME)."
- },
- {
-  "id": "himalayas-ity-engineer",
-  "source": "himalayas",
-  "track": "core",
-  "title": "SECURITY ENGINEER",
-  "company": "TECDATA ENGINEERING",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/security-engineer?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Security-Engineer",
-   "Cybersecurity-Engineer",
-   "Identity-And-Access-Management-Engineer",
-   "IAM-Consultant",
-   "Cloud-Security-Engineer"
-  ],
-  "excerpt": "Experto en Ciberseguridad, con especialización en plataformas de administración, gestión y gobierno de accesos Responsabilidades principales:Su función principal será realizar las tareas de operación, soporte y mantenimiento evolutivo y preventivo del servicio, realizando el diseño e implantación de nuevas funcionalidades que le sean asignadas por los responsables del cliente."
+  "excerpt": "Estamos en busca de un Jefe de Proyecto Estamos buscando un Jefe de Proyecto con perfil de desarrollo para proyectos de transformación software Gestión de proyectos de desarrollo complejos (no infraestructura)."
  },
  {
   "id": "jobgether-eb4746bc",
@@ -187,26 +188,6 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Sr Regulatory CMC Consultant - Small Molecule & Veeva RIM Must Have based in Brazil. We are seeking an experienced Regulatory CMC Consultant to support regulatory affairs activities for small-molecule pharmaceutical products. In this senior consulting role, you will apply your expertise in regulatory requirements, drug development, and product lifecycle management to help ensure products remain compliant throughout their time on the market. You will assess regulatory guidelines, support ongoing regulatory obligations, and contribute to effective reporting and surveillance processes. Working in a collaborative, international life sciences environment, you will partner with cross-functional teams to address complex regulatory needs. This opportunity is suited to a knowledgeable professional who can combine strong technical judgment with clear communication and organized project execution."
  },
  {
-  "id": "himalayas-ity-engineer",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Cybersecurity Engineer",
-  "company": "XTEL",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
-  "employment": "Full Time",
-  "posted": "2026-11-11",
-  "url": "https://himalayas.app/companies/xtel/jobs/cybersecurity-engineer?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Cybersecurity-Engineer",
-   "Cybersecurity-Specialist",
-   "Security-Engineer",
-   "DevSecOps-Engineer",
-   "Cloud-Security-Engineer"
-  ],
-  "excerpt": "About XTELXTEL is a leader in advanced, AI-driven solutions for consumer goods companies, combining cutting- edge technology, industry expertise, and data management to accelerate profitable revenue growth and value realization."
- },
- {
   "id": "jobgether-67cc81ea",
   "source": "jobgether",
   "track": "alt",
@@ -245,9 +226,7 @@
   "posted": "2026-11-10",
   "url": "https://www.gofractional.com/job/betwell-health-chief-operating-officer-fractional-or-full-time-virtual-behavioral-health",
   "compensation": null,
-  "tags": [
-   "exclusive"
-  ],
+  "tags": [],
   "excerpt": "Job title: Chief Operating Officer (Fractional or Full-Time) – Virtual Behavioral Health Location: Remote (U.S.) Job type: Fractional/part-time contract, with a path to full-time The role You’ll be our operations partner: building the systems, workflows and team structure that let us grow state by state. This role suits someone who has scaled a behavioral health program before and wants real ownership in an early-stage company. What you’ll do Build and streamline day-to-day operations across intake, scheduling, clinical delivery, documentation and discharge Lead multi-state expansion: state licensing, accreditation (Joint Commission/CARF) and a repeatable launch playbook for each new market Oversee payer contracting, credentialing and revenue cycle in partnership with our billing vendor Optimize our EMR and technology stack for a fully virtual care model Build KPIs and reporting for census, admissions, utilization, collections and outcomes Own compliance operations, including HIPAA, 42 CFR Part 2 and state regulations Support hiring, onboarding and staffing models as the clinical team grows Manage budgets and partner with the founder on strategy and growth What we’re looking for 7+"
  },
  {
@@ -581,34 +560,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: U.S. Remote About Flexport: At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year. The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us. What you'll do There is no MSSP and no tier-1 queue here. Detection & Response engineers own their detections end to end: you write them, you tune them, and your team is paged when they fire. The security team is spread across the globe with a follow-the-sun pager rotation so nobody is paged at 3am local. The adversaries are real. The business is growing fast and the"
- },
- {
-  "id": "gofractional-d-of-compliance-part-time-mira-mace-jobs",
-  "source": "gofractional",
-  "track": "core",
-  "title": "Fractional Head of Compliance",
-  "company": "Mira Mace",
-  "location": "Remote; United States, 00, US; US",
-  "employment": null,
-  "posted": "2026-10-18",
-  "url": "https://www.gofractional.com/job/ashbyhq-head-of-compliance-part-time-mira-mace-jobs",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Location: Remote (U.S.-based) Commitment: Part-time (fractional), flexible hours About the Role We're looking for a part-time Head of Compliance to own our regulatory posture as we scale. We operate as a professional corporation / management services organization (PC-MSO), deliver care by phone and video, and bill payers every month for care management and visits. You'll make sure everything we do — how we're structured, how we document, how we code, how we bill and collect — holds up to CMS, OIG, state and payer scrutiny. This is a hands-on, senior role. You'll set the policies, review the work, train the team, and be the person we call when a rule changes or a payer asks hard questions. What You'll Do PC-MSO structure: keep our PC-MSO arrangement compliant — management services agreements, corporate practice of medicine rules state by state, fair-market-value fees, and the line between clinical and business decisions. HIPAA: own our privacy and security program — policies, risk assessments, BAAs with vendors, workforce training, access reviews, and breach response. Coding and billing: audit our use of Medicare codes (care management, E&M and related services) against documentatio"
- },
- {
-  "id": "weworkremotely-9e8cae49af",
-  "source": "weworkremotely",
-  "track": "alt",
-  "title": "AI Trainer",
-  "company": "iMerit Technology",
-  "location": "Anywhere in the World",
-  "employment": "Contract",
-  "posted": "2026-10-13",
-  "url": "https://weworkremotely.com/remote-jobs/imerit-technology-ai-trainer",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: San Francisco, CA and Kolkata, India URL: http://imerit.net AI Trainer Remote | Independent Contractor | Get certified for future project opportunities Prove your skills. Get certified. Be ready for what comes next. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. Demonstrate your skills now and be considered when project opportunities become available. ▌ What you will do As part of the certification process, you will demonstrate your ability to: Annotate short video clips by identifying objects, actions and events. Evaluate video quality, relevance and accuracy against established guidelines. Assess the clarity and plausibility of movements. Apply instructions consistently and identify potential quality issues. ▌ What you bring Strong attention to detail and analytical thinking. Strong written English and the ability to follow detailed instructions independently. A commitment to accuracy and consistency. No previous AI or robotics experience required. ▌ What the work loo"
  },
  {
   "id": "getonboard-ca-grupo-mariposa-remote",
