@@ -1,5 +1,10 @@
 [
  {
+  "id": "li-4488320305",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4488320305/"
+ },
+ {
   "id": "web-crossborder-compliancelead",
   "coll": "jobs",
   "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
@@ -70,6 +75,11 @@
   "url": "https://www.linkedin.com/jobs/view/4488791786/"
  },
  {
+  "id": "jobgether-eb4746bc",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c"
+ },
+ {
   "id": "li-4473393070",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4473393070/"
@@ -83,6 +93,11 @@
   "id": "lever-myob-8754cf16",
   "coll": "jobs",
   "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
+ },
+ {
+  "id": "li-4489461281",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4489461281/"
  },
  {
   "id": "li-4482317639",
@@ -105,19 +120,14 @@
   "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
  },
  {
-  "id": "jobgether-2d73168e",
-  "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/2d73168e-2871-45bc-9015-4e3259b5eb5b"
- },
- {
   "id": "jobgether-37e02f80",
   "coll": "alt",
   "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
  },
  {
-  "id": "ashby-elevenlabs-7ab03a75",
+  "id": "shiny-fractional-coo",
   "coll": "alt",
-  "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
+  "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
  },
  {
   "id": "jobgether-a80049aa",
@@ -125,18 +135,48 @@
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  },
  {
-  "id": "jobgether-eb4746bc",
+  "id": "li-4489340287",
   "coll": "jobs",
-  "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c"
+  "url": "https://www.linkedin.com/jobs/view/4489340287/"
  },
  {
-  "id": "li-4489461281",
+  "id": "li-4489830301",
   "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4489461281/"
+  "url": "https://www.linkedin.com/jobs/view/4489830301/"
  },
  {
-  "id": "li-4488320305",
+  "id": "workable-triskelelabs-794DA7C6",
   "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4488320305/"
+  "url": "https://apply.workable.com/triskele-labs/j/794DA7C642/"
+ },
+ {
+  "id": "li-4489202137",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4489202137/"
+ },
+ {
+  "id": "li-4482092371",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4482092371/"
+ },
+ {
+  "id": "gofractional--time-contractor-soda-data-workable-jobs",
+  "coll": "jobs",
+  "url": "https://jobs.workable.com/view/kf4BcuPRbEjKzQGwSsn19H/remote-compliance-lead-(part-time%2C-contractor)-in-new-york-at-soda-data"
+ },
+ {
+  "id": "jobijoba-recruiter-headofgrc",
+  "coll": "jobs",
+  "url": "https://www.jobijoba.be/annonce/67/8acefc4ce6e5b99c1d5def6c1e5080ff"
+ },
+ {
+  "id": "workable-simprints-DFE7D289",
+  "coll": "alt",
+  "url": "https://apply.workable.com/simprints/j/DFE7D289AA/"
+ },
+ {
+  "id": "jobgether-1ad693ce",
+  "coll": "alt",
+  "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884"
  }
 ]
