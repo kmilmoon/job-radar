@@ -1,5 +1,50 @@
 [
  {
+  "id": "himalayas-r-2970355634",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Technical Program Manager",
+  "company": "Phaidra, Inc.",
+  "location": "Australia, Canada, India, Netherlands, Portugal, Singapore, Spain, Sweden, United Kingdom, United States",
+  "employment": "Full Time",
+  "posted": "2026-11-15",
+  "url": "https://himalayas.app/companies/phaidra-inc/jobs/technical-program-manager-2970355634?utm_source=api",
+  "compensation": "USD 97240-171600",
+  "tags": [
+   "Technical-Program-Management",
+   "Customer-Success",
+   "Enterprise-Program-Management",
+   "Technical-Project-Management",
+   "Technical-Program-Manager",
+   "Manager-Of-Technical-Programs",
+   "Technical-Program-Manager-Jobs",
+   "Principal-Technical-Program-Manager",
+   "Director-Of-Technical-Program-Management",
+   "Technical-Program-Director",
+   "Technical-Program-Management-Jobs"
+  ],
+  "excerpt": "About PhaidraPhaidra is building the future of industrial automation."
+ },
+ {
+  "id": "himalayas-t-8043915817",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "AI Trainer (SWE) | Remote - Contract",
+  "company": "Xperteez Technology",
+  "location": "Worldwide",
+  "employment": "Contractor",
+  "posted": "2026-11-15",
+  "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
+  "compensation": "USD 60-120",
+  "tags": [
+   "AI-Trainer",
+   "Software-Engineer",
+   "Systems-Trainer",
+   "Model-Evaluation-Specialist"
+  ],
+  "excerpt": "Job DescriptionLocation: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems."
+ },
+ {
   "id": "jobgether-6cd2d943",
   "source": "jobgether",
   "track": "alt",
@@ -12,6 +57,25 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Technical Program Manager - IP Backbone based in Spain. As a Technical Program Manager, you will coordinate the planning and delivery of a global IP backbone and Internet edge infrastructure supporting a rapidly expanding AI cloud platform. You will oversee complex infrastructure initiatives, connecting data center launches, network architecture, engineering, procurement, and external connectivity providers. Your mission will be to ensure that new sites and existing infrastructure have the routing, connectivity, hardware, and network resources required for reliable service delivery and future growth. Working across international technical and operational teams, you will manage dependencies, schedules, risks, and project milestones from initial planning through operational handover. You will also contribute to network capacity planning, provider onboarding, and infrastructure resilience. This is an opportunity to take ownership of high-impact global infrastructure projects in a fast-growing, engineering-driven technology environment."
+ },
+ {
+  "id": "getonboard-alyst-i-lemontech-remote",
+  "source": "getonboard",
+  "track": "core",
+  "title": "Infosec Analyst I",
+  "company": "LemonTech",
+  "location": "Remote anywhere",
+  "employment": {
+   "data": {
+    "id": 1,
+    "type": "modality"
+   }
+  },
+  "posted": "2026-11-13",
+  "url": "https://www.getonbrd.com/jobs/infosec-analyst-i-lemontech-remote",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Formación: Titulado/a o egresado/a de Ingeniería Informática, Seguridad de la Información o carreras afines. Experiencia: 0 a 2 años de experiencia en seguridad de la información, GRC, auditoría TI o roles similares. Conocimientos técnicos: Fundamentos comprobables de ISO 27001, buenas prácticas de seguridad y nociones de protección de datos (normativa LATAM). Herramientas: Manejo de herramientas de ofimática y sistemas de gestión de tickets/evidencia. Nociones de herramientas de escaneo de vulnerabilidades. Idiomas: Inglés intermedio (lectura y escritura), indispensable para documentar y responder cuestionarios de clientes. Tu día a día se enfocará en las siguientes áreas operativas: Políticas y SGSI: Mantener actualizada la documentación del SGSI (control de versiones) y redactar borradores de procedimientos y registros utilizando plantillas existentes. Riesgos y Controles: Levantar y mantener el inventario de activos, recopilar insumos para evaluaciones de riesgo (evidencia, vulnerabilidades) y hacer seguimiento al avance de los planes de tratamiento. Due Diligence y Proveedores: Completar cuestionarios estándar de seguridad de clientes y aplicar checklists de evaluación a prove"
  },
  {
   "id": "jobgether-1ad693ce",
@@ -40,110 +104,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Game Operations Manager based in Spain. Join a fast-growing international technology environment specializing in innovative iGaming solutions and B2B services. In this role, you will play a key part in ensuring the smooth operation, performance, and quality of an online gaming platform. You will oversee game content management, coordinate technical support requests, monitor platform performance, and help resolve operational issues. Working closely with technical, product, and marketing teams, you will contribute to an engaging and reliable gaming experience for end users. You will also analyze operational data, identify improvement opportunities, and support the implementation of new games and providers. This is an exciting opportunity for an iGaming professional looking to take ownership, develop operational expertise, and grow within a dynamic, collaborative, and fully remote team."
- },
- {
-  "id": "himalayas-iance-europe",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Senior Director, Quality & Compliance (Europe)",
-  "company": "Lifelancer",
-  "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Re",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/lifelancer/jobs/senior-director-quality-compliance-europe?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Quality-Assurance",
-   "Quality-and-Compliance",
-   "Quality-Management",
-   "Regulatory-Compliance",
-   "Clinical-Research-Quality",
-   "Global-Head-Of-Quality-Compliance",
-   "Quality-and-Compliance-Director",
-   "Executive-Quality-and-Regulatory-Affairs-Director",
-   "Senior-Director-Quality-Control",
-   "Global-Quality-Director",
-   "VP-Quality-and-Compliance"
-  ],
-  "excerpt": "Job Title: Senior Director, Quality & Compliance (Europe) Job Location: Virtual Bulgaria Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Who we areWe’re a global, midsize CRO that pushes boundaries, innovates and invents because the path to a cure for the world’s most persistent diseases is not paved by those who play it safe."
- },
- {
-  "id": "himalayas-risk-officer",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "Chief Risk Officer",
-  "company": "SoftwareONE Deutschland GmbH",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/softwareone-deutschland-gmbh/jobs/chief-risk-officer?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Chief-Risk-Officer",
-   "Head-Of-Risk",
-   "Risk-Director",
-   "Risk-Management-Director"
-  ],
-  "excerpt": "Why SoftwareOne? SoftwareOne is a global software and cloud solutions provider and distributor, powered by around 12,000 people across more than 70 countries."
- },
- {
-  "id": "himalayas-ansformation",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "Senior Business Architect – Banking Transformation",
-  "company": "TECDATA ENGINEERING",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/senior-business-architect-banking-transformation?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Business-Architect",
-   "Enterprise-Architect",
-   "Transformation-Consultant",
-   "Business-Transformation-Consultant"
-  ],
-  "excerpt": "📍 Ubicación: Madrid / Barcelona 🏠 Modalidad: Remoto, con visitas puntuales a oficinas."
- },
- {
-  "id": "himalayas--lead-europe",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Trust and Safety Policy, Ads Policy,  Lead (Europe)",
-  "company": "Reddit",
-  "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Re",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/reddit/jobs/trust-and-safety-policy-ads-policy-lead-europe?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Policy",
-   "Trust-and-Safety",
-   "Ad-Policy",
-   "Compliance",
-   "Regulatory-Policy",
-   "Media-Trust-and-Safety-Lead"
-  ],
-  "excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet."
- },
- {
-  "id": "himalayas--de-proyecto",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "Jefe de Proyecto",
-  "company": "TECDATA ENGINEERING",
-  "location": "Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-12",
-  "url": "https://himalayas.app/companies/tecdata-engineering/jobs/jefe-de-proyecto?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Project-Manager",
-   "Software-Project-Manager",
-   "Technical-Project-Manager",
-   "IT-Project-Manager"
-  ],
-  "excerpt": "Estamos en busca de un Jefe de Proyecto Estamos buscando un Jefe de Proyecto con perfil de desarrollo para proyectos de transformación software Gestión de proyectos de desarrollo complejos (no infraestructura)."
  },
  {
   "id": "jobgether-eb4746bc",
@@ -256,62 +216,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Marketing Operations Manager based in Spain. We are looking for an experienced Marketing Operations Manager to coordinate and streamline activities within a dynamic, globally distributed marketing department. In this role, you will oversee multiple projects simultaneously, ensuring campaigns, launches, webinars and events progress efficiently and meet their deadlines. You will work closely with cross-functional teams, including campaign management, content, creative, events, lifecycle marketing and sales, to keep priorities aligned and execution on track. Your responsibilities will include managing project workflows, facilitating team meetings, monitoring deliverables and providing leadership with clear progress updates. You will also identify potential bottlenecks, improve operational processes and ensure that decisions are translated into actionable outcomes. This is a 6–12-month fixed-term contract offering the opportunity to contribute to an ambitious, fully remote international team while maintaining operational excellence across its marketing activ"
- },
- {
-  "id": "jobgether-bcf44c2b",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Business Operations Associate",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-06",
-  "url": "https://jobs.lever.co/jobgether/bcf44c2b-0a4a-4039-89fc-96404e5ee3ed",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Business Operations Associate based in Spain. The Business Operations Associate will play a key role in supporting strategic planning, operational excellence, and business growth within a fast-growing technology environment. Working closely with the VP of Business Operations, you will contribute to high-impact initiatives that shape organizational priorities and improve company-wide performance. You will collaborate with cross-functional teams, including Product, Engineering, Finance, People, and Go-to-Market, gaining broad exposure to business operations and executive decision-making. From analyzing performance metrics to improving internal processes, your work will help ensure teams have the insights and tools they need to succeed. You will also contribute to building scalable operating practices in a fully remote, international environment. This is an exciting opportunity for an analytical and proactive professional who enjoys solving complex problems and making a tangible impact in a high-growth SaaS business."
- },
- {
-  "id": "jobgether-bb620ac3",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Lead Security Engineer",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-06",
-  "url": "https://jobs.lever.co/jobgether/bb620ac3-28bf-4981-afe4-0cf0ea1f1d11",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Lead Security Engineer based in Spain. We are looking for a hands-on Lead Security Engineer to define and drive security strategy within a fully remote, globally distributed technology organization. In this role, you will take ownership of application security, infrastructure protection, compliance, and incident management while helping shape the security standards of an evolving SaaS platform. You will work closely with engineering teams to embed security throughout the development lifecycle, particularly as AI-powered tools, agents, and integrations expand the product ecosystem. Combining strategic leadership with practical engineering, you will identify vulnerabilities, build security automation, and strengthen operational resilience. This is an opportunity to make a significant impact in a lean, high-trust environment where collaboration, autonomy, and innovation are essential."
- },
- {
-  "id": "jobgether-6fbd3109",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "NPO Digital Transformation Technical Consultants",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-06",
-  "url": "https://jobs.lever.co/jobgether/6fbd3109-8b40-4798-a136-ea2c8c693553",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an NPO Digital Transformation Technical Consultant based in Spain. We are looking for a Digital Transformation Technical Consultant to help nonprofit organizations strengthen their operations through effective technology adoption. In this role, you will assess organizational needs, recommend suitable solutions, and lead or support the technical implementation of digital tools. You will work directly with nonprofit clients, managing projects and relationships while coordinating internal teams and external technology partners. Your responsibilities will span technology configuration, system integrations, data migrations, service delivery, and troubleshooting. You will also contribute to training initiatives, knowledge sharing, and the continuous improvement of digital transformation services. This is an international opportunity to use your technical and consulting expertise to help mission-driven organizations increase their impact through technology."
- },
- {
-  "id": "jobgether-a9cd4a97",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Project Manager PMO (m/w/d)",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-06",
-  "url": "https://jobs.lever.co/jobgether/a9cd4a97-703f-41e1-91cb-b95e7bfa60e4",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Project Manager PMO (m/w/d) based in Spain. Support the successful delivery of a long-term infrastructure project by providing essential project management office (PMO) coordination and operational support. In this role, you will work closely with project leadership and workstream managers in a complex, multi-stakeholder environment. You will help maintain reliable project plans, monitor progress, and ensure that risks, decisions, and actions are properly tracked. Your responsibilities will also include budget and resource monitoring, reporting, meeting coordination, and project documentation management. By maintaining structured processes and effective communication, you will contribute to transparency, accountability, and informed decision-making across the project. This is an opportunity to work with interdisciplinary teams on challenging projects while developing your PMO expertise."
  },
  {
   "id": "weworkremotely-15c9dae80d",
@@ -579,6 +483,25 @@
   "compensation": "USD 2000-3000 /mes",
   "tags": [],
   "excerpt": "Formación academica Licenciatura en Ingeniería en Sistemas, Informática, Telecomunicaciones o carrera afín. Deseable contar con certificaciones en ciberseguridad y seguridad de redes. Experiencia Entre 4 y 5 años de experiencia en Seguridad Informática. Experiencia en Seguridad de Redes y administración de herramientas de seguridad. Gestión de incidentes de seguridad, análisis de vulnerabilidades y mitigación de riesgos. Conocimientos técnicos Seguridad de redes y comunicaciones. Análisis de vulnerabilidades y gestión de riesgos. Herramientas de monitoreo y protección de seguridad informática. Continuidad del negocio y recuperación ante desastres. Normativas y buenas prácticas de seguridad de la información. Competencias Capacidad analítica y resolución de problemas. Toma de decisiones ante incidentes críticos. Comunicación efectiva y trabajo colaborativo. Orientación a resultados y gestión de riesgos. Monitorear y administrar la seguridad de la infraestructura tecnológica y las redes corporativas. Detectar, analizar y gestionar incidentes de seguridad informática, definiendo acciones de contención y escalamiento cuando sea necesario. Identificar vulnerabilidades y coordinar planes"
+ },
+ {
+  "id": "getonboard--stucco-champions-remote",
+  "source": "getonboard",
+  "track": "alt",
+  "title": "Part Time Operations Lead",
+  "company": "Stucco Champions",
+  "location": "Remote anywhere",
+  "employment": {
+   "data": {
+    "id": 2,
+    "type": "modality"
+   }
+  },
+  "posted": "2026-09-22",
+  "url": "https://www.getonbrd.com/jobs/operations-manager-stucco-champions-remote",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Strong organization and follow-through. Experience with scheduling, customer service, operations, or project coordination. Clear written and phone communication. C1-level English is required for written and phone communication. Comfort with CRM, spreadsheets, and task tracking. Able to work independently and handle multiple priorities. Keep the daily job pipeline organized from scheduling to closeout. Follow up on open jobs, missing photos, and invoices. Coordinate with office staff, sales, and crews on schedules and client updates. Flag delays or issues quickly and keep simple status reports for leadership."
  },
  {
   "id": "getonboard-path-partners-llc-remote",

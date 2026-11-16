@@ -1,12 +1,20 @@
 {
- "generatedAt": "2026-11-09T04:43:22+00:00",
+ "generatedAt": "2026-11-16T04:56:11+00:00",
  "counts": {
-  "Vanta": 119,
+  "Vanta": 120,
   "Secureframe": 32,
   "Drata": 0
  },
  "baseline": [],
  "new": [
+  {
+   "vendor": "Vanta",
+   "slug": "metluma",
+   "name": "Metluma",
+   "url": "https://www.vanta.com/customers/metluma",
+   "lastmod": "2026-11-10",
+   "firstSeen": "2026-11-16"
+  },
   {
    "vendor": "Vanta",
    "slug": "fin",
@@ -35,17 +43,24 @@
  "recentlyUpdated": [
   {
    "vendor": "Vanta",
-   "slug": "eight-sleep",
-   "name": "Eight Sleep",
-   "url": "https://www.vanta.com/customers/eight-sleep",
-   "lastmod": "2026-11-06"
-  },
-  {
-   "vendor": "Vanta",
    "slug": "fin",
    "name": "Fin",
    "url": "https://www.vanta.com/customers/fin",
-   "lastmod": "2026-11-05"
+   "lastmod": "2026-11-10"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "metluma",
+   "name": "Metluma",
+   "url": "https://www.vanta.com/customers/metluma",
+   "lastmod": "2026-11-10"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "eight-sleep",
+   "name": "Eight Sleep",
+   "url": "https://www.vanta.com/customers/eight-sleep",
+   "lastmod": "2026-11-09"
   },
   {
    "vendor": "Vanta",
@@ -552,7 +567,7 @@
    "slug": "eight-sleep",
    "name": "Eight Sleep",
    "url": "https://www.vanta.com/customers/eight-sleep",
-   "lastmod": "2026-11-06"
+   "lastmod": "2026-11-09"
   },
   {
    "vendor": "Vanta",
@@ -587,7 +602,7 @@
    "slug": "fin",
    "name": "Fin",
    "url": "https://www.vanta.com/customers/fin",
-   "lastmod": "2026-11-05"
+   "lastmod": "2026-11-10"
   },
   {
    "vendor": "Vanta",
@@ -742,6 +757,13 @@
    "name": "Master Electronics",
    "url": "https://www.vanta.com/customers/master-electronics",
    "lastmod": "2026-03-17"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "metluma",
+   "name": "Metluma",
+   "url": "https://www.vanta.com/customers/metluma",
+   "lastmod": "2026-11-10"
   },
   {
    "vendor": "Vanta",
