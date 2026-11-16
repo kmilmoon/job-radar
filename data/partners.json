@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-20T09:47:14+00:00",
- "count": 121,
- "emea": 22,
+ "generatedAt": "2026-11-16T12:10:19+00:00",
+ "count": 124,
+ "emea": 24,
  "note": "Drata: its partner and auditor directories block automated reads (HTTP 403); the daily web search covers them.",
  "maybeEmea": 34,
  "partners": [
@@ -85,9 +85,9 @@
    "web": "https://axipro.co/",
    "region": "EMEA",
    "regionHints": [
+    "dubai",
     "eu",
     "europe",
-    "european",
     "global",
     "international",
     "london",
@@ -164,62 +164,6 @@
    "maybeEmea": true
   },
   {
-   "name": "Entara",
-   "web": "https://www.entaracorp.com",
-   "region": "EMEA",
-   "regionHints": [
-    "dubai",
-    "global",
-    "london"
-   ],
-   "partnerOf": [
-    "Secureframe"
-   ],
-   "tags": [],
-   "vciso": true,
-   "careers": "https://abacustechnology.com/about/careers/",
-   "ats": "",
-   "description": "Entara is a security-first eXtended Service Provider (XSP) with over 20 years of experience supporting clients across different industries, including finance, legal and consulting. In addition to offering managed IT and cybersecurity services, Entara's Incident Response Team spends thousands of hours a month helping organizations recover from devastating cyberattacks. We are passionate about helping companies improve their security posture and reduce risk through our vCISO program, powered by Secureframe.",
-   "source": "https://secureframe.com/partner-directory/partner/entara",
-   "emea": true,
-   "maybeEmea": true
-  },
-  {
-   "name": "GRSee",
-   "web": "https://grsee.com/",
-   "region": "EMEA",
-   "regionHints": [
-    "austria",
-    "belgium",
-    "cyprus",
-    "czech",
-    "denmark",
-    "estonia",
-    "eu",
-    "finland",
-    "france",
-    "germany",
-    "global",
-    "greece"
-   ],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Penetration Testing",
-    "vCISO",
-    "Service Partner",
-    "Compliance"
-   ],
-   "vciso": true,
-   "careers": "",
-   "ats": "",
-   "description": "We empower your growth through seamless security & compliance",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": true,
-   "maybeEmea": true
-  },
-  {
    "name": "GRSee Consulting",
    "web": "https://grsee.com/vanta/",
    "region": "EMEA",
@@ -230,12 +174,12 @@
     "czech",
     "denmark",
     "estonia",
-    "eu",
     "europe",
     "finland",
     "france",
     "germany",
-    "greece"
+    "greece",
+    "ireland"
    ],
    "partnerOf": [
     "Vanta"
@@ -245,7 +189,7 @@
     "Penetration Testing"
    ],
    "vciso": true,
-   "careers": "",
+   "careers": "https://grsee.com/feed/wpjobportal_jobsfeed/",
    "ats": "",
    "description": "GRSee delivers high-quality audits on fast timelines for SaaS startups and modern tech teams, with a helpful approach that keeps compliance smooth, clear and simple.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -304,6 +248,92 @@
    "maybeEmea": true
   },
   {
+   "name": "Security Office Online",
+   "web": "http://www.securityoffice.online/",
+   "region": "EMEA",
+   "regionHints": [
+    "amsterdam",
+    "czech",
+    "eu",
+    "european",
+    "international",
+    "portugal"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Service Partner"
+   ],
+   "vciso": true,
+   "careers": "",
+   "ats": "",
+   "description": "Security Office Online: Trusted European experts in ISO 27001 compliance. Using Vanta, we help businesses certify faster and more efficiently in 3–6 months.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "Swif.ai UEM",
+   "web": "https://www.swif.ai",
+   "region": "EMEA",
+   "regionHints": [
+    "austria",
+    "eu",
+    "france",
+    "germany",
+    "global",
+    "italy",
+    "netherlands",
+    "poland",
+    "south africa",
+    "spain",
+    "switzerland",
+    "united kingdom"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Security Tools",
+    "Storage / Encryption Tools",
+    "Compliance"
+   ],
+   "vciso": true,
+   "careers": "https://www.ycombinator.com/companies/swif-ai/jobs",
+   "ats": "",
+   "description": "Get devices audit-ready in 5 minutes with Swif.ai UEM. Manage and secure Mac, Windows, Linux, iOS & Android in one place.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "Tagore AS",
+   "web": "https://www.tagore.no",
+   "region": "EMEA",
+   "regionHints": [
+    "norway",
+    "oslo"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Service Partner",
+    "Reseller",
+    "vCISO",
+    "Compliance",
+    "Audit Partner"
+   ],
+   "vciso": true,
+   "careers": "",
+   "ats": "",
+   "description": "Tagore is based in Oslo, Norway. Our solutions takes the complexity out of cyber security, privacy, and compliance to make our clients more productive and focused on their core business to reach their goals.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
    "name": "UN1QUELY",
    "web": "https://un1quely.com/",
    "region": "EMEA",
@@ -323,6 +353,33 @@
    "ats": "",
    "description": "We’re on a mission to enable secure work without boundaries and create digital products that fuel our clients’ growth. We use cutting-edge tech to build future–proof software solutions, with security, privacy, and a cloud-first approach. Founded in 2021 as a member of BrightMarbles Holding group from Rotterdam, Netherlands. UN1QUELY is a software development and cybersecurity services company that builds quality and secure software products and provides cybersecurity services from defensive, offensive and managerial aspects driven by senior talent, strong culture and empowering passion. UN1QUE",
    "source": "https://secureframe.com/partner-directory/partner/un1quely",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
+   "name": "Varyence",
+   "web": "https://varyence.com/",
+   "region": "EMEA",
+   "regionHints": [
+    "eu",
+    "europe",
+    "european",
+    "global",
+    "uk",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Secureframe"
+   ],
+   "tags": [
+    "Pen Testing Partner",
+    "Compliance Advisory"
+   ],
+   "vciso": true,
+   "careers": "https://careers.varyence.com/",
+   "ats": "",
+   "description": "Secure & Compliant Software Development and Cybersecurity Services Varyence has over a decade of experience helping companies stay secure and compliant. Get a free call setup to learn how we can help you with your Cybersecurity and Compliance needs. We provide tailored cybersecurity and compliance services that include penetration testing, secure-by-design development, compliance readiness, mobile device management, cloud security, and application security. As a Secureframe partner, Microsoft partner, and a global team with 100+ experts, we work with startups and growth companies worldwide. We",
+   "source": "https://secureframe.com/partner-directory/partner/varyence",
    "emea": true,
    "maybeEmea": true
   },
@@ -358,7 +415,8 @@
    "regionHints": [
     "deutschland",
     "españa",
-    "france"
+    "france",
+    "global"
    ],
    "partnerOf": [
     "Vanta"
@@ -379,7 +437,10 @@
    "name": "Cloudback",
    "web": "https://cloudback.it/",
    "region": "EMEA",
-   "regionHints": [],
+   "regionHints": [
+    "eu",
+    "uk"
+   ],
    "partnerOf": [
     "Vanta"
    ],
@@ -462,6 +523,31 @@
    "maybeEmea": true
   },
   {
+   "name": "Osano",
+   "web": "https://www.osano.com/",
+   "region": "EMEA",
+   "regionHints": [
+    "eu",
+    "germany",
+    "global",
+    "international",
+    "uk"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Privacy Tools"
+   ],
+   "vciso": false,
+   "careers": "https://www.osano.com/company/careers",
+   "ats": "",
+   "description": "Streamline your privacy program with Osano. Automate compliance tasks, reduce time, effort, and risk, while Osano supports your compliance efforts and secures customer trust.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
    "name": "PA Consulting",
    "web": "https://www.paconsulting.com/services/reimagine-ai-digital-and-data/data-privacy-and-ethics",
    "region": "EMEA",
@@ -513,71 +599,27 @@
    "maybeEmea": true
   },
   {
-   "name": "Security Office Online",
-   "web": "http://www.securityoffice.online/",
+   "name": "Pro Backup BV",
+   "web": "https://www.probackup.io/",
    "region": "EMEA",
    "regionHints": [
-    "amsterdam",
-    "czech",
-    "eu",
-    "european",
-    "international",
-    "lisbon"
+    "belgium",
+    "global",
+    "ireland"
    ],
    "partnerOf": [
     "Vanta"
    ],
    "tags": [
-    "Service Partner"
+    "Administrative Tools",
+    "Disaster Recovery"
    ],
    "vciso": false,
    "careers": "",
    "ats": "",
-   "description": "Security Office Online: Trusted European experts in ISO 27001 compliance. Using Vanta, we help businesses certify faster and more efficiently in 3–6 months.",
+   "description": "Backup & secure your SaaS apps with Pro Backup. Protect your team against data loss & service interruptions.",
    "source": "https://www.vanta.com/partners/find-a-partner",
    "emea": true,
-   "maybeEmea": true
-  },
-  {
-   "name": "Tagore AS",
-   "web": "https://www.tagore.no",
-   "region": "EMEA",
-   "regionHints": [],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Service Partner"
-   ],
-   "vciso": false,
-   "careers": "",
-   "ats": "",
-   "description": "Tagore is based in Oslo, Norway. Our solutions takes the complexity out of cyber security, privacy, and compliance to make our clients more productive and focused on their core business to reach their goals.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": true,
-   "maybeEmea": true
-  },
-  {
-   "name": "Agency",
-   "web": "https://getagency.com/",
-   "region": "Global (sin confirmar EMEA)",
-   "regionHints": [
-    "worldwide"
-   ],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Service Partner",
-    "Penetration Testing",
-    "vCISO"
-   ],
-   "vciso": true,
-   "careers": "https://getagency.com/careers",
-   "ats": "",
-   "description": "Agency provides managed detection and response (MDR), employee targeted digital risk protection , virtual CISO, pen testing, and application and cloud security services.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": false,
    "maybeEmea": true
   },
   {
@@ -678,6 +720,54 @@
    "maybeEmea": true
   },
   {
+   "name": "Com-Sec",
+   "web": "https://com-sec.io/",
+   "region": "Posible EMEA (europe)",
+   "regionHints": [
+    "europe",
+    "global"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "vCISO",
+    "Service Partner"
+   ],
+   "vciso": true,
+   "careers": "https://com-sec.io/careers",
+   "ats": "",
+   "description": "Com-Sec simplifies security and compliance, helping businesses achieve and maintain SOC 2, ISO 27001, and HITRUST with expert vCISO, IT, and pen testing support.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Cyber Ally",
+   "web": "https://www.cyberally.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "eu",
+    "global",
+    "international"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Service Partner",
+    "vCISO",
+    "Penetration Testing"
+   ],
+   "vciso": true,
+   "careers": "",
+   "ats": "",
+   "description": "At Cyber Ally, we're proud to be recognized as a Vanta service partner, working hand in hand to deliver exceptional value to our clients. Our collaborative approach combines and enriches Cyber Ally's extensive expertise in cybersecurity, compliance, and data privacy with Vanta's cutting-edge Trust Management Platform. Together, we provide a comprehensive suite of services to help you navigate the complexities of security compliance effortlessly.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
    "name": "DigitalXRAID",
    "web": "https://www.digitalxraid.com/",
    "region": "Posible EMEA (uk)",
@@ -727,6 +817,26 @@
    "maybeEmea": true
   },
   {
+   "name": "Entara",
+   "web": "https://www.entaracorp.com",
+   "region": "Posible EMEA (london)",
+   "regionHints": [
+    "global",
+    "london"
+   ],
+   "partnerOf": [
+    "Secureframe"
+   ],
+   "tags": [],
+   "vciso": true,
+   "careers": "https://abacustechnology.com/about/careers/",
+   "ats": "",
+   "description": "Entara is a security-first eXtended Service Provider (XSP) with over 20 years of experience supporting clients across different industries, including finance, legal and consulting. In addition to offering managed IT and cybersecurity services, Entara's Incident Response Team spends thousands of hours a month helping organizations recover from devastating cyberattacks. We are passionate about helping companies improve their security posture and reduce risk through our vCISO program, powered by Secureframe.",
+   "source": "https://secureframe.com/partner-directory/partner/entara",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
    "name": "Genius GRC",
    "web": "https://geniusgrc.com/managed-compliance/#pricing",
    "region": "Global (sin confirmar EMEA)",
@@ -765,6 +875,31 @@
    "careers": "",
    "ats": "",
    "description": "Harnessing cutting-edge cloud technology and cybersecurity solutions, GRC Concierge specializes in providing comprehensive automation and security services tailored to your unique needs. Our offerings optimize and secure your business's digital framework, empowering you with streamlined processes, advanced threat protection, and robust data security. With extensive knowledge and state-of-the-art tools, we safeguard your valuable assets and maximize the potential of cloud technologies to enhance your operations and drive innovation.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "GRSee",
+   "web": "https://grsee.com/",
+   "region": "Posible EMEA (europe)",
+   "regionHints": [
+    "eu",
+    "europe"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Penetration Testing",
+    "vCISO",
+    "Service Partner",
+    "Compliance"
+   ],
+   "vciso": true,
+   "careers": "https://grsee.com/feed/wpjobportal_jobsfeed/",
+   "ats": "",
+   "description": "We empower your growth through seamless security & compliance",
    "source": "https://www.vanta.com/partners/find-a-partner",
    "emea": false,
    "maybeEmea": true
@@ -910,26 +1045,21 @@
    "maybeEmea": true
   },
   {
-   "name": "TSC Security",
-   "web": "https://www.tsc-security.com",
-   "region": "Global (sin confirmar EMEA)",
+   "name": "Truvo Cyber",
+   "web": "https://truvocyber.com",
+   "region": "Posible EMEA (european)",
    "regionHints": [
-    "international",
-    "worldwide"
+    "european"
    ],
    "partnerOf": [
-    "Vanta"
+    "Secureframe"
    ],
-   "tags": [
-    "Service Partner",
-    "Penetration Testing",
-    "vCISO"
-   ],
+   "tags": [],
    "vciso": true,
    "careers": "",
    "ats": "",
-   "description": "vCISO/Fractional CISO consulting",
-   "source": "https://www.vanta.com/partners/find-a-partner",
+   "description": "Effective Security First. Compliance Follows. Canadian cybersecurity consulting firm that builds effective security programs where compliance is a byproduct. CISSP-certified architects delivering SOC 2, ISO 27001, ISO 42001, CMMC, CPCSC, and HIPAA compliance implementations for companies where compliance is a condition of doing business. Services: SOC 2, ISO 27001, ISO 42001, CMMC, CPCSC, HIPAA, HITRUST, GDPR, Law 25 compliance consulting; fractional security team / vCISO; GRC platform management (Vanta, Drata, Secureframe, Scrut); penetration testing advisory",
+   "source": "https://secureframe.com/partner-directory/partner/truvo-cyber",
    "emea": false,
    "maybeEmea": true
   },
@@ -938,7 +1068,6 @@
    "web": "https://www.aprio.com/",
    "region": "Global (sin confirmar EMEA)",
    "regionHints": [
-    "global",
     "international"
    ],
    "partnerOf": [
@@ -1008,7 +1137,9 @@
    "web": "https://www.breachlock.com/",
    "region": "Posible EMEA (amsterdam)",
    "regionHints": [
-    "amsterdam"
+    "amsterdam",
+    "global",
+    "worldwide"
    ],
    "partnerOf": [
     "Vanta"
@@ -1017,10 +1148,29 @@
     "Penetration Testing"
    ],
    "vciso": false,
-   "careers": "https://www.breachlock.com/about/careers/",
+   "careers": "https://www.breachlock.com/about/careers",
    "ats": "",
    "description": "BreachLock delivers continuous autonomous pentesting, ASM, and security scanning via a cloud-native SaaS trusted by 1,100+ clients.",
    "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Carahsoft Technology Corp.",
+   "web": "https://www.carahsoft.com/",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Secureframe"
+   ],
+   "tags": [],
+   "vciso": false,
+   "careers": "https://www.carahsoft.com/careers",
+   "ats": "",
+   "description": "The Trusted IT Solutions Provider® Carahsoft is The Trusted IT Solutions Provider®, supporting Federal, State, Local Government, Education, Healthcare, and Private Sector industries. As the Master Aggregator™ for our vendor, reseller and integrator partners, we deliver solutions for Cybersecurity, FinOps, MultiCloud, DevSecOps, Artificial Intelligence, Human Capital, Legal & Courtroom Technology, Customer Experience & Engagement, and more. Carahsoft is consistently recognized by its partners as a top revenue producer and is listed annually among the industry's fastest growing firms by CRN, Inc",
+   "source": "https://secureframe.com/partner-directory/partner/carahsoft",
    "emea": false,
    "maybeEmea": true
   },
@@ -1137,52 +1287,6 @@
    "maybeEmea": true
   },
   {
-   "name": "Osano",
-   "web": "https://www.osano.com/",
-   "region": "Posible EMEA (uk)",
-   "regionHints": [
-    "global",
-    "international",
-    "uk"
-   ],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Privacy Tools"
-   ],
-   "vciso": false,
-   "careers": "https://www.osano.com/company/careers",
-   "ats": "",
-   "description": "Streamline your privacy program with Osano. Automate compliance tasks, reduce time, effort, and risk, while Osano supports your compliance efforts and secures customer trust.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": false,
-   "maybeEmea": true
-  },
-  {
-   "name": "Pro Backup BV",
-   "web": "https://www.probackup.io/",
-   "region": "Posible EMEA (ireland)",
-   "regionHints": [
-    "global",
-    "ireland"
-   ],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Administrative Tools",
-    "Disaster Recovery"
-   ],
-   "vciso": false,
-   "careers": "",
-   "ats": "",
-   "description": "Backup & secure your SaaS apps with Pro Backup. Protect your team against data loss & service interruptions.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": false,
-   "maybeEmea": true
-  },
-  {
    "name": "SafeStack",
    "web": "http://safestack.io/",
    "region": "Global (sin confirmar EMEA)",
@@ -1209,7 +1313,8 @@
    "web": "https://www.stand8.io/",
    "region": "Global (sin confirmar EMEA)",
    "regionHints": [
-    "global"
+    "global",
+    "worldwide"
    ],
    "partnerOf": [
     "Secureframe"
@@ -1262,48 +1367,6 @@
    "ats": "",
    "description": "Trace3 is a technology and consulting firm that helps organizations modernize through digital transformation, unified communications, and infrastructure solutions.",
    "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": false,
-   "maybeEmea": true
-  },
-  {
-   "name": "Usherwood Office Technology",
-   "web": "https://www.usherwood.com",
-   "region": "Posible EMEA (england)",
-   "regionHints": [
-    "england"
-   ],
-   "partnerOf": [
-    "Secureframe"
-   ],
-   "tags": [],
-   "vciso": false,
-   "careers": "https://www.usherwood.com/careers",
-   "ats": "",
-   "description": "Usherwood Office Technology provides services and solutions for managed IT services, managed print, and managed communications. Usherwood Office Technology has been providing office technology solutions to the Northeast since 1976, with New York offices in Albany, Binghamton, Buffalo, Jamestown, Plattsburgh, Potsdam, Plymouth, Rochester, Syracuse, Utica, and Watertown. In addition, Usherwood has Vermont offices in Burlington; New Hampshire offices in West Lebanon and Manchester; Massachusetts offices in Auburn, Boston and Plymouth; Rhode Island Offices in Providence; and Connecticut offices in",
-   "source": "https://secureframe.com/partner-directory/partner/usherwood-office-technology",
-   "emea": false,
-   "maybeEmea": true
-  },
-  {
-   "name": "Varyence",
-   "web": "https://varyence.com/",
-   "region": "Global (sin confirmar EMEA)",
-   "regionHints": [
-    "global",
-    "worldwide"
-   ],
-   "partnerOf": [
-    "Secureframe"
-   ],
-   "tags": [
-    "Pen Testing Partner",
-    "Compliance Advisory"
-   ],
-   "vciso": false,
-   "careers": "",
-   "ats": "",
-   "description": "Secure & Compliant Software Development and Cybersecurity Services Varyence has over a decade of experience helping companies stay secure and compliant. Get a free call setup to learn how we can help you with your Cybersecurity and Compliance needs. We provide tailored cybersecurity and compliance services that include penetration testing, secure-by-design development, compliance readiness, mobile device management, cloud security, and application security. As a Secureframe partner, Microsoft partner, and a global team with 100+ experts, we work with startups and growth companies worldwide. We",
-   "source": "https://secureframe.com/partner-directory/partner/varyence",
    "emea": false,
    "maybeEmea": true
   },
@@ -1368,6 +1431,27 @@
    "maybeEmea": false
   },
   {
+   "name": "Agency",
+   "web": "https://getagency.com/",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Service Partner",
+    "Penetration Testing",
+    "vCISO"
+   ],
+   "vciso": true,
+   "careers": "https://getagency.com/careers",
+   "ats": "",
+   "description": "Agency provides managed detection and response (MDR), employee targeted digital risk protection , virtual CISO, pen testing, and application and cloud security services.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
    "name": "Airius",
    "web": "https://airius.com/",
    "region": "",
@@ -1422,47 +1506,6 @@
    "careers": "",
    "ats": "",
    "description": "BITS staff have been working with the DoD on DFARS related issues since 2010. As a leader of that initiative BITS assessors and consultants helped draft the initial CMMC framework issued in 2017 and subsequent updates. BITS consultants are active members of the CyberAB and an active RPO and C3PAO candidate. With numerous NIST SP 800-171 assessments and implementations successfully performed for DoD contractors, we can help you cut through the confusion of NIST SP 800-171 and guarantee measurable, ongoing compliance as the Cybersecurity Maturity Model Certification (CMMC) is implemented.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": false,
-   "maybeEmea": false
-  },
-  {
-   "name": "Com-Sec",
-   "web": "https://com-sec.io/",
-   "region": "",
-   "regionHints": [],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "vCISO",
-    "Service Partner"
-   ],
-   "vciso": true,
-   "careers": "",
-   "ats": "",
-   "description": "Com-Sec simplifies security and compliance, helping businesses achieve and maintain SOC 2, ISO 27001, and HITRUST with expert vCISO, IT, and pen testing support.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": false,
-   "maybeEmea": false
-  },
-  {
-   "name": "Cyber Ally",
-   "web": "https://www.cyberally.com/",
-   "region": "",
-   "regionHints": [],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Service Partner",
-    "vCISO",
-    "Penetration Testing"
-   ],
-   "vciso": true,
-   "careers": "",
-   "ats": "",
-   "description": "At Cyber Ally, we're proud to be recognized as a Vanta service partner, working hand in hand to deliver exceptional value to our clients. Our collaborative approach combines and enriches Cyber Ally's extensive expertise in cybersecurity, compliance, and data privacy with Vanta's cutting-edge Trust Management Platform. Together, we provide a comprehensive suite of services to help you navigate the complexities of security compliance effortlessly.",
    "source": "https://www.vanta.com/partners/find-a-partner",
    "emea": false,
    "maybeEmea": false
@@ -1743,6 +1786,23 @@
    "maybeEmea": false
   },
   {
+   "name": "QualityIP LLC",
+   "web": "https://qualityip.com",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Secureframe"
+   ],
+   "tags": [],
+   "vciso": true,
+   "careers": "https://www.qualityip.com/join-us",
+   "ats": "",
+   "description": "QualityIP offers comprehensive IT risk management services to help your organization control the complex process and stay covered on all fronts. QualityIP is a managed IT and cybersecurity partner that helps organizations reduce risk, strengthen security posture, and align technology with business goals. We deliver proactive, fully managed and co-managed IT services backed by 24/7 monitoring, a dedicated help desk, and strategic guidance from experienced advisors. Our services span managed security, cloud infrastructure, data protection, and compliance-focused IT operations. We implement moder",
+   "source": "https://secureframe.com/partner-directory/partner/qualityip-llc",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
    "name": "Revolution InfoSec",
    "web": "https://revolutioninfosec.com",
    "region": "",
@@ -1959,19 +2019,23 @@
    "maybeEmea": false
   },
   {
-   "name": "Truvo Cyber",
-   "web": "https://truvocyber.com",
+   "name": "TSC Security",
+   "web": "https://www.tsc-security.com",
    "region": "",
    "regionHints": [],
    "partnerOf": [
-    "Secureframe"
+    "Vanta"
    ],
-   "tags": [],
+   "tags": [
+    "Service Partner",
+    "Penetration Testing",
+    "vCISO"
+   ],
    "vciso": true,
    "careers": "",
    "ats": "",
-   "description": "Effective Security First. Compliance Follows. Canadian cybersecurity consulting firm that builds effective security programs where compliance is a byproduct. CISSP-certified architects delivering SOC 2, ISO 27001, ISO 42001, CMMC, CPCSC, and HIPAA compliance implementations for companies where compliance is a condition of doing business. Services: SOC 2, ISO 27001, ISO 42001, CMMC, CPCSC, HIPAA, HITRUST, GDPR, Law 25 compliance consulting; fractional security team / vCISO; GRC platform management (Vanta, Drata, Secureframe, Scrut); penetration testing advisory",
-   "source": "https://secureframe.com/partner-directory/partner/truvo-cyber",
+   "description": "vCISO/Fractional CISO consulting",
+   "source": "https://www.vanta.com/partners/find-a-partner",
    "emea": false,
    "maybeEmea": false
   },
@@ -2043,7 +2107,9 @@
    "name": "Workstreet",
    "web": "https://www.workstreet.com/",
    "region": "",
-   "regionHints": [],
+   "regionHints": [
+    "eu"
+   ],
    "partnerOf": [
     "Vanta"
    ],
@@ -2120,6 +2186,28 @@
    "careers": "https://www.alignedtg.com/cloud-security/aws-audit-and-compliance-services/careers/",
    "ats": "",
    "description": "Aligned Technology Group helps customers secure and optimize AWS environments by integrating Vanta compliance automation with expert cloud consulting for improved security posture and audit readiness",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
+   "name": "Ally Security",
+   "web": "",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Disaster Recovery",
+    "Compliance",
+    "Security Training Providers",
+    "Security Tools"
+   ],
+   "vciso": false,
+   "careers": "",
+   "ats": "",
+   "description": "Ally Security turns tabletop exercises from a once-a-year checkbox into your team’s path to preparedness: faster to build, engaging to run, and built to drive real action. Whether your own team runs them or a partner runs them for you, participants find gaps quickly and leave with clear next steps, so every exercise leaves you better prepared than the last.",
    "source": "https://www.vanta.com/partners/find-a-partner",
    "emea": false,
    "maybeEmea": false
@@ -2454,27 +2542,12 @@
    "maybeEmea": false
   },
   {
-   "name": "QualityIP LLC",
-   "web": "https://qualityip.com",
-   "region": "",
-   "regionHints": [],
-   "partnerOf": [
-    "Secureframe"
-   ],
-   "tags": [],
-   "vciso": false,
-   "careers": "",
-   "ats": "",
-   "description": "QualityIP offers comprehensive IT risk management services to help your organization control the complex process and stay covered on all fronts. QualityIP is a managed IT and cybersecurity partner that helps organizations reduce risk, strengthen security posture, and align technology with business goals. We deliver proactive, fully managed and co-managed IT services backed by 24/7 monitoring, a dedicated help desk, and strategic guidance from experienced advisors. Our services span managed security, cloud infrastructure, data protection, and compliance-focused IT operations. We implement moder",
-   "source": "https://secureframe.com/partner-directory/partner/qualityip-llc",
-   "emea": false,
-   "maybeEmea": false
-  },
-  {
    "name": "SimpleBackups",
    "web": "https://simplebackups.com/",
    "region": "",
-   "regionHints": [],
+   "regionHints": [
+    "eu"
+   ],
    "partnerOf": [
     "Vanta"
    ],
@@ -2603,6 +2676,23 @@
    "maybeEmea": false
   },
   {
+   "name": "Usherwood Office Technology",
+   "web": "https://www.usherwood.com",
+   "region": "",
+   "regionHints": [],
+   "partnerOf": [
+    "Secureframe"
+   ],
+   "tags": [],
+   "vciso": false,
+   "careers": "https://www.usherwood.com/careers",
+   "ats": "",
+   "description": "Usherwood Office Technology provides services and solutions for managed IT services, managed print, and managed communications. Usherwood Office Technology has been providing office technology solutions to the Northeast since 1976, with New York offices in Albany, Binghamton, Buffalo, Jamestown, Plattsburgh, Potsdam, Plymouth, Rochester, Syracuse, Utica, and Watertown. In addition, Usherwood has Vermont offices in Burlington; New Hampshire offices in West Lebanon and Manchester; Massachusetts offices in Auburn, Boston and Plymouth; Rhode Island Offices in Providence; and Connecticut offices in",
+   "source": "https://secureframe.com/partner-directory/partner/usherwood-office-technology",
+   "emea": false,
+   "maybeEmea": false
+  },
+  {
    "name": "Vinebrook Technology",
    "web": "https://www.vinebrooktechnology.com/",
    "region": "",
@@ -2612,7 +2702,7 @@
    ],
    "tags": [],
    "vciso": false,
-   "careers": "",
+   "careers": "https://www.vinebrooktech.com/careers",
    "ats": "",
    "description": "Experienced IT leaders know things have changed. The time has come for a different type of partner. Give us a chance to show you what our team of technologists can do to help your business. Vinebrook Technology was built by experienced IT professionals. We've worked in IT rather than spending our entire careers selling IT. We understand what it takes to implement solutions that are reliable, high performing, and cost-effective. Our deep understanding of IT Operations allows us to design and implement distinctive Managed Services offerings to meet your business needs. ​Vinebrook's approach to M",
    "source": "https://secureframe.com/partner-directory/partner/vinebrook-technology",

@@ -1,5 +1,20 @@
 [
  {
+  "id": "lever-valarian-7ec7937d",
+  "company": "Valarian",
+  "ats": "lever",
+  "title": "IT & Security Lead",
+  "location": "London; London",
+  "remote": false,
+  "workplace": "hybrid",
+  "employment": "Full time",
+  "posted": "2026-11-16",
+  "url": "https://jobs.lever.co/valarian/7ec7937d-a52f-44ae-a32f-26dc11a04f65",
+  "compensation": null,
+  "excerpt": "Valarian: A New Era of Sovereign Intelligence Valarian is a dual use technology company building critical tools to safeguard the future in an era of evolving global security challenges. Backed by a Series A funding round of $50m led by NEA, we are rethinking security beyond traditional military domains to address asymmetric threats that impact our technological advantage, economic strength, and democratic institutions. We provide the control infrastructure that allows government and regulated enterprise to put frontier-class AI to work safely. We are bringing a frontier AI experience inside secure boundaries for the first time. Our technology supports mission critical workflows across government, healthcare, and enterprise, including: Scaling open-weight models without external inference endpoints. Putting frontier class AI to work across organisations through partnerships with other leading AI startups such as Perplexity. Increasing operational resiliency for air gapped, on prem, and cloud based systems. Securing intellectual property and maintaining auditability for high stakes enterprise environments. Facilitating secure information flow during disaster response, M&A due diligence, and privileged legal communications. We’ve only scratched the surface. Built in Britain by veterans of the Ministry of Defence, British Forces, Darktrace, and elite engineering backgrounds, we are driven by a shared mission to safeguard western democracy . Whether you join our London HQ or our wider global organisation, you’ll be part of a collaborative, high performing team creating the cutting edge software and infrastructure that defines the frontier of enterprise AI. The Role You will define and lead our own strategy with a strong focus on protecting our digital ecosystem, spanning clo",
+  "track": "core"
+ },
+ {
   "id": "ashby-legora-58e882f7",
   "company": "Legora",
   "ats": "ashby",
@@ -435,21 +450,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-coinbase-8382720",
-  "company": "Coinbase",
-  "ats": "greenhouse",
-  "title": "Compliance, International Investigations Associate",
-  "location": "Remote - Luxembourg",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-11-12",
-  "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720",
-  "compensation": null,
-  "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase . As a Senior Investigator in Coinbase’s Financial Intelligence Unit within Compliance (2LoD), you’ll help drive Coinbase’s financial crime investigations capability across multiple jurisdictions. This team leads complex reactive and proactive investigations, develops intelligence on emerging typologies and risk patterns, and translates investigative insights into high-quality SAR/STR decisions, escalations and programme improvements. You’ll work on high-impact matters across Coinbase’s global platform, partnering closely with MLROs, local compliance teams, operations teams and cross functional stakeholders to protect Coinbase and its customers from financial crime. What you’ll do: Own end-to-end investigations into complex AML/CFT matters, from alert review or referral, through case development, disposition and SAR/STR submission to relevant FIUs. Conduct delegated MLRO reviews of Suspicious Transaction Reports and Suspicious Activity Reports prior to filing, ensuring accuracy, quality and regulatory defensibility. Lead proactive investigations, using transaction data, on-chain activity, trading behaviour and cross functional intelligence and OSINT to identify emerging typologies, th",
-  "track": "core"
- },
- {
   "id": "gh-coinbase-8382718",
   "company": "Coinbase",
   "ats": "greenhouse",
@@ -460,6 +460,21 @@
   "employment": null,
   "posted": "2026-11-12",
   "url": "https://www.coinbase.com/careers/positions/8382718?gh_jid=8382718",
+  "compensation": null,
+  "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase . As a Senior Investigator in Coinbase’s Financial Intelligence Unit within Compliance (2LoD), you’ll help drive Coinbase’s financial crime investigations capability across multiple jurisdictions. This team leads complex reactive and proactive investigations, develops intelligence on emerging typologies and risk patterns, and translates investigative insights into high-quality SAR/STR decisions, escalations and programme improvements. You’ll work on high-impact matters across Coinbase’s global platform, partnering closely with MLROs, local compliance teams, operations teams and cross functional stakeholders to protect Coinbase and its customers from financial crime. What you’ll do: Own end-to-end investigations into complex AML/CFT matters, from alert review or referral, through case development, disposition and SAR/STR submission to relevant FIUs. Conduct delegated MLRO reviews of Suspicious Transaction Reports and Suspicious Activity Reports prior to filing, ensuring accuracy, quality and regulatory defensibility. Lead proactive investigations, using transaction data, on-chain activity, trading behaviour and cross functional intelligence and OSINT to identify emerging typologies, th",
+  "track": "core"
+ },
+ {
+  "id": "gh-coinbase-8382720",
+  "company": "Coinbase",
+  "ats": "greenhouse",
+  "title": "Compliance, International Investigations Associate",
+  "location": "Remote - Luxembourg",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-12",
+  "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720",
   "compensation": null,
   "excerpt": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase . As a Senior Investigator in Coinbase’s Financial Intelligence Unit within Compliance (2LoD), you’ll help drive Coinbase’s financial crime investigations capability across multiple jurisdictions. This team leads complex reactive and proactive investigations, develops intelligence on emerging typologies and risk patterns, and translates investigative insights into high-quality SAR/STR decisions, escalations and programme improvements. You’ll work on high-impact matters across Coinbase’s global platform, partnering closely with MLROs, local compliance teams, operations teams and cross functional stakeholders to protect Coinbase and its customers from financial crime. What you’ll do: Own end-to-end investigations into complex AML/CFT matters, from alert review or referral, through case development, disposition and SAR/STR submission to relevant FIUs. Conduct delegated MLRO reviews of Suspicious Transaction Reports and Suspicious Activity Reports prior to filing, ensuring accuracy, quality and regulatory defensibility. Lead proactive investigations, using transaction data, on-chain activity, trading behaviour and cross functional intelligence and OSINT to identify emerging typologies, th",
   "track": "core"
@@ -1275,16 +1290,16 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5284964007",
+  "id": "gh-andurilindustries-5283267007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Senior Analyst, Government Compliance",
-  "location": "Washington, District of Columbia, United States",
+  "location": "Costa Mesa, California, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-11-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284964007?gh_jid=5284964007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283267007?gh_jid=5283267007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Senior Analyst, Government Compliance to join our dynamic, growing finance team located at our headquarters office in Irvine, CA, Washington, D.C and Ashville, OH. ABOUT THE JOB The Senior Analyst, Government Compliance will support the evaluation of Anduril’s compliance with the six Defense Federal Acquisition Regulation Supplement (DFARS) defined contractor business systems (Accounting, Estimating, Government Property, Purchasing, Material Management and Accounting, and Earned Value Management) as well as Cost Accounting Standards (CAS) and the development of process improvements to comply with these requirements. This position will work closely with the operational teams for each business system to evaluate current processes, provide feedback on compliance with regulations, and provide support for improving processes. This position will play a vital role in reviewing current policies and procedures, processes, and documentation to ensure consistency and compliance across the company. We’re looking for someone who has exce",
   "track": "core"
@@ -1305,16 +1320,16 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5283267007",
+  "id": "gh-andurilindustries-5284964007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Senior Analyst, Government Compliance",
-  "location": "Costa Mesa, California, United States",
+  "location": "Washington, District of Columbia, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-11-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283267007?gh_jid=5283267007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284964007?gh_jid=5284964007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Senior Analyst, Government Compliance to join our dynamic, growing finance team located at our headquarters office in Irvine, CA, Washington, D.C and Ashville, OH. ABOUT THE JOB The Senior Analyst, Government Compliance will support the evaluation of Anduril’s compliance with the six Defense Federal Acquisition Regulation Supplement (DFARS) defined contractor business systems (Accounting, Estimating, Government Property, Purchasing, Material Management and Accounting, and Earned Value Management) as well as Cost Accounting Standards (CAS) and the development of process improvements to comply with these requirements. This position will work closely with the operational teams for each business system to evaluate current processes, provide feedback on compliance with regulations, and provide support for improving processes. This position will play a vital role in reviewing current policies and procedures, processes, and documentation to ensure consistency and compliance across the company. We’re looking for someone who has exce",
   "track": "core"
@@ -2370,21 +2385,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5257493007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Global Mobility Program Manager, Tax",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-20",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257493007?gh_jid=5257493007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5270613007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2395,6 +2395,21 @@
   "employment": null,
   "posted": "2026-10-20",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270613007?gh_jid=5270613007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5257493007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Global Mobility Program Manager, Tax",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-20",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257493007?gh_jid=5257493007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Global Mobility team is responsible for getting Anduril talent where the mission needs it. We partner with leadership and cross-functional teams to help Anduril expand globally and staff new programs. ABOUT THE JOB As the Global Mobility Program Manager, Tax, you will develop the strategy and operating model for mobility tax at Anduril, spanning international and domestic assignments, cross-border transfers, business travel, and the reporting obligations that follow. In this individual contributor role, you will translate complex tax requirements into clear policies, durable controls, and practical guidance for the business, while supporting mobile employees directly through cost projections, mobility briefings, and the documentation that accompanies a move. Your technical judgment and project management skills will be essential in identifying tax implications early, keeping stakeholders informed, and ensuring compliance as the company expands into new jurisdictions globally. WHAT YOU’LL DO Develop the global mobility tax framework, principl",
   "track": "alt"
@@ -2925,21 +2940,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5261480007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Offensive Security Engineer",
-  "location": "Washington, District of Columbia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-08",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across all of Anduril, including hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a breadth role b",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5243855007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2950,6 +2950,21 @@
   "employment": null,
   "posted": "2026-10-08",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across all of Anduril, including hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a breadth role b",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5261480007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Offensive Security Engineer",
+  "location": "Washington, District of Columbia, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-08",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a Senior Offensive Security Engineer to grow Anduril's offensive security practice. The ideal candidate has documented background in offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against hardware, software, people, and work hand in hand with engineering teams to build resiliency into Anduril. ABOUT THE JOB You will execute offensive security engagements across all of Anduril, including hardware, firmware, software, cloud infrastructure, web applications, internal and external networks, and physical security, to name a few. Your scope covers every frontier of offensive tradecraft: social engineering your way into a hardened facility one week, discovering zero days in satellite radio modules the next, prototyping an autonomous red team AI agent, or working out of a confidential test range to break a flight critical weapons system. The work moves fast and wide. You will routinely own engagements end-to-end across the entire chain. This is a breadth role b",
   "track": "core"
@@ -3222,21 +3237,6 @@
   "url": "https://jobs.ashbyhq.com/pliant/0a237b17-f6ca-4b00-b769-a05880110eb1",
   "compensation": null,
   "excerpt": "ABOUT US Pliant is a modular B2B payments platform combining commercial card issuing, payment accounts, FX and spend management for businesses and AI agents. Businesses across travel, e-commerce, insurance and AI-native technology use Pliant to manage complex payment workflows, while fintechs, software platforms and banks use its infrastructure to build and operate their own commercial payment offerings. Pliant's API-first platform also enables AI agents and applications to access regulated payment infrastructure with permissions, controls and auditability built in. Founded in 2020 and headquartered in Berlin, Pliant serves businesses and partners across Europe and North America. A principal member of Visa and Mastercard, Pliant issues commercial cards in 13 currencies across 32 countries under its European e-money license and through regulated partners in the UK and US. Learn more at www.getpliant.com http://www.getpliant.com. ABOUT THE ROLE As Senior Manager Operational Risk (m/f/d), you own the design and operation of the operational risk framework for the UK entity and make sure it meets Pliant’s risk appetite and FCA expectations for a card-issuing e-money business. This role is based in the UK remote but if you are based in London, our office is open for you to work in. WHAT YOU’LL DO Operational Risk Framework & Governance • Maintain and improve the operational risk framework (risk appetite, risk taxonomy, policies, RCSA, KRIs, loss event and near-miss data, scenario analysis). • Make sure governance and controls meet Pliant’s minimum standards, FCA requirements on systems and controls (SYSC) and the e-money and payment services conduct and prudential requirements. • Provide regular, decision-oriented risk reporting to UK management, the UK Board and the Group Ri",
-  "track": "core"
- },
- {
-  "id": "ashby-pliant-ce23bc7d",
-  "company": "Pliant",
-  "ats": "ashby",
-  "title": "Data Protection & AI Governance Manager (m/f/d)",
-  "location": "Berlin, Germany (Hybrid)",
-  "remote": true,
-  "workplace": "Hybrid",
-  "employment": "FullTime",
-  "posted": "2026-10-05",
-  "url": "https://jobs.ashbyhq.com/pliant/ce23bc7d-28ad-46d5-b227-889f9b97d847",
-  "compensation": null,
-  "excerpt": "ABOUT US Pliant is a modular B2B payments platform combining commercial card issuing, payment accounts, FX and spend management for businesses and AI agents. Businesses across travel, e-commerce, insurance and AI-native technology use Pliant to manage complex payment workflows, while fintechs, software platforms and banks use its infrastructure to build and operate their own commercial payment offerings. Pliant's API-first platform also enables AI agents and applications to access regulated payment infrastructure with permissions, controls and auditability built in. Founded in 2020 and headquartered in Berlin, Pliant serves businesses and partners across Europe and North America. A principal member of Visa and Mastercard, Pliant issues commercial cards in 13 currencies across 32 countries under its European e-money license and through regulated partners in the UK and US. Learn more at www.getpliant.com http://www.getpliant.com. ABOUT THE ROLE We are looking for a Data Protection & AI Governance Manager (m/f/d) to strengthen our team. In this role, you combine operational coordination with our external data protection law firms with the continued development of our AI governance function. Depending on experience, we will fill this position at Mid-Level or Senior level. The role can be based in either Berlin (hybrid) or Munich (hybrid). WHAT YOU’LL DO • Act as the operational point of contact for our two external data protection law firms — one covering the EEA/UK, and a separate firm covering the US and coordinate data protection requests and measures across departments (GDPR, UK GDPR, US state privacy laws) • Maintain records of processing activities and other privacy compliance documentation required under applicable EEA, UK and US laws. • Support Data Protection Impac",
   "track": "core"
  },
  {

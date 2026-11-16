@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-16T04:56:22+00:00",
+ "checked": "2026-11-16T12:11:17+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
@@ -110,9 +110,9 @@
    "url": "https://www.linkedin.com/jobs/view/4484708988/"
   },
   "jobs/lever-myob-8754cf16": {
-   "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
+   "status": "unknown",
+   "reason": "Lever respondió None",
+   "http": null,
    "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
   },
   "jobs/li-4489461281": {

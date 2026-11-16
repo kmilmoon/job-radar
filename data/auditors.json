@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T09:47:14+00:00",
+ "generatedAt": "2026-11-16T12:10:19+00:00",
  "count": 39,
  "emea": 10,
  "note": "Drata: its partner and auditor directories block automated reads (HTTP 403); the daily web search covers them.",
@@ -56,72 +56,6 @@
    "maybeEmea": true
   },
   {
-   "name": "BSI Group",
-   "web": "https://bit.ly/4gB4MjG",
-   "region": "EMEA",
-   "regionHints": [
-    "austria",
-    "belgium",
-    "czech",
-    "france",
-    "germany",
-    "global",
-    "ireland",
-    "israel",
-    "italy",
-    "netherlands",
-    "poland",
-    "south africa"
-   ],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Audit Partner",
-    "Compliance",
-    "Security Training Providers"
-   ],
-   "vciso": false,
-   "careers": "https://bit.ly/4gB4MjG/en-GB/about-bsi/careers/",
-   "ats": "",
-   "description": "Trusted global audit and certification partner for ISO 27001, SOC 2, ISO 42001, digital resilience and more.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": true,
-   "maybeEmea": true
-  },
-  {
-   "name": "Coalfire",
-   "web": "https://coalfire.com/services/assessment",
-   "region": "EMEA",
-   "regionHints": [
-    "austria",
-    "belgium",
-    "cyprus",
-    "czech",
-    "denmark",
-    "estonia",
-    "finland",
-    "france",
-    "germany",
-    "global",
-    "greece",
-    "international"
-   ],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Audit Partner"
-   ],
-   "vciso": false,
-   "careers": "https://coalfire.com/about/careers",
-   "ats": "",
-   "description": "Simplify compliance with expert-led assessments—trusted worldwide for quality, expertise, and timely delivery at scale.",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": true,
-   "maybeEmea": true
-  },
-  {
    "name": "Frazier & Deeter",
    "web": "https://www.frazierdeeter.com/",
    "region": "EMEA",
@@ -146,6 +80,32 @@
    "maybeEmea": true
   },
   {
+   "name": "Global Compliance Certification",
+   "web": "https://gccertification.com/",
+   "region": "EMEA",
+   "regionHints": [
+    "european",
+    "germany",
+    "global",
+    "international",
+    "united kingdom",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://gccertification.com/careers/",
+   "ats": "",
+   "description": "Global Compliance Certification (GCC) is a leading independent certification body for Information Security, Quality, Safety, Environment, Food Safety and other Management Systems accredited by JAS-ANZ (Joint Accreditation System of Australia and New Zealand).",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
    "name": "GRSee Consulting",
    "web": "https://grsee.com/vanta/",
    "region": "EMEA",
@@ -156,12 +116,12 @@
     "czech",
     "denmark",
     "estonia",
-    "eu",
     "europe",
     "finland",
     "france",
     "germany",
-    "greece"
+    "greece",
+    "ireland"
    ],
    "partnerOf": [
     "Vanta"
@@ -171,7 +131,7 @@
     "Penetration Testing"
    ],
    "vciso": true,
-   "careers": "",
+   "careers": "https://grsee.com/feed/wpjobportal_jobsfeed/",
    "ats": "",
    "description": "GRSee delivers high-quality audits on fast timelines for SaaS startups and modern tech teams, with a helpful approach that keeps compliance smooth, clear and simple.",
    "source": "https://www.vanta.com/partners/find-a-partner",
@@ -272,6 +232,32 @@
    "maybeEmea": true
   },
   {
+   "name": "Tagore AS",
+   "web": "https://www.tagore.no",
+   "region": "EMEA",
+   "regionHints": [
+    "norway",
+    "oslo"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Service Partner",
+    "Reseller",
+    "vCISO",
+    "Compliance",
+    "Audit Partner"
+   ],
+   "vciso": true,
+   "careers": "",
+   "ats": "",
+   "description": "Tagore is based in Oslo, Norway. Our solutions takes the complexity out of cyber security, privacy, and compliance to make our clients more productive and focused on their core business to reach their goals.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": true,
+   "maybeEmea": true
+  },
+  {
    "name": "TÜV NORD",
    "web": "https://www.tuev-nord.de/en/industries/information-technology/",
    "region": "EMEA",
@@ -345,7 +331,6 @@
    "web": "https://www.aprio.com/",
    "region": "Global (sin confirmar EMEA)",
    "regionHints": [
-    "global",
     "international"
    ],
    "partnerOf": [
@@ -474,7 +459,8 @@
    "region": "Global (sin confirmar EMEA)",
    "regionHints": [
     "global",
-    "international"
+    "international",
+    "worldwide"
    ],
    "partnerOf": [
     "Vanta"
@@ -486,6 +472,29 @@
    "careers": "https://www.cbiz.com/careers",
    "ats": "",
    "description": "A top-7 accounting and advisory firm specializing in a wide range of services. Our team can perform combined audits and certifications.",
+   "source": "https://www.vanta.com/partners/find-a-partner",
+   "emea": false,
+   "maybeEmea": true
+  },
+  {
+   "name": "Coalfire",
+   "web": "https://coalfire.com/services/assessment",
+   "region": "Global (sin confirmar EMEA)",
+   "regionHints": [
+    "global",
+    "international",
+    "worldwide"
+   ],
+   "partnerOf": [
+    "Vanta"
+   ],
+   "tags": [
+    "Audit Partner"
+   ],
+   "vciso": false,
+   "careers": "https://coalfire.com/about/careers",
+   "ats": "",
+   "description": "Simplify compliance with expert-led assessments—trusted worldwide for quality, expertise, and timely delivery at scale.",
    "source": "https://www.vanta.com/partners/find-a-partner",
    "emea": false,
    "maybeEmea": true
@@ -618,34 +627,11 @@
    "maybeEmea": false
   },
   {
-   "name": "Global Compliance Certification",
-   "web": "https://gccertification.com/",
-   "region": "Posible EMEA (european)",
-   "regionHints": [
-    "european",
-    "global",
-    "international"
-   ],
-   "partnerOf": [
-    "Vanta"
-   ],
-   "tags": [
-    "Audit Partner"
-   ],
-   "vciso": false,
-   "careers": "https://gccertification.com/about-us/careers/",
-   "ats": "",
-   "description": "Global Compliance Certification (GCC) is a leading independent certification body for Information Security, Quality, Safety, Environment, Food Safety and other Management Systems accredited by JAS-ANZ (Joint Accreditation System of Australia and New Zealand).",
-   "source": "https://www.vanta.com/partners/find-a-partner",
-   "emea": false,
-   "maybeEmea": true
-  },
-  {
    "name": "Insight Assurance",
    "web": "https://insightassurance.com/",
    "region": "Global (sin confirmar EMEA)",
    "regionHints": [
-    "global"
+    "international"
    ],
    "partnerOf": [
     "Vanta"
@@ -713,6 +699,7 @@
    "region": "Global (sin confirmar EMEA)",
    "regionHints": [
     "global",
+    "international",
     "worldwide"
    ],
    "partnerOf": [
