@@ -1,11 +1,17 @@
 {
- "checked": "2026-11-16T12:11:17+00:00",
+ "checked": "2026-11-17T04:47:22+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4488320305/"
+  },
+  "jobs/li-4482092371": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4482092371/"
   },
   "jobs/web-crossborder-compliancelead": {
    "status": "closed",
@@ -24,6 +30,12 @@
    "reason": "Sigue publicada en Greenhouse",
    "http": 200,
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
+  },
+  "jobs/li-4489340287": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489340287/"
   },
   "jobs/web-ppro-headgrc": {
    "status": "closed",
@@ -92,9 +104,9 @@
    "url": "https://www.linkedin.com/jobs/view/4488791786/"
   },
   "jobs/jobgether-eb4746bc": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
    "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c"
   },
   "jobs/li-4473393070": {
@@ -110,9 +122,9 @@
    "url": "https://www.linkedin.com/jobs/view/4484708988/"
   },
   "jobs/lever-myob-8754cf16": {
-   "status": "unknown",
-   "reason": "Lever respondió None",
-   "http": null,
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
    "url": "https://jobs.lever.co/myob-2/8754cf16-5a28-4dd7-80ec-aba2db2421c2"
   },
   "jobs/li-4489461281": {
@@ -121,11 +133,47 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4489461281/"
   },
+  "jobs/jobijoba-recruiter-headofgrc": {
+   "status": "closed",
+   "reason": "La página da error 410",
+   "http": 410,
+   "url": "https://www.jobijoba.be/annonce/67/8acefc4ce6e5b99c1d5def6c1e5080ff"
+  },
+  "jobs/workable-triskelelabs-794DA7C6": {
+   "status": "closed",
+   "reason": "Workable ya no la tiene",
+   "http": 404,
+   "url": "https://apply.workable.com/triskele-labs/j/794DA7C642/"
+  },
+  "jobs/li-4489830301": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489830301/"
+  },
+  "jobs/li-4489202137": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489202137/"
+  },
+  "jobs/gofractional--time-contractor-soda-data-workable-jobs": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
+   "http": 200,
+   "url": "https://jobs.workable.com/view/kf4BcuPRbEjKzQGwSsn19H/remote-compliance-lead-(part-time%2C-contractor)-in-new-york-at-soda-data"
+  },
   "jobs/li-4482317639": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4482317639/"
+  },
+  "alt/workable-simprints-DFE7D289": {
+   "status": "closed",
+   "reason": "Workable ya no la tiene",
+   "http": 404,
+   "url": "https://apply.workable.com/simprints/j/DFE7D289AA/"
   },
   "alt/10xteam-compliance-ai-trainer": {
    "status": "unknown",
@@ -146,16 +194,16 @@
    "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
   },
   "alt/jobgether-37e02f80": {
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
+   "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
+  },
+  "alt/jobgether-1ad693ce": {
    "status": "open",
    "reason": "Sigue publicada en Lever",
    "http": 200,
-   "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
-  },
-  "alt/shiny-fractional-coo": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
+   "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884"
   },
   "alt/jobgether-a80049aa": {
    "status": "closed",
@@ -163,59 +211,11 @@
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   },
-  "jobs/li-4489340287": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4489340287/"
-  },
-  "jobs/li-4489830301": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4489830301/"
-  },
-  "jobs/workable-triskelelabs-794DA7C6": {
-   "status": "closed",
-   "reason": "Workable ya no la tiene",
-   "http": 404,
-   "url": "https://apply.workable.com/triskele-labs/j/794DA7C642/"
-  },
-  "jobs/li-4489202137": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4489202137/"
-  },
-  "jobs/li-4482092371": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4482092371/"
-  },
-  "jobs/gofractional--time-contractor-soda-data-workable-jobs": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://jobs.workable.com/view/kf4BcuPRbEjKzQGwSsn19H/remote-compliance-lead-(part-time%2C-contractor)-in-new-york-at-soda-data"
-  },
-  "jobs/jobijoba-recruiter-headofgrc": {
-   "status": "closed",
-   "reason": "La página da error 410",
-   "http": 410,
-   "url": "https://www.jobijoba.be/annonce/67/8acefc4ce6e5b99c1d5def6c1e5080ff"
-  },
-  "alt/workable-simprints-DFE7D289": {
-   "status": "closed",
-   "reason": "Workable ya no la tiene",
-   "http": 404,
-   "url": "https://apply.workable.com/simprints/j/DFE7D289AA/"
-  },
-  "alt/jobgether-1ad693ce": {
+  "alt/mercor-compliance-risk-network": {
    "status": "open",
-   "reason": "Sigue publicada en Lever",
+   "reason": "La página sigue mostrando la opción de aplicar",
    "http": 200,
-   "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884"
+   "url": "https://work.mercor.com/jobs/list_AAABnJ0Tj07Vgzf7imVMBZB6/compliance-risk-specialist-talent-network"
   }
  }
 }
