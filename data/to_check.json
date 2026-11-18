@@ -85,11 +85,6 @@
   "url": "https://www.linkedin.com/jobs/view/4488791786/"
  },
  {
-  "id": "jobgether-eb4746bc",
-  "coll": "jobs",
-  "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c"
- },
- {
   "id": "li-4473393070",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4473393070/"
@@ -140,6 +135,31 @@
   "url": "https://www.linkedin.com/jobs/view/4482317639/"
  },
  {
+  "id": "li-4489759966",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4489759966/"
+ },
+ {
+  "id": "jobgether-05cc3df2",
+  "coll": "jobs",
+  "url": "https://jobs.lever.co/jobgether/05cc3df2-e66c-43c9-9d9b-aa9031fc026f"
+ },
+ {
+  "id": "li-4489728895",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4489728895/"
+ },
+ {
+  "id": "li-4489796395",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4489796395/"
+ },
+ {
+  "id": "web-emerchantpay-9ff3cacc",
+  "coll": "jobs",
+  "url": "https://apply.workable.com/emerchantpay/jobs/view/9FF3CACC86"
+ },
+ {
   "id": "workable-simprints-DFE7D289",
   "coll": "alt",
   "url": "https://apply.workable.com/simprints/j/DFE7D289AA/"
@@ -160,9 +180,9 @@
   "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
  },
  {
-  "id": "jobgether-37e02f80",
+  "id": "shiny-fractional-coo",
   "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
+  "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
  },
  {
   "id": "jobgether-1ad693ce",
@@ -170,13 +190,13 @@
   "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884"
  },
  {
-  "id": "jobgether-a80049aa",
-  "coll": "alt",
-  "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
- },
- {
   "id": "mercor-compliance-risk-network",
   "coll": "alt",
   "url": "https://work.mercor.com/jobs/list_AAABnJ0Tj07Vgzf7imVMBZB6/compliance-risk-specialist-talent-network"
+ },
+ {
+  "id": "jobgether-a80049aa",
+  "coll": "alt",
+  "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  }
 ]
