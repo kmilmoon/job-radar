@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-18T04:48:21+00:00",
+ "generatedAt": "2026-11-18T12:22:33+00:00",
  "companies": [
   {
    "company": "n8n",
    "ats": "ashby",
    "slug": "n8n",
-   "openPostings": 60,
+   "openPostings": 61,
    "firstHire": [
     {
      "title": "Sr Security Engineer | Remote | Europe",
@@ -155,7 +155,7 @@
    "company": "Legora",
    "ats": "ashby",
    "slug": "legora",
-   "openPostings": 347,
+   "openPostings": 341,
    "firstHire": [
     {
      "title": "GRC Engineer",
@@ -360,7 +360,7 @@
    "company": "JetBrains",
    "ats": "greenhouse",
    "slug": "jetbrains",
-   "openPostings": 28,
+   "openPostings": 17,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -418,7 +418,7 @@
    "company": "Pliant",
    "ats": "ashby",
    "slug": "pliant",
-   "openPostings": 31,
+   "openPostings": 30,
    "firstHire": [
     {
      "title": "Security Engineer *EU/UK remote* (m/f/d)",
@@ -528,7 +528,7 @@
    "company": "Moss",
    "ats": "ashby",
    "slug": "moss",
-   "openPostings": 33,
+   "openPostings": 30,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -740,7 +740,7 @@
    "company": "Exein",
    "ats": "greenhouse",
    "slug": "exeinspa",
-   "openPostings": 7,
+   "openPostings": 6,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -762,7 +762,7 @@
    "company": "Horizon3.ai",
    "ats": "ashby",
    "slug": "horizon3ai",
-   "openPostings": 200,
+   "openPostings": 199,
    "firstHire": [
     {
      "title": "WebApp Offensive Security Software Engineer",
@@ -996,7 +996,7 @@
    "company": "Tandem Health",
    "ats": "ashby",
    "slug": "tandem-health",
-   "openPostings": 75,
+   "openPostings": 78,
    "firstHire": [
     {
      "title": "Senior GRC Engineer",
@@ -1225,7 +1225,7 @@
    "company": "Cursor (Anysphere)",
    "ats": "ashby",
    "slug": "cursor",
-   "openPostings": 96,
+   "openPostings": 94,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -2101,7 +2101,7 @@
    "company": "GitLab",
    "ats": "greenhouse",
    "slug": "gitlab",
-   "openPostings": 253,
+   "openPostings": 250,
    "firstHire": [
     {
      "title": "Intermediate Backend Engineer , Security Factory",
@@ -2274,7 +2274,7 @@
    "company": "Customer.io",
    "ats": "greenhouse",
    "slug": "customerio",
-   "openPostings": 22,
+   "openPostings": 21,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -2314,7 +2314,7 @@
    "company": "Coinbase",
    "ats": "greenhouse",
    "slug": "coinbase",
-   "openPostings": 257,
+   "openPostings": 256,
    "firstHire": [
     {
      "title": "Compliance, International Investigations Associate",
