@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-17T12:35:27+00:00",
+ "checked": "2026-11-18T04:48:33+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
@@ -103,12 +103,6 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4488791786/"
   },
-  "jobs/jobgether-eb4746bc": {
-   "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
-   "url": "https://jobs.lever.co/jobgether/eb4746bc-0666-45bd-871c-aacd78b9cb3c"
-  },
   "jobs/li-4473393070": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
@@ -169,6 +163,36 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4482317639/"
   },
+  "jobs/li-4489759966": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489759966/"
+  },
+  "jobs/jobgether-05cc3df2": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/05cc3df2-e66c-43c9-9d9b-aa9031fc026f"
+  },
+  "jobs/li-4489728895": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489728895/"
+  },
+  "jobs/li-4489796395": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489796395/"
+  },
+  "jobs/web-emerchantpay-9ff3cacc": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
+   "http": 200,
+   "url": "https://apply.workable.com/emerchantpay/jobs/view/9FF3CACC86"
+  },
   "alt/workable-simprints-DFE7D289": {
    "status": "closed",
    "reason": "Workable ya no la tiene",
@@ -193,11 +217,11 @@
    "http": 200,
    "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
   },
-  "alt/jobgether-37e02f80": {
+  "alt/shiny-fractional-coo": {
    "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
-   "url": "https://jobs.lever.co/jobgether/37e02f80-deb9-4800-8e81-b134d6ae23fb"
+   "reason": "La página redirige fuera de la oferta (suele indicar que está cerrada)",
+   "http": 200,
+   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
   },
   "alt/jobgether-1ad693ce": {
    "status": "open",
@@ -205,17 +229,17 @@
    "http": 200,
    "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884"
   },
-  "alt/jobgether-a80049aa": {
-   "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
-   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
-  },
   "alt/mercor-compliance-risk-network": {
    "status": "open",
    "reason": "La página sigue mostrando la opción de aplicar",
    "http": 200,
    "url": "https://work.mercor.com/jobs/list_AAABnJ0Tj07Vgzf7imVMBZB6/compliance-risk-specialist-talent-network"
+  },
+  "alt/jobgether-a80049aa": {
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
+   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   }
  }
 }

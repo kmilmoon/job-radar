@@ -14,6 +14,84 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Governance, Risk, and Compliance (GRC) Specialist based in Spain. This is a fully remote opportunity for an experienced security and compliance professional looking to take ownership of strategic GRC initiatives within an international technology environment. You will play a key role in strengthening the organization's security posture, maintaining regulatory compliance, and building trust with customers and partners. As a senior member of the Information Security and Compliance team, you will lead audits and compliance programs from initial planning through successful completion. You will work closely with engineering, product, leadership, external auditors, and enterprise customers to ensure security requirements are effectively implemented. The role combines hands-on compliance management, risk oversight, stakeholder engagement, and continuous improvement. You will also help anticipate evolving regulatory expectations and scale security practices as the organization grows."
  },
  {
+  "id": "himalayas-ntre-analyst",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Security Operations Centre Analyst",
+  "company": "PM Group",
+  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
+  "employment": "Full Time",
+  "posted": "2026-11-17",
+  "url": "https://himalayas.app/companies/pm-group/jobs/security-operations-centre-analyst?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Security-Operations-Center-Analyst",
+   "SOC-Analyst",
+   "Cybersecurity-Analyst",
+   "Security-Monitoring-Analyst",
+   "Incident-Response-Analyst"
+  ],
+  "excerpt": "Parimatch is aglobal #1 Crypto Sportsbook and Casino company with over 30+ years in betting and gaming industry."
+ },
+ {
+  "id": "himalayas-ty-ciso-saas",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Head of Security (CISO) - SaaS",
+  "company": "team.blue",
+  "location": "Denmark, Italy, Netherlands, Spain, United Kingdom",
+  "employment": "Full Time",
+  "posted": "2026-11-17",
+  "url": "https://himalayas.app/companies/team-blue/jobs/head-of-security-ciso-saas?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Chief-Information-Security-Officer",
+   "Head-of-Security",
+   "Information-Security-Director",
+   "Cybersecurity-Director"
+  ],
+  "excerpt": "Companyteam. blue is an ecosystem of 60+ successful PaaS and SaaS brands working together across 22 European countries to provide its 3."
+ },
+ {
+  "id": "himalayas-n-ai-trainer",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Russian Gen AI Trainer",
+  "company": "Welocalize",
+  "location": "Worldwide",
+  "employment": "Contractor",
+  "posted": "2026-11-17",
+  "url": "https://himalayas.app/companies/welocalize/jobs/russian-gen-ai-trainer?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "AI-Trainer",
+   "Data-Annotator",
+   "Content-Reviewer",
+   "AI-Quality-Assurance-Specialist",
+   "AI-Data-Analyst",
+   "Generative-AI-Trainer",
+   "GenAI-Instructor",
+   "AI-Model-Trainer",
+   "AI-Language-Model-Trainer",
+   "AI-Language-Trainer"
+  ],
+  "excerpt": "What if your knowledge Russian languagecould help improve the AI."
+ },
+ {
+  "id": "jobspresso-9db0a3b65e",
+  "source": "jobspresso",
+  "track": "alt",
+  "title": "Process Operations Manager (AI Automation)",
+  "company": "Revolut",
+  "location": "Europe",
+  "employment": "Others",
+  "posted": "2026-11-17",
+  "url": "https://jobspresso.co/job/process-operations-manager-ai-automation/",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "About Revolut People deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products, including spending, saving, investing, exchanging, travelling, and more, help our 80+ million customers get more from their money every day. As we continue our"
+ },
+ {
   "id": "jobgether-0e43f4a8",
   "source": "jobgether",
   "track": "alt",
@@ -68,26 +146,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Compliance Manager, Derivatives Trade Reporting based in Spain. This is a senior, hands-on Compliance leadership role responsible for building and overseeing a global derivatives trade and transaction reporting function. You will ensure regulatory reporting obligations are correctly interpreted and consistently met across multiple jurisdictions, including the US, EU, UK and Australia. Working across a diverse derivatives product portfolio, you will determine reporting requirements at entity, product and transaction level. You will oversee reporting accuracy, completeness and timeliness, while strengthening controls, reconciliation and remediation processes. In close collaboration with Trading, Product, Engineering, Data, Legal and local Compliance teams, you will translate complex regulatory requirements into reliable operational frameworks. You will also lead regulatory change initiatives, manage external reporting relationships and build a small specialist team."
- },
- {
-  "id": "himalayas-ed-in-poland",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Global Cyber Controls Administrator (based in Poland)",
-  "company": "Colliers",
-  "location": "Poland, Portugal, Spain",
-  "employment": "Full Time",
-  "posted": "2026-11-16",
-  "url": "https://himalayas.app/companies/colliers/jobs/global-cyber-controls-administrator-based-in-poland?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Cybersecurity-Administrator",
-   "Network-Administrator",
-   "Systems-Administrator",
-   "IT-Security-Specialist",
-   "Firewall-Administrator"
-  ],
-  "excerpt": "Reporting into the EMEA Head of Information Security, the Global Cyber Controls Administrator will work remotely or in a hybrid capacity from Portugal, Spain or Poland."
  },
  {
   "id": "jobgether-6cd2d943",
@@ -149,34 +207,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Game Operations Manager based in Spain. Join a fast-growing international technology environment specializing in innovative iGaming solutions and B2B services. In this role, you will play a key part in ensuring the smooth operation, performance, and quality of an online gaming platform. You will oversee game content management, coordinate technical support requests, monitor platform performance, and help resolve operational issues. Working closely with technical, product, and marketing teams, you will contribute to an engaging and reliable gaming experience for end users. You will also analyze operational data, identify improvement opportunities, and support the implementation of new games and providers. This is an exciting opportunity for an iGaming professional looking to take ownership, develop operational expertise, and grow within a dynamic, collaborative, and fully remote team."
- },
- {
-  "id": "jobgether-67cc81ea",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Science Teacher – Greenwich",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-10",
-  "url": "https://jobs.lever.co/jobgether/67cc81ea-d2ae-49bb-a485-f5deba8e82ab",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Science Teacher – Greenwich based in Spain. The Science Teacher will deliver high-quality online science education to secondary school students across an internationally focused, fully accredited virtual school. You will teach learners in Grades 6–12, helping them develop strong scientific knowledge and prepare confidently for British curriculum GCSE and A Level examinations. The role combines engaging live lessons with thoughtful curriculum planning, digital resource development, and personalized student support. You will monitor academic progress, provide constructive feedback, and adapt teaching approaches to meet different learning needs. Working remotely with internationally distributed colleagues, you will contribute to a collaborative learning environment that encourages students to achieve their full potential. This is a full-time teaching opportunity starting on 4 January 2027, or earlier for the right candidate."
- },
- {
-  "id": "jobgether-3640115e",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Service Delivery Manager",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-10",
-  "url": "https://jobs.lever.co/jobgether/3640115e-5b22-49f9-865e-e4a42801f12b",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Service Delivery Manager based in Spain. As a Service Delivery Manager, you will oversee the end-to-end delivery of enterprise networking solutions, ensuring successful deployments and exceptional customer experiences. You will lead complex technical implementation projects, coordinating internal teams, external partners, and customer stakeholders across multiple regions. From initial project planning and technical discovery to deployment, activation, and operational handoff, you will drive every stage of the delivery lifecycle. You will establish strong customer relationships, manage risks and escalations, and ensure projects meet agreed timelines, budgets, and quality standards. Working across engineering, sales, support, and customer success functions, you will promote accountability and operational alignment. You will also contribute to scalable delivery processes that support the growth of a global Network-as-a-Service business."
  },
  {
   "id": "gofractional-l-or-full-time-virtual-behavioral-health",
@@ -323,22 +353,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: California URL: https://imerit.ai/ About the opportunity We’re seeking detail-oriented professionals to review AI-generated content and annotated data for accuracy, clarity, and consistency. This role is well suited to candidates with backgrounds in editing, teaching, instructional design, quality assurance, research, or AI data annotation. You will apply detailed written guidelines, identify subtle errors, and explain your decisions clearly. Assignments may include written content, image comparisons, and other evaluation tasks that require sustained focus and independent judgment. What you will do Review AI-generated responses and annotated data against project guidelines and scoring rubrics. Identify errors, inconsistencies, unsupported statements, and cases that require further review. Write clear, specific feedback explaining what is incorrect and how it should be improved. Compare images or video frames to identify subtle visual differences, where required. Maintain consistent judgments across lengthy tasks and multiple documents. Incorporate feedback and participate in calibration exercises to align with project standards. Flag unclear guidelines and recommend i"
- },
- {
-  "id": "gofractional--ciso-remote-workforce-security-cmviuik6",
-  "source": "gofractional",
-  "track": "core",
-  "title": "Fractional CISO – Remote Workforce Security",
-  "company": "",
-  "location": "Remote; Remote, US; US",
-  "employment": null,
-  "posted": "2026-10-26",
-  "url": "https://www.gofractional.com/job/fractional-ciso-remote-workforce-security-cmviuik6",
-  "compensation": null,
-  "tags": [
-   "exclusive"
-  ],
-  "excerpt": "Overview The company is transitioning to a fully remote model with employees working across multiple locations. Existing workforce security practices have been handled informally, and the organization needs a dedicated leader to establish a comprehensive internal security program. The security leader will take ownership of building and running the program, covering devices, access, network and email protections, policies, vendors, and training. The role will document existing practices, partner with HR on employee onboarding and offboarding, and work with department leaders across business and technical teams to improve how employees are onboarded, protected, and supported. Responsibilities Capture security knowledge from company leadership and document existing practices. Audit device, access, network, and email security across departments. Conduct reviews with department leaders and, where needed, individual employees. Design and document remote-work security policies covering device use, access, network protections, email, and travel. Define a standard network access model and implement role-based access separation between departments. Protect sensitive information for employees"
  },
  {
   "id": "weworkremotely-ab5021af4e",
