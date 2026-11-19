@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-19T04:50:13+00:00",
+ "generatedAt": "2026-11-19T12:16:48+00:00",
  "companies": [
   {
    "company": "n8n",
    "ats": "ashby",
    "slug": "n8n",
-   "openPostings": 63,
+   "openPostings": 64,
    "firstHire": [
     {
      "title": "Sr Security Engineer | Remote | Europe",
@@ -155,7 +155,7 @@
    "company": "Legora",
    "ats": "ashby",
    "slug": "legora",
-   "openPostings": 341,
+   "openPostings": 344,
    "firstHire": [
     {
      "title": "GRC Engineer",
@@ -228,7 +228,7 @@
    "company": "Camunda",
    "ats": "ashby",
    "slug": "camunda",
-   "openPostings": 52,
+   "openPostings": 53,
    "firstHire": [
     {
      "title": "Information Security Engineer - Application Security",
@@ -292,7 +292,7 @@
    "company": "Yuno",
    "ats": "lever",
    "slug": "yuno",
-   "openPostings": 10,
+   "openPostings": 7,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -565,7 +565,7 @@
    "company": "Aufinity Group",
    "ats": "ashby",
    "slug": "aufinity-group",
-   "openPostings": 5,
+   "openPostings": 7,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -583,7 +583,7 @@
    "company": "Bitpanda",
    "ats": "greenhouse",
    "slug": "bitpanda",
-   "openPostings": 49,
+   "openPostings": 47,
    "firstHire": [
     {
      "title": "Senior Associate, Information Security",
@@ -621,8 +621,8 @@
     {
      "framework": "DORA",
      "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
-     "posted": "2026-10-22",
-     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009827101"
+     "posted": "2026-11-04",
+     "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027189101"
     },
     {
      "framework": "ISO 27001",
@@ -648,7 +648,7 @@
    "company": "Pleo",
    "ats": "ashby",
    "slug": "pleo",
-   "openPostings": 33,
+   "openPostings": 32,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -768,7 +768,7 @@
    "company": "Horizon3.ai",
    "ats": "ashby",
    "slug": "horizon3ai",
-   "openPostings": 204,
+   "openPostings": 203,
    "firstHire": [
     {
      "title": "WebApp Offensive Security Software Engineer",
@@ -1002,7 +1002,7 @@
    "company": "Tandem Health",
    "ats": "ashby",
    "slug": "tandem-health",
-   "openPostings": 76,
+   "openPostings": 73,
    "firstHire": [
     {
      "title": "Senior GRC Engineer",
@@ -1111,7 +1111,7 @@
    "company": "Jeeves",
    "ats": "lever",
    "slug": "tryjeeves",
-   "openPostings": 75,
+   "openPostings": 76,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -1183,7 +1183,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "openPostings": 129,
+   "openPostings": 128,
    "firstHire": [
     {
      "title": "Infrastructure Security Engineer",
@@ -1497,7 +1497,7 @@
    "company": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "openPostings": 392,
+   "openPostings": 393,
    "firstHire": [
     {
      "title": "Senior Product Security Engineer",
@@ -1620,7 +1620,7 @@
    "company": "Anduril",
    "ats": "greenhouse",
    "slug": "andurilindustries",
-   "openPostings": 2618,
+   "openPostings": 2619,
    "firstHire": [
     {
      "title": "2027 New Grad Information Security Engineer",
@@ -1629,23 +1629,23 @@
     },
     {
      "title": "Assistant Contractor Special Security Officer",
-     "posted": "2026-10-14",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262829007?gh_jid=5262829007"
-    },
-    {
-     "title": "Assistant Contractor Special Security Officer",
      "posted": "2026-11-09",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290285007?gh_jid=5290285007"
     },
     {
-     "title": "Contractor Special Security Officer",
+     "title": "Assistant Contractor Special Security Officer",
      "posted": "2026-10-14",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262829007?gh_jid=5262829007"
     },
     {
      "title": "Contractor Special Security Officer",
      "posted": "2026-10-15",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5130540007?gh_jid=5130540007"
+    },
+    {
+     "title": "Contractor Special Security Officer",
+     "posted": "2026-10-14",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007"
     },
     {
      "title": "Information System Security Officer",
@@ -1694,6 +1694,11 @@
     },
     {
      "title": "Product Security Engineer, Programs",
+     "posted": "2026-07-09",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183808007?gh_jid=5183808007"
+    },
+    {
+     "title": "Product Security Engineer, Programs",
      "posted": "2026-02-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007"
     },
@@ -1703,14 +1708,14 @@
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007"
     },
     {
-     "title": "Product Security Engineer, Programs",
-     "posted": "2026-07-09",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183808007?gh_jid=5183808007"
-    },
-    {
      "title": "Quality Compliance Engineer",
      "posted": "2026-11-03",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281730007?gh_jid=5281730007"
+    },
+    {
+     "title": "Senior Analyst, Government Compliance",
+     "posted": "2026-11-04",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284965007?gh_jid=5284965007"
     },
     {
      "title": "Senior Analyst, Government Compliance",
@@ -1721,11 +1726,6 @@
      "title": "Senior Analyst, Government Compliance",
      "posted": "2026-11-04",
      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283267007?gh_jid=5283267007"
-    },
-    {
-     "title": "Senior Analyst, Government Compliance",
-     "posted": "2026-11-04",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284965007?gh_jid=5284965007"
     },
     {
      "title": "Senior Information Systems Security Officer, NGC2",
@@ -1745,12 +1745,12 @@
     {
      "title": "Senior Offensive Security Engineer",
      "posted": "2026-10-08",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007"
     },
     {
      "title": "Senior Offensive Security Engineer",
      "posted": "2026-10-08",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261480007?gh_jid=5261480007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243855007?gh_jid=5243855007"
     },
     {
      "title": "Senior Product Security Engineer",
@@ -1785,7 +1785,7 @@
     {
      "title": "Senior Security Engineer, Identity",
      "posted": "2026-10-06",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
     },
     {
      "title": "Senior Security Engineer, Identity",
@@ -1795,7 +1795,7 @@
     {
      "title": "Senior Security Engineer, Identity",
      "posted": "2026-10-06",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007"
     },
     {
      "title": "Senior Software Engineer (Security)",
@@ -1810,12 +1810,12 @@
     {
      "title": "Senior Software Security Engineer",
      "posted": "2026-11-13",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295094007?gh_jid=5295094007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283017007?gh_jid=5283017007"
     },
     {
      "title": "Senior Software Security Engineer",
      "posted": "2026-11-13",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283017007?gh_jid=5283017007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295094007?gh_jid=5295094007"
     },
     {
      "title": "Senior Software Security Engineer",
@@ -1860,12 +1860,12 @@
     {
      "title": "Vulnerability Security Engineer",
      "posted": "2026-11-17",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298280007?gh_jid=5298280007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298282007?gh_jid=5298282007"
     },
     {
      "title": "Vulnerability Security Engineer",
      "posted": "2026-11-17",
-     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298282007?gh_jid=5298282007"
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298280007?gh_jid=5298280007"
     },
     {
      "title": "Vulnerability Security Engineer",
@@ -2117,7 +2117,7 @@
    "company": "GitLab",
    "ats": "greenhouse",
    "slug": "gitlab",
-   "openPostings": 248,
+   "openPostings": 249,
    "firstHire": [
     {
      "title": "Intermediate Backend Engineer , Security Factory",
@@ -2226,7 +2226,7 @@
    "company": "Vultr",
    "ats": "ashby",
    "slug": "vultr",
-   "openPostings": 78,
+   "openPostings": 79,
    "firstHire": [
     {
      "title": "Senior Security Engineer",
@@ -2340,12 +2340,12 @@
     {
      "title": "Compliance, International Investigations Associate",
      "posted": "2026-11-12",
-     "url": "https://www.coinbase.com/careers/positions/8382718?gh_jid=8382718"
+     "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720"
     },
     {
      "title": "Compliance, International Investigations Associate",
      "posted": "2026-11-12",
-     "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720"
+     "url": "https://www.coinbase.com/careers/positions/8382718?gh_jid=8382718"
     },
     {
      "title": "Compliance Investigations Associate",
@@ -2537,13 +2537,13 @@
     },
     {
      "title": "Cyber Defense Engineer",
-     "posted": "2026-04-27",
-     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7859213"
+     "posted": "2026-09-08",
+     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8185856"
     },
     {
      "title": "Cyber Defense Engineer",
-     "posted": "2026-09-08",
-     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8185856"
+     "posted": "2026-04-27",
+     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7859213"
     }
    ],
    "leaderHiring": [],
