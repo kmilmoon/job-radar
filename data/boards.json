@@ -1,42 +1,134 @@
 [
  {
-  "id": "himalayas-urope-remote",
+  "id": "himalayas-r-protection",
   "source": "himalayas",
-  "track": "alt",
-  "title": "Partnerships Operations Manager - Trading Platform (Europe, Remote)",
-  "company": "GoCharting",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
+  "track": "core",
+  "title": "Head of Compliance & Customer Protection",
+  "company": "Social Discovery Ventures",
+  "location": "Georgia, Kazakhstan, Poland, Serbia, Spain",
   "employment": "Full Time",
-  "posted": "2026-11-18",
-  "url": "https://himalayas.app/companies/gocharting/jobs/partnerships-operations-manager-trading-platform-europe-remote?utm_source=api",
+  "posted": "2026-11-19",
+  "url": "https://himalayas.app/companies/social-discovery-ventures/jobs/head-of-compliance-customer-protection?utm_source=api",
   "compensation": null,
   "tags": [
-   "Partnership-Operations-Manager",
-   "Partnerships-Manager",
-   "Business-Development-Manager",
-   "Sales-Operations-Manager"
+   "Head-Of-Compliance",
+   "Compliance-Director",
+   "Customer-Protection-Director",
+   "Trust-and-Safety-Director",
+   "Moderation-Director"
   ],
-  "excerpt": "About GoChartingGoCharting is a web-native charting and trading platform."
+  "excerpt": "Social Discovery Group (SDG) is a group of social discovery companies."
  },
  {
-  "id": "himalayas-t-home-based",
+  "id": "himalayas-t-ai-trainer",
   "source": "himalayas",
   "track": "alt",
-  "title": "Clinical Writing Regulatory Affairs Consultant - Home based",
-  "company": "Parexel",
-  "location": "Austria, Czechia, Denmark, France, Germany, Hungary, Ireland, Italy, Lithuania, Netherlands, Norway, Poland, Romania, Serbia, Spain, Sweden, Switzerland, United Kingdom",
-  "employment": "Full Time",
+  "title": "Afrikaans Voice Acting Specialist - AI Trainer",
+  "company": "Invisible Technologies",
+  "location": "Worldwide",
+  "employment": "Contractor",
   "posted": "2026-11-18",
-  "url": "https://himalayas.app/companies/parexel/jobs/clinical-writing-regulatory-affairs-consultant-home-based?utm_source=api",
+  "url": "https://himalayas.app/companies/inv/jobs/afrikaans-voice-acting-specialist-ai-trainer?utm_source=api",
   "compensation": null,
   "tags": [
-   "Regulatory-Affairs-Consultant",
-   "Clinical-Writing-Consultant",
-   "Clinical-Regulatory-Writing",
-   "Regulatory-Affairs-Writer",
-   "Regulatory-Affairs-Specialist"
+   "Voice-Acting",
+   "Voice-Over-Artist",
+   "AI-Training",
+   "Language-Services",
+   "Audio-Production",
+   "Voice-AI-Training",
+   "Voice-Audio-AI-Training",
+   "AI-Voice-Talent",
+   "AI-Voice-Acting",
+   "AI-Trainer"
   ],
-  "excerpt": "When our values align, there's no limit to what we can achieve."
+  "excerpt": "Target Profile: Near-Native Proficiency in Afrikaans Project Overview: We're engaging experts in Afrikaans to record short scripted reads."
+ },
+ {
+  "id": "himalayas-te-worldwide",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Program Manager Mining (100% remote Worldwide)",
+  "company": "Tether Operations Limited",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-18",
+  "url": "https://himalayas.app/companies/tether-operations-limited/jobs/program-manager-mining-100-remote-worldwide?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Mining-Program-Management",
+   "Mining-Operations",
+   "Project-Management",
+   "Mining-Engineering",
+   "Remote-Program-Manager",
+   "Remote-Program-Management",
+   "Global-Program-Manager",
+   "Program-Manager"
+  ],
+  "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution."
+ },
+ {
+  "id": "himalayas-ybersecurity",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Technical Product Marketing Manager - Cybersecurity",
+  "company": "Canonical",
+  "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Re",
+  "employment": "Full Time",
+  "posted": "2026-11-18",
+  "url": "https://himalayas.app/companies/canonical/jobs/technical-product-marketing-manager-cybersecurity?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Product-Marketing",
+   "Technical-Product-Marketing",
+   "Cybersecurity",
+   "Demand-Generation",
+   "Technical-Product-Marketing-Manager",
+   "Technical-Marketing-Manager",
+   "Product-Marketing-Manager"
+  ],
+  "excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets."
+ },
+ {
+  "id": "himalayas--ai-security",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Sales Engineer - Data & AI Security",
+  "company": "Veeam Software",
+  "location": "Spain",
+  "employment": "Full Time",
+  "posted": "2026-11-18",
+  "url": "https://himalayas.app/companies/veeam-software/jobs/sales-engineer-data-ai-security?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Sales-Engineering",
+   "Pre-Sales-Engineer",
+   "Data-Security-Sales",
+   "DSPM",
+   "Security-Sales",
+   "Data-and-AI-Security-Sales",
+   "Cybersecurity-Sales-Engineer",
+   "Security-Sales-Engineer",
+   "AI-ML-Sales-Engineer",
+   "AI-Sales-Engineer",
+   "Pre-Sales-Security-Engineer",
+   "Sales-Engineer"
+  ],
+  "excerpt": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale."
+ },
+ {
+  "id": "nodesk-b77013cc01",
+  "source": "nodesk",
+  "track": "core",
+  "title": "Security Engineer at Patreon",
+  "company": "",
+  "location": "",
+  "employment": null,
+  "posted": "2026-11-18",
+  "url": "https://nodesk.co/remote-jobs/patreon-security-engineer/",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Patreon is a media and community platform where over 300,000 creators give their biggest fans access to exclusive work and experiences. We offer creators a variety of ways to engage with their fans and build a lasting business including: paid memberships, free memberships, community chats, live video, and selling to fans directly with one-time purchases. Ultimately our goal is simple: fund the creative class. And we’re leaders in that space, with:"
  },
  {
   "id": "jobgether-05cc3df2",
@@ -51,64 +143,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Governance, Risk, and Compliance (GRC) Specialist based in Spain. This is a fully remote opportunity for an experienced security and compliance professional looking to take ownership of strategic GRC initiatives within an international technology environment. You will play a key role in strengthening the organization's security posture, maintaining regulatory compliance, and building trust with customers and partners. As a senior member of the Information Security and Compliance team, you will lead audits and compliance programs from initial planning through successful completion. You will work closely with engineering, product, leadership, external auditors, and enterprise customers to ensure security requirements are effectively implemented. The role combines hands-on compliance management, risk oversight, stakeholder engagement, and continuous improvement. You will also help anticipate evolving regulatory expectations and scale security practices as the organization grows."
- },
- {
-  "id": "himalayas-ntre-analyst",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Security Operations Centre Analyst",
-  "company": "PM Group",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
-  "employment": "Full Time",
-  "posted": "2026-11-17",
-  "url": "https://himalayas.app/companies/pm-group/jobs/security-operations-centre-analyst?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Security-Operations-Center-Analyst",
-   "SOC-Analyst",
-   "Cybersecurity-Analyst",
-   "Security-Monitoring-Analyst",
-   "Incident-Response-Analyst"
-  ],
-  "excerpt": "Parimatch is aglobal #1 Crypto Sportsbook and Casino company with over 30+ years in betting and gaming industry."
- },
- {
-  "id": "himalayas-ty-ciso-saas",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Head of Security (CISO) - SaaS",
-  "company": "team.blue",
-  "location": "Denmark, Italy, Netherlands, Spain, United Kingdom",
-  "employment": "Full Time",
-  "posted": "2026-11-17",
-  "url": "https://himalayas.app/companies/team-blue/jobs/head-of-security-ciso-saas?utm_source=api",
-  "compensation": null,
-  "tags": [
-   "Chief-Information-Security-Officer",
-   "Head-of-Security",
-   "Information-Security-Director",
-   "Cybersecurity-Director"
-  ],
-  "excerpt": "Companyteam. blue is an ecosystem of 60+ successful PaaS and SaaS brands working together across 22 European countries to provide its 3."
- },
- {
-  "id": "himalayas-pain-virtual",
-  "source": "himalayas",
-  "track": "alt",
-  "title": "Regional Operations Manager EMEA - Pharma Meetings & Events (ES, Spain, Virtual,",
-  "company": "BCD Travel",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
-  "employment": "Full Time",
-  "posted": "2026-11-17",
-  "url": "https://himalayas.app/companies/bcd-travel/jobs/regional-operations-manager-emea-pharma-meetings-events-es-spain-virtual?utm_source=api",
-  "compensation": "EUR 45000-65000",
-  "tags": [
-   "Regional-Operations-Manager",
-   "Operations-Manager",
-   "Event-Operations-Manager",
-   "Meeting-and-Events-Manager"
-  ],
-  "excerpt": "About Us:At BCD Meetings & Events (BCD M&E), we provide more than meeting and event planning services: we create connections that inspire, motivate and change behavior for our customers."
  },
  {
   "id": "jobgether-0e43f4a8",
@@ -228,20 +262,6 @@
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Game Operations Manager based in Spain. Join a fast-growing international technology environment specializing in innovative iGaming solutions and B2B services. In this role, you will play a key part in ensuring the smooth operation, performance, and quality of an online gaming platform. You will oversee game content management, coordinate technical support requests, monitor platform performance, and help resolve operational issues. Working closely with technical, product, and marketing teams, you will contribute to an engaging and reliable gaming experience for end users. You will also analyze operational data, identify improvement opportunities, and support the implementation of new games and providers. This is an exciting opportunity for an iGaming professional looking to take ownership, develop operational expertise, and grow within a dynamic, collaborative, and fully remote team."
  },
  {
-  "id": "gofractional-l-or-full-time-virtual-behavioral-health",
-  "source": "gofractional",
-  "track": "alt",
-  "title": "Fractional Chief Operating Officer",
-  "company": "Betwell Health",
-  "location": "Remote; Remote, United States, United States; United States",
-  "employment": null,
-  "posted": "2026-11-10",
-  "url": "https://www.gofractional.com/job/betwell-health-chief-operating-officer-fractional-or-full-time-virtual-behavioral-health",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Job title: Chief Operating Officer (Fractional or Full-Time) – Virtual Behavioral Health Location: Remote (U.S.) Job type: Fractional/part-time contract, with a path to full-time The role You’ll be our operations partner: building the systems, workflows and team structure that let us grow state by state. This role suits someone who has scaled a behavioral health program before and wants real ownership in an early-stage company. What you’ll do Build and streamline day-to-day operations across intake, scheduling, clinical delivery, documentation and discharge Lead multi-state expansion: state licensing, accreditation (Joint Commission/CARF) and a repeatable launch playbook for each new market Oversee payer contracting, credentialing and revenue cycle in partnership with our billing vendor Optimize our EMR and technology stack for a fully virtual care model Build KPIs and reporting for census, admissions, utilization, collections and outcomes Own compliance operations, including HIPAA, 42 CFR Part 2 and state regulations Support hiring, onboarding and staffing models as the clinical team grows Manage budgets and partner with the founder on strategy and growth What we’re looking for 7+"
- },
- {
   "id": "weworkremotely-15c9dae80d",
   "source": "weworkremotely",
   "track": "alt",
@@ -304,34 +324,6 @@
   "excerpt": "Headquarters: Mexico City, Mexico URL: http://superspeciosa.com Location: Fully remote, based in Colombia, Mexico, or Argentina Compensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience Schedule: Monday-Friday, 9:00 a.m.-5:00 p.m. U.S. Eastern Time, with some flexibility Reports to: CEO, working closely with the COO Commitment: Full-time; no direct reports Openings: One; start as soon as practical About us Super Organics is a portfolio of wellness and supplement brands based in Fort Lauderdale, Florida, including Super Speciosa, a kratom brand. We work with a globally distributed team and affiliated manufacturing and fulfillment operations, with a focus on quality, transparency, and reliable execution. About the role We are hiring a hands-on Supply Chain & Operations Manager to keep products in stock, manage purchasing and production commitments, and deliver measurable savings in packaging, inventory, and shipping. You will build practical planning tools and independently follow through with manufacturers, suppliers, and warehouse teams. You will also coordinate packaging artwork, product launches, and brand-side quality workflows. This "
  },
  {
-  "id": "gofractional--time-contractor-soda-data-workable-jobs",
-  "source": "gofractional",
-  "track": "core",
-  "title": "Fractional Compliance Lead",
-  "company": "Soda Data",
-  "location": "Remote; Remote, United Kingdom, United Kingdom; United Kingdom",
-  "employment": null,
-  "posted": "2026-11-02",
-  "url": "https://www.gofractional.com/job/workable-compliance-lead-part-time-contractor-soda-data-workable-jobs",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "The job We're looking for someone to own Soda's compliance function and keep building it. We've already built a strong foundation: we've been running a SOC 2 cycle since 2021, and have been making strides in automating and professionalizing the entire compliance process in the past year. But we aren't where we want to be yet. You will be pushing this further: maximizing automation and streamlining processes, so we get even better compliance, while minimizing time our engineers and ops team have to spend on manual execution and evidence gathering. Soda's product and operations are evolving at lightning speed. You will be the person to find pragmatic ways to make sure we keep our compliance commitments without slowing us down. If your instinct when you see a manual process is to ask what should be doing this instead of a person, this is a good role for you. What you'll do Build the structure. Roughly half of this job is making compliance at Soda easier and more reliable to run: Push the automation of our compliance program as far as it can go. We've already got a compliance automation platform, lots of controls are already fully or partially automated. Your job is to take that even f"
- },
- {
-  "id": "weworkremotely-689d307a02",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "Autonomous Systems Security Engineer",
-  "company": "Anthropic",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-30",
-  "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Claude is trained and served on hardware in data centers Anthropic operates and in sites partners build and run for us. DCSE secures that footprint: the sites, the hardware moving through them, and the people and vendors who touch it. You'll be the engineer who owns autonomous systems across that footprint as one security domain, from both sides: drones, ground robots and automated vehicles for patrol, inspection and moving hardware, including the security of that automation inside secure areas, and the detection systems that tell us what is flying over or operating near a site uninvited. You set the approach, select and integrate the platforms and sensors, write the requirements vendors build to, and run what you ship, from the operating model where operators assign m"
- },
- {
   "id": "gofractional--white-hat-hacker-fractional-ciso-wanted",
   "source": "gofractional",
   "track": "core",
@@ -374,34 +366,6 @@
   "excerpt": "Headquarters: California URL: https://imerit.ai/ About the opportunity We’re seeking detail-oriented professionals to review AI-generated content and annotated data for accuracy, clarity, and consistency. This role is well suited to candidates with backgrounds in editing, teaching, instructional design, quality assurance, research, or AI data annotation. You will apply detailed written guidelines, identify subtle errors, and explain your decisions clearly. Assignments may include written content, image comparisons, and other evaluation tasks that require sustained focus and independent judgment. What you will do Review AI-generated responses and annotated data against project guidelines and scoring rubrics. Identify errors, inconsistencies, unsupported statements, and cases that require further review. Write clear, specific feedback explaining what is incorrect and how it should be improved. Compare images or video frames to identify subtle visual differences, where required. Maintain consistent judgments across lengthy tasks and multiple documents. Incorporate feedback and participate in calibration exercises to align with project standards. Flag unclear guidelines and recommend i"
  },
  {
-  "id": "weworkremotely-ab5021af4e",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "Lead, Technical Compliance",
-  "company": "Gemini",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-25",
-  "url": "https://weworkremotely.com/remote-jobs/gemini-lead-technical-compliance",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. The Department: Compliance Compliance at Gemini is a team dedicated to managing the next generation of financial crime prevention in a complex and evolving regulatory environment. We are a diverse group of technology, legal, and operational professionals who develop new approaches to solving classic problems using cutting edge tools and processes. The Role: Lead, Technic"
- },
- {
-  "id": "weworkremotely-f087f41ff6",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "Head of Consumer and Lending Compliance",
-  "company": "Gemini",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-25",
-  "url": "https://weworkremotely.com/remote-jobs/gemini-head-of-consumer-and-lending-compliance",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. The Department: Compliance Compliance at Gemini is a team dedicated to managing the next generation of financial crime prevention in a complex and evolving regulatory environment. We are a diverse group of technology, legal, and operational professionals who develop new approaches to solving classic problems using cutting edge tools and processes. The Role: Head of Consu"
- },
- {
   "id": "weworkremotely-59370dbdd0",
   "source": "weworkremotely",
   "track": "core",
@@ -414,20 +378,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Remote (West Coast) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. More broadly, Discord is about empowering people to find belonging in all kinds of communities, and those people trust us to keep their communications safe. Our Platform Security Engineering team protects the systems we use to create Discord, making the “secure way” the “easy way.” We’re looking for an Engineering Manager to lead a team of software engineers in articulating and pursuing the most leveraged opportunities to reduce security risk across Engineering. This team will design and build lovable “paved paths” for managing identities and access, shipping code, configuring cloud infrastructure, and operating services. If you’re an Engineering Manager who’s deeply curious, eager to own technically and socially complex projects, and excited to improve security and privacy at Discord,"
- },
- {
-  "id": "weworkremotely-34bef6dd7d",
-  "source": "weworkremotely",
-  "track": "alt",
-  "title": "Lead Counsel, Public Company Governance & Corporate Programs",
-  "company": "HubSpot ",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-21",
-  "url": "https://weworkremotely.com/remote-jobs/hubspot-lead-counsel-public-company-governance-corporate-programs",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: United States URL: https://www.hubspot.com/ Lead Counsel, Public Company Governance & Corporate Programs Legal Remote - USA POS-20140 The Legal Team HubSpot's Legal team is a proactive, business-enabling partner — not a back-office function. We help our teams move fast, smart, and responsibly, balancing innovation with rigor so HubSpot can scale as a publicly traded, AI-native company while maintaining trust, compliance, and clarity. Role Summary This is a role for a senior governance attorney who has earned the confidence of boards and committees, not just supported them. You will be HubSpot's primary governance lawyer — owning the company's governance policy framework, the NG&S Committee, the operational backbone for all three Board committees, proxy governance and annual meeting, and governance-focused investor engagement. The governance attorney who succeeds here doesn't just maintain recurring programs — they actively improve how those programs work, bringing the same rigor to process design as to legal advice. HubSpot is building an AI-first legal function, and we want someone who sees that as an opportunity to do governance work at a higher level of quality and"
  },
  {
   "id": "gofractional-chief-compliance-officer-cmv126b8",
@@ -444,20 +394,6 @@
    "exclusive"
   ],
   "excerpt": "Overview The company is seeking a fractional Chief Compliance Officer to lead compliance work during a private fund offering and provide ongoing monitoring afterward. The role will help ensure offering and marketing materials, filings, and investor communications meet applicable securities and state notice requirements, while reducing regulatory risk during fundraising. Responsibilities Review, edit, and approve offering documents and marketing materials for regulatory compliance. Ensure the offering complies with Regulation D Rule 506(c) requirements and advise on structural implications, including the non-registered fund structure and the decision not to establish an investment adviser registration. Prepare and file Form D and manage subsequent federal filing requirements. Coordinate and complete state securities notice filings, and advise on state-level registration and notice obligations. Provide timely compliance guidance during fundraising, including spot checks, document signoffs, and redlines. Monitor compliance after closing through periodic reviews of materials, investor communications, and filings. Serve as the primary compliance liaison to company leadership, external p"
- },
- {
-  "id": "weworkremotely-c68001cc34",
-  "source": "weworkremotely",
-  "track": "core",
-  "title": "Director, Information Security",
-  "company": "Carrot",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-10-20",
-  "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at get-carrot.com . The Opportunity Carrot is looking for a Director, Information Security to lead the sec"
  },
  {
   "id": "getonboard-ca-grupo-mariposa-remote",
