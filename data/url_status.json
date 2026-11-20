@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-19T12:17:14+00:00",
+ "checked": "2026-11-20T04:48:24+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
@@ -7,11 +7,11 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4488320305/"
   },
-  "jobs/li-4482092371": {
+  "jobs/li-4490401780": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4482092371/"
+   "url": "https://www.linkedin.com/jobs/view/4490401780/"
   },
   "jobs/web-crossborder-compliancelead": {
    "status": "closed",
@@ -36,12 +36,6 @@
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4489759966/"
-  },
-  "jobs/li-4483451095": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4483451095/"
   },
   "jobs/li-4489340287": {
    "status": "unknown",
@@ -103,18 +97,6 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4488138855/"
   },
-  "jobs/li-4489728895": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4489728895/"
-  },
-  "jobs/li-4489796395": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4489796395/"
-  },
   "jobs/lever-vivenu-17ab4ccd": {
    "status": "open",
    "reason": "Sigue publicada en Lever",
@@ -133,18 +115,6 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4488791786/"
   },
-  "jobs/web-emerchantpay-9ff3cacc": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://apply.workable.com/emerchantpay/jobs/view/9FF3CACC86"
-  },
-  "jobs/li-4468870097": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4468870097/"
-  },
   "jobs/li-4473393070": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
@@ -156,12 +126,6 @@
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4484708988/"
-  },
-  "jobs/gh-bitpanda-4995059101": {
-   "status": "closed",
-   "reason": "Greenhouse ya no la tiene",
-   "http": 404,
-   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
   },
   "jobs/lever-myob-8754cf16": {
    "status": "closed",
@@ -198,12 +162,6 @@
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4489202137/"
-  },
-  "jobs/gofractional--time-contractor-soda-data-workable-jobs": {
-   "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
-   "url": "https://jobs.workable.com/view/kf4BcuPRbEjKzQGwSsn19H/remote-compliance-lead-(part-time%2C-contractor)-in-new-york-at-soda-data"
   },
   "jobs/li-4482317639": {
    "status": "unknown",
@@ -242,9 +200,9 @@
    "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
   },
   "alt/jobgether-1ad693ce": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
    "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884"
   },
   "alt/mercor-compliance-risk-network": {
@@ -259,17 +217,23 @@
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   },
-  "jobs/himalayas-ty-ciso-saas": {
-   "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://himalayas.app/companies/team-blue/jobs/head-of-security-ciso-saas"
-  },
-  "jobs/li-4490401780": {
+  "jobs/li-4490481556": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4490401780/"
+   "url": "https://www.linkedin.com/jobs/view/4490481556/"
+  },
+  "jobs/li-4467836625": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4467836625/"
+  },
+  "jobs/li-4491568872": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4491568872/"
   }
  }
 }

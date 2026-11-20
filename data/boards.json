@@ -1,28 +1,59 @@
 [
  {
-  "id": "himalayas-ity-engineer",
+  "id": "jobgether-45bf4125",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Creative Program Manager",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-19",
+  "url": "https://jobs.lever.co/jobgether/45bf4125-57d5-4b91-912c-2bd3ee4a7f7d",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Creative Program Manager based in Spain. The Creative Program Manager will lead high-priority, cross-functional creative programs, with a primary focus on Shopper marketing assets, retail displays, point-of-sale materials, signage, and packaging production. This role ensures creative projects move smoothly from initial brief and concept development through reviews, approvals, and final artwork delivery. Working closely with Creative, Brand, Innovation, Commercialization, Production, and Shopper teams, you will align creative milestones with product launches and retailer requirements. You will independently manage complex timelines, anticipate risks, and coordinate competing priorities in a fast-paced consumer goods environment. Beyond project execution, you will improve workflows, strengthen collaboration, and mentor colleagues while helping deliver creative work that supports business and brand objectives."
+ },
+ {
+  "id": "himalayas-ance-manager",
   "source": "himalayas",
   "track": "core",
-  "title": "Offensive Security Engineer",
-  "company": "Nebius",
+  "title": "Senior International Privacy Counsel and Compliance Manager",
+  "company": "CONMED",
   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
   "employment": "Full Time",
   "posted": "2026-11-19",
-  "url": "https://himalayas.app/companies/nebius/jobs/offensive-security-engineer?utm_source=api",
+  "url": "https://himalayas.app/companies/conmed/jobs/senior-international-privacy-counsel-and-compliance-manager?utm_source=api",
+  "compensation": "EUR 73400-113800",
+  "tags": [
+   "Privacy-Counsel",
+   "Privacy-Manager",
+   "Compliance-Manager",
+   "Data-Protection-Officer"
+  ],
+  "excerpt": "This position is not eligible for employer-visa sponsorship."
+ },
+ {
+  "id": "himalayas--europe-mena",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Cybersecurity Technical Mentor - Independent Contractor (US Canada, Europe, MENA",
+  "company": "Udacity",
+  "location": "Afghanistan, Albania, Algeria, American Samoa, Andorra, Angola, Antarctica, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bhutan, Bosnia and Herzegovina, Botswana, Bouvet Island, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Burkina Faso, Burun",
+  "employment": "Contractor",
+  "posted": "2026-11-19",
+  "url": "https://himalayas.app/companies/udacity/jobs/cybersecurity-technical-mentor-independent-contractor-us-canada-europe-mena?utm_source=api",
   "compensation": null,
   "tags": [
-   "Offensive-Security-Engineer",
-   "Penetration-Tester",
-   "Red-Team-Engineer",
-   "Security-Researcher",
-   "Application-Security-Engineer",
-   "Offensive-Security-Engineering",
-   "Offensive-Security-Specialist",
-   "Senior-Offensive-Security-Specialist",
-   "Offensive-Security",
-   "Security-Engineer"
+   "Cybersecurity-Mentorship",
+   "Technical-Mentor",
+   "Cybersecurity-Training",
+   "Education",
+   "Technical-Education",
+   "Technical-Cybersecurity-Advisor",
+   "Freelance-Cybersecurity-Educator",
+   "Senior-Cybersecurity-Consultant"
   ],
-  "excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy."
+  "excerpt": "About Us Udacity is now an Accenture company, and exciting things are happening!"
  },
  {
   "id": "weworkremotely-60eada5d97",
@@ -37,6 +68,62 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Remote - US Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. The Opportunity This role provides dedicated legal leadership for Oportun’s multi-state licensing and regulatory examination program, regulatory tracking and reporting and serves as regulatory counsel for the Set & Save product. Success in year one means establishing strong ownership of licensing, reporting, exams and regulator relationships, while providing practical legal guidance that helps the business operate and grow Set & Save within an evolving regulatory landscape. At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in. What "
+ },
+ {
+  "id": "weworkremotely-87af79a17a",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Application Security Engineer",
+  "company": "Dropbox",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-19",
+  "url": "https://weworkremotely.com/remote-jobs/dropbox-application-security-engineer",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote - US: Select locations Role Description As part of the Product Security Engineering team, you’ll focus on reducing risk at scale by building the security infrastructure, automation, and tooling that empowers engineers to ship secure products with confidence. We work closely with engineering and product teams throughout the software development lifecycle (SDLC), embedding secure-by-default practices and delivering scalable solutions. Product Security Engineers create impact by implementing security tooling, writing custom security rules, and building frameworks that address broad classes of vulnerabilities. In addition to proactive development, we support teams through threat modeling, documentation, and education to uplift security culture across Dropbox. Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here . Responsibilities Build and maintain security tools, automation, and libraries to enable secure-by-default development across engineering teams. Design and implement custom security rules (e.g., Semgrep, Cod"
+ },
+ {
+  "id": "weworkremotely-8a34e35e59",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Compliance Analyst",
+  "company": "BeyondTrust",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-19",
+  "url": "https://weworkremotely.com/remote-jobs/beyondtrust-compliance-analyst",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote Canada BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role This is a contract role with the BeyondTrust Trust & Assurance team for 3 months for a full time Compliance Analyst role. As a Compliance Analyst, you will support and enhance our security compliance programs, with a particular focus on vendor risk management, customer trust, and project coordination/management. This role will contribute to the continuous improvement and execution of the Trust & Assurance program, including documentation creation, project tracking, and day to day operational activities. The ideal candidate has a background in GRC, security, or vendor risk, and demonstrates strong oral and written communication skills. They are a critical thinker, highly organized, and adept at managing multiple projects in a fast-paced c"
+ },
+ {
+  "id": "weworkremotely-7a1da532cb",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Staff Security Engineer, Product Security",
+  "company": "Flexport",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-19",
+  "url": "https://weworkremotely.com/remote-jobs/flexport-staff-security-engineer-product-security",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: U.S. Remote About Flexport: At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year. The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us. What You'll Do Architecture & strategy Define security architecture for Flexport's products and services , and set the patterns and reference implementations that make secure-by-default the path of least resistance. Lead security engineering reviews for the highest-risk product features , and set the bar for what \"good\" looks like in reviews you don't personally run."
+ },
+ {
+  "id": "weworkremotely-5990bc7422",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Senior Manager, Platform Security",
+  "company": "Gemini",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-19",
+  "url": "https://weworkremotely.com/remote-jobs/gemini-senior-manager-platform-security",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. The Department: Platform Security In the emerging industry of digital assets, there is nothing more important than trust. The Gemini security team forms the backbone of trust. In fact, Gemini’s very first hires were security specialists and we continue to tackle unique challenges in the crypto space. Our team ensures that our customers, clients, and employees are safe, s"
  },
  {
   "id": "weworkremotely-8758f356a7",
@@ -67,6 +154,20 @@
   "excerpt": "Headquarters: U.S. Remote About Flexport: At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year. The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us. All security disciplines work under the umbrella of the combined PSI (Platform, Security & Infrastructure) team: we build the paved path and tooling that hundreds of engineers around the world rely on every day to ship. Corporate Security owns the estate everyone at Flexport actually touches — the laptops, the identity provider, the SaaS sprawl, the browser. Get it r"
  },
  {
+  "id": "weworkremotely-27da946b73",
+  "source": "weworkremotely",
+  "track": "alt",
+  "title": "Billing Subject Matter Expert- Support",
+  "company": "Elation Health",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-19",
+  "url": "https://weworkremotely.com/remote-jobs/elation-health-billing-subject-matter-expert-support",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Canada - Remote Elation Health is deeply committed to helping independent primary care practices take better care of their patients. Since 2010, we've built a clinical-first, collaborative EHR platform — and with the addition of Elation Billing, we're bringing that same clinical-first philosophy to the revenue side of the practice, so billing works with the chart instead of around it. Elation Health is searching for a Support Subject Matter Expert in Elation Billing — someone who has already done real medical billing and revenue cycle management work, not someone learning it on the job. This is a hands-on, case-based role embedded directly in our support queue: you'll bring practitioner-level RCM judgment to the billing cases our Technical Support Specialists can't fully resolve through process or AI-assisted troubleshooting alone, and you'll help the rest of the team get sharper at spotting those cases in the first place. This isn't a back-office consulting role. You'll be working live cases day to day alongside our support team, diagnosing whether an issue is a product bug, a payer-specific quirk, or a mismatch between how a practice actually operates and how they'v"
+ },
+ {
   "id": "weworkremotely-dc8ea81336",
   "source": "weworkremotely",
   "track": "alt",
@@ -81,24 +182,18 @@
   "excerpt": "Headquarters: Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for the AI era. Powered by trillions of lines of code scans and a proprietary AI-generated remediation engine, the Veracode platform is trusted by organizations worldwide to build and maintain secure software from code creation to cloud deployment. Learn more at www.veracode.com , on the Veracode blog , and on LinkedIn and Twitter . Technical Program Manager, Customer Onboarding Veracode is seeking an experienced Technical Program Manager, Customer Onboarding to lead the customer onboarding program across Enterprise and Commercial customers. Reporting to the Vice President of Customer Success, this senior individual contributor will own the program strategy, governance, and cross-functional execution model for customer onboarding. The role will provide leadership across multiple concurrent deployments, creating visibility into program health, dependencies, risks, capacity, and customer outcomes while driving accountability across C"
  },
  {
-  "id": "himalayas-g-specialist",
-  "source": "himalayas",
+  "id": "nodesk-9fc83dc19b",
+  "source": "nodesk",
   "track": "alt",
-  "title": "Medical Writer - Senior Regulatory Writing Specialist",
-  "company": "Med Communications International",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
-  "employment": "Full Time",
-  "posted": "2026-11-18",
-  "url": "https://himalayas.app/companies/med-communications-international/jobs/medical-writer-senior-regulatory-writing-specialist?utm_source=api",
+  "title": "Revenue Operations Lead at Aspire",
+  "company": "",
+  "location": "",
+  "employment": null,
+  "posted": "2026-11-19",
+  "url": "https://nodesk.co/remote-jobs/aspire-revenue-operations-lead/",
   "compensation": null,
-  "tags": [
-   "Medical-Writer",
-   "Regulatory-Writing",
-   "Senior-Medical-Writer",
-   "Clinical-Documentation-Specialist",
-   "Regulatory-Affairs-Specialist"
-  ],
-  "excerpt": "Medical Writer - Senior Regulatory Writing Specialist ﻿ ﻿POSITIONSUMMARY ﻿The Medical Writer - Senior Regulatory Writing Specialist is a professional responsible for the creation of regulatory materials for investigational and marketed products in alignment with regulatory and compliance practices."
+  "tags": [],
+  "excerpt": "The Role Aspire is seeking a Revenue Operations Lead to own and reshape RevOps across both our agency services and SaaS businesses. This role will own the systems, data, processes, and reporting infrastructure that power our go-to-market organization and support company growth. We are looking for a strategic, hands-on operator who can independently identify business needs, architect solutions, and execute them end-to-end. You will partner cross-functionally with Sales, Marketing, Customer Success, and Finance to build scalable operational processes, improve data integrity, and establish reporting the business can rely on for decision-making."
  },
  {
   "id": "nodesk-b77013cc01",
@@ -218,34 +313,6 @@
   "excerpt": "Formación: Titulado/a o egresado/a de Ingeniería Informática, Seguridad de la Información o carreras afines. Experiencia: 0 a 2 años de experiencia en seguridad de la información, GRC, auditoría TI o roles similares. Conocimientos técnicos: Fundamentos comprobables de ISO 27001, buenas prácticas de seguridad y nociones de protección de datos (normativa LATAM). Herramientas: Manejo de herramientas de ofimática y sistemas de gestión de tickets/evidencia. Nociones de herramientas de escaneo de vulnerabilidades. Idiomas: Inglés intermedio (lectura y escritura), indispensable para documentar y responder cuestionarios de clientes. Tu día a día se enfocará en las siguientes áreas operativas: Políticas y SGSI: Mantener actualizada la documentación del SGSI (control de versiones) y redactar borradores de procedimientos y registros utilizando plantillas existentes. Riesgos y Controles: Levantar y mantener el inventario de activos, recopilar insumos para evaluaciones de riesgo (evidencia, vulnerabilidades) y hacer seguimiento al avance de los planes de tratamiento. Due Diligence y Proveedores: Completar cuestionarios estándar de seguridad de clientes y aplicar checklists de evaluación a prove"
  },
  {
-  "id": "jobgether-1ad693ce",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "AI Operations Lead",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Contract",
-  "posted": "2026-11-12",
-  "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI Operations Lead based in Spain. The AI Operations Lead will take ownership of technical operations projects, transforming manual processes and fragmented workflows into scalable, automated systems. This hands-on role combines operational strategy, technical implementation, and AI-powered innovation within a fast-moving, fully remote environment. You will identify operational challenges, determine the right solutions, and independently build and implement systems that improve efficiency across sales, marketing, client management, and partnerships. Working closely with senior leadership and cross-functional teams, you will drive projects from initial problem identification through implementation, documentation, and long-term adoption. You will leverage automation platforms, CRM systems, APIs, and AI coding tools to deliver practical solutions with measurable business impact. This is an opportunity to shape how a growing international business operates while enjoying significant autonomy and ownership."
- },
- {
-  "id": "jobgether-a71817d2",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Game Operations Manager",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-12",
-  "url": "https://jobs.lever.co/jobgether/a71817d2-168c-4ccf-8ace-758d516e04ab",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Game Operations Manager based in Spain. Join a fast-growing international technology environment specializing in innovative iGaming solutions and B2B services. In this role, you will play a key part in ensuring the smooth operation, performance, and quality of an online gaming platform. You will oversee game content management, coordinate technical support requests, monitor platform performance, and help resolve operational issues. Working closely with technical, product, and marketing teams, you will contribute to an engaging and reliable gaming experience for end users. You will also analyze operational data, identify improvement opportunities, and support the implementation of new games and providers. This is an exciting opportunity for an iGaming professional looking to take ownership, develop operational expertise, and grow within a dynamic, collaborative, and fully remote team."
- },
- {
   "id": "weworkremotely-15c9dae80d",
   "source": "weworkremotely",
   "track": "alt",
@@ -306,6 +373,20 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Mexico City, Mexico URL: http://superspeciosa.com Location: Fully remote, based in Colombia, Mexico, or Argentina Compensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience Schedule: Monday-Friday, 9:00 a.m.-5:00 p.m. U.S. Eastern Time, with some flexibility Reports to: CEO, working closely with the COO Commitment: Full-time; no direct reports Openings: One; start as soon as practical About us Super Organics is a portfolio of wellness and supplement brands based in Fort Lauderdale, Florida, including Super Speciosa, a kratom brand. We work with a globally distributed team and affiliated manufacturing and fulfillment operations, with a focus on quality, transparency, and reliable execution. About the role We are hiring a hands-on Supply Chain & Operations Manager to keep products in stock, manage purchasing and production commitments, and deliver measurable savings in packaging, inventory, and shipping. You will build practical planning tools and independently follow through with manufacturers, suppliers, and warehouse teams. You will also coordinate packaging artwork, product launches, and brand-side quality workflows. This "
+ },
+ {
+  "id": "gofractional-erapeutics-senior-recruiter-contract-931",
+  "source": "gofractional",
+  "track": "alt",
+  "title": "Regulatory Affairs Associate",
+  "company": "4D Molecular Therapeutics",
+  "location": "Remote; Emeryville, California, US; US",
+  "employment": null,
+  "posted": "2026-11-02",
+  "url": "https://www.gofractional.com/job/4d-molecular-therapeutics-senior-recruiter-contract-931",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Open Positions G&A 331000 - IT Enterprise Senior Director, IT Compliance & Governance (Contract), Remote, United States Sr. R&D IT Manager, Emeryville, California 811000 - CEO Administrative Assistant (Contract), Emeryville, California 831000 - Finance Senior Accountant, Emeryville, California Senior Accountant (Contract), Emeryville, California Senior Accountant (R&D), Emeryville, California 841000 - Legal Director, Corporate Counsel, Remote, United States R&D 421000 - Biomarkers & Immunology Scientist II, Emeryville, California 431000 - Clinical Science Executive Medical Director (Retina Program), Remote, United States Vice President, Clinical Development, Remote, United States 432000 - Clinical Operations AD, Clinical Operations (Contract), Remote, United States Senior Clinical Trial Manager (Contract), Remote, United States TMF Quality Specialist (Contract), Emeryville, California 433000 - Data Science Executive Director, Statistical Programming, Remote, United States 451000 - Regulatory Affairs Regulatory Affairs Associate (Contract), Emeryville, California VP, Regulatory Affairs Strategy, Emeryville, California 452000 - Quality Senior Director, Clinical Quality Assurance (CQA"
  },
  {
   "id": "gofractional--white-hat-hacker-fractional-ciso-wanted",
