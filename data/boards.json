@@ -1,5 +1,61 @@
 [
  {
+  "id": "jobgether-6c359bf5",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Senior Director, Cloud Security Strategy & Partner Success",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-20",
+  "url": "https://jobs.lever.co/jobgether/6c359bf5-61da-4616-8f67-434693c1ab03",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Director, Cloud Security Strategy & Partner Success based in Spain. We are seeking a strategic and commercially minded cybersecurity leader to shape cloud security strategy and strengthen partner risk management across the EMEA region. In this senior leadership role, you will translate evolving cyber threats, market intelligence, and business priorities into practical security frameworks and measurable action. You will work across cloud operations, business units, global teams, and external partners to improve governance, prevention, and incident response capabilities. You will also help assess financial exposure to fraud and evaluate investment options for mitigating current and emerging risks. Combining deep security expertise with executive influence and partner engagement, you will drive consistency and accountability across a complex international environment. This is an opportunity to make a broad strategic impact while building stronger security capabilities throughout the partner ecosystem."
+ },
+ {
+  "id": "weworkremotely-1cc04cd031",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Facility Security Officer",
+  "company": "Cribl",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-20",
+  "url": "https://weworkremotely.com/remote-jobs/cribl-facility-security-officer",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote - United States Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd. Why You’ll Love This Role Cribl is hiring a Facility Security Officer to build and manage our industrial security program as our federal business grows. You will serve as Cribl’s appointed FSO of record with the Defense Counterintelligence and Security Agency (DCSA), own the Facility Clearance (FCL) program, and support compliance with the National Industrial Securit"
+ },
+ {
+  "id": "weworkremotely-c0d9818f27",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Manager Security Engineer, Operations",
+  "company": "Fivetran ",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-20",
+  "url": "https://weworkremotely.com/remote-jobs/fivetran-manager-security-engineer-operations",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on. Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions. As we bring our teams an"
+ },
+ {
+  "id": "weworkremotely-4c24d9ff3f",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Senior Platform Security Engineer",
+  "company": "Discord",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-20",
+  "url": "https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote (California, Washington, and Oregon Only) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. More broadly, Discord is about empowering people to find belonging in all kinds of communities, and those people trust us to keep their communications safe. Our Platform Security Engineering team protects the systems we use to create Discord, making the \"secure way\" the \"easy way.\" We're looking for a Senior Engineer to advance this mission through security expertise, software development, and operational excellence, with a particular focus on identity and access management: who and what can access Discord's systems, how they authenticate, and how access stays scoped to what's actually needed. You'll help identify leveraged opportunities to reduce security risk across Engineering, then design and deliver technical solutions: lovable \"paved paths\" for managi"
+ },
+ {
   "id": "jobgether-45bf4125",
   "source": "jobgether",
   "track": "alt",
@@ -14,46 +70,23 @@
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Creative Program Manager based in Spain. The Creative Program Manager will lead high-priority, cross-functional creative programs, with a primary focus on Shopper marketing assets, retail displays, point-of-sale materials, signage, and packaging production. This role ensures creative projects move smoothly from initial brief and concept development through reviews, approvals, and final artwork delivery. Working closely with Creative, Brand, Innovation, Commercialization, Production, and Shopper teams, you will align creative milestones with product launches and retailer requirements. You will independently manage complex timelines, anticipate risks, and coordinate competing priorities in a fast-paced consumer goods environment. Beyond project execution, you will improve workflows, strengthen collaboration, and mentor colleagues while helping deliver creative work that supports business and brand objectives."
  },
  {
-  "id": "himalayas-ance-manager",
+  "id": "himalayas-te-worldwide",
   "source": "himalayas",
-  "track": "core",
-  "title": "Senior International Privacy Counsel and Compliance Manager",
-  "company": "CONMED",
-  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
-  "employment": "Full Time",
-  "posted": "2026-11-19",
-  "url": "https://himalayas.app/companies/conmed/jobs/senior-international-privacy-counsel-and-compliance-manager?utm_source=api",
-  "compensation": "EUR 73400-113800",
-  "tags": [
-   "Privacy-Counsel",
-   "Privacy-Manager",
-   "Compliance-Manager",
-   "Data-Protection-Officer"
-  ],
-  "excerpt": "This position is not eligible for employer-visa sponsorship."
- },
- {
-  "id": "himalayas--europe-mena",
-  "source": "himalayas",
-  "track": "core",
-  "title": "Cybersecurity Technical Mentor - Independent Contractor (US Canada, Europe, MENA",
-  "company": "Udacity",
-  "location": "Afghanistan, Albania, Algeria, American Samoa, Andorra, Angola, Antarctica, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bhutan, Bosnia and Herzegovina, Botswana, Bouvet Island, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Burkina Faso, Burun",
+  "track": "alt",
+  "title": "Music Expert (Music Teacher / Musician) – Remote (Worldwide)",
+  "company": "RemoteJobsOne",
+  "location": "Canada, France, Germany, India, Netherlands, Spain, United Kingdom, United States",
   "employment": "Contractor",
   "posted": "2026-11-19",
-  "url": "https://himalayas.app/companies/udacity/jobs/cybersecurity-technical-mentor-independent-contractor-us-canada-europe-mena?utm_source=api",
-  "compensation": null,
+  "url": "https://himalayas.app/companies/remotejobsone/jobs/music-expert-music-teacher-musician-remote-worldwide?utm_source=api",
+  "compensation": "USD 20-45",
   "tags": [
-   "Cybersecurity-Mentorship",
-   "Technical-Mentor",
-   "Cybersecurity-Training",
-   "Education",
-   "Technical-Education",
-   "Technical-Cybersecurity-Advisor",
-   "Freelance-Cybersecurity-Educator",
-   "Senior-Cybersecurity-Consultant"
+   "Music-Teacher",
+   "Musician",
+   "Music-Instructor",
+   "Audio-Data-Annotation-Specialist"
   ],
-  "excerpt": "About Us Udacity is now an Accenture company, and exciting things are happening!"
+  "excerpt": "IMPORTANT: after you apply, please check your email."
  },
  {
   "id": "weworkremotely-60eada5d97",
@@ -166,20 +199,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Canada - Remote Elation Health is deeply committed to helping independent primary care practices take better care of their patients. Since 2010, we've built a clinical-first, collaborative EHR platform — and with the addition of Elation Billing, we're bringing that same clinical-first philosophy to the revenue side of the practice, so billing works with the chart instead of around it. Elation Health is searching for a Support Subject Matter Expert in Elation Billing — someone who has already done real medical billing and revenue cycle management work, not someone learning it on the job. This is a hands-on, case-based role embedded directly in our support queue: you'll bring practitioner-level RCM judgment to the billing cases our Technical Support Specialists can't fully resolve through process or AI-assisted troubleshooting alone, and you'll help the rest of the team get sharper at spotting those cases in the first place. This isn't a back-office consulting role. You'll be working live cases day to day alongside our support team, diagnosing whether an issue is a product bug, a payer-specific quirk, or a mismatch between how a practice actually operates and how they'v"
- },
- {
-  "id": "weworkremotely-dc8ea81336",
-  "source": "weworkremotely",
-  "track": "alt",
-  "title": "Technical Program Manager, Customer Onboarding",
-  "company": "Veracode",
-  "location": "Anywhere in the World",
-  "employment": "Full-Time",
-  "posted": "2026-11-19",
-  "url": "https://weworkremotely.com/remote-jobs/veracode-technical-program-manager-customer-onboarding",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "Headquarters: Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for the AI era. Powered by trillions of lines of code scans and a proprietary AI-generated remediation engine, the Veracode platform is trusted by organizations worldwide to build and maintain secure software from code creation to cloud deployment. Learn more at www.veracode.com , on the Veracode blog , and on LinkedIn and Twitter . Technical Program Manager, Customer Onboarding Veracode is seeking an experienced Technical Program Manager, Customer Onboarding to lead the customer onboarding program across Enterprise and Commercial customers. Reporting to the Vice President of Customer Success, this senior individual contributor will own the program strategy, governance, and cross-functional execution model for customer onboarding. The role will provide leadership across multiple concurrent deployments, creating visibility into program health, dependencies, risks, capacity, and customer outcomes while driving accountability across C"
  },
  {
   "id": "nodesk-9fc83dc19b",

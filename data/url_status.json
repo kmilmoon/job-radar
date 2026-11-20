@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-20T04:48:24+00:00",
+ "checked": "2026-11-20T12:19:09+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
@@ -104,8 +104,8 @@
    "url": "https://jobs.lever.co/vivenu/17ab4ccd-7b1f-486e-b82f-da87626aa462"
   },
   "jobs/ashby-airwallex-45b2b27f": {
-   "status": "open",
-   "reason": "Sigue en el tablón de Ashby",
+   "status": "unknown",
+   "reason": "API de Ashby ilegible",
    "http": 200,
    "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
   },
