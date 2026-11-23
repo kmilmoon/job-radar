@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-20T12:19:09+00:00",
+ "checked": "2026-11-23T04:53:47+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
@@ -19,11 +19,23 @@
    "http": 404,
    "url": "https://www.careers-page.com/cross-border-talents-86/job/4R6X7XYV"
   },
+  "jobs/weworkremotely-c68001cc34": {
+   "status": "closed",
+   "reason": "La página redirige fuera de la oferta (suele indicar que está cerrada)",
+   "http": 200,
+   "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security"
+  },
   "jobs/gofractional-cambridgespark-fciso": {
    "status": "closed",
    "reason": "La página dice que la oferta está cerrada",
    "http": 200,
    "url": "https://www.gofractional.com/job/cambridge-spark-fractional-ciso-contract-project-based"
+  },
+  "jobs/web-ebury-infosecmanager-leon": {
+   "status": "unknown",
+   "reason": "La página carga, pero no está claro si admite candidaturas",
+   "http": 200,
+   "url": "https://www.welcometothejungle.com/en/companies/ebury-1/jobs/information-security-manager_leon_cw5ed7ua"
   },
   "jobs/gh-bitpanda-5025155101": {
    "status": "open",
@@ -37,6 +49,12 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4489759966/"
   },
+  "jobs/li-4483451095": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4483451095/"
+  },
   "jobs/li-4489340287": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
@@ -48,6 +66,12 @@
    "reason": "La página da error 404",
    "http": 404,
    "url": "https://remotefirstjobs.com/companies/ppro/jobs/head-of-security-governance-risk-compliance-636650"
+  },
+  "jobs/li-4491568872": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4491568872/"
   },
   "jobs/li-4488829665": {
    "status": "unknown",
@@ -91,6 +115,12 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4485813029/"
   },
+  "jobs/li-4490481556": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4490481556/"
+  },
   "jobs/li-4488138855": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
@@ -115,6 +145,12 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4488791786/"
   },
+  "jobs/li-4468870097": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4468870097/"
+  },
   "jobs/li-4473393070": {
    "status": "unknown",
    "reason": "LinkedIn no deja comprobarlo automáticamente",
@@ -126,6 +162,18 @@
    "reason": "LinkedIn no deja comprobarlo automáticamente",
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4484708988/"
+  },
+  "jobs/li-4467836625": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4467836625/"
+  },
+  "jobs/gh-bitpanda-4995059101": {
+   "status": "closed",
+   "reason": "Greenhouse ya no la tiene",
+   "http": 404,
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
   },
   "jobs/lever-myob-8754cf16": {
    "status": "closed",
@@ -169,6 +217,54 @@
    "http": null,
    "url": "https://www.linkedin.com/jobs/view/4482317639/"
   },
+  "jobs/li-4468157596": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4468157596/"
+  },
+  "jobs/li-4490025147": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4490025147/"
+  },
+  "jobs/upwork-cliente-vciso-0221060182": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://www.upwork.com/freelance-jobs/apply/Virtual-CISO-Client-Facing-Security-Leadership-Execution_~022106018230339748244"
+  },
+  "jobs/jobgether-6c359bf5": {
+   "status": "open",
+   "reason": "Sigue publicada en Lever",
+   "http": 200,
+   "url": "https://jobs.lever.co/jobgether/6c359bf5-61da-4616-8f67-434693c1ab03"
+  },
+  "jobs/li-4489493736": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4489493736/"
+  },
+  "jobs/upwork-cliente-soc2typei-0221058094": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://www.upwork.com/freelance-jobs/apply/SOC-Cloud-Security-Consultant-Type-Readiness-Evidence-Audit-Support_~022105809497575776431"
+  },
+  "jobs/li-4490571749": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4490571749/"
+  },
+  "jobs/li-4492179832": {
+   "status": "unknown",
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4492179832/"
+  },
   "alt/workable-simprints-DFE7D289": {
    "status": "closed",
    "reason": "Workable ya no la tiene",
@@ -199,12 +295,6 @@
    "http": 200,
    "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
   },
-  "alt/jobgether-1ad693ce": {
-   "status": "closed",
-   "reason": "Lever ya no la tiene",
-   "http": 404,
-   "url": "https://jobs.lever.co/jobgether/1ad693ce-f1af-4b2c-9d6b-c13d0f0e9884"
-  },
   "alt/mercor-compliance-risk-network": {
    "status": "open",
    "reason": "La página sigue mostrando la opción de aplicar",
@@ -217,23 +307,11 @@
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   },
-  "jobs/li-4490481556": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4490481556/"
-  },
-  "jobs/li-4467836625": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4467836625/"
-  },
-  "jobs/li-4491568872": {
-   "status": "unknown",
-   "reason": "LinkedIn no deja comprobarlo automáticamente",
-   "http": null,
-   "url": "https://www.linkedin.com/jobs/view/4491568872/"
+  "alt/mercor-cybersecurity-it-grc-evaluator": {
+   "status": "closed",
+   "reason": "La página dice que la oferta está cerrada",
+   "http": 200,
+   "url": "https://work.mercor.com/jobs/list_AAABnp6Q5PtA5cPYW7lGm5wO/cybersecurity-it-grc-evaluator"
   }
  }
 }

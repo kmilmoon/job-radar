@@ -1,12 +1,28 @@
 {
- "generatedAt": "2026-11-16T04:56:11+00:00",
+ "generatedAt": "2026-11-23T04:53:34+00:00",
  "counts": {
-  "Vanta": 120,
+  "Vanta": 122,
   "Secureframe": 32,
   "Drata": 0
  },
  "baseline": [],
  "new": [
+  {
+   "vendor": "Vanta",
+   "slug": "assemblyai",
+   "name": "Assemblyai",
+   "url": "https://www.vanta.com/customers/assemblyai",
+   "lastmod": "2026-11-18",
+   "firstSeen": "2026-11-23"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "easy-agile",
+   "name": "Easy Agile",
+   "url": "https://www.vanta.com/customers/easy-agile",
+   "lastmod": "2026-11-18",
+   "firstSeen": "2026-11-23"
+  },
   {
    "vendor": "Vanta",
    "slug": "metluma",
@@ -41,6 +57,20 @@
   }
  ],
  "recentlyUpdated": [
+  {
+   "vendor": "Vanta",
+   "slug": "assemblyai",
+   "name": "Assemblyai",
+   "url": "https://www.vanta.com/customers/assemblyai",
+   "lastmod": "2026-11-18"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "easy-agile",
+   "name": "Easy Agile",
+   "url": "https://www.vanta.com/customers/easy-agile",
+   "lastmod": "2026-11-18"
+  },
   {
    "vendor": "Vanta",
    "slug": "fin",
@@ -96,27 +126,6 @@
    "name": "Upcover",
    "url": "https://www.vanta.com/customers/upcover",
    "lastmod": "2026-10-12"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "codat",
-   "name": "Codat",
-   "url": "https://www.vanta.com/customers/codat",
-   "lastmod": "2026-10-08"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "noventiq",
-   "name": "Noventiq",
-   "url": "https://www.vanta.com/customers/noventiq",
-   "lastmod": "2026-10-08"
-  },
-  {
-   "vendor": "Vanta",
-   "slug": "synthesia",
-   "name": "Synthesia",
-   "url": "https://www.vanta.com/customers/synthesia",
-   "lastmod": "2026-10-08"
   }
  ],
  "note": "new = case studies that appeared since the previous weekly snapshot (empty on the first run of a vendor: that run is the baseline). recentlyUpdated = pages whose sitemap date is in the last 45 days: may be new or just edited, check the page before scoring.",
@@ -375,6 +384,13 @@
   },
   {
    "vendor": "Vanta",
+   "slug": "assemblyai",
+   "name": "Assemblyai",
+   "url": "https://www.vanta.com/customers/assemblyai",
+   "lastmod": "2026-11-18"
+  },
+  {
+   "vendor": "Vanta",
    "slug": "atlassian",
    "name": "Atlassian",
    "url": "https://www.vanta.com/customers/atlassian",
@@ -561,6 +577,13 @@
    "name": "Dust",
    "url": "https://www.vanta.com/customers/dust",
    "lastmod": "2026-10-20"
+  },
+  {
+   "vendor": "Vanta",
+   "slug": "easy-agile",
+   "name": "Easy Agile",
+   "url": "https://www.vanta.com/customers/easy-agile",
+   "lastmod": "2026-11-18"
   },
   {
    "vendor": "Vanta",
