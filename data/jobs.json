@@ -1,5 +1,20 @@
 [
  {
+  "id": "gh-gitlab-8937275002",
+  "company": "GitLab",
+  "ats": "greenhouse",
+  "title": "Senior Threat Research Engineer, Security Factory: Threat Research",
+  "location": "Remote, Israel; Remote, Poland; Remote, United Kingdom",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-24",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937275002",
+  "compensation": null,
+  "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. An overview of this role As a senior researcher in GitLab's Threat Research group, you'll turn emerging security threats into protection for GitLab customers. You'll lead your own research projects, taking ideas from the first question to a working proof of concept, deploying it, and analyzing the results. You'll also keep the detection systems you build running in production. Artificial intelligence (AI) is central to how we work. We bui",
+  "track": "core"
+ },
+ {
   "id": "ashby-taktile-138cae5e",
   "company": "Taktile",
   "ats": "ashby",
@@ -116,7 +131,7 @@
   "posted": "2026-11-20",
   "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5043074101",
   "compensation": null,
-  "excerpt": "About us: The physical and digital worlds are merging. Vehicles, medical devices, industrial systems, critical infrastructure: security hasn't kept pace. AI is accelerating everything, from the capabilities of the systems we depend on to the sophistication of the threats targeting them. A software vulnerability can now have physical consequences. A physical breach can compromise entire digital ecosystems. Billions of devices operate with little to no protection, and traditional approaches can't keep up. Not at this scale, not at this speed, and not across this diversity of systems. Exein exists to solve this. We build the security layer for a world where physical and digital threats are no longer separate problems, from kernel-level runtime protection on embedded devices to cloud-native platforms that analyze, protect, and prove compliance across entire device fleets. We're not patching the old model. We're building security from the core out. Job Overview: We are looking for a Senior Product Marketing Manager to shape how Exein positions, communicates, and brings its technology to market globally. In this role, you will own key product marketing initiatives, translating complex technical capabilities into compelling value propositions, differentiated messaging, and impactful sales and partner enablement materials. Working closely with the VP of Product Marketing, you will drive product launches, competitive intelligence, and go-to-market initiatives, while empowering regional sales teams and OEM/ODM partners across the US, EMEA, and APAC. You will be based remotely on the US East Coast, working closely with our global Marketing teams at HQ in Rome, and in Taipei, and collaborating with cross-functional teams across regions. This is an opportunity for a senior product m",
+  "excerpt": "About us The physical and digital worlds are merging. Vehicles, medical devices, industrial systems, critical infrastructure: security hasn't kept pace. AI is accelerating everything, from the capabilities of the systems we depend on to the sophistication of the threats targeting them. A software vulnerability can now have physical consequences. A physical breach can compromise entire digital ecosystems. Billions of devices operate with little to no protection, and traditional approaches can't keep up. Not at this scale, not at this speed, and not across this diversity of systems. Exein exists to solve this. We build the security layer for a world where physical and digital threats are no longer separate problems, from kernel-level runtime protection on embedded devices to cloud-native platforms that analyze, protect, and prove compliance across entire device fleets. We're not patching the old model. We're building security from the core out. Job Overview We are looking for a Senior Product Marketing Manager to shape how Exein positions, communicates, and brings its technology to market globally. In this role, you will own key product marketing initiatives, translating complex technical capabilities into compelling value propositions, differentiated messaging, and impactful sales and partner enablement materials. Working closely with the VP of Product Marketing, your core responsibilities will be leading product launches, the development of 2027 sales plays and marketing campaigns, and our partner enablement strategy. You will be based remotely on the US East Coast, working closely with our global Marketing teams at HQ in Rome, and in Taipei, and collaborating with cross-functional teams across regions. This is an opportunity for a senior product marketer who understand",
   "track": "core"
  },
  {
@@ -585,21 +600,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5296341007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Technical Program Manager, Security Outcomes",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-11-17",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296341007?gh_jid=5296341007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We are seeking a Technical Program Manager, Security Outcomes to join Anduril’s security outcomes team. You will champion the connective layer between the offensive security engineers who find security issues and the teams responsible for resolving them. ABOUT THE JOB You will own the post engagement outcomes for findings from internal and external offensive security engagements. You will identify or communicate with the affected teams, contribute to vulnerability policy, establish accountable owners, surface blockers, coordinate retesting, and maintain reliable status through verified closure. You will also partner with Offensive Security leadership on testing intake, active assessments, dependencies, and improvements. Offensive Security owns test strategy, technical findings, and validation verdicts; Product Security and affected engineering teams own remediation. You contribute to the pipeline connecting them. This is an individual contributor role with no direct reports. It requires technical fluency, operating judgment, and persistent influ",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5298294007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -610,6 +610,21 @@
   "employment": null,
   "posted": "2026-11-17",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298294007?gh_jid=5298294007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We are seeking a Technical Program Manager, Security Outcomes to join Anduril’s security outcomes team. You will champion the connective layer between the offensive security engineers who find security issues and the teams responsible for resolving them. ABOUT THE JOB You will own the post engagement outcomes for findings from internal and external offensive security engagements. You will identify or communicate with the affected teams, contribute to vulnerability policy, establish accountable owners, surface blockers, coordinate retesting, and maintain reliable status through verified closure. You will also partner with Offensive Security leadership on testing intake, active assessments, dependencies, and improvements. Offensive Security owns test strategy, technical findings, and validation verdicts; Product Security and affected engineering teams own remediation. You contribute to the pipeline connecting them. This is an individual contributor role with no direct reports. It requires technical fluency, operating judgment, and persistent influ",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5296341007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Technical Program Manager, Security Outcomes",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-17",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296341007?gh_jid=5296341007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We are seeking a Technical Program Manager, Security Outcomes to join Anduril’s security outcomes team. You will champion the connective layer between the offensive security engineers who find security issues and the teams responsible for resolving them. ABOUT THE JOB You will own the post engagement outcomes for findings from internal and external offensive security engagements. You will identify or communicate with the affected teams, contribute to vulnerability policy, establish accountable owners, surface blockers, coordinate retesting, and maintain reliable status through verified closure. You will also partner with Offensive Security leadership on testing intake, active assessments, dependencies, and improvements. Offensive Security owns test strategy, technical findings, and validation verdicts; Product Security and affected engineering teams own remediation. You contribute to the pipeline connecting them. This is an individual contributor role with no direct reports. It requires technical fluency, operating judgment, and persistent influ",
   "track": "core"
@@ -630,16 +645,16 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5298282007",
+  "id": "gh-andurilindustries-5296309007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Vulnerability Security Engineer",
-  "location": "Remote",
+  "location": "Costa Mesa, California, United States",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-11-17",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298282007?gh_jid=5298282007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296309007?gh_jid=5296309007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB You will own the intake, technical validation, coordination, and closure of externally reported vulnerabilities. You will validate and if needed, work directly with researchers and identify the engineering, product, infrastructure, or operations teams affected by each finding, then provide those teams with the evidence and context needed to resolve it. You will also assist senior offensive security engineers throughout offensive security engagements; from scoping and target research through execution, reporting, remediation guidance, and retesting. As your technical breadth and judgment grow, you will independently own bounded portions of engagements in your demonstrated areas of strength. This role is designed as a development path to Senior Offensive Security Engineer. It is not a vulnerability management ticket routing position or a reduced scope web testing role. You will be expected to validate attack paths, build practical prototypes and tooling, communicate with technical credibility, and steadily expand into unfamiliar target classes. WHA",
   "track": "core"
@@ -660,16 +675,16 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5296309007",
+  "id": "gh-andurilindustries-5298282007",
   "company": "Anduril",
   "ats": "greenhouse",
   "title": "Vulnerability Security Engineer",
-  "location": "Costa Mesa, California, United States",
+  "location": "Remote",
   "remote": null,
   "workplace": null,
   "employment": null,
   "posted": "2026-11-17",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296309007?gh_jid=5296309007",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298282007?gh_jid=5298282007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB You will own the intake, technical validation, coordination, and closure of externally reported vulnerabilities. You will validate and if needed, work directly with researchers and identify the engineering, product, infrastructure, or operations teams affected by each finding, then provide those teams with the evidence and context needed to resolve it. You will also assist senior offensive security engineers throughout offensive security engagements; from scoping and target research through execution, reporting, remediation guidance, and retesting. As your technical breadth and judgment grow, you will independently own bounded portions of engagements in your demonstrated areas of strength. This role is designed as a development path to Senior Offensive Security Engineer. It is not a vulnerability management ticket routing position or a reduced scope web testing role. You will be expected to validate attack paths, build practical prototypes and tooling, communicate with technical credibility, and steadily expand into unfamiliar target classes. WHA",
   "track": "core"
@@ -1155,36 +1170,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5283017007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Software Security Engineer",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-11-13",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283017007?gh_jid=5283017007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Anduril's Information Security team is looking for a software security engineer to focus on building visibility across Anduril to protect the infrastructure around our advanced defense technology products. This is a role will be responsible for being the technical lead of a security development team focused on building the Anduril Security Data Lake, enabling our partner teams to identify and eradicate threats. WHAT YOU'LL DO Architect and implement log aggregation pipelines for Anduril infrastructure and applications Lead the development and maintenance of a security data lake for centralized security data management Design and implement ELT processes for security data ingestion, transformation, and storage Collaborate with teams to establish best practices for data usage (e.g., search functionality) REQUIRED QUALIFICATIONS Proven track record with developing and implementing data lake architectures and best practices for security data management Experience with tools and processes for large-scale data environments (Spark, DuckDB, etc) Experienc",
-  "track": "core"
- },
- {
-  "id": "gh-andurilindustries-5295096007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Software Security Engineer",
-  "location": "Boston, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-11-13",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295096007?gh_jid=5295096007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Anduril's Information Security team is looking for a software security engineer to focus on building visibility across Anduril to protect the infrastructure around our advanced defense technology products. This is a role will be responsible for being the technical lead of a security development team focused on building the Anduril Security Data Lake, enabling our partner teams to identify and eradicate threats. WHAT YOU'LL DO Architect and implement log aggregation pipelines for Anduril infrastructure and applications Lead the development and maintenance of a security data lake for centralized security data management Design and implement ELT processes for security data ingestion, transformation, and storage Collaborate with teams to establish best practices for data usage (e.g., search functionality) REQUIRED QUALIFICATIONS Proven track record with developing and implementing data lake architectures and best practices for security data management Experience with tools and processes for large-scale data environments (Spark, DuckDB, etc) Experienc",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5295095007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1200,6 +1185,21 @@
   "track": "core"
  },
  {
+  "id": "gh-andurilindustries-5283017007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Software Security Engineer",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-13",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283017007?gh_jid=5283017007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Anduril's Information Security team is looking for a software security engineer to focus on building visibility across Anduril to protect the infrastructure around our advanced defense technology products. This is a role will be responsible for being the technical lead of a security development team focused on building the Anduril Security Data Lake, enabling our partner teams to identify and eradicate threats. WHAT YOU'LL DO Architect and implement log aggregation pipelines for Anduril infrastructure and applications Lead the development and maintenance of a security data lake for centralized security data management Design and implement ELT processes for security data ingestion, transformation, and storage Collaborate with teams to establish best practices for data usage (e.g., search functionality) REQUIRED QUALIFICATIONS Proven track record with developing and implementing data lake architectures and best practices for security data management Experience with tools and processes for large-scale data environments (Spark, DuckDB, etc) Experienc",
+  "track": "core"
+ },
+ {
   "id": "gh-andurilindustries-5295094007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1210,6 +1210,21 @@
   "employment": null,
   "posted": "2026-11-13",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295094007?gh_jid=5295094007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Anduril's Information Security team is looking for a software security engineer to focus on building visibility across Anduril to protect the infrastructure around our advanced defense technology products. This is a role will be responsible for being the technical lead of a security development team focused on building the Anduril Security Data Lake, enabling our partner teams to identify and eradicate threats. WHAT YOU'LL DO Architect and implement log aggregation pipelines for Anduril infrastructure and applications Lead the development and maintenance of a security data lake for centralized security data management Design and implement ELT processes for security data ingestion, transformation, and storage Collaborate with teams to establish best practices for data usage (e.g., search functionality) REQUIRED QUALIFICATIONS Proven track record with developing and implementing data lake architectures and best practices for security data management Experience with tools and processes for large-scale data environments (Spark, DuckDB, etc) Experienc",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5295096007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Software Security Engineer",
+  "location": "Boston, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-13",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295096007?gh_jid=5295096007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Anduril's Information Security team is looking for a software security engineer to focus on building visibility across Anduril to protect the infrastructure around our advanced defense technology products. This is a role will be responsible for being the technical lead of a security development team focused on building the Anduril Security Data Lake, enabling our partner teams to identify and eradicate threats. WHAT YOU'LL DO Architect and implement log aggregation pipelines for Anduril infrastructure and applications Lead the development and maintenance of a security data lake for centralized security data management Design and implement ELT processes for security data ingestion, transformation, and storage Collaborate with teams to establish best practices for data usage (e.g., search functionality) REQUIRED QUALIFICATIONS Proven track record with developing and implementing data lake architectures and best practices for security data management Experience with tools and processes for large-scale data environments (Spark, DuckDB, etc) Experienc",
   "track": "core"
@@ -1410,21 +1425,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5291341007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Head of Operations, Intelligence Systems",
-  "location": "Reston, Virginia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-11-10",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291341007?gh_jid=5291341007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Intelligence Systems (AIS) is focused on positioning Anduril as a lead provider of specialized engineering and products for Intelligence Community (IC) customers. We work within the IC to understand their requirements, shape their concepts of operation, and deliver exquisite capability across their problem set. We aim to develop and deploy critically needed capabilities that address our customers’ most pressing national security requirements. ABOUT THE JOB We are looking for a Head of Operations to join our rapidly growing Intelligence Systems team. In this role you will be responsible for all business operations for the business line you support. Your work will vary from quick-turn operational fire-fighting, to building and redesigning processes, to leading high-impact strategic projects. This role requires you to be a trusted partner to each part of the business, and to work with and support the Division leadership teams to achieve our strategic objectives. WHAT YOU'LL DO Partner to the GM — Serve as the right hand to the General Manag",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5291343007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -1435,6 +1435,21 @@
   "employment": null,
   "posted": "2026-11-10",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291343007?gh_jid=5291343007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Intelligence Systems (AIS) is focused on positioning Anduril as a lead provider of specialized engineering and products for Intelligence Community (IC) customers. We work within the IC to understand their requirements, shape their concepts of operation, and deliver exquisite capability across their problem set. We aim to develop and deploy critically needed capabilities that address our customers’ most pressing national security requirements. ABOUT THE JOB We are looking for a Head of Operations to join our rapidly growing Intelligence Systems team. In this role you will be responsible for all business operations for the business line you support. Your work will vary from quick-turn operational fire-fighting, to building and redesigning processes, to leading high-impact strategic projects. This role requires you to be a trusted partner to each part of the business, and to work with and support the Division leadership teams to achieve our strategic objectives. WHAT YOU'LL DO Partner to the GM — Serve as the right hand to the General Manag",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5291341007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Head of Operations, Intelligence Systems",
+  "location": "Reston, Virginia, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-10",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291341007?gh_jid=5291341007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Intelligence Systems (AIS) is focused on positioning Anduril as a lead provider of specialized engineering and products for Intelligence Community (IC) customers. We work within the IC to understand their requirements, shape their concepts of operation, and deliver exquisite capability across their problem set. We aim to develop and deploy critically needed capabilities that address our customers’ most pressing national security requirements. ABOUT THE JOB We are looking for a Head of Operations to join our rapidly growing Intelligence Systems team. In this role you will be responsible for all business operations for the business line you support. Your work will vary from quick-turn operational fire-fighting, to building and redesigning processes, to leading high-impact strategic projects. This role requires you to be a trusted partner to each part of the business, and to work with and support the Division leadership teams to achieve our strategic objectives. WHAT YOU'LL DO Partner to the GM — Serve as the right hand to the General Manag",
   "track": "alt"
@@ -2115,21 +2130,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5284964007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Analyst, Government Compliance",
-  "location": "Washington, District of Columbia, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-11-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284964007?gh_jid=5284964007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Senior Analyst, Government Compliance to join our dynamic, growing finance team located at our headquarters office in Irvine, CA, Washington, D.C and Ashville, OH. ABOUT THE JOB The Senior Analyst, Government Compliance will support the evaluation of Anduril’s compliance with the six Defense Federal Acquisition Regulation Supplement (DFARS) defined contractor business systems (Accounting, Estimating, Government Property, Purchasing, Material Management and Accounting, and Earned Value Management) as well as Cost Accounting Standards (CAS) and the development of process improvements to comply with these requirements. This position will work closely with the operational teams for each business system to evaluate current processes, provide feedback on compliance with regulations, and provide support for improving processes. This position will play a vital role in reviewing current policies and procedures, processes, and documentation to ensure consistency and compliance across the company. We’re looking for someone who has exce",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5284965007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2140,6 +2140,21 @@
   "employment": null,
   "posted": "2026-11-04",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284965007?gh_jid=5284965007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Senior Analyst, Government Compliance to join our dynamic, growing finance team located at our headquarters office in Irvine, CA, Washington, D.C and Ashville, OH. ABOUT THE JOB The Senior Analyst, Government Compliance will support the evaluation of Anduril’s compliance with the six Defense Federal Acquisition Regulation Supplement (DFARS) defined contractor business systems (Accounting, Estimating, Government Property, Purchasing, Material Management and Accounting, and Earned Value Management) as well as Cost Accounting Standards (CAS) and the development of process improvements to comply with these requirements. This position will work closely with the operational teams for each business system to evaluate current processes, provide feedback on compliance with regulations, and provide support for improving processes. This position will play a vital role in reviewing current policies and procedures, processes, and documentation to ensure consistency and compliance across the company. We’re looking for someone who has exce",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5284964007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Analyst, Government Compliance",
+  "location": "Washington, District of Columbia, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-04",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284964007?gh_jid=5284964007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Senior Analyst, Government Compliance to join our dynamic, growing finance team located at our headquarters office in Irvine, CA, Washington, D.C and Ashville, OH. ABOUT THE JOB The Senior Analyst, Government Compliance will support the evaluation of Anduril’s compliance with the six Defense Federal Acquisition Regulation Supplement (DFARS) defined contractor business systems (Accounting, Estimating, Government Property, Purchasing, Material Management and Accounting, and Earned Value Management) as well as Cost Accounting Standards (CAS) and the development of process improvements to comply with these requirements. This position will work closely with the operational teams for each business system to evaluate current processes, provide feedback on compliance with regulations, and provide support for improving processes. This position will play a vital role in reviewing current policies and procedures, processes, and documentation to ensure consistency and compliance across the company. We’re looking for someone who has exce",
   "track": "core"
@@ -2940,21 +2955,6 @@
   "track": "alt"
  },
  {
-  "id": "gh-andurilindustries-5269746007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Program Manager, Maritime",
-  "location": "Quincy, Massachusetts, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-21",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269746007?gh_jid=5269746007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
-  "track": "alt"
- },
- {
   "id": "gh-andurilindustries-5270947007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -2965,6 +2965,21 @@
   "employment": null,
   "posted": "2026-10-21",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270947007?gh_jid=5270947007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
+  "track": "alt"
+ },
+ {
+  "id": "gh-andurilindustries-5269746007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Program Manager, Maritime",
+  "location": "Quincy, Massachusetts, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-21",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269746007?gh_jid=5269746007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Copperhead team is responsible for the product development of high speed small diameter undersea autunomous vehicles to support across critical commercial and defense mission sets. You'll operate in a fast-paced environment where small empowered teams move with urgency to deliver cutting-edge maritime capabilities from concept to deployment in months, not years. We bias toward action, embrace ambiguity, and expect technical program managers to drive execution with minimal bureaucracy — because the mission and the warfighter can't wait. ABOUT THE JOB We are looking for a motivated Program Manager that is inspired to work within an energetic, creative, and innovative team that is passionate about subsea robotics and exploring the open ocean. We work in a highly dynamic environment where collaboration and complex idea sharing are a way of life. Our next Program Manager will be owning a high profile Copperhead product out of Quincy, MA. WHAT YOU'LL DO Oversee a major program and associated development activities within Anduril’s Copperhead produ",
   "track": "alt"
@@ -3214,9 +3229,9 @@
   "company": "n8n",
   "ats": "ashby",
   "title": "Sr Security Engineer | Remote | Europe",
-  "location": "Berlin, Germany; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Germany; Austria; Finland; Montenegro; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
+  "location": "Germany; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Austria; Finland; Montenegro; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
   "remote": true,
-  "workplace": "Hybrid",
+  "workplace": "Remote",
   "employment": "FullTime",
   "posted": "2026-10-13",
   "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
@@ -3660,21 +3675,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5259071007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Senior Security Engineer, Identity",
-  "location": "Seattle, Washington, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-10-06",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5259072007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -3685,6 +3685,21 @@
   "employment": null,
   "posted": "2026-10-06",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259072007?gh_jid=5259072007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5259071007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Senior Security Engineer, Identity",
+  "location": "Seattle, Washington, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-10-06",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259071007?gh_jid=5259071007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Security Engineering team is looking for a Security Engineer to focus on Identity and Access Management and build and maintain world class defensive controls to protect the systems we use to build our advanced defense technology products. WHAT YOU'LL DO Build an identity engine that powers the whole company and supercharges our security program Create applications that enable and enforce our identity framework across the company Develop integrations that unify identities across IdPs, cloud providers, SaaS tools, and internal systems Automate identity lifecycle operations: provisioning, access reviews, offboarding Collaborate with other IAM engineers and partner teams to define architecture and ship iteratively REQUIRED QUALIFICATIONS Strong programming ability in one or more general purpose languages (Go, Rust, etc) Experience with one or more infrastructure as code languages (e.g., Terraform, AWS CDK) in a production capacity Experience with identity protocols (SAML, OIDC, SCIM, OAuth) or identity providers (Okta, Azure AD, etc.) Prov",
   "track": "core"
@@ -6510,21 +6525,6 @@
   "track": "core"
  },
  {
-  "id": "gh-andurilindustries-5042718007",
-  "company": "Anduril",
-  "ats": "greenhouse",
-  "title": "Product Security Engineer, Programs",
-  "location": "Costa Mesa, California, United States",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-02-04",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
-  "compensation": null,
-  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor",
-  "track": "core"
- },
- {
   "id": "gh-andurilindustries-5041620007",
   "company": "Anduril",
   "ats": "greenhouse",
@@ -6535,6 +6535,21 @@
   "employment": null,
   "posted": "2026-02-04",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007",
+  "compensation": null,
+  "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor",
+  "track": "core"
+ },
+ {
+  "id": "gh-andurilindustries-5042718007",
+  "company": "Anduril",
+  "ats": "greenhouse",
+  "title": "Product Security Engineer, Programs",
+  "location": "Costa Mesa, California, United States",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-02-04",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007",
   "compensation": null,
   "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a mid-senior level product security engineer to own security for assigned products in your technical domain, provide expert consultation on security architectures, guide implementation of security features, develop solutions engineering for complex security challenges, and ultimately secure our suite of advanced technologies including artificial intelligence systems, command and control platforms, aerospace vehicles, and long range sensors. The ideal candidate has a background in electrical or software engineering, with a focus on platform security, or has pivoted to a product or application security role. They will be able to conduct complex security architecture reviews, research and mitigate exploits against hardware and software, and work with other engineering teams to build resiliency into our products. ABOUT THE JOB WHAT YOU’LL DO Owns the development and maturation of security features for Anduril’s products Collaborates and builds solutions with engineering teams to meet and exceed industry-standard security goals Collabor",
   "track": "core"

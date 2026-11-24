@@ -1,5 +1,33 @@
 [
  {
+  "id": "weworkremotely-ccb6802c3e",
+  "source": "weworkremotely",
+  "track": "alt",
+  "title": "Chief of Staff Director, Product",
+  "company": "Affirm",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-24",
+  "url": "https://weworkremotely.com/remote-jobs/affirm-chief-of-staff-director-product",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Product team The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision. About the role The Chief of Staff to the SVP of Product is the strategic thought partner and proxy to the leader. The role exists to scale the product leadership function: by anchoring on the leveraged people problems most central to the org, by owning the external product narrative end-to-end, and by being on point for strategic bets that need a single accountable owner (ex: AI enablement, special projects). The end goal is a healthy Product org with pillar leads running independently at high"
+ },
+ {
+  "id": "weworkremotely-868e16cec6",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Staff Platform Security Engineer",
+  "company": "Gemini",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-24",
+  "url": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact. The Department: Platform Security The Platform Security team secures Gemini’s infrastructure through service hardening and by developing and supporting a suite of foundational tools. We provide secure-by-default infrastructure, consumable security services, and expert consultation to engineering teams for secure cloud and non-cloud infrastructure. The Role: Staff Platfor"
+ },
+ {
   "id": "jobgether-65e7c5cf",
   "source": "jobgether",
   "track": "core",
@@ -12,6 +40,28 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Information Security Lead based in Spain (Fully Remote). The Information Security Lead will take end-to-end ownership of information security, protecting sensitive data, digital infrastructure, and customer trust within a fast-growing technology environment. Reporting to the Head of Infrastructure, this hands-on role will oversee security across cloud infrastructure, employee devices, identities, third-party vendors, and product development systems. The successful candidate will establish scalable security controls, manage organizational risks, and drive vulnerability prevention and incident response. A strong focus will be placed on automation, identity management, continuous security testing, and practical risk mitigation. Working closely with engineering, IT, leadership, and external security partners, this professional will strengthen the organization's overall security posture. This is an opportunity to build and lead a comprehensive security function while protecting a platform used by millions of families worldwide."
+ },
+ {
+  "id": "himalayas-ions-manager",
+  "source": "himalayas",
+  "track": "alt",
+  "title": "Operations Manager",
+  "company": "Syd Life AI",
+  "location": "Worldwide",
+  "employment": "Contractor",
+  "posted": "2026-11-23",
+  "url": "https://himalayas.app/companies/syd-life-ai/jobs/operations-manager?utm_source=api",
+  "compensation": "USD 30000-70000",
+  "tags": [
+   "Operations-Manager",
+   "Business-Operations-Manager",
+   "Operations-Service-Manager",
+   "Operations-Support-Manager",
+   "Office-Operations-Manager",
+   "Operations",
+   "Operations-Lead"
+  ],
+  "excerpt": "About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living ."
  },
  {
   "id": "weworkremotely-53ec4173ff",
