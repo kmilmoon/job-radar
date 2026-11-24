@@ -80,11 +80,6 @@
   "url": "https://www.linkedin.com/jobs/view/4486635782/"
  },
  {
-  "id": "web-maisa-grcsecuritylead",
-  "coll": "jobs",
-  "url": "https://talents.vaia.com/companies/maisa-ai/grc-and-security-lead-spain-remote-33033426/"
- },
- {
   "id": "web-aidigital-headofsecurity",
   "coll": "jobs",
   "url": "https://www.aidigital.com/vacancies/head-of-security"
@@ -93,11 +88,6 @@
   "id": "li-4485813029",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4485813029/"
- },
- {
-  "id": "li-4490481556",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4490481556/"
  },
  {
   "id": "li-4488138855",
@@ -130,19 +120,19 @@
   "url": "https://www.linkedin.com/jobs/view/4473393070/"
  },
  {
+  "id": "li-4492179832",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4492179832/"
+ },
+ {
   "id": "li-4484708988",
   "coll": "jobs",
   "url": "https://www.linkedin.com/jobs/view/4484708988/"
  },
  {
-  "id": "li-4467836625",
+  "id": "upwork-cliente-soc2typei-0221058094",
   "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4467836625/"
- },
- {
-  "id": "gh-bitpanda-4995059101",
-  "coll": "jobs",
-  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995059101"
+  "url": "https://www.upwork.com/freelance-jobs/apply/SOC-Cloud-Security-Consultant-Type-Readiness-Evidence-Audit-Support_~022105809497575776431"
  },
  {
   "id": "lever-myob-8754cf16",
@@ -185,41 +175,6 @@
   "url": "https://www.linkedin.com/jobs/view/4468157596/"
  },
  {
-  "id": "li-4490025147",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4490025147/"
- },
- {
-  "id": "upwork-cliente-vciso-0221060182",
-  "coll": "jobs",
-  "url": "https://www.upwork.com/freelance-jobs/apply/Virtual-CISO-Client-Facing-Security-Leadership-Execution_~022106018230339748244"
- },
- {
-  "id": "jobgether-6c359bf5",
-  "coll": "jobs",
-  "url": "https://jobs.lever.co/jobgether/6c359bf5-61da-4616-8f67-434693c1ab03"
- },
- {
-  "id": "li-4489493736",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4489493736/"
- },
- {
-  "id": "upwork-cliente-soc2typei-0221058094",
-  "coll": "jobs",
-  "url": "https://www.upwork.com/freelance-jobs/apply/SOC-Cloud-Security-Consultant-Type-Readiness-Evidence-Audit-Support_~022105809497575776431"
- },
- {
-  "id": "li-4490571749",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4490571749/"
- },
- {
-  "id": "li-4492179832",
-  "coll": "jobs",
-  "url": "https://www.linkedin.com/jobs/view/4492179832/"
- },
- {
   "id": "workable-simprints-DFE7D289",
   "coll": "alt",
   "url": "https://apply.workable.com/simprints/j/DFE7D289AA/"
@@ -240,6 +195,11 @@
   "url": "https://www.darwinrecruitment.com/job/7483222485820-ai-governancy-and-privacy-operations/"
  },
  {
+  "id": "aitrainer-ethos-grc-expert",
+  "coll": "alt",
+  "url": "https://aitrainer.work/jobs/ethos/cybersecurity-it-grc-specialist-expert"
+ },
+ {
   "id": "shiny-fractional-coo",
   "coll": "alt",
   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
@@ -255,8 +215,13 @@
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  },
  {
-  "id": "mercor-cybersecurity-it-grc-evaluator",
+  "id": "teamtailor-arcanys-8669034",
+  "coll": "jobs",
+  "url": "https://careers.arcanys.com/jobs/8669034-fractional-ciso"
+ },
+ {
+  "id": "upwork-cliente-groupintegrator-0220963186",
   "coll": "alt",
-  "url": "https://work.mercor.com/jobs/list_AAABnp6Q5PtA5cPYW7lGm5wO/cybersecurity-it-grc-evaluator"
+  "url": "https://www.upwork.com/jobs/~022096318600510727867"
  }
 ]
