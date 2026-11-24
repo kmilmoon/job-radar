@@ -1,5 +1,33 @@
 [
  {
+  "id": "jobgether-65e7c5cf",
+  "source": "jobgether",
+  "track": "core",
+  "title": "Information Security Lead",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-23",
+  "url": "https://jobs.lever.co/jobgether/65e7c5cf-dee9-4891-98de-cc94e3d00993",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Information Security Lead based in Spain (Fully Remote). The Information Security Lead will take end-to-end ownership of information security, protecting sensitive data, digital infrastructure, and customer trust within a fast-growing technology environment. Reporting to the Head of Infrastructure, this hands-on role will oversee security across cloud infrastructure, employee devices, identities, third-party vendors, and product development systems. The successful candidate will establish scalable security controls, manage organizational risks, and drive vulnerability prevention and incident response. A strong focus will be placed on automation, identity management, continuous security testing, and practical risk mitigation. Working closely with engineering, IT, leadership, and external security partners, this professional will strengthen the organization's overall security posture. This is an opportunity to build and lead a comprehensive security function while protecting a platform used by millions of families worldwide."
+ },
+ {
+  "id": "weworkremotely-53ec4173ff",
+  "source": "weworkremotely",
+  "track": "alt",
+  "title": "Network Operations Manager, Contracting",
+  "company": "Maven Clinic",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-23",
+  "url": "https://weworkremotely.com/remote-jobs/maven-clinic-network-operations-manager-contracting",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: New York, New York, United States; Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best"
+ },
+ {
   "id": "weworkremotely-e534e1d3ae",
   "source": "weworkremotely",
   "track": "core",
@@ -28,6 +56,20 @@
   "excerpt": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase . As a Senior Associate on the Compliance team, you'll support the implementation and execution of Coinbase Canada's compliance program, covering AML/ATF, KYC, sanctions, transaction monitoring, and regulatory reporting under FINTRAC guidelines. This team ensures Coinbase Canada meets its regulatory obligations as the business grows and expands across new products and services. You'll partner with the Canada Chief Compliance Officer to strengthen controls, manage compliance cases, and drive reporting and process improvements that keep Coinbase Canada ahead of evolvin"
  },
  {
+  "id": "weworkremotely-9d3f750a90",
+  "source": "weworkremotely",
+  "track": "core",
+  "title": "Senior Manager, Application Security",
+  "company": "MetaMask",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-23",
+  "url": "https://weworkremotely.com/remote-jobs/metamask-senior-manager-application-security",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: EMEA - Remote Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system for your money: one place to hold, move, grow, and use anything you own. Join a remote-first, global team rebuilding how money works: a problem that touches everyone, every day. About the role MetaMask is a self-custody wallet that does not hold users’ private keys. Blockchain transactions are generally irreversible, meaning a vulnerability in the product or its software delivery chain can lead directly to financial losses for users. As a result, MetaMask attracts sustained attention from financially motivated attackers and sophisticated supply chain actors. We are looking for a Senior Manager, Application Security to lead application security acros"
+ },
+ {
   "id": "weworkremotely-47e1c92d07",
   "source": "weworkremotely",
   "track": "core",
@@ -54,6 +96,20 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Remote - US About the Job: LaunchDarkly's Governance, Risk, and Compliance team is hiring a Security Analyst III to facilitate the definition, implementation, and operation of security and privacy programs at LaunchDarkly. LaunchDarkly is critical infrastructure. Our security team keeps it safe for the global systems that depend on us and the GRC team demonstrates that to earn the trust of our customers. As a member of the team, you'll drive initiatives to assess and reduce security risks to the company, advise stakeholders, and maintain compliance with the frameworks that we adhere to including ISO 27001, SOC 2 Type II, and FedRAMP. You'll report to the Director of Security and partner closely with stakeholders in Legal, Revenue, and other members of our security team. We expect you to bring a sharp point of view on where AI can take work off the team's plate and make our coverage deeper. Responsibilities: Collaborate with stakeholders to design and operate security controls that comprise the LaunchDarkly GRC program Use technology to automate compliance activities like gathering evidence and verifying controls Operationalize the health and maturity of the program by"
+ },
+ {
+  "id": "gofractional-atomic-invest-fractional-compliance",
+  "source": "gofractional",
+  "track": "core",
+  "title": "Fractional Compliance Analyst",
+  "company": "Atomic Invest",
+  "location": "Remote; United States, US; US",
+  "employment": null,
+  "posted": "2026-11-23",
+  "url": "https://www.gofractional.com/job/atomic-invest-fractional-compliance",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "About the role We're looking for a fractional Compliance Analyst to support Atomic's Compliance team on a part-time basis (approximately 15–20 hours per week). You'll handle day-to-day compliance functions including marketing and advertising review, vendor and partner onboarding due diligence, electronic communications surveillance, and employee brokerage account and personal trading monitoring. You'll work closely with the Head of Compliance and the broader Legal and Operations teams to keep our broker-dealer in good standing. Engagement Details Commitment: Flexible, hourly engagement. Ideally approximately 15–20 hours per week, but hours can vary based on business needs and mutual availability. Location: US Structure: Fractional / 1099 contractor engagement. Key Responsibilities Review marketing materials, advertising content, and customer-facing communications for compliance with FINRA rules, SEC regulations, and internal policies before publication. Conduct due diligence on new vendors and partners as part of the onboarding process, ensuring they meet the firm's compliance and risk standards. Perform electronic communications surveillance, reviewing emails, messaging, and other"
  },
  {
   "id": "weworkremotely-ef1664b622",
@@ -334,48 +390,6 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Governance, Risk, and Compliance (GRC) Specialist based in Spain. This is a fully remote opportunity for an experienced security and compliance professional looking to take ownership of strategic GRC initiatives within an international technology environment. You will play a key role in strengthening the organization's security posture, maintaining regulatory compliance, and building trust with customers and partners. As a senior member of the Information Security and Compliance team, you will lead audits and compliance programs from initial planning through successful completion. You will work closely with engineering, product, leadership, external auditors, and enterprise customers to ensure security requirements are effectively implemented. The role combines hands-on compliance management, risk oversight, stakeholder engagement, and continuous improvement. You will also help anticipate evolving regulatory expectations and scale security practices as the organization grows."
- },
- {
-  "id": "jobgether-0e43f4a8",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Digital Program Lead - B2B SaaS",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-16",
-  "url": "https://jobs.lever.co/jobgether/0e43f4a8-d72e-4319-af85-e7578edca9c5",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Digital Program Lead – B2B SaaS based in Spain. As Digital Program Lead, you will oversee the end-to-end delivery of digital marketing campaigns for a global enterprise SaaS organization across the EMEA region. You will combine hands-on campaign execution with structured programme management to ensure initiatives are delivered accurately, efficiently and on schedule. Working with regional and central marketing teams, you will coordinate campaign assets, localization, approvals and launches across multiple channels. You will maintain high delivery standards through rigorous quality assurance and proactive management of timelines, dependencies and competing priorities. You will also monitor campaign performance, identify opportunities for improvement and help resolve operational challenges. This is an opportunity to contribute to large-scale B2B marketing programmes in an international, fast-paced and fully remote environment."
- },
- {
-  "id": "jobgether-96df9cfe",
-  "source": "jobgether",
-  "track": "alt",
-  "title": "Partnerships Operations Manager - Trading Platform",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-16",
-  "url": "https://jobs.lever.co/jobgether/96df9cfe-eb96-461e-a1f9-b496faec2550",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Partnerships Operations Manager - Trading Platform based in Spain. This is an exciting opportunity for a partnership operations professional to manage and optimize relationships across a growing international trading technology ecosystem. You will oversee the entire inbound partnership process, handling opportunities involving technology integrations, brokers, data providers, creators, media, affiliates, and resellers. Combining relationship management with operational execution, you will qualify opportunities, coordinate onboarding, negotiate smaller partnership agreements, and ensure consistent follow-through. You will also own the partnership CRM, maintaining accurate records and building a reliable pipeline for future growth. Working with colleagues across Europe, the United States, and India, you will play a central role in strengthening partnerships and improving operational efficiency."
- },
- {
-  "id": "jobgether-647b001b",
-  "source": "jobgether",
-  "track": "core",
-  "title": "Quality Manager, Vendor Compliance",
-  "company": "Jobgether (empresa oculta)",
-  "location": "Spain; Spain",
-  "employment": "Full-time",
-  "posted": "2026-11-16",
-  "url": "https://jobs.lever.co/jobgether/647b001b-94fc-48c9-8de3-3faa8a633e3d",
-  "compensation": null,
-  "tags": [],
-  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Quality Manager, Vendor Compliance based in Spain. We are looking for a Quality Manager, Vendor Compliance to oversee supplier quality, food safety, and regulatory compliance across a network of ingredient suppliers, manufacturing partners, and fulfillment facilities. You will own the quality systems and processes that ensure materials and finished products consistently meet established standards. Working closely with Procurement, Regulatory, R&D, and Supply Chain, you will lead supplier qualification, audits, risk assessments, and corrective action programs. You will also manage ingredient verification, quality documentation, and supplier performance monitoring to identify and address potential issues proactively. This role combines hands-on quality oversight with strategic supplier partnerships and continuous improvement initiatives. You will contribute to a collaborative, fast-moving environment where product integrity, accountability, and consumer trust are essential."
  },
  {
   "id": "getonboard-alyst-i-lemontech-remote",
