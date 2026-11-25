@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-24T14:24:22+00:00",
+ "checked": "2026-11-25T04:52:32+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
@@ -80,9 +80,9 @@
    "url": "https://www.linkedin.com/jobs/view/4488829665/"
   },
   "jobs/jobgether-05cc3df2": {
-   "status": "open",
-   "reason": "Sigue publicada en Lever",
-   "http": 200,
+   "status": "closed",
+   "reason": "Lever ya no la tiene",
+   "http": 404,
    "url": "https://jobs.lever.co/jobgether/05cc3df2-e66c-43c9-9d9b-aa9031fc026f"
   },
   "jobs/li-4483987204": {
@@ -120,6 +120,12 @@
    "reason": "Sigue publicada en Lever",
    "http": 200,
    "url": "https://jobs.lever.co/vivenu/17ab4ccd-7b1f-486e-b82f-da87626aa462"
+  },
+  "jobs/himalayas-canonical-grcmanager": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://himalayas.app/companies/canonical/jobs/security-governance-risk-and-compliance-grc-manager"
   },
   "jobs/ashby-airwallex-45b2b27f": {
    "status": "unknown",
@@ -241,17 +247,23 @@
    "http": 200,
    "url": "https://aitrainer.work/jobs/ethos/cybersecurity-it-grc-specialist-expert"
   },
+  "alt/upwork-cliente-groupintegrator-0220963186": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://www.upwork.com/jobs/~022096318600510727867"
+  },
   "alt/shiny-fractional-coo": {
    "status": "closed",
    "reason": "La página redirige fuera de la oferta (suele indicar que está cerrada)",
    "http": 200,
    "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
   },
-  "alt/mercor-compliance-risk-network": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
-   "http": 200,
-   "url": "https://work.mercor.com/jobs/list_AAABnJ0Tj07Vgzf7imVMBZB6/compliance-risk-specialist-talent-network"
+  "alt/himalayas-clera-safetytesting": {
+   "status": "unknown",
+   "reason": "La página respondió 403",
+   "http": 403,
+   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-safety-testing-expert-5-years"
   },
   "alt/jobgether-a80049aa": {
    "status": "closed",
@@ -259,17 +271,17 @@
    "http": 404,
    "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
   },
-  "jobs/teamtailor-arcanys-8669034": {
-   "status": "open",
-   "reason": "La página sigue mostrando la opción de aplicar",
-   "http": 200,
-   "url": "https://careers.arcanys.com/jobs/8669034-fractional-ciso"
+  "jobs/li-4493741213": {
+   "status": "closed",
+   "reason": "Workable ya no la tiene",
+   "http": 404,
+   "url": "https://apply.workable.com/jointriple/j/180ECFC07C/"
   },
-  "alt/upwork-cliente-groupintegrator-0220963186": {
+  "jobs/li-4493617814": {
    "status": "unknown",
-   "reason": "La página respondió 403",
-   "http": 403,
-   "url": "https://www.upwork.com/jobs/~022096318600510727867"
+   "reason": "LinkedIn no deja comprobarlo automáticamente",
+   "http": null,
+   "url": "https://www.linkedin.com/jobs/view/4493617814/"
   }
  }
 }
