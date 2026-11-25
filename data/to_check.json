@@ -100,6 +100,11 @@
   "url": "https://jobs.lever.co/vivenu/17ab4ccd-7b1f-486e-b82f-da87626aa462"
  },
  {
+  "id": "himalayas-canonical-grcmanager",
+  "coll": "jobs",
+  "url": "https://himalayas.app/companies/canonical/jobs/security-governance-risk-and-compliance-grc-manager"
+ },
+ {
   "id": "ashby-airwallex-45b2b27f",
   "coll": "jobs",
   "url": "https://jobs.ashbyhq.com/airwallex/45b2b27f-8ead-45b5-b286-34e7076a6013"
@@ -200,14 +205,19 @@
   "url": "https://aitrainer.work/jobs/ethos/cybersecurity-it-grc-specialist-expert"
  },
  {
+  "id": "upwork-cliente-groupintegrator-0220963186",
+  "coll": "alt",
+  "url": "https://www.upwork.com/jobs/~022096318600510727867"
+ },
+ {
   "id": "shiny-fractional-coo",
   "coll": "alt",
   "url": "https://useshiny.com/job/fractional-coo-for-startups-madrid-wfh-4/"
  },
  {
-  "id": "mercor-compliance-risk-network",
+  "id": "himalayas-clera-safetytesting",
   "coll": "alt",
-  "url": "https://work.mercor.com/jobs/list_AAABnJ0Tj07Vgzf7imVMBZB6/compliance-risk-specialist-talent-network"
+  "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-safety-testing-expert-5-years"
  },
  {
   "id": "jobgether-a80049aa",
@@ -215,13 +225,13 @@
   "url": "https://jobs.lever.co/jobgether/a80049aa-5bc2-446b-b79a-c984e422cf6f"
  },
  {
-  "id": "teamtailor-arcanys-8669034",
+  "id": "li-4493741213",
   "coll": "jobs",
-  "url": "https://careers.arcanys.com/jobs/8669034-fractional-ciso"
+  "url": "https://apply.workable.com/jointriple/j/180ECFC07C/"
  },
  {
-  "id": "upwork-cliente-groupintegrator-0220963186",
-  "coll": "alt",
-  "url": "https://www.upwork.com/jobs/~022096318600510727867"
+  "id": "li-4493617814",
+  "coll": "jobs",
+  "url": "https://www.linkedin.com/jobs/view/4493617814/"
  }
 ]
