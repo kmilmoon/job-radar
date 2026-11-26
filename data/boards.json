@@ -1,5 +1,33 @@
 [
  {
+  "id": "jobgether-1cf44ee6",
+  "source": "jobgether",
+  "track": "alt",
+  "title": "Operations Director",
+  "company": "Jobgether (empresa oculta)",
+  "location": "Spain; Spain",
+  "employment": "Full-time",
+  "posted": "2026-11-26",
+  "url": "https://jobs.lever.co/jobgether/1cf44ee6-208a-478f-8d7b-2cb3832b579a",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Operations Director based in Spain. As Operations Director, you will play a pivotal role in scaling an innovative AgTech business combining artificial intelligence, computer vision, and agricultural technology. You will lead the company's operational strategy, oversee a diverse portfolio of commercial, R&D, and strategic partnership projects, and drive sustainable business growth. Working in an international environment, you will collaborate with customers, research institutions, technology providers, and internal teams across Europe and North America. You will take ownership of operational excellence, customer success, and cross-functional delivery while helping transform innovative solutions into scalable commercial opportunities. This is an exciting opportunity to shape processes, develop new business directions, and contribute to the future of data-driven agriculture."
+ },
+ {
+  "id": "nodesk-3de503a197",
+  "source": "nodesk",
+  "track": "alt",
+  "title": "Partner Marketing Program Manager at Sumo Logic",
+  "company": "",
+  "location": "",
+  "employment": null,
+  "posted": "2026-11-26",
+  "url": "https://nodesk.co/remote-jobs/sumo-logic-partner-marketing-program-manager/",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Sumo Logic is seeking a highly organized, analytical, and process-driven Partner Marketing Program Manager to support the growth and operational effectiveness of our global partner marketing organization. This role will be responsible for managing the systems, processes, and governance that power our partner marketing programs, with a primary focus on our Partner Relationship Management (PRM) platform, Market Development Funds (MDF), partner program operations, and performance reporting. The ideal candidate brings experience in B2B technology channel marketing, understands the complexities of working with MSSPs, VARs, and distributors, and thrives on building scalable processes that improve efficiency, accountability, and business impact."
+ },
+ {
   "id": "jobgether-031238a4",
   "source": "jobgether",
   "track": "alt",
@@ -26,6 +54,25 @@
   "compensation": null,
   "tags": [],
   "excerpt": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Security Engineer based in Spain. As a Senior Security Engineer, you will take ownership of strengthening the security of a large-scale, cloud-based travel technology platform. You will conduct hands-on security assessments, penetration testing, and red-team exercises while defining and driving a comprehensive security strategy. Working across AWS and Google Cloud environments, you will identify vulnerabilities, prioritize risks, and collaborate with engineering teams to implement effective solutions. You will play a key role in protecting APIs, payment systems, customer data, and emerging AI-powered features against evolving cyber threats. This position combines technical execution with strategic responsibility, offering significant autonomy and direct collaboration with senior engineering leadership. You will join a fast-growing, international, remote-first environment where security is considered a core part of product quality and business success."
+ },
+ {
+  "id": "himalayas-ity-engineer",
+  "source": "himalayas",
+  "track": "core",
+  "title": "Senior Security Engineer",
+  "company": "Nuitée",
+  "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liech",
+  "employment": "Full Time",
+  "posted": "2026-11-25",
+  "url": "https://himalayas.app/companies/nuitee/jobs/senior-security-engineer?utm_source=api",
+  "compensation": null,
+  "tags": [
+   "Security-Engineer",
+   "Application-Security-Engineer",
+   "Cloud-Security-Engineer",
+   "Product-Security-Engineer"
+  ],
+  "excerpt": "About the company Nuitée is the API infrastructure powering travel, inside banks, AI assistants, airlines, loyalty programs and hotel brands."
  },
  {
   "id": "weworkremotely-2a704dfb74",
@@ -82,6 +129,48 @@
   "compensation": null,
   "tags": [],
   "excerpt": "Headquarters: Remote - Washington D.C. SLSQ427R14 Databricks has the most complete data & AI platform on the market. In the Public Sector, the hardest part isn't the technology - it's reaching the mission leaders who own the outcome and earning the right to reshape how they work. The Industry Executive is the senior, relationship-led operator who does exactly that: you use relationships you already hold at the C-suite and Senior leader level to open doors, establish trusted-advisor standing, and set the vision for what an Data&AI-driven transformation looks like. You win on relationships, judgment, and the ability to frame a transformation - not on running a traditional sales cycle. Responsibilities Implement a comprehensive strategy for growing the company's presence and impact in the Department of War. Establish trusted advisor status with LoB/functional leaders (e.g C-suite) by deeply understanding their key business outcomes and determining the most effective way to address those needs Develop deep, high-trust relationships at prospects and customers; read the organization to find the real sponsors and change agents Surface and prioritize the business problems worth solving, qu"
+ },
+ {
+  "id": "weworkremotely-3fbbc96698",
+  "source": "weworkremotely",
+  "track": "alt",
+  "title": "Certification Program Lead",
+  "company": "Datadog",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-25",
+  "url": "https://weworkremotely.com/remote-jobs/datadog-certification-program-lead",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote As Certification Program Lead, you will join the Customer Education and Training team and will take ownership of the strategy, execution, and expansion of our current certification initiatives. Your core mission will be to elevate the Datadog Certified practitioner program into the leading industry credential for individuals and enterprises across observability, security, and the diverse technical ecosystems that Datadog supports. What You'll Do Own program direction, roadmap, and long-term planning. Define growth targets for increasing practitioner and enterprise adoption. Manage the program budget and vendor relationships. Direct the production and publication of new exams, including maintenance and localization of existing content. Partner with engineering and product teams to keep certification criteria accurate as Datadog evolves. Work with Datadog Partner teams on the development and delivery of certification exams for the Datadog Partner Network. Envision, plan, and build promotion and engagement programs to recognize multiple-certified individuals. Empower the s"
+ },
+ {
+  "id": "weworkremotely-daa92c058f",
+  "source": "weworkremotely",
+  "track": "alt",
+  "title": "Director, RevOps Strategy & Operations",
+  "company": "Keeper Security",
+  "location": "Anywhere in the World",
+  "employment": "Full-Time",
+  "posted": "2026-11-25",
+  "url": "https://weworkremotely.com/remote-jobs/keeper-security-director-revops-strategy-operations",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "Headquarters: Remote, US Description Keeper Security is hiring an experienced and strategic Director, RevOps Strategy & Operations to lead revenue operations strategy and drive operational excellence across the organization. This role will optimize revenue processes, systems, forecasting, reporting, and performance management to support scalable growth and cross-functional alignment. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for overseeing day-to-day sales activities, inspiring achievement of sales targets, and ensuring our sales processes are optimized to drive growt About Keeper Keeper Security is one of the fastest-growing cybersecurity software companies that protects thousands of organizations and millions of people in over 150 countries. Keeper is a pioneer of zero-knowledge and zero-trust security built fo"
+ },
+ {
+  "id": "gofractional-k-grc-privacy-consultant-part-time-lever",
+  "source": "gofractional",
+  "track": "core",
+  "title": "Fractional GRC & Privacy Consultant",
+  "company": "Firework",
+  "location": "Remote; United States, US; US",
+  "employment": null,
+  "posted": "2026-11-25",
+  "url": "https://www.gofractional.com/job/lever-firework-grc-privacy-consultant-part-time-lever",
+  "compensation": null,
+  "tags": [],
+  "excerpt": "GRC & Privacy Consultant (Part-Time) Summary We are seeking an experienced GRC & Privacy Consultant to lead and manage our ongoing SOC 2, GDPR, and broader Governance, Risk, and Compliance (GRC) initiatives. This individual will be responsible for maintaining compliance programs, coordinating security and privacy assessments, managing regulatory requirements, and serving as a key point of contact for customer-facing security and compliance inquiries. The ideal candidate is a hands-on compliance professional who can independently manage day-to-day compliance activities, partner with internal technical and business teams, and support customer and contractual compliance requirements. What you'll be doing SOC 2 & Security Compliance Manage ongoing SOC 2 compliance activities, including audit readiness, evidence collection, and coordination with external auditors Conduct periodic access control reviews and vendor risk assessments Review, maintain, and update security and compliance policies Oversee data deletion processes to ensure alignment with applicable policies and regulatory requirements Coordinate incident response, disaster recovery, and business continuity tabletop exercises Ov"
  },
  {
   "id": "weworkremotely-ccb6802c3e",
