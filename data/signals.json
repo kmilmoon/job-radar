@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-27T04:55:16+00:00",
+ "generatedAt": "2026-11-27T13:13:15+00:00",
  "companies": [
   {
    "company": "n8n",
    "ats": "ashby",
    "slug": "n8n",
-   "openPostings": 77,
+   "openPostings": 76,
    "firstHire": [
     {
      "title": "Sr Security Engineer | Remote | Europe",
@@ -174,7 +174,7 @@
    "company": "Legora",
    "ats": "ashby",
    "slug": "legora",
-   "openPostings": 334,
+   "openPostings": 332,
    "firstHire": [
     {
      "title": "GRC Engineer",
@@ -339,7 +339,7 @@
    "company": "Contentsquare",
    "ats": "lever",
    "slug": "contentsquare",
-   "openPostings": 25,
+   "openPostings": 26,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -528,7 +528,7 @@
    "company": "Moss",
    "ats": "ashby",
    "slug": "moss",
-   "openPostings": 32,
+   "openPostings": 33,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": [
@@ -565,7 +565,7 @@
    "company": "Aufinity Group",
    "ats": "ashby",
    "slug": "aufinity-group",
-   "openPostings": 6,
+   "openPostings": 7,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -583,7 +583,7 @@
    "company": "Bitpanda",
    "ats": "greenhouse",
    "slug": "bitpanda",
-   "openPostings": 38,
+   "openPostings": 36,
    "firstHire": [
     {
      "title": "Senior Associate, Information Security",
@@ -648,7 +648,7 @@
    "company": "Pleo",
    "ats": "ashby",
    "slug": "pleo",
-   "openPostings": 32,
+   "openPostings": 30,
    "firstHire": [],
    "leaderHiring": [],
    "frameworks": []
@@ -755,7 +755,7 @@
    "company": "Exein",
    "ats": "greenhouse",
    "slug": "exeinspa",
-   "openPostings": 10,
+   "openPostings": 11,
    "firstHire": [
     {
      "title": "Linux Software Engineer - Systems & Security",
@@ -764,7 +764,32 @@
     }
    ],
    "leaderHiring": [],
-   "frameworks": []
+   "frameworks": [
+    {
+     "framework": "SOC 2",
+     "title": "Legal Manager – AI, Cybersecurity & Technology",
+     "posted": "2026-11-04",
+     "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5027231101"
+    },
+    {
+     "framework": "ISO 27001",
+     "title": "Legal Manager – AI, Cybersecurity & Technology",
+     "posted": "2026-11-04",
+     "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5027231101"
+    },
+    {
+     "framework": "DORA",
+     "title": "Legal Manager – AI, Cybersecurity & Technology",
+     "posted": "2026-11-04",
+     "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5027231101"
+    },
+    {
+     "framework": "NIS2",
+     "title": "Legal Manager – AI, Cybersecurity & Technology",
+     "posted": "2026-11-04",
+     "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5027231101"
+    }
+   ]
   },
   {
    "company": "Horizon3.ai",
@@ -1198,7 +1223,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "openPostings": 109,
+   "openPostings": 108,
    "firstHire": [
     {
      "title": "Infrastructure Security Engineer",
@@ -1255,7 +1280,7 @@
    "company": "Kong",
    "ats": "ashby",
    "slug": "kong",
-   "openPostings": 122,
+   "openPostings": 121,
    "firstHire": [
     {
      "title": "Senior Software Engineer (Security Champion), Runtimes",
@@ -1517,7 +1542,7 @@
    "company": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "openPostings": 390,
+   "openPostings": 389,
    "firstHire": [
     {
      "title": "Senior Product Security Engineer",
@@ -2218,7 +2243,7 @@
    "company": "Vultr",
    "ats": "ashby",
    "slug": "vultr",
-   "openPostings": 85,
+   "openPostings": 84,
    "firstHire": [
     {
      "title": "Senior Security Engineer",

@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T04:55:28+00:00",
+ "checked": "2026-11-27T13:13:41+00:00",
  "items": {
   "jobs/li-4488320305": {
    "status": "unknown",
@@ -231,8 +231,8 @@
   },
   "jobs/michaelpage-itsecmgr-valencia-7103331": {
    "status": "unknown",
-   "reason": "La página carga, pero no está claro si admite candidaturas",
-   "http": 200,
+   "reason": "La página respondió 403",
+   "http": 403,
    "url": "https://www.michaelpage.es/job-detail/it-security-manager-valencia-h%C3%ADbrido/ref/jn-092026-7103331"
   }
  }

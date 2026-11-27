@@ -1,5 +1,20 @@
 [
  {
+  "id": "ashby-elevenlabs-4aaebda4",
+  "company": "ElevenLabs",
+  "ats": "ashby",
+  "title": "Company Operations Lead",
+  "location": "London; United States; New York; United Kingdom",
+  "remote": true,
+  "workplace": "Remote",
+  "employment": "FullTime",
+  "posted": "2026-11-27",
+  "url": "https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb",
+  "compensation": null,
+  "excerpt": "ABOUT ELEVENLABS ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. - ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. HOW WE WORK - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. - Excellence everywhere: Everything we do should match the quality of our AI models. - Global team: We prioritize your talent, not your location. WHAT WE",
+  "track": "alt"
+ },
+ {
   "id": "ashby-tandem-health-0d88b233",
   "company": "Tandem Health",
   "ats": "ashby",
@@ -2280,6 +2295,21 @@
   "track": "core"
  },
  {
+  "id": "gh-exeinspa-5027231101",
+  "company": "Exein",
+  "ats": "greenhouse",
+  "title": "Legal Manager – AI, Cybersecurity & Technology",
+  "location": "Roma, Lazio, Italia",
+  "remote": null,
+  "workplace": null,
+  "employment": null,
+  "posted": "2026-11-04",
+  "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/5027231101",
+  "compensation": null,
+  "excerpt": "Legal Manager – AI, Cybersecurity & Technology About us The physical and digital worlds are merging. Vehicles, medical devices, industrial systems, critical infrastructure: security hasn't kept pace. AI is accelerating everything, from the capabilities of the systems we depend on to the sophistication of the threats targeting them. A software vulnerability can now have physical consequences. A physical breach can compromise entire digital ecosystems. Billions of devices operate with little to no protection, and traditional approaches can't keep up. Not at this scale, not at this speed, and not across this diversity of systems. Exein exists to solve this. We build the security layer for a world where physical and digital threats are no longer separate problems, from kernel-level runtime protection on embedded devices to cloud-native platforms that analyze, protect, and prove compliance across entire device fleets. We're not patching the old model. We're building security from the core out. The role We need a Legal Manager to build and run our legal function. You will report to the CFO and work directly with Product, Engineering, Security, Sales, and Leadership. We need someone who can shape our legal strategy and execute the daily work. What you’ll do Commercial & Product Negotiate and manage enterprise, technology, and SaaS agreements. Draft and review contracts with suppliers and strategic partners. Help Sales navigate customer negotiations, RFPs, and due diligence. Advise Product and Engineering on the legal side of AI, embedded systems, and cybersecurity products (including liability, warranties, and licensing). Handle intellectual property, software licensing, and technology ownership. Build the templates, playbooks, and processes to help us scale efficiently. Manag",
+  "track": "core"
+ },
+ {
   "id": "ashby-cursor-daa01e68",
   "company": "Cursor (Anysphere)",
   "ats": "ashby",
@@ -3454,7 +3484,7 @@
   "company": "n8n",
   "ats": "ashby",
   "title": "Sr Security Engineer | Remote | Europe",
-  "location": "Germany; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Austria; Finland; Montenegro; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
+  "location": "Germany; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Austria; Finland; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece",
   "remote": true,
   "workplace": "Remote",
   "employment": "FullTime",
@@ -4860,21 +4890,6 @@
   "track": "core"
  },
  {
-  "id": "ashby-harvey-7ef2c12e",
-  "company": "Harvey",
-  "ats": "ashby",
-  "title": "Privacy and AI Counsel, EMEA",
-  "location": "Dublin",
-  "remote": true,
-  "workplace": "Hybrid",
-  "employment": "FullTime",
-  "posted": "2026-09-09",
-  "url": "https://jobs.ashbyhq.com/harvey/7ef2c12e-dd17-4d8c-a445-bd4ebf559484",
-  "compensation": null,
-  "excerpt": "WHY HARVEY At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. ROLE OVERVIEW Harvey’s in‑house legal team is a global group of lawyers and legal professionals operating across multiple disciplines. As we expand across EMEA, we are looking for a privacy lawyer to join our growing legal team. You will play a key role, working directly with our Head of Privacy, in maintaining and promoting a culture of privacy and security within the organization. In this role you will collaborate closely with legal colleagues in the commercial team and our sales/ Go-To-Market team, advise the engineering and product teams to ensure that our business practices adhere ",
-  "track": "core"
- },
- {
   "id": "gh-coinbase-8175369",
   "company": "Coinbase",
   "ats": "greenhouse",
@@ -6027,21 +6042,6 @@
   "url": "https://www.coinbase.com/careers/positions/7930686?gh_jid=7930686",
   "compensation": null,
   "excerpt": "Ready to do the most impactful work of your career? Coinbase is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn’t a place for complacency. It’s a place to be pushed past your perceived limits and do the best work of your career. If you’re ready to build the future of finance with a championship team who refuse to settle for “good enough,” you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions As a Senior Software Engineer on the Risk Engineering team within the Consumer & Business group, you'll build and optimize the systems that detect and prevent fraud, manage credit and market risk, and protect millions of users from financial threats in real time at crypto-market scale. You'll provide technical leadership for end-to-end projects, drive architectural decisions that shape our risk detection and mitigation systems, and deliver complex features from inception through production. Your work directly reduces financial loss and keeps Coinbase users safe. What you'll do: Lead the design and delivery of complex risk platform features end-to-end, from architecture through implementation, deployment, and monitoring, with stringent requirements for correctness, performance, and reliability Drive architectural decisions that shape Coinbase's risk detection and mitigation systems, translating ambiguous business requirements into scalable working architectures that balance fraud prevention with user experience Partner cross-functionally with Data Science, ML, Risk A",
-  "track": "core"
- },
- {
-  "id": "gh-bitpanda-4867987101",
-  "company": "Bitpanda",
-  "ats": "greenhouse",
-  "title": "Specialist, Risk & Controls Assurance",
-  "location": "Vienna, Vienna, Austria",
-  "remote": null,
-  "workplace": null,
-  "employment": null,
-  "posted": "2026-06-05",
-  "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4867987101",
-  "compensation": null,
-  "excerpt": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works across different cultures and time zones, bringing our products to more than 7 million customers, making us one of Europe’s safest and most secure platforms that powers modern investing. Headquartered in Austria but operating across Europe, our products are built by fast-moving, talented, “roll-up-your-sleeves-and-make-it-happen” kind of people. It’s these diverse perspectives and innovative minds operating as ONE TEAM that keep Bitpanda at the cutting edge of our industry. So if you’re someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let’s go! Your Mission You’ll join Bitpanda’s Group Risk Management team as a hands-on Risk & Controls Specialist, responsible for delivering assurance across key business, operational, product, and finance processes. Reporting to the Group Head of Non-Financial Risk. You will drive control testing, continuous monitoring, issue remediation, and risk assessment activities, helping the business remain resilient, compliant, and audit-ready while strengthening risk and control practices. What You'll Do Execute risk-based control testing, including walkthroughs, sampling, evidence reviews, and effectiveness assessments across business, operational, product, and finance contro",
   "track": "core"
  },
  {
